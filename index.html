@@ -9,25 +9,25 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg:#0a1420;
-    --bg-elev:#0f2333;
-    --bg-elev-2:#16293a;
-    --border:#22364a;
+    --bg:#070f18;
+    --bg-elev:#0d2030;
+    --bg-elev-2:#142736;
+    --border:#203446;
     --text:#eef1f5;
     --text-dim:#9fb0c0;
-    --accent:#d4af37;
-    --accent-2:#a8791f;
-    --accent-soft:rgba(212,175,55,0.15);
+    --accent:#cda23c;
+    --accent-2:#96691a;
+    --accent-soft:rgba(205,162,60,0.15);
     --accent-ink:#0a1420;
     --danger:#e0566a;
     --radius:14px;
     --shadow:0 16px 40px rgba(0,0,0,0.5), 0 2px 8px rgba(0,0,0,0.3);
-    --shadow-glow:0 4px 20px rgba(212,175,55,0.18);
+    --shadow-glow:0 4px 20px rgba(205,162,60,0.18);
     --font-serif:'Playfair Display',Georgia,'Times New Roman',serif;
     color-scheme: dark;
   }
   @media (prefers-color-scheme: light){
-    :root{
+    :root:not([data-theme]){
       --bg:#f7f3e8;
       --bg-elev:#ffffff;
       --bg-elev-2:#f0ead9;
@@ -43,11 +43,26 @@
       color-scheme: light;
     }
   }
+  :root[data-theme="light"]{
+    --bg:#f7f3e8;
+    --bg-elev:#ffffff;
+    --bg-elev-2:#f0ead9;
+    --border:#e3d9bf;
+    --text:#0a1420;
+    --text-dim:#5b6472;
+    --accent:#b8860b;
+    --accent-2:#8a6508;
+    --accent-soft:rgba(184,134,11,0.12);
+    --accent-ink:#ffffff;
+    --shadow:0 16px 40px rgba(20,20,40,0.1), 0 2px 8px rgba(20,20,40,0.05);
+    --shadow-glow:0 4px 20px rgba(184,134,11,0.12);
+    color-scheme: light;
+  }
   *{box-sizing:border-box;}
   html,body{margin:0;padding:0;}
   body{
     background:
-      radial-gradient(ellipse 1200px 600px at 50% -10%, rgba(212,175,55,0.06), transparent),
+      radial-gradient(ellipse 1200px 600px at 50% -10%, rgba(205,162,60,0.06), transparent),
       var(--bg);
     color:var(--text);
     font-family:'Inter',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif;
@@ -74,14 +89,15 @@
     position:sticky;
     top:0;
     z-index:100;
-    background:rgba(10,20,32,0.85);
+    background:rgba(7,15,24,0.85);
     backdrop-filter:blur(14px);
     border-bottom:1px solid var(--border);
-    box-shadow:inset 0 -1px 0 rgba(212,175,55,0.15);
+    box-shadow:inset 0 -1px 0 rgba(205,162,60,0.15);
   }
   @media (prefers-color-scheme: light){
-    header.site-header{background:rgba(247,243,232,0.85);box-shadow:inset 0 -1px 0 rgba(184,134,11,0.15);}
+    :root:not([data-theme]) header.site-header{background:rgba(247,243,232,0.85);box-shadow:inset 0 -1px 0 rgba(184,134,11,0.15);}
   }
+  :root[data-theme="light"] header.site-header{background:rgba(247,243,232,0.85);box-shadow:inset 0 -1px 0 rgba(184,134,11,0.15);}
   .header-inner{
     display:flex;
     align-items:center;
@@ -101,7 +117,7 @@
     border-radius:6px;
     background:var(--bg);
     border:1px solid var(--accent);
-    box-shadow:inset 0 0 0 1px rgba(212,175,55,0.25), 0 0 0 4px rgba(212,175,55,0.05);
+    box-shadow:inset 0 0 0 1px rgba(205,162,60,0.25), 0 0 0 4px rgba(205,162,60,0.05);
     display:flex;align-items:center;justify-content:center;
     color:var(--accent);font-family:var(--font-serif);font-weight:700;font-size:16px;letter-spacing:0.5px;
   }
@@ -138,6 +154,39 @@
     box-shadow:var(--shadow-glow);
   }
   .login-btn svg{width:16px;height:16px;}
+
+  .header-actions{
+    display:flex;
+    align-items:center;
+    gap:12px;
+  }
+  .theme-toggle-btn{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    width:38px;height:38px;
+    flex:0 0 auto;
+    background:transparent;
+    border:1px solid var(--border);
+    border-radius:50%;
+    color:var(--text-dim);
+    cursor:pointer;
+    transition:background .2s,border-color .2s,box-shadow .2s,color .2s;
+  }
+  .theme-toggle-btn:hover{
+    background:var(--accent-soft);
+    border-color:var(--accent);
+    color:var(--accent);
+    box-shadow:var(--shadow-glow);
+  }
+  .theme-toggle-btn svg{width:18px;height:18px;}
+  .theme-toggle-btn .icon-moon{display:none;}
+  :root[data-theme="light"] .theme-toggle-btn .icon-sun{display:none;}
+  :root[data-theme="light"] .theme-toggle-btn .icon-moon{display:block;}
+  @media (prefers-color-scheme: light){
+    :root:not([data-theme]) .theme-toggle-btn .icon-sun{display:none;}
+    :root:not([data-theme]) .theme-toggle-btn .icon-moon{display:block;}
+  }
 
   main{padding-bottom:80px;}
 
@@ -415,6 +464,9 @@
   .tag-art{background:rgba(156,122,184,0.18);color:#9c7ab8;}
   .tag-sports{background:rgba(127,174,127,0.18);color:#7fae7f;}
   .tag-community{background:rgba(122,147,184,0.18);color:#7a93b8;}
+  .tag-trips{background:rgba(94,180,214,0.18);color:#5eb4d6;}
+  .tag-tournament{background:rgba(214,141,66,0.18);color:#d68d42;}
+  .tag-nightlife{background:rgba(196,102,168,0.18);color:#c466a8;}
 
   /* ---------- Module 3: Event list ---------- */
   .cards-grid{
@@ -503,6 +555,68 @@
     color:var(--text-dim);
   }
 
+  /* ---------- Data warning banner ---------- */
+  .data-warning-banner{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:12px;
+    margin-top:24px;
+    padding:12px 18px;
+    background:rgba(224,86,106,0.1);
+    border:1px solid rgba(224,86,106,0.35);
+    border-radius:10px;
+    color:var(--danger);
+    font-size:13px;
+  }
+  .data-warning-banner[hidden]{display:none;}
+  .data-warning-close{
+    flex:0 0 auto;
+    width:22px;height:22px;
+    border-radius:50%;
+    border:none;
+    background:transparent;
+    color:var(--danger);
+    cursor:pointer;
+    font-size:15px;
+    line-height:1;
+    display:flex;align-items:center;justify-content:center;
+    transition:background .2s;
+  }
+  .data-warning-close:hover{background:rgba(224,86,106,0.15);}
+
+  /* ---------- Toasts ---------- */
+  .toast-container{
+    position:fixed;
+    bottom:24px;
+    right:24px;
+    z-index:2000;
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    pointer-events:none;
+  }
+  .toast{
+    pointer-events:auto;
+    background:var(--bg-elev);
+    border:1px solid var(--border);
+    color:var(--text);
+    padding:12px 18px;
+    border-radius:10px;
+    font-size:13px;
+    box-shadow:var(--shadow);
+    max-width:320px;
+    cursor:pointer;
+    opacity:0;
+    transform:translateY(8px);
+    transition:opacity .2s ease, transform .2s ease;
+  }
+  .toast.show{opacity:1;transform:translateY(0);}
+  @media (max-width:480px){
+    .toast-container{left:16px;right:16px;bottom:16px;}
+    .toast{max-width:none;}
+  }
+
   /* ---------- Footer ---------- */
   footer.site-footer{
     border-top:1px solid var(--border);
@@ -582,7 +696,7 @@
     border-radius:18px;
     max-width:480px;
     width:100%;
-    box-shadow:var(--shadow), 0 0 0 1px rgba(212,175,55,0.08);
+    box-shadow:var(--shadow), 0 0 0 1px rgba(205,162,60,0.08);
     overflow:hidden;
   }
   .modal-banner{
@@ -665,14 +779,25 @@
       <div class="brand-mark">MD</div>
       <div class="brand-name">EventBoard<small>DISCOVER &amp; ATTEND</small></div>
     </div>
-    <button class="login-btn" id="loginBtn" aria-label="Login">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
-      <span>Log in</span>
-    </button>
+    <div class="header-actions">
+      <button class="theme-toggle-btn" id="themeToggleBtn" aria-label="Switch to light theme">
+        <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+        <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+      </button>
+      <button class="login-btn" id="loginBtn" aria-label="Login">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+        <span>Log in</span>
+      </button>
+    </div>
   </div>
 </header>
 
 <main class="container">
+
+  <div class="data-warning-banner" id="dataWarningBanner" hidden>
+    <span id="dataWarningText"></span>
+    <button class="data-warning-close" id="dataWarningClose" aria-label="Dismiss">&times;</button>
+  </div>
 
   <!-- Module 1: Filters & Sorting -->
   <section class="module" id="module-filters">
@@ -702,8 +827,8 @@
           <button id="tlNext" aria-label="Next">&#8250;</button>
         </div>
         <div class="view-toggle" id="tlViewToggle">
-          <button data-view="day">Day</button>
-          <button class="active" data-view="week">Week</button>
+          <button class="active" data-view="day">Day</button>
+          <button data-view="week">Week</button>
           <button data-view="year">Year</button>
         </div>
       </div>
@@ -733,9 +858,8 @@
     <div class="footer-col">
       <h4>Contacts</h4>
       <ul>
-        <li><a href="mailto:hello@eventboard.io">hello@eventboard.io</a></li>
-        <li><a href="tel:+15551234567">+1 (555) 123-4567</a></li>
-        <li><a href="#">123 Market St, Suite 400</a></li>
+        <li><a href="mailto:maximdenisuk34@gmail.com">maximdenisuk34@gmail.com</a></li>
+        <li><a href="tel:+351921455275">+351 921 455 275</a></li>
       </ul>
     </div>
     <div class="footer-col">
@@ -743,7 +867,6 @@
       <ul>
         <li><a href="#">Free plan</a></li>
         <li><a href="#">Pro — organizers</a></li>
-        <li><a href="#">Enterprise</a></li>
       </ul>
     </div>
     <div class="footer-col">
@@ -781,36 +904,90 @@
   </div>
 </div>
 
+<div class="toast-container" id="toastContainer"></div>
+
 <script>
 (function(){
-  // ---------- Mock data ----------
   const today = new Date();
-  function d(offsetDays, hour){
-    const dt = new Date(today);
-    dt.setHours(hour || 10, 0, 0, 0);
-    dt.setDate(dt.getDate() + offsetDays);
-    return dt;
+
+  // ---------- Data loading ----------
+  let events = [];
+  let tagLabels = {};
+
+  function validateEvent(raw){
+    const required = ['id','name','tag','date','location','price','description'];
+    for(const field of required){
+      if(raw[field] === undefined || raw[field] === null || raw[field] === ''){
+        return {ok:false, reason:`missing "${field}"`};
+      }
+    }
+    const parsedDate = new Date(raw.date);
+    if(isNaN(parsedDate.getTime())){
+      return {ok:false, reason:'unparseable date'};
+    }
+    return {ok:true, event:{...raw, date:parsedDate}};
   }
 
-  const events = [
-    {id:1, name:"React Summit Meetup", tag:"tech", date:d(0,9), location:"Downtown Tech Hub", price:"Free", desc:"A community meetup covering the latest in React, hooks, and server components. Networking session follows the talks."},
-    {id:2, name:"Indie Rock Night", tag:"music", date:d(1,20), location:"The Underground Club", price:"$18", desc:"Live sets from four local indie rock bands. Doors open at 7, first act at 8."},
-    {id:3, name:"Startup Pitch Day", tag:"business", date:d(2,13), location:"Innovation Center", price:"$40", desc:"Early-stage founders pitch to a panel of investors. Open to the public for the afternoon sessions."},
-    {id:4, name:"Modern Art Exhibition", tag:"art", date:d(2,11), location:"City Gallery", price:"$12", desc:"A curated exhibition of contemporary painters from the region, running through the month."},
-    {id:5, name:"City 10K Run", tag:"sports", date:d(3,8), location:"Riverside Park", price:"$25", desc:"Annual charity run through the riverside trail. All proceeds go to local youth programs."},
-    {id:6, name:"Neighborhood Cleanup", tag:"community", date:d(3,10), location:"Maple Street Park", price:"Free", desc:"Join neighbors for a morning of cleaning up the local park. Gloves and bags provided."},
-    {id:7, name:"AI & Ethics Panel", tag:"tech", date:d(4,17), location:"University Auditorium", price:"$15", desc:"A panel of researchers and practitioners discuss the ethical challenges of deploying AI at scale."},
-    {id:8, name:"Jazz in the Park", tag:"music", date:d(5,18), location:"Central Park Bandshell", price:"Free", desc:"Free open-air jazz concert featuring the city quartet and guest vocalists."},
-    {id:9, name:"Founders Breakfast", tag:"business", date:d(5,8), location:"The Roastery", price:"$20", desc:"Casual breakfast meetup for early-stage founders to swap notes and find collaborators."},
-    {id:10, name:"Watercolor Workshop", tag:"art", date:d(6,14), location:"Community Art Studio", price:"$35", desc:"Hands-on workshop for beginners, all materials included. Limited to 20 seats."},
-    {id:11, name:"Weekend Basketball League", tag:"sports", date:d(7,9), location:"Eastside Gym", price:"$10", desc:"Pickup league finals — come cheer on the neighborhood teams."},
-    {id:12, name:"Food Bank Volunteer Day", tag:"community", date:d(8,9), location:"Community Food Bank", price:"Free", desc:"Volunteers needed to sort and pack donations for weekly distribution."},
-    {id:13, name:"DevOps Conference", tag:"tech", date:d(9,9), location:"Convention Center Hall B", price:"$120", desc:"Full-day conference on CI/CD, observability, and platform engineering."},
-    {id:14, name:"Acoustic Sessions", tag:"music", date:d(10,19), location:"Riverside Cafe", price:"$22", desc:"Intimate acoustic performances from up-and-coming singer-songwriters."},
-    {id:15, name:"Product Leaders Roundtable", tag:"business", date:d(11,12), location:"The Loft", price:"$60", desc:"Invite-only roundtable discussion for senior product leaders in the region."},
-  ];
+  async function loadEvents(){
+    try{
+      const response = await fetch('Storage/events.json');
+      if(!response.ok) throw new Error(`fetch failed with status ${response.status}`);
+      const data = await response.json();
+      if(!data || typeof data.tags !== 'object' || !Array.isArray(data.events)){
+        throw new Error('unexpected events.json shape');
+      }
+      tagLabels = data.tags;
 
-  const tagLabels = {tech:"Tech",music:"Music",business:"Business",art:"Art",sports:"Sports",community:"Community"};
+      let invalidCount = 0;
+      events = data.events.reduce((acc, raw) => {
+        const result = validateEvent(raw);
+        if(result.ok){
+          acc.push(result.event);
+        } else {
+          invalidCount++;
+          console.warn(`Skipping invalid event (id: ${raw && raw.id}): ${result.reason}`);
+        }
+        return acc;
+      }, []);
+
+      if(invalidCount > 0) showDataWarning(invalidCount);
+    } catch(err){
+      console.error('Failed to load Storage/events.json:', err);
+      events = [];
+      tagLabels = {};
+    }
+  }
+
+  function getTagLabel(tag){
+    return tagLabels[tag] || (tag.charAt(0).toUpperCase() + tag.slice(1));
+  }
+
+  // ---------- Data warning banner ----------
+  const dataWarningBanner = document.getElementById('dataWarningBanner');
+  const dataWarningText = document.getElementById('dataWarningText');
+  function showDataWarning(count){
+    dataWarningText.textContent = `${count} event${count === 1 ? '' : 's'} couldn't be displayed due to invalid data.`;
+    dataWarningBanner.hidden = false;
+  }
+  document.getElementById('dataWarningClose').addEventListener('click', () => {
+    dataWarningBanner.hidden = true;
+  });
+
+  // ---------- Toasts ----------
+  const toastContainer = document.getElementById('toastContainer');
+  function showToast(message){
+    const toast = document.createElement('div');
+    toast.className = 'toast';
+    toast.textContent = message;
+    toastContainer.appendChild(toast);
+    requestAnimationFrame(() => toast.classList.add('show'));
+    const remove = () => {
+      toast.classList.remove('show');
+      setTimeout(() => toast.remove(), 200);
+    };
+    toast.addEventListener('click', remove);
+    setTimeout(remove, 3500);
+  }
 
   // ---------- Date helpers ----------
   function startOfDay(date){
@@ -846,8 +1023,8 @@
     tag: "all",
     search: "",
     sort: "date-asc",
-    view: "week",
-    rangeStart: defaultRangeStart("week")
+    view: "day",
+    rangeStart: defaultRangeStart("day")
   };
 
   const RANGE_DAYS = { day: 30, week: 28, year: 365 };
@@ -883,16 +1060,16 @@
 
   // build the tag chips from whatever tags actually appear in the events data
   function buildTagFilters(){
+    tagFilters.querySelectorAll('.chip:not([data-tag="all"])').forEach(c => c.remove());
     const uniqueTags = [...new Set(events.map(e => e.tag))];
     uniqueTags.forEach(tag => {
       const btn = document.createElement('button');
       btn.className = 'chip';
       btn.dataset.tag = tag;
-      btn.textContent = tagLabels[tag] || (tag.charAt(0).toUpperCase() + tag.slice(1));
+      btn.textContent = getTagLabel(tag);
       tagFilters.appendChild(btn);
     });
   }
-  buildTagFilters();
 
   tagFilters.addEventListener('click', (e) => {
     const btn = e.target.closest('.chip');
@@ -1026,7 +1203,7 @@
           row.innerHTML = `
             <div class="tl-ev-top">
               <span class="tl-ev-name">${escapeHtml(ev.name)}</span>
-              <span class="tag-pill tl-ev-tag tag-${ev.tag}">${tagLabels[ev.tag]}</span>
+              <span class="tag-pill tl-ev-tag tag-${ev.tag}">${escapeHtml(getTagLabel(ev.tag))}</span>
             </div>
             <span class="tl-ev-price">${escapeHtml(ev.price)}</span>`;
           row.addEventListener('click', () => openModal(ev));
@@ -1053,7 +1230,7 @@
 
   function renderCards(){
     const filtered = getFilteredEvents();
-    listTitle.textContent = state.tag === 'all' ? 'All Events' : tagLabels[state.tag] + ' Events';
+    listTitle.textContent = state.tag === 'all' ? 'All Events' : getTagLabel(state.tag) + ' Events';
     cardsGrid.innerHTML = '';
     if(filtered.length === 0){
       cardsGrid.innerHTML = '<div class="empty-state">No events match your filters. Try adjusting search or tags.</div>';
@@ -1071,7 +1248,7 @@
           <div class="event-card-date">${fmtDate(e.date)} &middot; ${fmtTime(e.date)}</div>
           <div class="event-card-meta">${escapeHtml(e.location)}</div>
           <div class="event-card-tags">
-            <span class="tag-pill tag-${e.tag}">${tagLabels[e.tag]}</span>
+            <span class="tag-pill tag-${e.tag}">${escapeHtml(getTagLabel(e.tag))}</span>
           </div>
         </div>`;
       card.addEventListener('click', () => openModal(e));
@@ -1081,13 +1258,16 @@
 
   // ---------- Modal ----------
   const modalOverlay = document.getElementById('modalOverlay');
+  const modalVisitLink = document.getElementById('modalVisitLink');
+  let currentEvent = null;
   function openModal(e){
+    currentEvent = e;
     document.getElementById('modalTitle').textContent = e.name;
     document.getElementById('modalDate').textContent = '📅 ' + fmtDate(e.date) + ' · ' + fmtTime(e.date);
     document.getElementById('modalLocation').textContent = '📍 ' + e.location;
-    document.getElementById('modalDesc').textContent = e.desc;
-    document.getElementById('modalTags').innerHTML = `<span class="tag-pill tag-${e.tag}">${tagLabels[e.tag]}</span>`;
-    document.getElementById('modalVisitLink').href = `https://eventboard.io/events/${e.id}`;
+    document.getElementById('modalDesc').textContent = e.description;
+    document.getElementById('modalTags').innerHTML = `<span class="tag-pill tag-${e.tag}">${escapeHtml(getTagLabel(e.tag))}</span>`;
+    modalVisitLink.href = e.url || '#';
     modalOverlay.classList.add('open');
   }
   function closeModal(){ modalOverlay.classList.remove('open'); }
@@ -1095,10 +1275,44 @@
   document.getElementById('modalCloseBtn').addEventListener('click', closeModal);
   modalOverlay.addEventListener('click', (e) => { if(e.target === modalOverlay) closeModal(); });
   document.addEventListener('keydown', (e) => { if(e.key === 'Escape') closeModal(); });
+  modalVisitLink.addEventListener('click', (e) => {
+    if(!currentEvent || !currentEvent.url){
+      e.preventDefault();
+      showToast('No ticket link available for this event.');
+    }
+  });
 
   // ---------- Login button (placeholder) ----------
   document.getElementById('loginBtn').addEventListener('click', () => {
     alert('Login flow would open here.');
+  });
+
+  // ---------- Theme toggle ----------
+  const THEME_KEY = 'eventboard-theme';
+  const root = document.documentElement;
+  const themeToggleBtn = document.getElementById('themeToggleBtn');
+
+  function effectiveTheme(){
+    const forced = root.getAttribute('data-theme');
+    if(forced) return forced;
+    return window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+  }
+  function updateThemeToggleLabel(){
+    const isLight = effectiveTheme() === 'light';
+    themeToggleBtn.setAttribute('aria-label', isLight ? 'Switch to dark theme' : 'Switch to light theme');
+  }
+
+  const storedTheme = localStorage.getItem(THEME_KEY);
+  if(storedTheme === 'light' || storedTheme === 'dark'){
+    root.setAttribute('data-theme', storedTheme);
+  }
+  updateThemeToggleLabel();
+
+  themeToggleBtn.addEventListener('click', () => {
+    const next = effectiveTheme() === 'dark' ? 'light' : 'dark';
+    root.setAttribute('data-theme', next);
+    localStorage.setItem(THEME_KEY, next);
+    updateThemeToggleLabel();
   });
 
   function escapeHtml(str){
@@ -1110,7 +1324,13 @@
     renderCards();
   }
 
-  render();
+  async function init(){
+    cardsGrid.innerHTML = '<div class="empty-state">Loading events…</div>';
+    await loadEvents();
+    buildTagFilters();
+    render();
+  }
+  init();
 })();
 </script>
 
