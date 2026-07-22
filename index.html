@@ -1,0 +1,1047 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>EventBoard</title>
+<style>
+  :root{
+    --bg:#0f1115;
+    --bg-elev:#161922;
+    --bg-elev-2:#1e2230;
+    --border:#2a2f3d;
+    --text:#e9ebf2;
+    --text-dim:#9aa0b4;
+    --accent:#6c8cff;
+    --accent-2:#8f6cff;
+    --accent-soft:rgba(108,140,255,0.15);
+    --danger:#ff6c8c;
+    --radius:12px;
+    --shadow:0 8px 24px rgba(0,0,0,0.35);
+    color-scheme: dark;
+  }
+  @media (prefers-color-scheme: light){
+    :root{
+      --bg:#f5f6fa;
+      --bg-elev:#ffffff;
+      --bg-elev-2:#eef0f6;
+      --border:#dfe2ea;
+      --text:#1a1d29;
+      --text-dim:#666c81;
+      --accent:#4a6cf7;
+      --accent-2:#7a4af7;
+      --accent-soft:rgba(74,108,247,0.1);
+      --shadow:0 8px 24px rgba(20,20,40,0.08);
+      color-scheme: light;
+    }
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--bg);
+    color:var(--text);
+    font-family:'Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif;
+    line-height:1.4;
+  }
+  a{color:inherit;text-decoration:none;}
+  button{font-family:inherit;}
+
+  .container{
+    max-width:1200px;
+    margin:0 auto;
+    padding:0 24px;
+  }
+
+  /* ---------- Header ---------- */
+  header.site-header{
+    position:sticky;
+    top:0;
+    z-index:100;
+    background:rgba(15,17,21,0.85);
+    backdrop-filter:blur(10px);
+    border-bottom:1px solid var(--border);
+  }
+  @media (prefers-color-scheme: light){
+    header.site-header{background:rgba(245,246,250,0.85);}
+  }
+  .header-inner{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:16px 24px;
+  }
+  .brand{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    font-weight:700;
+    font-size:20px;
+    letter-spacing:0.3px;
+  }
+  .brand-mark{
+    width:36px;height:36px;
+    border-radius:10px;
+    background:linear-gradient(135deg,var(--accent),var(--accent-2));
+    display:flex;align-items:center;justify-content:center;
+    color:#fff;font-weight:800;font-size:15px;
+  }
+  .brand-name{
+    display:flex;flex-direction:column;line-height:1.1;
+  }
+  .brand-name small{
+    font-weight:400;
+    font-size:11px;
+    color:var(--text-dim);
+    letter-spacing:1px;
+  }
+  .login-btn{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    background:var(--bg-elev-2);
+    border:1px solid var(--border);
+    color:var(--text);
+    padding:8px 16px;
+    border-radius:999px;
+    cursor:pointer;
+    font-size:14px;
+    transition:background .15s,border-color .15s;
+  }
+  .login-btn:hover{
+    background:var(--accent-soft);
+    border-color:var(--accent);
+  }
+  .login-btn svg{width:18px;height:18px;}
+
+  main{padding-bottom:60px;}
+
+  .module{
+    margin-top:28px;
+  }
+  .module-title{
+    font-size:13px;
+    font-weight:700;
+    text-transform:uppercase;
+    letter-spacing:1px;
+    color:var(--text-dim);
+    margin-bottom:12px;
+  }
+
+  /* ---------- Module 1: Filters & sorting ---------- */
+  .filters-bar{
+    display:flex;
+    flex-wrap:wrap;
+    align-items:center;
+    gap:12px;
+    background:var(--bg-elev);
+    border:1px solid var(--border);
+    border-radius:var(--radius);
+    padding:14px 16px;
+  }
+  .filter-group{
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+  }
+  .chip{
+    padding:7px 14px;
+    border-radius:999px;
+    border:1px solid var(--border);
+    background:var(--bg-elev-2);
+    color:var(--text-dim);
+    font-size:13px;
+    cursor:pointer;
+    transition:all .15s;
+    white-space:nowrap;
+  }
+  .chip:hover{border-color:var(--accent);color:var(--text);}
+  .chip.active{
+    background:var(--accent-soft);
+    border-color:var(--accent);
+    color:var(--accent);
+    font-weight:600;
+  }
+  .search-input{
+    flex:1;
+    min-width:160px;
+    background:var(--bg-elev-2);
+    border:1px solid var(--border);
+    color:var(--text);
+    padding:8px 14px;
+    border-radius:999px;
+    font-size:13px;
+    outline:none;
+  }
+  .search-input:focus{border-color:var(--accent);}
+  .search-input::placeholder{color:var(--text-dim);}
+
+  .sort-wrap{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    margin-left:auto;
+  }
+  .sort-label{font-size:12px;color:var(--text-dim);}
+  .sort-select{
+    background:var(--bg-elev-2);
+    border:1px solid var(--border);
+    color:var(--text);
+    padding:7px 12px;
+    border-radius:8px;
+    font-size:13px;
+    cursor:pointer;
+    outline:none;
+  }
+  .divider-v{
+    width:1px;height:24px;background:var(--border);
+  }
+
+  /* ---------- Module 2: Timeline ---------- */
+  .timeline-card{
+    background:var(--bg-elev);
+    border:1px solid var(--border);
+    border-radius:var(--radius);
+    padding:20px;
+  }
+  .timeline-head{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    margin-bottom:24px;
+    flex-wrap:wrap;
+    gap:12px;
+  }
+  .view-toggle{
+    display:flex;
+    background:var(--bg-elev-2);
+    border:1px solid var(--border);
+    border-radius:999px;
+    padding:3px;
+  }
+  .view-toggle button{
+    border:none;
+    background:transparent;
+    color:var(--text-dim);
+    padding:6px 16px;
+    border-radius:999px;
+    font-size:13px;
+    cursor:pointer;
+    transition:all .15s;
+  }
+  .view-toggle button.active{
+    background:linear-gradient(135deg,var(--accent),var(--accent-2));
+    color:#fff;
+    font-weight:600;
+  }
+  .timeline-nav{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    font-size:14px;
+    font-weight:600;
+  }
+  .timeline-nav button{
+    width:28px;height:28px;
+    border-radius:50%;
+    border:1px solid var(--border);
+    background:var(--bg-elev-2);
+    color:var(--text);
+    cursor:pointer;
+    display:flex;align-items:center;justify-content:center;
+  }
+  .timeline-nav button:hover{border-color:var(--accent);}
+
+  .timeline-track-wrap{
+    position:relative;
+    overflow-x:auto;
+    padding:10px 0 10px 0;
+  }
+  .timeline-track{
+    position:relative;
+  }
+  .timeline-line{
+    position:absolute;
+    top:26px;
+    left:0;right:0;
+    height:2px;
+    background:var(--border);
+  }
+  .timeline-slots{
+    display:flex;
+    align-items:flex-start;
+  }
+  .timeline-slot{
+    flex:1;
+    min-width:0;
+    position:relative;
+    border-left:1px dashed var(--border);
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    padding-bottom:16px;
+  }
+  .timeline-slot:first-child{border-left:none;}
+  .slot-head{
+    height:34px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:flex-end;
+    gap:6px;
+  }
+  .slot-label{
+    font-size:11px;
+    color:var(--text-dim);
+    white-space:nowrap;
+  }
+  .slot-dot{
+    width:8px;height:8px;
+    border-radius:50%;
+    background:var(--border);
+  }
+  .slot-dot.has-events{
+    background:var(--accent);
+  }
+
+  .tl-slot-card{
+    margin-top:10px;
+    width:100%;
+    max-width:260px;
+    background:var(--bg-elev-2);
+    border:1px solid var(--border);
+    border-radius:8px;
+    padding:6px;
+    box-shadow:var(--shadow);
+    display:flex;
+    flex-direction:column;
+    gap:4px;
+    overflow:hidden;
+  }
+  .tl-card-row{
+    display:flex;
+    flex-direction:column;
+    gap:2px;
+    padding:6px 8px;
+    border-radius:6px;
+    cursor:pointer;
+    transition:background .15s;
+  }
+  .tl-card-row:hover{
+    background:var(--accent-soft);
+  }
+  .timeline-track.view-day .tl-slot-card{
+    width:calc(100% - 10px);
+  }
+  .tl-ev-top{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:8px;
+    min-width:0;
+  }
+  .tl-ev-name{
+    font-size:12px;
+    font-weight:600;
+    flex:1 1 auto;
+    min-width:0;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+    text-align:left;
+  }
+  .tl-ev-tag{
+    font-size:10px;
+    padding:2px 8px;
+    flex:0 0 auto;
+  }
+  .tl-ev-price{
+    font-size:11px;
+    color:var(--text-dim);
+    font-weight:600;
+    text-align:right;
+  }
+  .timeline-empty{
+    padding:60px 0 20px;
+    text-align:center;
+    color:var(--text-dim);
+    font-size:13px;
+  }
+
+  /* tag colors */
+  .tag-tech{background:rgba(108,140,255,0.18);color:#8fa4ff;}
+  .tag-music{background:rgba(255,108,140,0.18);color:#ff8fa8;}
+  .tag-business{background:rgba(255,190,90,0.18);color:#ffcd7a;}
+  .tag-art{background:rgba(143,108,255,0.18);color:#b39dff;}
+  .tag-sports{background:rgba(90,220,160,0.18);color:#7be0b0;}
+  .tag-community{background:rgba(90,200,255,0.18);color:#7fd6ff;}
+
+  /* ---------- Module 3: Event list ---------- */
+  .cards-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(280px,1fr));
+    gap:16px;
+  }
+  .event-card{
+    background:var(--bg-elev);
+    border:1px solid var(--border);
+    border-radius:var(--radius);
+    overflow:hidden;
+    cursor:pointer;
+    transition:transform .15s, border-color .15s, box-shadow .15s;
+    display:flex;
+    flex-direction:column;
+  }
+  .event-card:hover{
+    transform:translateY(-3px);
+    border-color:var(--accent);
+    box-shadow:var(--shadow);
+  }
+  .event-card-banner{
+    height:90px;
+    background:linear-gradient(135deg,var(--accent),var(--accent-2));
+    opacity:0.85;
+  }
+  .event-card-body{
+    padding:16px;
+    display:flex;
+    flex-direction:column;
+    gap:8px;
+    flex:1;
+  }
+  .event-card-top{
+    display:flex;
+    align-items:flex-start;
+    justify-content:space-between;
+    gap:8px;
+  }
+  .event-card-title{
+    font-size:15px;
+    font-weight:700;
+  }
+  .event-card-date{
+    font-size:12px;
+    color:var(--text-dim);
+    white-space:nowrap;
+  }
+  .event-card-meta{
+    font-size:13px;
+    color:var(--text-dim);
+    display:flex;
+    align-items:center;
+    gap:6px;
+  }
+  .event-card-tags{
+    margin-top:auto;
+    display:flex;
+    gap:6px;
+    flex-wrap:wrap;
+    padding-top:6px;
+  }
+  .tag-pill{
+    font-size:11px;
+    font-weight:600;
+    padding:3px 10px;
+    border-radius:999px;
+  }
+  .empty-state{
+    grid-column:1/-1;
+    text-align:center;
+    padding:60px 20px;
+    color:var(--text-dim);
+  }
+
+  /* ---------- Footer ---------- */
+  footer.site-footer{
+    border-top:1px solid var(--border);
+    background:var(--bg-elev);
+    margin-top:60px;
+  }
+  .footer-inner{
+    display:grid;
+    grid-template-columns:1.4fr 1fr 1fr 1fr;
+    gap:32px;
+    padding:44px 24px 28px;
+  }
+  .footer-col h4{
+    font-size:13px;
+    text-transform:uppercase;
+    letter-spacing:1px;
+    color:var(--text-dim);
+    margin:0 0 14px 0;
+  }
+  .footer-col p{
+    color:var(--text-dim);
+    font-size:13px;
+    margin:0 0 12px 0;
+  }
+  .footer-col ul{
+    list-style:none;
+    margin:0;padding:0;
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+  }
+  .footer-col a{
+    font-size:13px;
+    color:var(--text-dim);
+    transition:color .15s;
+  }
+  .footer-col a:hover{color:var(--accent);}
+  .footer-bottom{
+    border-top:1px solid var(--border);
+    padding:18px 24px;
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:10px;
+    font-size:12px;
+    color:var(--text-dim);
+  }
+  .footer-brand{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    margin-bottom:14px;
+  }
+
+  /* ---------- Modal ---------- */
+  .modal-overlay{
+    position:fixed;inset:0;
+    background:rgba(0,0,0,0.55);
+    display:none;
+    align-items:center;
+    justify-content:center;
+    z-index:1000;
+    padding:20px;
+  }
+  .modal-overlay.open{display:flex;}
+  .modal{
+    background:var(--bg-elev);
+    border:1px solid var(--border);
+    border-radius:16px;
+    max-width:480px;
+    width:100%;
+    box-shadow:var(--shadow);
+    overflow:hidden;
+  }
+  .modal-banner{
+    height:120px;
+    background:linear-gradient(135deg,var(--accent),var(--accent-2));
+    position:relative;
+  }
+  .modal-close{
+    position:absolute;
+    top:12px;right:12px;
+    width:30px;height:30px;
+    border-radius:50%;
+    border:none;
+    background:rgba(0,0,0,0.35);
+    color:#fff;
+    cursor:pointer;
+    font-size:16px;
+    display:flex;align-items:center;justify-content:center;
+  }
+  .modal-body{padding:22px;}
+  .modal-body h2{margin:0 0 6px 0;font-size:20px;}
+  .modal-meta-row{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    color:var(--text-dim);
+    font-size:13px;
+    margin-bottom:4px;
+  }
+  .modal-tags{margin:14px 0;display:flex;gap:6px;flex-wrap:wrap;}
+  .modal-desc{font-size:14px;color:var(--text-dim);line-height:1.6;margin-bottom:20px;}
+  .modal-actions{display:flex;gap:10px;}
+  .btn-primary{
+    background:linear-gradient(135deg,var(--accent),var(--accent-2));
+    color:#fff;
+    border:none;
+    padding:10px 20px;
+    border-radius:8px;
+    font-size:14px;
+    font-weight:600;
+    cursor:pointer;
+    display:inline-block;
+    text-decoration:none;
+    line-height:1.3;
+  }
+  .btn-secondary{
+    background:var(--bg-elev-2);
+    border:1px solid var(--border);
+    color:var(--text);
+    padding:10px 20px;
+    border-radius:8px;
+    font-size:14px;
+    cursor:pointer;
+  }
+
+  @media (max-width:720px){
+    .footer-inner{grid-template-columns:1fr 1fr;}
+    .sort-wrap{margin-left:0;width:100%;}
+  }
+  @media (max-width:480px){
+    .footer-inner{grid-template-columns:1fr;}
+  }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div class="brand">
+      <div class="brand-mark">MD</div>
+      <div class="brand-name">EventBoard<small>DISCOVER &amp; ATTEND</small></div>
+    </div>
+    <button class="login-btn" id="loginBtn" aria-label="Login">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+      <span>Log in</span>
+    </button>
+  </div>
+</header>
+
+<main class="container">
+
+  <!-- Module 1: Filters & Sorting -->
+  <section class="module" id="module-filters">
+    <div class="filters-bar">
+      <input type="text" class="search-input" id="searchInput" placeholder="Search events...">
+      <div class="filter-group" id="tagFilters">
+        <button class="chip active" data-tag="all">All</button>
+      </div>
+      <div class="sort-wrap">
+        <span class="sort-label">Sort by</span>
+        <select class="sort-select" id="sortSelect">
+          <option value="date-asc">Date (soonest)</option>
+          <option value="date-desc">Date (latest)</option>
+          <option value="name-asc">Name (A-Z)</option>
+        </select>
+      </div>
+    </div>
+  </section>
+
+  <!-- Module 2: Timeline -->
+  <section class="module" id="module-timeline">
+    <div class="timeline-card">
+      <div class="timeline-head">
+        <div class="timeline-nav">
+          <button id="tlPrev" aria-label="Previous">&#8249;</button>
+          <span id="tlRangeLabel">This Week</span>
+          <button id="tlNext" aria-label="Next">&#8250;</button>
+        </div>
+        <div class="view-toggle" id="tlViewToggle">
+          <button data-view="day">Day</button>
+          <button class="active" data-view="week">Week</button>
+          <button data-view="year">Year</button>
+        </div>
+      </div>
+      <div class="timeline-track-wrap">
+        <div class="timeline-track" id="timelineTrack"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Module 3: Event list -->
+  <section class="module" id="module-list">
+    <div class="module-title" id="listTitle">All Events</div>
+    <div class="cards-grid" id="cardsGrid"></div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-col">
+      <div class="footer-brand">
+        <div class="brand-mark">MD</div>
+        <strong>EventBoard</strong>
+      </div>
+      <p>Find and host events that matter — tech, music, business and more, all in one board.</p>
+    </div>
+    <div class="footer-col">
+      <h4>Contacts</h4>
+      <ul>
+        <li><a href="mailto:hello@eventboard.io">hello@eventboard.io</a></li>
+        <li><a href="tel:+15551234567">+1 (555) 123-4567</a></li>
+        <li><a href="#">123 Market St, Suite 400</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Pricing</h4>
+      <ul>
+        <li><a href="#">Free plan</a></li>
+        <li><a href="#">Pro — organizers</a></li>
+        <li><a href="#">Enterprise</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Other products</h4>
+      <ul>
+        <li><a href="#">EventBoard Studio</a></li>
+        <li><a href="#">EventBoard Tickets</a></li>
+        <li><a href="#">EventBoard API</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>&copy; 2026 EventBoard. All rights reserved.</span>
+    <span>Privacy &middot; Terms</span>
+  </div>
+</footer>
+
+<!-- Event detail modal -->
+<div class="modal-overlay" id="modalOverlay">
+  <div class="modal">
+    <div class="modal-banner">
+      <button class="modal-close" id="modalClose">&times;</button>
+    </div>
+    <div class="modal-body">
+      <h2 id="modalTitle"></h2>
+      <div class="modal-meta-row" id="modalDate"></div>
+      <div class="modal-meta-row" id="modalLocation"></div>
+      <div class="modal-tags" id="modalTags"></div>
+      <p class="modal-desc" id="modalDesc"></p>
+      <div class="modal-actions">
+        <a class="btn-primary" id="modalVisitLink" href="#" target="_blank" rel="noopener">Visit event page</a>
+        <button class="btn-secondary" id="modalCloseBtn">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  // ---------- Mock data ----------
+  const today = new Date();
+  function d(offsetDays, hour){
+    const dt = new Date(today);
+    dt.setHours(hour || 10, 0, 0, 0);
+    dt.setDate(dt.getDate() + offsetDays);
+    return dt;
+  }
+
+  const events = [
+    {id:1, name:"React Summit Meetup", tag:"tech", date:d(0,9), location:"Downtown Tech Hub", price:"Free", desc:"A community meetup covering the latest in React, hooks, and server components. Networking session follows the talks."},
+    {id:2, name:"Indie Rock Night", tag:"music", date:d(1,20), location:"The Underground Club", price:"$18", desc:"Live sets from four local indie rock bands. Doors open at 7, first act at 8."},
+    {id:3, name:"Startup Pitch Day", tag:"business", date:d(2,13), location:"Innovation Center", price:"$40", desc:"Early-stage founders pitch to a panel of investors. Open to the public for the afternoon sessions."},
+    {id:4, name:"Modern Art Exhibition", tag:"art", date:d(2,11), location:"City Gallery", price:"$12", desc:"A curated exhibition of contemporary painters from the region, running through the month."},
+    {id:5, name:"City 10K Run", tag:"sports", date:d(3,8), location:"Riverside Park", price:"$25", desc:"Annual charity run through the riverside trail. All proceeds go to local youth programs."},
+    {id:6, name:"Neighborhood Cleanup", tag:"community", date:d(3,10), location:"Maple Street Park", price:"Free", desc:"Join neighbors for a morning of cleaning up the local park. Gloves and bags provided."},
+    {id:7, name:"AI & Ethics Panel", tag:"tech", date:d(4,17), location:"University Auditorium", price:"$15", desc:"A panel of researchers and practitioners discuss the ethical challenges of deploying AI at scale."},
+    {id:8, name:"Jazz in the Park", tag:"music", date:d(5,18), location:"Central Park Bandshell", price:"Free", desc:"Free open-air jazz concert featuring the city quartet and guest vocalists."},
+    {id:9, name:"Founders Breakfast", tag:"business", date:d(5,8), location:"The Roastery", price:"$20", desc:"Casual breakfast meetup for early-stage founders to swap notes and find collaborators."},
+    {id:10, name:"Watercolor Workshop", tag:"art", date:d(6,14), location:"Community Art Studio", price:"$35", desc:"Hands-on workshop for beginners, all materials included. Limited to 20 seats."},
+    {id:11, name:"Weekend Basketball League", tag:"sports", date:d(7,9), location:"Eastside Gym", price:"$10", desc:"Pickup league finals — come cheer on the neighborhood teams."},
+    {id:12, name:"Food Bank Volunteer Day", tag:"community", date:d(8,9), location:"Community Food Bank", price:"Free", desc:"Volunteers needed to sort and pack donations for weekly distribution."},
+    {id:13, name:"DevOps Conference", tag:"tech", date:d(9,9), location:"Convention Center Hall B", price:"$120", desc:"Full-day conference on CI/CD, observability, and platform engineering."},
+    {id:14, name:"Acoustic Sessions", tag:"music", date:d(10,19), location:"Riverside Cafe", price:"$22", desc:"Intimate acoustic performances from up-and-coming singer-songwriters."},
+    {id:15, name:"Product Leaders Roundtable", tag:"business", date:d(11,12), location:"The Loft", price:"$60", desc:"Invite-only roundtable discussion for senior product leaders in the region."},
+  ];
+
+  const tagLabels = {tech:"Tech",music:"Music",business:"Business",art:"Art",sports:"Sports",community:"Community"};
+
+  // ---------- Date helpers ----------
+  function startOfDay(date){
+    const d2 = new Date(date);
+    d2.setHours(0,0,0,0);
+    return d2;
+  }
+  function startOfWeek(date){
+    const d2 = startOfDay(date);
+    d2.setDate(d2.getDate() - d2.getDay());
+    return d2;
+  }
+  function addDays(date, n){
+    const d2 = new Date(date);
+    d2.setDate(d2.getDate() + n);
+    return d2;
+  }
+  // Day view starts from today; Week/Year start from the beginning of the current week
+  function defaultRangeStart(view){
+    return view === 'day' ? startOfDay(today) : startOfWeek(today);
+  }
+  function getISOWeek(date){
+    const d2 = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
+    const dayNum = (d2.getUTCDay() + 6) % 7; // Mon=0..Sun=6
+    d2.setUTCDate(d2.getUTCDate() - dayNum + 3);
+    const firstThursday = new Date(Date.UTC(d2.getUTCFullYear(), 0, 4));
+    const diff = d2 - firstThursday;
+    return 1 + Math.round(diff / (7*24*3600*1000));
+  }
+
+  // ---------- State ----------
+  let state = {
+    tag: "all",
+    search: "",
+    sort: "date-asc",
+    view: "week",
+    rangeStart: defaultRangeStart("week")
+  };
+
+  const RANGE_DAYS = { day: 30, week: 28, year: 365 };
+
+  function fmtDate(dt){
+    return dt.toLocaleDateString(undefined, {weekday:'short', month:'short', day:'numeric'});
+  }
+  function fmtTime(dt){
+    return dt.toLocaleTimeString(undefined, {hour:'numeric', minute:'2-digit'});
+  }
+  function fmtShort(dt){
+    return dt.toLocaleDateString(undefined, {month:'short', day:'numeric'});
+  }
+
+  // ---------- Filtering / sorting (shared by list + timeline) ----------
+  function getFilteredEvents(){
+    let list = events.filter(e => {
+      const matchesTag = state.tag === "all" || e.tag === state.tag;
+      const matchesSearch = !state.search || e.name.toLowerCase().includes(state.search.toLowerCase()) || e.location.toLowerCase().includes(state.search.toLowerCase());
+      return matchesTag && matchesSearch;
+    });
+    list.sort((a,b) => {
+      if(state.sort === "date-asc") return a.date - b.date;
+      if(state.sort === "date-desc") return b.date - a.date;
+      if(state.sort === "name-asc") return a.name.localeCompare(b.name);
+      return 0;
+    });
+    return list;
+  }
+
+  // ---------- Module 1: filters wiring ----------
+  const tagFilters = document.getElementById('tagFilters');
+
+  // build the tag chips from whatever tags actually appear in the events data
+  function buildTagFilters(){
+    const uniqueTags = [...new Set(events.map(e => e.tag))];
+    uniqueTags.forEach(tag => {
+      const btn = document.createElement('button');
+      btn.className = 'chip';
+      btn.dataset.tag = tag;
+      btn.textContent = tagLabels[tag] || (tag.charAt(0).toUpperCase() + tag.slice(1));
+      tagFilters.appendChild(btn);
+    });
+  }
+  buildTagFilters();
+
+  tagFilters.addEventListener('click', (e) => {
+    const btn = e.target.closest('.chip');
+    if(!btn) return;
+    tagFilters.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+    btn.classList.add('active');
+    state.tag = btn.dataset.tag;
+    render();
+  });
+
+  document.getElementById('searchInput').addEventListener('input', (e) => {
+    state.search = e.target.value;
+    render();
+  });
+
+  document.getElementById('sortSelect').addEventListener('change', (e) => {
+    state.sort = e.target.value;
+    render();
+  });
+
+  // ---------- Module 2: timeline ----------
+  const tlViewToggle = document.getElementById('tlViewToggle');
+  const tlRangeLabel = document.getElementById('tlRangeLabel');
+  const timelineTrack = document.getElementById('timelineTrack');
+
+  tlViewToggle.addEventListener('click', (e) => {
+    const btn = e.target.closest('button');
+    if(!btn) return;
+    tlViewToggle.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    state.view = btn.dataset.view;
+    state.rangeStart = defaultRangeStart(state.view);
+    renderTimeline();
+  });
+
+  document.getElementById('tlPrev').addEventListener('click', () => shiftRange(-1));
+  document.getElementById('tlNext').addEventListener('click', () => shiftRange(1));
+
+  function shiftRange(dir){
+    state.rangeStart = addDays(state.rangeStart, dir * RANGE_DAYS[state.view]);
+    renderTimeline();
+  }
+
+  function getRange(){
+    const view = state.view;
+    const start = new Date(state.rangeStart);
+    const end = addDays(start, RANGE_DAYS[view]);
+    return {start, end, view};
+  }
+
+  // build the full set of buckets spanning [start, end) for the given view
+  function buildBuckets(start, end, view){
+    const buckets = [];
+    if(view === 'day'){
+      for(let i=0;i<RANGE_DAYS.day;i++){
+        const bStart = addDays(start, i);
+        buckets.push({start:bStart, end:addDays(bStart,1), label: fmtShort(bStart), events:[]});
+      }
+    } else if(view === 'week'){
+      for(let i=0;i<4;i++){
+        const bStart = addDays(start, i*7);
+        buckets.push({start:bStart, end:addDays(bStart,7), label:'Week ' + getISOWeek(bStart), events:[]});
+      }
+    } else {
+      let cursor = new Date(start);
+      while(cursor < end){
+        const monthStart = new Date(cursor.getFullYear(), cursor.getMonth(), 1);
+        const nextMonthStart = new Date(cursor.getFullYear(), cursor.getMonth()+1, 1);
+        const bEnd = nextMonthStart < end ? nextMonthStart : new Date(end);
+        buckets.push({start:new Date(cursor), end:bEnd, label: cursor.toLocaleDateString(undefined,{month:'short',year:'numeric'}), events:[]});
+        cursor = nextMonthStart;
+      }
+    }
+    return buckets;
+  }
+
+  function renderTimeline(){
+    const {start, end, view} = getRange();
+
+    const filtered = getFilteredEvents().filter(e => e.date >= start && e.date < end);
+    const buckets = buildBuckets(start, end, view);
+    filtered.forEach(e => {
+      const b = buckets.find(b => e.date >= b.start && e.date < b.end);
+      if(b) b.events.push(e);
+    });
+
+    // trim trailing empty buckets so the timeline doesn't run past the last event
+    let visibleBuckets = buckets;
+    if(filtered.length > 0){
+      let lastNonEmpty = -1;
+      buckets.forEach((b,i) => { if(b.events.length) lastNonEmpty = i; });
+      visibleBuckets = buckets.slice(0, lastNonEmpty+1);
+    }
+
+    // range label reflects what's actually shown
+    const dispEnd = addDays(visibleBuckets[visibleBuckets.length-1].end, -1);
+    tlRangeLabel.textContent = fmtShort(start) + ' – ' + fmtShort(dispEnd);
+
+    timelineTrack.innerHTML = '';
+    timelineTrack.className = 'timeline-track view-' + view;
+    const line = document.createElement('div');
+    line.className = 'timeline-line';
+    timelineTrack.appendChild(line);
+
+    const slotsWrap = document.createElement('div');
+    slotsWrap.className = 'timeline-slots';
+    const perSlotPx = view === 'day' ? 215 : 240;
+    slotsWrap.style.minWidth = (visibleBuckets.length * perSlotPx) + 'px';
+
+    visibleBuckets.forEach(b => {
+      const slotEl = document.createElement('div');
+      slotEl.className = 'timeline-slot';
+
+      const head = document.createElement('div');
+      head.className = 'slot-head';
+      const label = document.createElement('div');
+      label.className = 'slot-label';
+      label.textContent = b.label;
+      const dot = document.createElement('div');
+      dot.className = 'slot-dot' + (b.events.length ? ' has-events' : '');
+      head.appendChild(label);
+      head.appendChild(dot);
+      slotEl.appendChild(head);
+
+      if(b.events.length){
+        const card = document.createElement('div');
+        card.className = 'tl-slot-card';
+        b.events.forEach(ev => {
+          const row = document.createElement('div');
+          row.className = 'tl-card-row';
+          row.innerHTML = `
+            <div class="tl-ev-top">
+              <span class="tl-ev-name">${escapeHtml(ev.name)}</span>
+              <span class="tag-pill tl-ev-tag tag-${ev.tag}">${tagLabels[ev.tag]}</span>
+            </div>
+            <span class="tl-ev-price">${escapeHtml(ev.price)}</span>`;
+          row.addEventListener('click', () => openModal(ev));
+          card.appendChild(row);
+        });
+        slotEl.appendChild(card);
+      }
+
+      slotsWrap.appendChild(slotEl);
+    });
+    timelineTrack.appendChild(slotsWrap);
+
+    if(filtered.length === 0){
+      const none = document.createElement('div');
+      none.className = 'timeline-empty';
+      none.textContent = 'No events in this range';
+      timelineTrack.appendChild(none);
+    }
+  }
+
+  // ---------- Module 3: cards ----------
+  const cardsGrid = document.getElementById('cardsGrid');
+  const listTitle = document.getElementById('listTitle');
+
+  function renderCards(){
+    const filtered = getFilteredEvents();
+    listTitle.textContent = state.tag === 'all' ? 'All Events' : tagLabels[state.tag] + ' Events';
+    cardsGrid.innerHTML = '';
+    if(filtered.length === 0){
+      cardsGrid.innerHTML = '<div class="empty-state">No events match your filters. Try adjusting search or tags.</div>';
+      return;
+    }
+    filtered.forEach(e => {
+      const card = document.createElement('div');
+      card.className = 'event-card';
+      card.innerHTML = `
+        <div class="event-card-banner"></div>
+        <div class="event-card-body">
+          <div class="event-card-top">
+            <div class="event-card-title">${escapeHtml(e.name)}</div>
+          </div>
+          <div class="event-card-date">${fmtDate(e.date)} &middot; ${fmtTime(e.date)}</div>
+          <div class="event-card-meta">${escapeHtml(e.location)}</div>
+          <div class="event-card-tags">
+            <span class="tag-pill tag-${e.tag}">${tagLabels[e.tag]}</span>
+          </div>
+        </div>`;
+      card.addEventListener('click', () => openModal(e));
+      cardsGrid.appendChild(card);
+    });
+  }
+
+  // ---------- Modal ----------
+  const modalOverlay = document.getElementById('modalOverlay');
+  function openModal(e){
+    document.getElementById('modalTitle').textContent = e.name;
+    document.getElementById('modalDate').textContent = '📅 ' + fmtDate(e.date) + ' · ' + fmtTime(e.date);
+    document.getElementById('modalLocation').textContent = '📍 ' + e.location;
+    document.getElementById('modalDesc').textContent = e.desc;
+    document.getElementById('modalTags').innerHTML = `<span class="tag-pill tag-${e.tag}">${tagLabels[e.tag]}</span>`;
+    document.getElementById('modalVisitLink').href = `https://eventboard.io/events/${e.id}`;
+    modalOverlay.classList.add('open');
+  }
+  function closeModal(){ modalOverlay.classList.remove('open'); }
+  document.getElementById('modalClose').addEventListener('click', closeModal);
+  document.getElementById('modalCloseBtn').addEventListener('click', closeModal);
+  modalOverlay.addEventListener('click', (e) => { if(e.target === modalOverlay) closeModal(); });
+  document.addEventListener('keydown', (e) => { if(e.key === 'Escape') closeModal(); });
+
+  // ---------- Login button (placeholder) ----------
+  document.getElementById('loginBtn').addEventListener('click', () => {
+    alert('Login flow would open here.');
+  });
+
+  function escapeHtml(str){
+    return str.replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+  }
+
+  function render(){
+    renderTimeline();
+    renderCards();
+  }
+
+  render();
+})();
+</script>
+
+</body>
+</html>
