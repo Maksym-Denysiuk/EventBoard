@@ -1,0 +1,155 @@
+{
+  "tags": {
+    "tech": "Tech",
+    "music": "Music",
+    "business": "Business",
+    "art": "Art",
+    "sports": "Sports",
+    "community": "Community",
+    "trips": "Trips",
+    "tournament": "Tournament",
+    "nightlife": "Nightlife"
+  },
+  "events": [
+    {
+      "id": "evt_2026_0722_coworking-digital-nomads-porto",
+      "name": "Coworking MeetUp #54 – Digital Nomads Porto",
+      "tag": "community",
+      "date": "2026-07-22T11:00:00+01:00",
+      "location": "Gallery Hostel Porto, Rua de Miguel Bombarda 222, Porto",
+      "price": "Free (RSVP required)",
+      "description": "A full day of coworking for Porto's digital nomad community at Gallery Hostel in the Miguel Bombarda art district. Work alongside fellow remote workers, then unwind at the on-site café, restaurant, and cocktail bar. Part of a recurring weekly Wednesday series.",
+      "url": "https://www.eventbrite.com/e/coworking-meetup-54-digital-nomads-porto-tickets-1994002758929"
+    },
+    {
+      "id": "evt_2026_0722_community-gathering-sustainability",
+      "name": "Community Gathering: Sustainability Edition",
+      "tag": "business",
+      "date": "2026-07-22T14:30:00+01:00",
+      "location": "UPTEC Baixa, Porto",
+      "price": "Free (registration required)",
+      "description": "UPTEC and Google Cloud host an open-air networking afternoon for entrepreneurs and innovators, featuring a roundtable on sustainable entrepreneurship with Portuguese business leaders and the Climate LaunchPad Portugal Final, followed by cocktails, food, a DJ set, and booths from InvestPorto, Porto Business School, and the European Innovation Academy.",
+      "url": "https://app.santanderx.com/events/community-gathering-sustainable-edition/6a2bce80b8fbcb93f1d4a0c7"
+    },
+    {
+      "id": "evt_2026_0722_meaningful-meal-melissa",
+      "name": "Meaningful Meal with Melissa",
+      "tag": "community",
+      "date": "2026-07-22T19:30:00+01:00",
+      "location": "LOOK.Sharp Cafe, Rua Cimo de Vila 41, Porto",
+      "price": "€22.50",
+      "description": "A dinner-and-conversation social evening hosted by transformational coach Melissa Veras, using guided card decks to spark authentic conversation among strangers over a three-course meal with a house drink included.",
+      "url": "https://www.look-sharp.net/events"
+    },
+    {
+      "id": "evt_2026_0722_pm-lean-coffee-qibit",
+      "name": "PM Lean Coffee (Porto)",
+      "tag": "business",
+      "date": "2026-07-22T18:30:00+01:00",
+      "location": "QiBit Porto, Rua Engenheiro Ferreira Dias 978, Piso 1, Porto",
+      "price": "Free",
+      "description": "PMI Portugal's agenda-less discussion format for project/program/agile practitioners — participants propose topics, vote on a priority list, then discuss in timed slots. Facilitated by Eduardo Espinheira (QAValue).",
+      "url": "https://www.eventbrite.pt/e/registo-pm-lean-coffee-2026-07-22-porto-1993053438486?aff=ebdssbdestsearch"
+    },
+    {
+      "id": "evt_2026_0723_castlerock-quiz-night",
+      "name": "Quiz Night at CastleRock Pub & Hotel",
+      "tag": "tournament",
+      "date": "2026-07-23T21:30:00+01:00",
+      "location": "CastleRock Pub & Hotel, R. do Conde de Vizela 114, Porto",
+      "price": "€1 per player",
+      "description": "Weekly Thursday pub quiz — 50 questions across two rounds for teams of up to 5 (extra members incur a 2-point penalty). The winning team gets up to €50 of free drinks; phones are banned during play. Recurring every Thursday.",
+      "url": "https://agendaculturalporto.org/eventos/quiz-night-as-quintas-castlerock-pub-hotel/"
+    },
+    {
+      "id": "evt_2026_0723_furiosa-sbk-social",
+      "name": "Furiosa Dance – Salsa, Bachata & Kizomba Social",
+      "tag": "community",
+      "date": "2026-07-23T21:00:00+01:00",
+      "location": "Dimare Café, Vila Nova de Gaia",
+      "price": "€5 (consumable at the bar)",
+      "description": "Weekly Thursday Latin-dance evening — a beginner-friendly Bachata Sensual & Fusion class followed by a social party mixing Bachata, Salsa, and Kizomba. No partner or prior experience needed; couples-friendly.",
+      "url": "https://www.meetup.com/salsa-bachata-kizomba-in-porto/"
+    },
+    {
+      "id": "evt_2026_0725_fonseca-port-tasting",
+      "name": "The Fonseca Experience — Port Wine Tasting",
+      "tag": "art",
+      "date": "2026-07-25T11:00:00+01:00",
+      "location": "Fonseca Port Wine Cellars, Rua do Choupelo 84, Vila Nova de Gaia",
+      "price": "€16 (adult); €8 (child 4–12)",
+      "description": "Self-guided cellar experience with a commented tasting of Fonseca Bin № 27, Siroco, and Terra Prima in the historic tasting room. Open daily 11:00–18:00 (last admission); this listing reflects the daily opening slot.",
+      "url": "https://www.fonseca.pt/en/visit-fonseca/port-cellars"
+    },
+    {
+      "id": "evt_2026_0725_epicure-club-sessions",
+      "name": "Epicure Club Sessions",
+      "tag": "nightlife",
+      "date": "2026-07-25T17:00:00+01:00",
+      "location": "Espaço Ignez, Rua da Restauração 252, Porto",
+      "price": "€10",
+      "description": "A rooftop DJ party at one of Porto's most scenic viewpoints, featuring sets from Miguel Nery, JOMA, and LØT running through the evening into the night.",
+      "url": "https://somo.social/en/e/epicure-club-sessions-725"
+    },
+    {
+      "id": "evt_2026_0724_tropical-oporto-dance-congress",
+      "name": "Tropical Oporto Dance Congress 2026",
+      "tag": "art",
+      "date": "2026-07-24T16:00:00+01:00",
+      "location": "Golden Tulip Porto Gaia Hotel & SPA, R. da Bélgica 86, Vila Nova de Gaia",
+      "price": "From €50 (Experience Pass); Full Pass Couple €85",
+      "description": "An international salsa and bachata weekend congress with daytime partner-dance workshops for all levels plus evening social parties, including a dedicated couples pass — a couples-friendly social dance experience just across the river from Porto.",
+      "url": "https://salsero.es/events/9624/tropical-oporto-dance-congress"
+    },
+    {
+      "id": "evt_2026_0724_porto-tech-mixer-social",
+      "name": "Porto Tech Mixer and Social",
+      "tag": "tech",
+      "date": "2026-07-24T18:00:00+01:00",
+      "location": "Bonaparte Downtown, P. de Guilherme Gomes Fernandes 40, Porto",
+      "price": "€3 (online only)",
+      "description": "A weekly Friday afterwork social for Porto's tech, AI, data, and IT crowd — casual drinks and networking among software developers, data scientists, and cybersecurity professionals.",
+      "url": "https://www.eventbrite.com/e/porto-tech-mixer-and-social-tech-ai-data-it-tickets-1992610455512?aff=ebdssbdestsearch"
+    },
+    {
+      "id": "evt_2026_0726_juanes-world-tour",
+      "name": "Juanes – World Tour 2026",
+      "tag": "music",
+      "date": "2026-07-26T21:00:00+01:00",
+      "location": "Super Bock Arena – Pavilhão Rosa Mota, Porto",
+      "price": "€45–€60",
+      "description": "Grammy-winning Colombian artist Juanes brings his World Tour 2026 to Porto, showcasing his new album \"Juanes Teban\" alongside career-defining hits, with Portuguese singer Rita Rocha opening. Doors 20:30.",
+      "url": "https://www.masqueticket.com/en/entradas/juanes-conciertos-gira-tour-bilhetes-porto-portugal-2026"
+    },
+    {
+      "id": "evt_2026_0726_looksharp-boardgames-night",
+      "name": "Boardgames Night at LOOK.Sharp",
+      "tag": "tournament",
+      "date": "2026-07-26T18:00:00+01:00",
+      "location": "LOOK.Sharp Cafe, Rua Cimo de Vila 41, Porto",
+      "price": "€3",
+      "description": "Porto's longest-running board game social — classic and modern games with food and new connections in a relaxed café setting. Runs every Thursday and Sunday, doors 18:00 until 22:30.",
+      "url": "https://www.look-sharp.net/events"
+    },
+    {
+      "id": "evt_2026_0729_startup-portugal-pitch-please",
+      "name": "Startup Portugal Hangout – PITCH, please!",
+      "tag": "business",
+      "date": "2026-07-29T17:30:00+01:00",
+      "location": "Edifício Transparente (Workin Porto), Via do Castelo do Queijo 335, Porto",
+      "price": "Free",
+      "description": "Startup Portugal's monthly Above & Beyond Hangout, this edition dedicated to founder pitch sessions in front of the local entrepreneurial ecosystem — founders, investors, and community members networking afterward.",
+      "url": "https://startupportugal.com/programs/above-beyond-hangouts/"
+    },
+    {
+      "id": "evt_2026_0731_porto-social-language-exchange",
+      "name": "Porto Social and Language Exchange",
+      "tag": "community",
+      "date": "2026-07-31T18:00:00+01:00",
+      "location": "Bonaparte Downtown, P. de Guilherme Gomes Fernandes 40, Porto",
+      "price": "€3 (online only)",
+      "description": "A weekly Friday mixer welcoming expats, international students, travelers, and locals to meet new people and practice languages over drinks and food.",
+      "url": "https://www.eventbrite.com/e/porto-social-and-language-exchange-make-new-friends-tickets-1992611520698?aff=ebdssbcitybrowse"
+    }
+  ]
+}
