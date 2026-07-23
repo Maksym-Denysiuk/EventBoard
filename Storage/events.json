@@ -552,6 +552,76 @@
       "url": "https://devopsdays.org/events/2026-portugal/welcome/"
     },
     {
+      "id": "evt_2026_0724_festas-gualterianas-guimaraes",
+      "name": "Festas da Cidade e Gualterianas 2026",
+      "tag": "trips",
+      "date": "2026-07-24T18:00:00+01:00",
+      "location": "Largo do Toural & historic centre, Guimarães (~50km from Porto)",
+      "price": "Free entry",
+      "description": "Guimarães' traditional summer city festival (July 24 – August 3) blending folk traditions, religious processions, craft fairs, and an International Folklore Festival with headline concerts — Bárbara Bandeira (Jul 31), Dillaz (Aug 1), and GNR (Aug 2) — plus a historic carriage parade and closing Gualter March. Free admission across all venues.",
+      "url": "https://em.guimaraes.pt/destaques/geo_evento/festas-da-cidade-e-gualterianas-2026"
+    },
+    {
+      "id": "evt_2026_0814_porto-internationals-pubcrawl",
+      "name": "Free International Pub Crawl w/ Local Guides",
+      "tag": "community",
+      "date": "2026-08-14T22:00:00+01:00",
+      "location": "Baixa Bar, R. Cândido dos Reis 52, Porto",
+      "price": "Free",
+      "description": "Recurring Friday-night pub crawl hosted by Porto Internationals and Locals, led by local guides through the city's bars with free shots, party games, and free entry included; RSVP required via WhatsApp. Part of a weekly series active since 2018.",
+      "url": "https://www.meetup.com/porto-internationals-locals/"
+    },
+    {
+      "id": "evt_2026_0910_nomad-world-porto",
+      "name": "The Nomad World Porto",
+      "tag": "business",
+      "date": "2026-09-10T10:00:00+01:00",
+      "location": "Associação Nacional de Jovens Empresários (ANJE), Rua de Paulo da Gama, Porto",
+      "price": "Paid (price not published; see Eventbrite)",
+      "description": "Four-day flagship gathering for founders, creators and remote workers themed \"Building Freedom,\" featuring talks, workshops and masterminds on AI, entrepreneurship and creativity. Runs Sept 10-13 and serves as the anchor event opening Porto AI Week.",
+      "url": "https://www.eventbrite.com/e/the-nomad-world-porto-tickets-1992509534655"
+    },
+    {
+      "id": "evt_2026_0914_porto-ai-week",
+      "name": "Porto AI Week 2026",
+      "tag": "tech",
+      "date": "2026-09-14T09:00:00+01:00",
+      "location": "Multiple venues city-wide, Porto",
+      "price": "Mixed free & paid (per-event pricing; see website)",
+      "description": "A decentralized, five-day city-wide AI festival (Sept 14-18) spanning 80+ independent events across 40+ venues — warehouses, galleries, studios and coworking spaces — organized around five tracks: Build, Growth, Create, Indie Hacking, and Human. Led by NomadX founder Gonçalo Hall in partnership with Porto City Hall and ANJE; anyone can host a session or offer venue space.",
+      "url": "https://portoaiweek.org/"
+    },
+    {
+      "id": "evt_2026_0926_wise-pirates-karting-prova7",
+      "name": "Wise Pirates Karting Series 2025/26 – Prova 7",
+      "tag": "sports",
+      "date": "2026-09-26T10:00:00+01:00",
+      "location": "Kartódromo Cabo do Mundo, R. de Almeiriga Norte 2242, Perafita, Matosinhos",
+      "price": "Price not published (contact organizer)",
+      "description": "Round 7 of the amateur Wise Pirates Karting Series, a rental-kart sprint championship open to mixed-skill drivers at the 980m outdoor Cabo do Mundo circuit. Exact start time was still marked \"to be defined\" by organizers at time of research.",
+      "url": "https://calendariokarting.pt/events/wise-pirates-karting-series-2025-26-event-7"
+    },
+    {
+      "id": "evt_2026_1128_wise-pirates-karting-prova9",
+      "name": "Wise Pirates Karting Series 2025/26 – Prova 9",
+      "tag": "sports",
+      "date": "2026-11-28T10:00:00+00:00",
+      "location": "Kartódromo Cabo do Mundo, R. de Almeiriga Norte 2242, Perafita, Matosinhos",
+      "price": "Price not published (contact organizer)",
+      "description": "Round 9 of the amateur Wise Pirates Karting Series, a rental-kart sprint championship open to mixed-skill drivers at the 980m outdoor Cabo do Mundo circuit. Exact start time was still marked \"to be defined\" by organizers at time of research.",
+      "url": "https://calendariokarting.pt/events/wise-pirates-karting-series-2025-26-event-9"
+    },
+    {
+      "id": "evt_2027_0123_resistencia-concerto-ano-novo",
+      "name": "A Resistência – Concerto de Ano Novo 2027",
+      "tag": "music",
+      "date": "2027-01-23T21:30:00+00:00",
+      "location": "Coliseu Porto Ageas, Porto",
+      "price": "Price not published (2026 edition ranged €20–€60)",
+      "description": "A Resistência returns to Coliseu Porto Ageas for their annual New Year concert, a long-running fixture of the Portuguese music calendar; the band's January 2026 Porto date sold out completely. Exact start time not yet published at time of research.",
+      "url": "https://www.coliseu.pt/agenda"
+    },
+    {
       "id": "evt_2026_1222_tempo-de-natal",
       "name": "Tempo de Natal – Orquestra Barroca & Coro Casa da Música",
       "tag": "music",
