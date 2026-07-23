@@ -12,46 +12,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_0722_coworking-digital-nomads-porto",
-      "name": "Coworking MeetUp #54 – Digital Nomads Porto",
-      "tag": "community",
-      "date": "2026-07-22T11:00:00+01:00",
-      "location": "Gallery Hostel Porto, Rua de Miguel Bombarda 222, Porto",
-      "price": "Free (RSVP required)",
-      "description": "A full day of coworking for Porto's digital nomad community at Gallery Hostel in the Miguel Bombarda art district. Work alongside fellow remote workers, then unwind at the on-site café, restaurant, and cocktail bar. Part of a recurring weekly Wednesday series.",
-      "url": "https://www.eventbrite.com/e/coworking-meetup-54-digital-nomads-porto-tickets-1994002758929"
-    },
-    {
-      "id": "evt_2026_0722_community-gathering-sustainability",
-      "name": "Community Gathering: Sustainability Edition",
-      "tag": "business",
-      "date": "2026-07-22T14:30:00+01:00",
-      "location": "UPTEC Baixa, Porto",
-      "price": "Free (registration required)",
-      "description": "UPTEC and Google Cloud host an open-air networking afternoon for entrepreneurs and innovators, featuring a roundtable on sustainable entrepreneurship with Portuguese business leaders and the Climate LaunchPad Portugal Final, followed by cocktails, food, a DJ set, and booths from InvestPorto, Porto Business School, and the European Innovation Academy.",
-      "url": "https://app.santanderx.com/events/community-gathering-sustainable-edition/6a2bce80b8fbcb93f1d4a0c7"
-    },
-    {
-      "id": "evt_2026_0722_pm-lean-coffee-qibit",
-      "name": "PM Lean Coffee (Porto)",
-      "tag": "business",
-      "date": "2026-07-22T18:30:00+01:00",
-      "location": "QiBit Porto, Rua Engenheiro Ferreira Dias 978, Piso 1, Porto",
-      "price": "Free",
-      "description": "PMI Portugal's agenda-less discussion format for project/program/agile practitioners — participants propose topics, vote on a priority list, then discuss in timed slots. Facilitated by Eduardo Espinheira (QAValue).",
-      "url": "https://www.eventbrite.pt/e/registo-pm-lean-coffee-2026-07-22-porto-1993053438486?aff=ebdssbdestsearch"
-    },
-    {
-      "id": "evt_2026_0722_meaningful-meal-melissa",
-      "name": "Meaningful Meal with Melissa",
-      "tag": "community",
-      "date": "2026-07-22T19:30:00+01:00",
-      "location": "LOOK.Sharp Cafe, Rua Cimo de Vila 41, Porto",
-      "price": "€22.50",
-      "description": "A dinner-and-conversation social evening hosted by transformational coach Melissa Veras, using guided card decks to spark authentic conversation among strangers over a three-course meal with a house drink included.",
-      "url": "https://www.look-sharp.net/events"
-    },
-    {
       "id": "evt_2026_0723_furiosa-sbk-social",
       "name": "Furiosa Dance – Salsa, Bachata & Kizomba Social",
       "tag": "community",
@@ -60,6 +20,16 @@
       "price": "€5 (consumable at the bar)",
       "description": "Weekly Thursday Latin-dance evening — a beginner-friendly Bachata Sensual & Fusion class followed by a social party mixing Bachata, Salsa, and Kizomba. No partner or prior experience needed; couples-friendly.",
       "url": "https://www.meetup.com/salsa-bachata-kizomba-in-porto/"
+    },
+    {
+      "id": "evt_2026_0723_trivial-quiz-look-sharp",
+      "name": "TRIVIAL: A LOOK.Sharp Quiz",
+      "tag": "tournament",
+      "date": "2026-07-23T20:00:00+01:00",
+      "location": "LOOK.Sharp Cafe, Rua Cimo de Vila 41, Porto",
+      "price": "€6 (includes one beverage)",
+      "description": "English-language pub trivia night hosted by \"Darren\" with randomly assigned teams of 3-4 answering general knowledge rounds; winners get food/drink vouchers, runners-up get drink tokens. Doors at 18:00, quiz starts 20:00, capacity capped at 32 people.",
+      "url": "https://www.look-sharp.net/events/p/trivial"
     },
     {
       "id": "evt_2026_0723_castlerock-quiz-night",
@@ -82,6 +52,16 @@
       "url": "https://salsero.es/events/9624/tropical-oporto-dance-congress"
     },
     {
+      "id": "evt_2026_0724_porto-blues-fest",
+      "name": "Porto Blues Fest 2026",
+      "tag": "music",
+      "date": "2026-07-24T18:30:00+01:00",
+      "location": "Concha Acústica do Palácio de Cristal, Rua de Dom Manuel II, Porto",
+      "price": "€25 single day / €35 two-day pass",
+      "description": "Two-day outdoor blues rock festival (8th edition) at the Crystal Palace Gardens' acoustic shell. July 24 lineup includes Cosimo & The Hot Coals and Dede Priest & Johnny Clark's Outlaws; July 25 headliner is British blues rock legends Ten Years After, plus a new Youth Stage for emerging local musicians.",
+      "url": "https://www.portobluesfest.pt/en/"
+    },
+    {
       "id": "evt_2026_0724_porto-tech-mixer-social",
       "name": "Porto Tech Mixer and Social",
       "tag": "tech",
@@ -100,6 +80,16 @@
       "price": "Free",
       "description": "Weekly Saturday-morning 5K run and coffee social for founders, entrepreneurs, and remote workers, part of a global Founders Running Club network active in 35+ cities. Conducted in English; open to all paces, plus friends, family, and pets welcome.",
       "url": "https://www.meetup.com/founders-running-club-porto/"
+    },
+    {
+      "id": "evt_2026_0725_cacheinporto-mega-event",
+      "name": "CacheInPorto Mega-Event",
+      "tag": "community",
+      "date": "2026-07-25T09:00:00+01:00",
+      "location": "Lipor Adventure Park (Parque Aventura da Lipor), Porto",
+      "price": "Price not published",
+      "description": "Two-day gathering for the geocaching community at a former-landfill-turned-adventure-park, featuring check-ins, contests, group photos, merchandise trading, and Portugal's first \"GPS Adventures Maze\" cache. Runs July 25 (9:00-21:00) and July 26 (9:00-17:00).",
+      "url": "https://www.geocaching.com/geocache/GCBEKKA_cacheinporto"
     },
     {
       "id": "evt_2026_0725_fonseca-port-tasting",
@@ -170,6 +160,16 @@
       "price": "Free",
       "description": "Bi-weekly casual networking gathering where Porto tech workers meet to build connections, make friends, and discuss emerging technology trends.",
       "url": "https://www.meetup.com/porto-tech-connect/"
+    },
+    {
+      "id": "evt_2026_0730_castlerock-quiz-night",
+      "name": "Quiz Night at CastleRock Pub & Hotel",
+      "tag": "tournament",
+      "date": "2026-07-30T21:30:00+01:00",
+      "location": "CastleRock Pub & Hotel, Rua do Conde de Vizela 114, Porto",
+      "price": "€1 per player",
+      "description": "Weekly Thursday pub quiz — 50 questions across two rounds for teams of up to 5 (extra members incur a 2-point penalty). The winning team gets up to €50 of free drinks; phones are banned during play. Recurring every Thursday.",
+      "url": "https://agendaculturalporto.org/eventos/quiz-night-as-quintas-castlerock-pub-hotel/"
     },
     {
       "id": "evt_2026_0730_quiz-casa-da-madeira",
