@@ -20,6 +20,8 @@
     --accent-soft:rgba(205,162,60,0.15);
     --accent-ink:#0a1420;
     --danger:#e0566a;
+    --info:#5b8dc9;
+    --info-soft:rgba(91,141,201,0.15);
     --radius:14px;
     --shadow:0 16px 40px rgba(0,0,0,0.5), 0 2px 8px rgba(0,0,0,0.3);
     --shadow-glow:0 4px 20px rgba(205,162,60,0.18);
@@ -40,6 +42,8 @@
       --accent-ink:#ffffff;
       --shadow:0 16px 40px rgba(20,20,40,0.1), 0 2px 8px rgba(20,20,40,0.05);
       --shadow-glow:0 4px 20px rgba(184,134,11,0.12);
+      --info:#3568ad;
+      --info-soft:rgba(53,104,173,0.1);
       color-scheme: light;
     }
   }
@@ -56,6 +60,8 @@
     --accent-ink:#ffffff;
     --shadow:0 16px 40px rgba(20,20,40,0.1), 0 2px 8px rgba(20,20,40,0.05);
     --shadow-glow:0 4px 20px rgba(184,134,11,0.12);
+    --info:#3568ad;
+    --info-soft:rgba(53,104,173,0.1);
     color-scheme: light;
   }
   *{box-sizing:border-box;}
@@ -261,6 +267,62 @@
   }
   .search-input:focus{border-color:var(--accent);box-shadow:var(--shadow-glow);}
   .search-input::placeholder{color:var(--text-dim);}
+
+  .info-icon{
+    position:relative;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    width:38px;height:38px;
+    flex:0 0 auto;
+    background:transparent;
+    border:1px solid var(--border);
+    border-radius:50%;
+    color:var(--text-dim);
+    font-size:15px;
+    font-weight:700;
+    font-style:italic;
+    font-family:Georgia,'Times New Roman',serif;
+    cursor:help;
+    user-select:none;
+    transition:background .2s,border-color .2s,box-shadow .2s,color .2s;
+  }
+  .info-icon:hover,.info-icon:focus-visible{
+    background:var(--info-soft);
+    border-color:var(--info);
+    color:var(--info);
+    box-shadow:var(--shadow-glow);
+    outline:none;
+  }
+  .info-icon::after{
+    content:attr(data-tooltip);
+    position:absolute;
+    top:calc(100% + 10px);
+    right:0;
+    width:240px;
+    background:var(--bg-elev-2);
+    border:1px solid var(--border);
+    color:var(--text);
+    font-size:12px;
+    font-weight:400;
+    font-style:normal;
+    font-family:'Inter',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif;
+    line-height:1.4;
+    padding:10px 12px;
+    border-radius:8px;
+    box-shadow:var(--shadow);
+    opacity:0;
+    visibility:hidden;
+    transform:translateY(-4px);
+    transition:opacity .15s,transform .15s,visibility .15s;
+    z-index:20;
+    pointer-events:none;
+  }
+  .info-icon:hover::after,.info-icon:focus-visible::after{
+    opacity:1;
+    visibility:visible;
+    transform:translateY(0);
+  }
 
   .sort-wrap{
     display:flex;
@@ -813,6 +875,7 @@
         <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
         <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
       </button>
+      <span class="info-icon" tabindex="0" aria-label="Refresh schedule info" data-tooltip="Events are refreshing on Saturday 4 am for 10 days, on Sunday refreshes for 6m">i</span>
       <button class="login-btn" id="loginBtn" aria-label="Login" style="display:none">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
         <span>Log in</span>
