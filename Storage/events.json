@@ -142,6 +142,46 @@
       "url": "https://www.eventbrite.com/e/bilhetes-porto-queer-book-club-orlando-1-1993124296424"
     },
     {
+      "id": "evt_2026_0724_mimosa-open-padel",
+      "name": "Mimosa Open Porto 2026 (FIP Silver Padel)",
+      "tag": "tournament",
+      "date": "2026-07-24T09:00:00+01:00",
+      "location": "A-Z Padel Fluvial & partner clubs, Porto",
+      "price": "Free entry for spectators",
+      "description": "Fourth edition of Porto's flagship padel tournament, a FIP Silver-ranked event (25,000 federation points) with 32 pairs in both men's and women's main draws — 525 male and 281 female players registered overall. Runs July 20-26 across A-Z Padel Fluvial, A-Z Padel Quinta do Fojo, Top-Padel Industrial Indoor, and A-Z Padel Maia, with main-draw matches starting Friday and free spectator entry.",
+      "url": "https://fpp.tiepadel.com/tournaments/MimosaOpenPorto2026"
+    },
+    {
+      "id": "evt_2026_0724_afrolatine-nights-muxima",
+      "name": "AfroLatine Nights at Muxima Bar",
+      "tag": "nightlife",
+      "date": "2026-07-24T23:00:00+01:00",
+      "location": "Muxima Bar, Rua Maurício Lourenço de Oliveira 206, Vila Nova de Gaia",
+      "price": "€10–€15",
+      "description": "Weekly Friday/Saturday late-night party blending salsa, bachata, kizomba, and semba with occasional dance-show animations, running from 23:00 to 04:00. Recurring series; this listing reflects the Friday slot within the current window.",
+      "url": "https://www.salsavida.com/event/portugal/porto/afrolatine-nights-at-muxima-bar/"
+    },
+    {
+      "id": "evt_2026_0726_candlelight-abba",
+      "name": "Candlelight: The Best of ABBA",
+      "tag": "music",
+      "date": "2026-07-26T18:30:00+01:00",
+      "location": "Hilton Porto Gaia, Rua de Serpa Pinto 124, Vila Nova de Gaia",
+      "price": "From €18.50 (Zone D) to €37.00 (Zone A)",
+      "description": "String-quartet candlelit tribute concert performing 13 ABBA songs in an intimate multi-sensory setting at the Hilton Porto Gaia. 60-minute set, seating assigned by ticket zone; minimum age 8.",
+      "url": "https://feverup.com/m/119957/en"
+    },
+    {
+      "id": "evt_2026_0726_candlelight-hans-zimmer",
+      "name": "Candlelight: The Best of Hans Zimmer",
+      "tag": "music",
+      "date": "2026-07-26T21:30:00+01:00",
+      "location": "Hilton Porto Gaia, Rua de Serpa Pinto 124, Vila Nova de Gaia",
+      "price": "From €21.50 (Zone D) to €37.50 (Zone A)",
+      "description": "String-quartet candlelit concert of Hans Zimmer film scores (Inception, Interstellar, The Lion King, Dune, Pirates of the Caribbean) at the Hilton Porto Gaia. 60-minute set, seating assigned by ticket zone; minimum age 8.",
+      "url": "https://feverup.com/m/148113/en"
+    },
+    {
       "id": "evt_2026_0729_startup-portugal-pitch-please",
       "name": "Startup Portugal Hangout – PITCH, please!",
       "tag": "business",
