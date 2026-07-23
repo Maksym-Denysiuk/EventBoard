@@ -62,6 +62,16 @@
       "url": "https://www.portobluesfest.pt/en/"
     },
     {
+      "id": "evt_2026_0726_encontro-bandas-filarmonicas",
+      "name": "Encontro de Bandas Filarmónicas",
+      "tag": "music",
+      "date": "2026-07-26T14:30:00+01:00",
+      "location": "Casa da Música (Sala Suggia), Av. da Boavista 604-610, Porto",
+      "price": "Free entry",
+      "description": "National gathering of Portuguese philharmonic bands performing two afternoon sessions in Sala Suggia — including Banda Musical de São Pedro da Cova, Banda Marcial de Cinfães, and the Torres Vedras volunteer firefighters' band — followed by a traditional street march on the exterior plaza at 17:30.",
+      "url": "https://casadamusica.com/event/encontro-de-bandas-filarmonicas-2607/"
+    },
+    {
       "id": "evt_2026_0724_porto-tech-mixer-social",
       "name": "Porto Tech Mixer and Social",
       "tag": "tech",
