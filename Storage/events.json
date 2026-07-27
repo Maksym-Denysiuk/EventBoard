@@ -12,56 +12,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_0726_encontro-bandas-filarmonicas",
-      "name": "Encontro de Bandas Filarmónicas",
-      "tag": "music",
-      "date": "2026-07-26T14:30:00+01:00",
-      "location": "Casa da Música (Sala Suggia), Av. da Boavista 604-610, Porto",
-      "price": "Free entry",
-      "description": "National gathering of Portuguese philharmonic bands performing two afternoon sessions in Sala Suggia — including Banda Musical de São Pedro da Cova, Banda Marcial de Cinfães, and the Torres Vedras volunteer firefighters' band — followed by a traditional street march on the exterior plaza at 17:30.",
-      "url": "https://casadamusica.com/event/encontro-de-bandas-filarmonicas-2607/"
-    },
-    {
-      "id": "evt_2026_0726_looksharp-boardgames-night",
-      "name": "Boardgames Night at LOOK.Sharp",
-      "tag": "tournament",
-      "date": "2026-07-26T18:00:00+01:00",
-      "location": "LOOK.Sharp Cafe, Rua Cimo de Vila 41, Porto",
-      "price": "€3",
-      "description": "Porto's longest-running board game social — classic and modern games with food and new connections in a relaxed café setting. Runs every Thursday and Sunday, doors 18:00 until 22:30.",
-      "url": "https://www.look-sharp.net/events"
-    },
-    {
-      "id": "evt_2026_0726_juanes-world-tour",
-      "name": "Juanes – World Tour 2026",
-      "tag": "music",
-      "date": "2026-07-26T21:00:00+01:00",
-      "location": "Super Bock Arena – Pavilhão Rosa Mota, Porto",
-      "price": "€45–€60",
-      "description": "Grammy-winning Colombian artist Juanes brings his World Tour 2026 to Porto, showcasing his new album \"Juanes Teban\" alongside career-defining hits, with Portuguese singer Rita Rocha opening. Doors 20:30.",
-      "url": "https://www.masqueticket.com/en/entradas/juanes-conciertos-gira-tour-bilhetes-porto-portugal-2026"
-    },
-    {
-      "id": "evt_2026_0726_candlelight-abba",
-      "name": "Candlelight: The Best of ABBA",
-      "tag": "music",
-      "date": "2026-07-26T18:30:00+01:00",
-      "location": "Hilton Porto Gaia, Rua de Serpa Pinto 124, Vila Nova de Gaia",
-      "price": "From €18.50 (Zone D) to €37.00 (Zone A)",
-      "description": "String-quartet candlelit tribute concert performing 13 ABBA songs in an intimate multi-sensory setting at the Hilton Porto Gaia. 60-minute set, seating assigned by ticket zone; minimum age 8.",
-      "url": "https://feverup.com/m/119957/en"
-    },
-    {
-      "id": "evt_2026_0726_candlelight-hans-zimmer",
-      "name": "Candlelight: The Best of Hans Zimmer",
-      "tag": "music",
-      "date": "2026-07-26T21:30:00+01:00",
-      "location": "Hilton Porto Gaia, Rua de Serpa Pinto 124, Vila Nova de Gaia",
-      "price": "From €21.50 (Zone D) to €37.50 (Zone A)",
-      "description": "String-quartet candlelit concert of Hans Zimmer film scores (Inception, Interstellar, The Lion King, Dune, Pirates of the Caribbean) at the Hilton Porto Gaia. 60-minute set, seating assigned by ticket zone; minimum age 8.",
-      "url": "https://feverup.com/m/148113/en"
-    },
-    {
       "id": "evt_2026_0728_queer-book-club-orlando",
       "name": "Porto Queer Book Club – Orlando #1",
       "tag": "community",
@@ -70,6 +20,16 @@
       "price": "Sold out – waitlist open (ticket price not published)",
       "description": "Sixth edition of a recurring LGBTQ+ book club meetup, discussing Virginia Woolf's 'Orlando' at a queer-friendly bar in central Porto. Conducted primarily in Portuguese; this date is sold out with a waitlist.",
       "url": "https://www.eventbrite.com/e/bilhetes-porto-queer-book-club-orlando-1-1993124296424"
+    },
+    {
+      "id": "evt_2026_0729_coworking-meetup-digital-nomads",
+      "name": "Coworking MeetUp #55 – Digital Nomads Porto",
+      "tag": "community",
+      "date": "2026-07-29T10:00:00+01:00",
+      "location": "Bōn Coworking, Rua Joaquim António de Aguiar 150, Porto",
+      "price": "Free (RSVP required)",
+      "description": "Weekly Wednesday coworking meetup for Porto's digital nomad community, running 10:00-18:00 at Bōn Coworking in Bonfim. Organized by DNA Portugal; RSVP via WhatsApp group required to secure a spot.",
+      "url": "https://www.eventbrite.com/e/coworking-meetup-55-digital-nomads-porto-tickets-1994802425754"
     },
     {
       "id": "evt_2026_0729_startup-portugal-pitch-please",
@@ -182,6 +142,46 @@
       "url": "https://em.guimaraes.pt/cultura/geo_evento-86/festas-da-cidade-e-gualterianas-2026"
     },
     {
+      "id": "evt_2026_0731_slavic-wave-porto",
+      "name": "Slavic Wave Porto",
+      "tag": "nightlife",
+      "date": "2026-07-31T23:59:00+01:00",
+      "location": "Pinkclub, Rua do Conde de Vizela 80, Porto",
+      "price": "Price not published",
+      "description": "Late-night party themed around Slavic music and culture, running from 23:59 on July 31 until 06:00 on August 1 at Pinkclub in downtown Porto.",
+      "url": "https://www.eventbrite.com/e/bilhetes-slavic-wave-porto-1993194682952"
+    },
+    {
+      "id": "evt_2026_0801_no-noise-11",
+      "name": "No Noise #11 – Experimental Music & DIY Festival",
+      "tag": "music",
+      "date": "2026-08-01T15:00:00+01:00",
+      "location": "Sonoscopia Associação, R. de Silva Porto 217, Porto",
+      "price": "€12 (includes dinner)",
+      "description": "11th edition of Sonoscopia's annual small-scale experimental music and DIY culture festival, running 15:00-23:00 across the venue's concert hall, garden, and bar with nine performances. Not wheelchair accessible.",
+      "url": "https://www.agenda-porto.pt/evento/no-noise-11/"
+    },
+    {
+      "id": "evt_2026_0801_cyanotype-experience-maria-constanza",
+      "name": "A Cyanotype Experience with Artist Maria Constanza",
+      "tag": "art",
+      "date": "2026-08-01T16:00:00+01:00",
+      "location": "Hotel Tipografia do Conto, Rua de Álvares Cabral 28, Porto",
+      "price": "Price not published",
+      "description": "Cyanotype photography workshop led by Venezuelan-Portuguese-American artist Maria Constanza Ferreira, held at Hotel Tipografia do Conto in Porto.",
+      "url": "https://www.eventbrite.com/e/a-cyanotype-experience-with-artist-maria-constanza-tickets-1994745608813"
+    },
+    {
+      "id": "evt_2026_0801_aaron-parks-trio-pianofest",
+      "name": "Aaron Parks Trio – Porto Pianofest Opening Concert",
+      "tag": "music",
+      "date": "2026-08-01T19:30:00+01:00",
+      "location": "Casa da Música, Porto",
+      "price": "Price not published",
+      "description": "Opening concert of the 11th Porto Pianofest, marking the Portuguese debut of pianist Aaron Parks' trio with Danish bassist Anders Christensen and Portuguese drummer André Sousa Machado.",
+      "url": "https://www.portopianofest.com/pt/home"
+    },
+    {
       "id": "evt_2026_0801_morrissey",
       "name": "Morrissey – Live in Porto",
       "tag": "music",
@@ -202,6 +202,16 @@
       "url": "https://em.guimaraes.pt/cultura/geo_evento-86/festas-da-cidade-e-gualterianas-2026"
     },
     {
+      "id": "evt_2026_0802_jaeden-izik-dzurko-pianofest",
+      "name": "Jaeden Izik-Dzurko – Porto Pianofest",
+      "tag": "music",
+      "date": "2026-08-02T19:30:00+01:00",
+      "location": "Reitoria da Universidade do Porto, Salão Nobre, Porto",
+      "price": "Price not published",
+      "description": "Recital by Canadian pianist Jaeden Izik-Dzurko, the most recent winner of the Leeds International Piano Competition, as part of Porto Pianofest's Salão Nobre concert series.",
+      "url": "https://www.portopianofest.com/pt/home"
+    },
+    {
       "id": "evt_2026_0802_gnr-gualterianas",
       "name": "GNR – Festas Gualterianas",
       "tag": "music",
@@ -210,6 +220,26 @@
       "price": "Free entry",
       "description": "Closing headline concert by legendary Portuguese rock band GNR on the Largo do Toural main stage, wrapping up Guimarães' Festas da Cidade e Gualterianas 2026 (July 24 – August 3).",
       "url": "https://em.guimaraes.pt/cultura/geo_evento-86/festas-da-cidade-e-gualterianas-2026"
+    },
+    {
+      "id": "evt_2026_0803_jose-ramon-mendez-pianofest",
+      "name": "José Ramón Méndez – Porto Pianofest",
+      "tag": "music",
+      "date": "2026-08-03T19:30:00+01:00",
+      "location": "Reitoria da Universidade do Porto, Salão Nobre, Porto",
+      "price": "Price not published",
+      "description": "Piano recital by Spanish pianist José Ramón Méndez featuring works by Schubert and Schumann, part of Porto Pianofest's Salão Nobre concert series.",
+      "url": "https://www.portopianofest.com/pt/home"
+    },
+    {
+      "id": "evt_2026_0804_nuno-marques-pianofest",
+      "name": "Nuno Marques – Porto Pianofest",
+      "tag": "music",
+      "date": "2026-08-04T19:30:00+01:00",
+      "location": "Reitoria da Universidade do Porto, Salão Nobre, Porto",
+      "price": "Price not published",
+      "description": "Piano recital by Portuguese pianist Nuno Marques, part of Porto Pianofest's Salão Nobre concert series at the University of Porto's Rectory.",
+      "url": "https://www.portopianofest.com/pt/home"
     },
     {
       "id": "evt_2026_0808_100-cities-project-porto-dinner",
