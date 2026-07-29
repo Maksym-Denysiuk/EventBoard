@@ -12,14 +12,14 @@
   },
   "events": [
     {
-      "id": "evt_2026_0728_queer-book-club-orlando",
-      "name": "Porto Queer Book Club – Orlando #1",
-      "tag": "community",
-      "date": "2026-07-28T19:00:00+01:00",
-      "location": "Bar of Soap, Rua do Bolhão 132, Porto",
-      "price": "Sold out – waitlist open (ticket price not published)",
-      "description": "Sixth edition of a recurring LGBTQ+ book club meetup, discussing Virginia Woolf's 'Orlando' at a queer-friendly bar in central Porto. Conducted primarily in Portuguese; this date is sold out with a waitlist.",
-      "url": "https://www.eventbrite.com/e/bilhetes-porto-queer-book-club-orlando-1-1993124296424"
+      "id": "evt_2026_0729_viagem-medieval-santa-maria",
+      "name": "Viagem Medieval em Terra de Santa Maria 2026",
+      "tag": "trips",
+      "date": "2026-07-29T10:00:00+01:00",
+      "location": "Centro Histórico de Santa Maria da Feira (~35km from Porto)",
+      "price": "€9–€11 daily wristband (3rd pricing phase, Jul 29 – Aug 10); €12–€14 Royal wristband incl. castle & tournament",
+      "description": "30th-anniversary edition of Portugal's largest medieval reenactment fair, running July 29 – August 9 through the historic center of Santa Maria da Feira with market stalls, costumed performers, jousting-style tournament shows, and themed areas evoking the medieval County of Portugal.",
+      "url": "https://viagemmedieval.bol.pt/?lang=en-US"
     },
     {
       "id": "evt_2026_0729_coworking-meetup-digital-nomads",
@@ -172,6 +172,16 @@
       "url": "https://www.eventbrite.com/e/a-cyanotype-experience-with-artist-maria-constanza-tickets-1994745608813"
     },
     {
+      "id": "evt_2026_0801_techno-room-beach-fest",
+      "name": "Techno Room Beach Fest 2026",
+      "tag": "music",
+      "date": "2026-08-01T17:00:00+01:00",
+      "location": "Praia da Baía, R. 2 2, 4500-259 Espinho (~18km from Porto)",
+      "price": "Price not published (2025 edition: €25 at the door / €10 after-party)",
+      "description": "Beach techno festival running 17:00–06:00 with a DJ lineup including GADDAM, MYU:SA, PER PLEKS, POLTERGST, STAN CHRIST and STËH, followed by an official after-party at 4EVERCLUB from 00:30.",
+      "url": "https://shotgun.live/pt-pt/festivals/porto-techno-room-beach-fest-2026"
+    },
+    {
       "id": "evt_2026_0801_aaron-parks-trio-pianofest",
       "name": "Aaron Parks Trio – Porto Pianofest Opening Concert",
       "tag": "music",
@@ -200,6 +210,16 @@
       "price": "Free entry",
       "description": "Headline concert by Portuguese rapper Dillaz on the Largo do Toural main stage, part of Guimarães' Festas da Cidade e Gualterianas 2026 (July 24 – August 3).",
       "url": "https://em.guimaraes.pt/cultura/geo_evento-86/festas-da-cidade-e-gualterianas-2026"
+    },
+    {
+      "id": "evt_2026_0802_conjuncoes-ibericas-organ-recital",
+      "name": "Conjunções Ibéricas III – Batalhas e suas Tréguas",
+      "tag": "music",
+      "date": "2026-08-02T18:00:00+01:00",
+      "location": "Mosteiro de São Bento da Vitória, R. de São Bento da Vitória 45, Porto",
+      "price": "Free admission (capacity limited)",
+      "description": "Organ recital exploring 17th- and 18th-century Iberian battle-genre organ music, using the instrument to evoke trumpets, echoes and processions, performed at TNSJ's Mosteiro de São Bento da Vitória.",
+      "url": "https://www.agenda-porto.pt/evento/conjuncoes-ibericas-iii-batalhas-e-suas-treguas/"
     },
     {
       "id": "evt_2026_0802_jaeden-izik-dzurko-pianofest",
