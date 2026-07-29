@@ -322,6 +322,16 @@
       "url": "https://www.eventbrite.com/e/general-business-networking-elevating-your-potential-porto-tickets-1991144718453"
     },
     {
+      "id": "evt_2026_0904_blast-premier-open-porto",
+      "name": "BLAST Premier Open Porto 2026 – Playoffs",
+      "tag": "tournament",
+      "date": "2026-09-04T14:30:00+01:00",
+      "location": "Super Bock Arena – Pavilhão Rosa Mota, Porto",
+      "price": "€15–€175",
+      "description": "Playoff stage (Sept 4-6) of BLAST Premier Open Porto 2026, bringing 16 of the world's top Counter-Strike 2 teams to Porto to compete for a share of a $1.1M prize pool — BLAST's first Portuguese event held outside Lisbon. Doors 13:45. Rated M/16.",
+      "url": "https://www.superbockarena.pt/evento/blast-premier/"
+    },
+    {
       "id": "evt_2026_0910_nomad-world-porto",
       "name": "The Nomad World Porto",
       "tag": "business",
@@ -380,6 +390,16 @@
       "price": "Mixed free & paid (per-event pricing; see website)",
       "description": "A decentralized, five-day city-wide AI festival (Sept 14-18) spanning 80+ independent events across 40+ venues — warehouses, galleries, studios and coworking spaces — organized around five tracks: Build, Growth, Create, Indie Hacking, and Human. Led by NomadX founder Gonçalo Hall in partnership with Porto City Hall and ANJE; anyone can host a session or offer venue space.",
       "url": "https://portoaiweek.org/"
+    },
+    {
+      "id": "evt_2026_0915_iam-tech-day-europa",
+      "name": "IAM Tech Day Europa 2026",
+      "tag": "tech",
+      "date": "2026-09-15T08:00:00+01:00",
+      "location": "Sheraton Porto Hotel & Spa, Rua do Tenente Valadim 146, Porto",
+      "price": "Paid (price not published; via Eventbrite)",
+      "description": "International digital identity and cybersecurity conference organized by OWLK Cyber Hub, running 8:00-19:00 and bringing together IAM and cybersecurity professionals for its Europa edition.",
+      "url": "https://www.eventbrite.pt/e/iam-tech-day-europa-2026-tickets-1992957439350"
     },
     {
       "id": "evt_2026_0918_maker-faire-porto",
@@ -472,6 +492,26 @@
       "url": "https://www.batalhacentrodecinema.pt/en/programmes/cinema-ao-redor-batalha-quiz/"
     },
     {
+      "id": "evt_2026_1001_transvision-vamp",
+      "name": "Transvision Vamp – Porto",
+      "tag": "music",
+      "date": "2026-10-01T20:30:00+01:00",
+      "location": "Hard Club, Porto",
+      "price": "€32.50 + €2.41 fee",
+      "description": "British band Transvision Vamp, fronted by Wendy James, bring their reunion tour to Hard Club as part of a two-night Portugal stop alongside a Lisbon show. Doors 20:00; ages 6+.",
+      "url": "https://www.masqueticket.com/en/entradas/transvision-vamp-lisboa-porto-portugal-tour-bilhetes-2026"
+    },
+    {
+      "id": "evt_2026_1003_simone-mendes",
+      "name": "Simone Mendes – Tour Portugal 2026",
+      "tag": "music",
+      "date": "2026-10-03T21:30:00+01:00",
+      "location": "Super Bock Arena – Pavilhão Rosa Mota, Porto",
+      "price": "€35–€60",
+      "description": "Brazilian sertanejo singer Simone Mendes returns to Portugal for a 90-minute arena show of her major hits. Doors 20:00. Rated M/6.",
+      "url": "https://www.superbockarena.pt/evento/simone-mendes-tour-portugal-2026/"
+    },
+    {
       "id": "evt_2026_1003_sword-ai-summit",
       "name": "Sword AI Summit 2026",
       "tag": "tech",
@@ -492,6 +532,16 @@
       "url": "https://www.hardclubporto.com/EN/evento/ira-2026/"
     },
     {
+      "id": "evt_2026_1012_atc-padel-cup",
+      "name": "ATC Padel Cup 2026 – Porto",
+      "tag": "tournament",
+      "date": "2026-10-12T09:00:00+01:00",
+      "location": "Padelarium – Padel Athletic Club (PAC), Porto",
+      "price": "€260 entry (without accommodation); hotel packages €560–€890",
+      "description": "Second edition of the ATC Padel Cup in Porto, a week-long (Oct 12-17) amateur-friendly padel tournament at Padelarium's 12 indoor courts, with teams split into Main/Plate/Vase divisions after a first-day group stage. Open to all skill levels, beginners included.",
+      "url": "https://www.atcpadelcup.com/"
+    },
+    {
       "id": "evt_2026_1016_collabdays-portugal-porto",
       "name": "CollabDays Portugal 2026 – Porto Edition",
       "tag": "tech",
@@ -500,6 +550,16 @@
       "price": "Free",
       "description": "Free, one-day non-profit community conference on Microsoft 365, Azure, Copilot, AI and Power Platform, featuring sessions from industry leaders and Microsoft MVPs.",
       "url": "https://www.collabdays.org/2026-portugal/"
+    },
+    {
+      "id": "evt_2026_1017_wise-pirates-karting-prova8",
+      "name": "Wise Pirates Karting Series 2025/26 – Prova 8",
+      "tag": "sports",
+      "date": "2026-10-17T10:00:00+01:00",
+      "location": "Kartódromo de Baltar, Av. de São Silvestre 760, Baltar (~25km from Porto)",
+      "price": "Price not published (contact organizer)",
+      "description": "Round 8 of the amateur Wise Pirates Karting Series, a rental-kart sprint championship open to mixed-skill drivers, held at the 1020m outdoor Baltar circuit. Exact start time was still marked \"to be defined\" by organizers at time of research.",
+      "url": "https://calendariokarting.pt/events/wise-pirates-karting-series-2025-26-event-8"
     },
     {
       "id": "evt_2026_1020_lemon-twigs",
@@ -520,6 +580,16 @@
       "price": "€8–€14 general seating (camarotes €72)",
       "description": "Portuguese singer-songwriter Miguel Araújo curates a seated morning concert with the Orquestra Clássica de Espinho, mixing his own songs with his favourite classical pieces. Part of the Coliseu's family-friendly Promenade 2026 series.",
       "url": "https://www.coliseu.pt/evento/20261025-promenade-2026-carta-branca-a-miguel-araujo"
+    },
+    {
+      "id": "evt_2026_1027_adriana-calcanhotto",
+      "name": "Adriana Calcanhotto – Voz e Violão",
+      "tag": "music",
+      "date": "2026-10-27T21:00:00+00:00",
+      "location": "Casa da Música (Sala Suggia), Av. da Boavista 604-610, Porto",
+      "price": "€28–€45",
+      "description": "Intimate solo voice-and-guitar performance by Brazilian singer-songwriter Adriana Calcanhotto, revisiting career highlights alongside newer songs connected to Portuguese-language poetry.",
+      "url": "https://agendaculturalporto.org/eventos/adriana-calcanhotto-leva-voz-e-violao-a-casa-da-musica/"
     },
     {
       "id": "evt_2026_1031_moonspell",
@@ -572,6 +642,16 @@
       "url": "https://www.gallery-hostel.com/en/events-en"
     },
     {
+      "id": "evt_2026_1114_jack-and-jack",
+      "name": "Jack & Jack – SYN/ANTI Tour",
+      "tag": "music",
+      "date": "2026-11-14T19:30:00+00:00",
+      "location": "Hotel Mouco, R. de Frei Heitor Pinto 65, Porto",
+      "price": "Price not published",
+      "description": "American pop-rap duo Jack & Jack (Jack Gilinsky and Jack Johnson) bring their SYN/ANTI Tour to Porto's Hotel Mouco.",
+      "url": "https://www.songkick.com/concerts/43269546-jack-and-jack-at-mouco-hotel"
+    },
+    {
       "id": "evt_2026_1114_twilight-sad",
       "name": "The Twilight Sad – It's the Long Goodbye",
       "tag": "music",
@@ -602,6 +682,16 @@
       "url": "https://devopsdays.org/events/2026-portugal/welcome/"
     },
     {
+      "id": "evt_2026_1121_lebanon-hanover",
+      "name": "Lebanon Hanover – Asylum Lullabies Tour",
+      "tag": "music",
+      "date": "2026-11-21T21:00:00+00:00",
+      "location": "Hard Club, Porto",
+      "price": "€27 + €2 fee",
+      "description": "UK minimal-wave/post-punk duo Lebanon Hanover perform material from their album Asylum Lullabies, following sold-out 2023 Lisbon and Porto shows. Doors 20:00.",
+      "url": "https://www.hardclubporto.com/EN/evento/lebanon-hanover-2026/"
+    },
+    {
       "id": "evt_2026_1128_wise-pirates-karting-prova9",
       "name": "Wise Pirates Karting Series 2025/26 – Prova 9",
       "tag": "sports",
@@ -630,6 +720,16 @@
       "price": "Price not published (2026 edition ranged €20–€60)",
       "description": "A Resistência returns to Coliseu Porto Ageas for their annual New Year concert, a long-running fixture of the Portuguese music calendar; the band's January 2026 Porto date sold out completely. Exact start time not yet published at time of research.",
       "url": "https://www.coliseu.pt/agenda"
+    },
+    {
+      "id": "evt_2027_0129_udo",
+      "name": "U.D.O. – Anniversary Tour",
+      "tag": "music",
+      "date": "2027-01-29T20:00:00+00:00",
+      "location": "Hard Club, Porto",
+      "price": "€45",
+      "description": "German heavy metal band U.D.O., fronted by Udo Dirkschneider (former voice of Accept), bring their anniversary tour to Hard Club.",
+      "url": "https://agendaculturalporto.org/agenda-hard-club-porto/"
     }
   ]
 }
