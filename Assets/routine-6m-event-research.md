@@ -1,4 +1,4 @@
-# Routine: Daily Event Research
+# Routine: 6m Event Research
 
 **Purpose:** Keep `Storage/events.json` populated with upcoming events for a configured location and set of interest categories, over a rolling window, without re-researching events already captured.
 
@@ -7,12 +7,12 @@
 ---
 
 ## Configuration parameters (set per deployment, not hardcoded)
+We are doing 6m analysis so that parameter: `WINDOW_DAYS` should always be 6 month range
 
 | Parameter | Description |
 |---|---|
 | `LOCATION` | Base location for the search |
 | `RADIUS_KM` | Search radius around `LOCATION` |
-| `WINDOW_DAYS` | Rolling look-ahead window (default: 10 days from run date) |
 | `TAG_MAP` | The `tags` object from the schema — defines allowed tag keys and their category meaning |
 | `INCLUDE_CRITERIA` | Per-tag inclusion rules (e.g. topics/activity types to look for) |
 | `EXCLUDE_CRITERIA` | Per-tag exclusion rules (e.g. topics/activity types to skip) |
