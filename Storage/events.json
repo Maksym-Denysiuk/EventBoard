@@ -12,46 +12,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_0729_viagem-medieval-santa-maria",
-      "name": "Viagem Medieval em Terra de Santa Maria 2026",
-      "tag": "trips",
-      "date": "2026-07-29T10:00:00+01:00",
-      "location": "Centro Histórico de Santa Maria da Feira (~35km from Porto)",
-      "price": "€9–€11 daily wristband (3rd pricing phase, Jul 29 – Aug 10); €12–€14 Royal wristband incl. castle & tournament",
-      "description": "30th-anniversary edition of Portugal's largest medieval reenactment fair, running July 29 – August 9 through the historic center of Santa Maria da Feira with market stalls, costumed performers, jousting-style tournament shows, and themed areas evoking the medieval County of Portugal.",
-      "url": "https://viagemmedieval.bol.pt/?lang=en-US"
-    },
-    {
-      "id": "evt_2026_0729_coworking-meetup-digital-nomads",
-      "name": "Coworking MeetUp #55 – Digital Nomads Porto",
-      "tag": "community",
-      "date": "2026-07-29T10:00:00+01:00",
-      "location": "Bōn Coworking, Rua Joaquim António de Aguiar 150, Porto",
-      "price": "Free (RSVP required)",
-      "description": "Weekly Wednesday coworking meetup for Porto's digital nomad community, running 10:00-18:00 at Bōn Coworking in Bonfim. Organized by DNA Portugal; RSVP via WhatsApp group required to secure a spot.",
-      "url": "https://www.eventbrite.com/e/coworking-meetup-55-digital-nomads-porto-tickets-1994802425754"
-    },
-    {
-      "id": "evt_2026_0729_startup-portugal-pitch-please",
-      "name": "Startup Portugal Hangout – PITCH, please!",
-      "tag": "business",
-      "date": "2026-07-29T17:30:00+01:00",
-      "location": "Edifício Transparente (Workin Porto), Via do Castelo do Queijo 335, Porto",
-      "price": "Free",
-      "description": "Startup Portugal's monthly Above & Beyond Hangout, this edition dedicated to founder pitch sessions in front of the local entrepreneurial ecosystem — founders, investors, and community members networking afterward.",
-      "url": "https://startupportugal.com/programs/above-beyond-hangouts/"
-    },
-    {
-      "id": "evt_2026_0729_porto-beach-tennis",
-      "name": "Porto Beach Tennis 2026",
-      "tag": "tournament",
-      "date": "2026-07-29T10:00:00+01:00",
-      "location": "Praia Internacional do Porto (Estádio de Praia), Via do Castelo do Queijo, s/n, Porto",
-      "price": "Free entry for spectators",
-      "description": "Beach tennis competition at Porto's municipal beach stadium, part of the Estádio de Praia summer sports calendar running June 13 – August 30 with free public access to all events. Runs July 29 – August 2; exact daily match times were not published at time of research.",
-      "url": "https://www.agoraporto.pt/noticias/estadio-de-praia-do-porto-volta-a-receber-competicoes-de-junho-a-agosto"
-    },
-    {
       "id": "evt_2026_0730_porto-future-tech-networking",
       "name": "Porto Future Tech – Casual Networking",
       "tag": "tech",
@@ -212,6 +172,16 @@
       "url": "https://em.guimaraes.pt/cultura/geo_evento-86/festas-da-cidade-e-gualterianas-2026"
     },
     {
+      "id": "evt_2026_0801_the-journey-black-edition",
+      "name": "The Journey \"Black Edition\"",
+      "tag": "nightlife",
+      "date": "2026-08-01T23:55:00+01:00",
+      "location": "BLANCO CLUB, R. Manuel Pinto de Azevedo 21, Porto",
+      "price": "€7.50 pre-sale / €15 at the door",
+      "description": "Techno night organized by No Time For Sleep (NTS) headlined by Nuno Clam alongside Azeh, DJ Frankie Guess and Skitter, running 23:55 Aug 1 to 06:00 Aug 2 with a black casual-chic dress code. Ages 18+, no-refund policy.",
+      "url": "https://www.eventbrite.pt/e/the-journey-black-edition-tickets-1993626850577"
+    },
+    {
       "id": "evt_2026_0802_conjuncoes-ibericas-organ-recital",
       "name": "Conjunções Ibéricas III – Batalhas e suas Tréguas",
       "tag": "music",
@@ -260,6 +230,16 @@
       "price": "Price not published",
       "description": "Piano recital by Portuguese pianist Nuno Marques, part of Porto Pianofest's Salão Nobre concert series at the University of Porto's Rectory.",
       "url": "https://www.portopianofest.com/pt/home"
+    },
+    {
+      "id": "evt_2026_0806_trilhos-cruzados-exhibition",
+      "name": "Trilhos Cruzados — António Moreira da Silva Exhibition Opening",
+      "tag": "art",
+      "date": "2026-08-06T19:00:00+01:00",
+      "location": "Alameda Shop&Spot, Rua dos Campeões Europeus 28-198, Porto",
+      "price": "Free (gallery exhibition opening)",
+      "description": "Opening reception for painter António Moreira da Silva's exhibition 'Trilhos Cruzados' — acrylic and modeling-paste works moving between abstraction and recognizable landscapes — accompanied by a live cello performance by Benedita Andrade.",
+      "url": "https://news.cision.com/pt/cbre-portugal/r/neste--querido-mes-de-agosto--ha-arte-para-descobrir-no-alameda-shop-spot,c639208435390000000"
     },
     {
       "id": "evt_2026_0808_100-cities-project-porto-dinner",
