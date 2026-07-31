@@ -1,0 +1,14 @@
+{
+  "tags": {
+    "tech": "Tech",
+    "music": "Music",
+    "business": "Business",
+    "art": "Art",
+    "sports": "Sports",
+    "community": "Community",
+    "trips": "Trips",
+    "tournament": "Tournament",
+    "nightlife": "Nightlife"
+  },
+  "events": []
+}

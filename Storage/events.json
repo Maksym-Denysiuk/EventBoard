@@ -19,7 +19,9 @@
       "location": "Bonaparte Downtown, P. de Guilherme Gomes Fernandes 40, Porto",
       "price": "€3 (online only)",
       "description": "A weekly Friday mixer welcoming expats, international students, travelers, and locals to meet new people and practice languages over drinks and food.",
-      "url": "https://www.eventbrite.com/e/porto-social-and-language-exchange-make-new-friends-tickets-1992611520698?aff=ebdssbcitybrowse"
+      "url": "https://www.eventbrite.com/e/porto-social-and-language-exchange-make-new-friends-tickets-1992611520698?aff=ebdssbcitybrowse",
+      "interest_rate": 45,
+      "interest_rate_reason": "Casual recurring social mixer — mild fit with positive story 4's low-pressure small-group idea, but no hands-on activity or guided structure."
     },
     {
       "id": "evt_2026_0731_creative-mornings-porto",
@@ -29,7 +31,9 @@
       "location": "The Amphitheatre, Praça de Dom João I, The Social Hub Porto",
       "price": "Free (registration required)",
       "description": "Monthly CreativeMornings breakfast gathering with free coffee and a talk themed \"COMPETENCIA,\" exploring how competing against the best can raise everyone's craft rather than being a zero-sum race.",
-      "url": "https://www.eventbrite.co.uk/e/creative-mornings-tickets-1992837285968"
+      "url": "https://www.eventbrite.co.uk/e/creative-mornings-tickets-1992837285968",
+      "interest_rate": 55,
+      "interest_rate_reason": "Structured business talk with a defined speaker/topic — partial match to positive story 1 (business/expertise-building), though not AI/pitch/stock-specific."
     },
     {
       "id": "evt_2026_0731_scorpions-tribute-symphonic",
@@ -39,7 +43,9 @@
       "location": "Casa da Música (Sala Suggia), Av. da Boavista 604-610, Porto",
       "price": "From €25 (Plateia; ~€26.84 with fees)",
       "description": "Symphonic tribute concert pairing the Orquestra Nacional de Jovens with the Mercury Falls Band and guest vocalists, fusing Scorpions' rock catalogue with a full orchestral arrangement under artistic direction of Cristiano Silva.",
-      "url": "https://www.ticketline.pt/en/evento/scorpions-tribute-symphonic-experience-104719/sessao/126292_80_1785529800"
+      "url": "https://www.ticketline.pt/en/evento/scorpions-tribute-symphonic-experience-104719/sessao/126292_80_1785529800",
+      "interest_rate": 70,
+      "interest_rate_reason": "Ticketed seated concert at a proper venue with guaranteed good sound — strong match to positive story 5's live-gig, no-social-pressure fit."
     },
     {
       "id": "evt_2026_0731_barbara-bandeira-gualterianas",
@@ -49,7 +55,9 @@
       "location": "Largo do Toural, Guimarães (~50km from Porto)",
       "price": "Free entry",
       "description": "Headline concert by Portuguese pop star Bárbara Bandeira on the Largo do Toural main stage, part of Guimarães' Festas da Cidade e Gualterianas 2026 (July 24 – August 3).",
-      "url": "https://em.guimaraes.pt/cultura/geo_evento-86/festas-da-cidade-e-gualterianas-2026"
+      "url": "https://em.guimaraes.pt/cultura/geo_evento-86/festas-da-cidade-e-gualterianas-2026",
+      "interest_rate": 50,
+      "interest_rate_reason": "Free outdoor headline concert — live-music resonance (positive story 5) tempered by likely large uncontrolled festival crowd (negative story 2)."
     },
     {
       "id": "evt_2026_0731_slavic-wave-porto",
@@ -59,7 +67,45 @@
       "location": "Pinkclub, Rua do Conde de Vizela 80, Porto",
       "price": "Price not published",
       "description": "Late-night party themed around Slavic music and culture, running from 23:59 on July 31 until 06:00 on August 1 at Pinkclub in downtown Porto.",
-      "url": "https://www.eventbrite.com/e/bilhetes-slavic-wave-porto-1993194682952"
+      "url": "https://www.eventbrite.com/e/bilhetes-slavic-wave-porto-1993194682952",
+      "interest_rate": 35,
+      "interest_rate_reason": "Late-night themed club party — no clear match to positive stories; nightlife/DJ format doesn't fit the small-venue live-gig or craft-workshop stories."
+    },
+    {
+      "id": "evt_2026_0731_leca-chess-open",
+      "name": "Leça Chess Open – Portugal 2026",
+      "tag": "tournament",
+      "date": "2026-07-31T09:00:00+01:00",
+      "location": "Pavilhão Municipal de Leça da Palmeira, Leça da Palmeira, Matosinhos",
+      "price": "Price not published",
+      "description": "FIDE-rated open chess tournament (July 31 – August 6, 2026) at the Municipal Pavilion of Leça da Palmeira, drawing 150+ rated players including GM/IM/FM titleholders, part of the Portugal Chess Tour. Exact round 1 start time not published by organizers at time of research.",
+      "url": "https://portugalchesstour.fpx.pt/2026/06/23/lco-25/",
+      "interest_rate": 42,
+      "interest_rate_reason": "Large spectator FIDE chess tournament — passive attendance loosely echoes positive story 2's no-decisions resting format, though not personally participatory or social."
+    },
+    {
+      "id": "evt_2026_0801_passing-vessel-ceramic-candle-workshop",
+      "name": "The Passing Vessel – Ceramic & Candle Making Workshop",
+      "tag": "art",
+      "date": "2026-08-01T16:00:00+01:00",
+      "location": "SNEFERU Atelier, Rua de Ferreira Cardoso 49, Porto",
+      "price": "€45",
+      "description": "Hands-on ceramic and candle-making workshop at SNEFERU Atelier, including materials, a scented candle to take home, and snacks and drinks; small groups of 5-18 people. Recurring every Saturday 16:00-19:00.",
+      "url": "https://www.snfru.com/en-am/pages/ceramic-workshop-porto",
+      "interest_rate": 85,
+      "interest_rate_reason": "Small-group hands-on ceramic and candle-making workshop with relaxed pace — strong match to positive story 4's craft-workshop ideal."
+    },
+    {
+      "id": "evt_2026_0801_sao-joao-uma-rua-viva",
+      "name": "São João – Uma Rua Viva",
+      "tag": "art",
+      "date": "2026-08-01T15:00:00+01:00",
+      "location": "Rua de São João, Porto",
+      "price": "Free entry (snacks/drinks €7.50 per venue)",
+      "description": "Second edition of a community-driven street festival closing Rua de São João to traffic from 15:00-19:30, with fado and DJ performances, live crafts, gastronomy from twelve local merchants, and a guided tour of the historic English Factory.",
+      "url": "https://agendaculturalporto.org/eventos/sao-joao-uma-rua-viva-regressa-e-fecha-a-rua-de-sao-joao-ao-transito/",
+      "interest_rate": 52,
+      "interest_rate_reason": "Free street festival with live crafts and a guided historical tour — modest match to positive story 4, tempered by overcrowding/Portuguese-only-kitchen risk per negative story 2."
     },
     {
       "id": "evt_2026_0801_viagem-medieval-santa-maria",
@@ -69,7 +115,9 @@
       "location": "Centro Histórico de Santa Maria da Feira (~35km from Porto)",
       "price": "€4/day (Mon-Thu) or €5/day (Fri-Sun); €10 all-days wristband",
       "description": "30th-anniversary edition of Europe's largest medieval historical recreation event, transforming Santa Maria da Feira's historic centre with roughly 2,000 performers, themed around the Condado Portucalense. Runs July 29 – August 9, 2026; weekend access 12:00-00:30.",
-      "url": "https://www.viagemmedieval.com/en/"
+      "url": "https://www.viagemmedieval.com/en/",
+      "interest_rate": 40,
+      "interest_rate_reason": "Large self-guided historical festival — no fixed guided itinerary or meeting point, only a loose match to positive story 2's guided-tour resonance."
     },
     {
       "id": "evt_2026_0801_no-noise-11",
@@ -79,7 +127,9 @@
       "location": "Sonoscopia Associação, R. de Silva Porto 217, Porto",
       "price": "€12 (includes dinner)",
       "description": "11th edition of Sonoscopia's annual small-scale experimental music and DIY culture festival, running 15:00-23:00 across the venue's concert hall, garden, and bar with nine performances. Not wheelchair accessible.",
-      "url": "https://www.agenda-porto.pt/evento/no-noise-11/"
+      "url": "https://www.agenda-porto.pt/evento/no-noise-11/",
+      "interest_rate": 65,
+      "interest_rate_reason": "Small-venue experimental music festival with a real programme — matches positive story 5's live-gig, low-social-pressure appeal."
     },
     {
       "id": "evt_2026_0801_cyanotype-experience-maria-constanza",
@@ -89,7 +139,9 @@
       "location": "Hotel Tipografia do Conto, Rua de Álvares Cabral 28, Porto",
       "price": "Price not published",
       "description": "Cyanotype photography workshop led by Venezuelan-Portuguese-American artist Maria Constanza Ferreira, held at Hotel Tipografia do Conto in Porto.",
-      "url": "https://www.eventbrite.com/e/a-cyanotype-experience-with-artist-maria-constanza-tickets-1994745608813"
+      "url": "https://www.eventbrite.com/e/a-cyanotype-experience-with-artist-maria-constanza-tickets-1994745608813",
+      "interest_rate": 75,
+      "interest_rate_reason": "Small hands-on craft workshop led by an artist — strong match to positive story 4 (made something with my hands, relaxed pace)."
     },
     {
       "id": "evt_2026_0801_techno-room-beach-fest",
@@ -99,7 +151,9 @@
       "location": "Praia da Baía, R. 2 2, 4500-259 Espinho (~18km from Porto)",
       "price": "Price not published (2025 edition: €25 at the door / €10 after-party)",
       "description": "Beach techno festival running 17:00–06:00 with a DJ lineup including GADDAM, MYU:SA, PER PLEKS, POLTERGST, STAN CHRIST and STËH, followed by an official after-party at 4EVERCLUB from 00:30.",
-      "url": "https://shotgun.live/pt-pt/festivals/porto-techno-room-beach-fest-2026"
+      "url": "https://shotgun.live/pt-pt/festivals/porto-techno-room-beach-fest-2026",
+      "interest_rate": 45,
+      "interest_rate_reason": "Large overnight beach techno festival — live-music/DJ resonance present but big uncontrolled crowd leans toward negative story 2's overcrowded-event risk."
     },
     {
       "id": "evt_2026_0801_aaron-parks-trio-pianofest",
@@ -109,7 +163,9 @@
       "location": "Casa da Música, Porto",
       "price": "Price not published",
       "description": "Opening concert of the 11th Porto Pianofest, marking the Portuguese debut of pianist Aaron Parks' trio with Danish bassist Anders Christensen and Portuguese drummer André Sousa Machado.",
-      "url": "https://www.portopianofest.com/pt/home"
+      "url": "https://www.portopianofest.com/pt/home",
+      "interest_rate": 72,
+      "interest_rate_reason": "Ticketed jazz trio concert at a proper concert hall — strong match to positive story 5's small live-gig, good-sound, low-pressure appeal."
     },
     {
       "id": "evt_2026_0801_morrissey",
@@ -119,7 +175,9 @@
       "location": "Super Bock Arena – Pavilhão Rosa Mota, Porto",
       "price": "€60–€85",
       "description": "Morrissey returns to Portugal for the first time in over a decade with a seated arena show spanning his solo catalogue, The Smiths classics, and material from his new record. Doors 19:30, show 21:00.",
-      "url": "https://www.superbockarena.pt/evento/morrissey/"
+      "url": "https://www.superbockarena.pt/evento/morrissey/",
+      "interest_rate": 60,
+      "interest_rate_reason": "Big-name seated arena concert — passive, no-decisions live-music experience resembling positive story 2/5, tempered by large-venue scale."
     },
     {
       "id": "evt_2026_0801_dillaz-gualterianas",
@@ -129,7 +187,9 @@
       "location": "Largo do Toural, Guimarães (~50km from Porto)",
       "price": "Free entry",
       "description": "Headline concert by Portuguese rapper Dillaz on the Largo do Toural main stage, part of Guimarães' Festas da Cidade e Gualterianas 2026 (July 24 – August 3).",
-      "url": "https://em.guimaraes.pt/cultura/geo_evento-86/festas-da-cidade-e-gualterianas-2026"
+      "url": "https://em.guimaraes.pt/cultura/geo_evento-86/festas-da-cidade-e-gualterianas-2026",
+      "interest_rate": 50,
+      "interest_rate_reason": "Free outdoor headline concert — live-music resonance offset by large uncontrolled festival crowd (negative story 2)."
     },
     {
       "id": "evt_2026_0801_the-journey-black-edition",
@@ -139,7 +199,9 @@
       "location": "BLANCO CLUB, R. Manuel Pinto de Azevedo 21, Porto",
       "price": "€7.50 pre-sale / €15 at the door",
       "description": "Techno night organized by No Time For Sleep (NTS) headlined by Nuno Clam alongside Azeh, DJ Frankie Guess and Skitter, running 23:55 Aug 1 to 06:00 Aug 2 with a black casual-chic dress code. Ages 18+, no-refund policy.",
-      "url": "https://www.eventbrite.pt/e/the-journey-black-edition-tickets-1993626850577"
+      "url": "https://www.eventbrite.pt/e/the-journey-black-edition-tickets-1993626850577",
+      "interest_rate": 35,
+      "interest_rate_reason": "Late-night ticketed techno club night — no clear tie to positive stories; not guided, craft, business, or adrenaline-activity in nature."
     },
     {
       "id": "evt_2026_0802_conjuncoes-ibericas-organ-recital",
@@ -149,7 +211,9 @@
       "location": "Mosteiro de São Bento da Vitória, R. de São Bento da Vitória 45, Porto",
       "price": "Free admission (capacity limited)",
       "description": "Organ recital exploring 17th- and 18th-century Iberian battle-genre organ music, using the instrument to evoke trumpets, echoes and processions, performed at TNSJ's Mosteiro de São Bento da Vitória.",
-      "url": "https://www.agenda-porto.pt/evento/conjuncoes-ibericas-iii-batalhas-e-suas-treguas/"
+      "url": "https://www.agenda-porto.pt/evento/conjuncoes-ibericas-iii-batalhas-e-suas-treguas/",
+      "interest_rate": 68,
+      "interest_rate_reason": "Free organ recital in an atmospheric small venue — resonates with positive story 5's calm live-music, no-social-pressure appeal."
     },
     {
       "id": "evt_2026_0802_jaeden-izik-dzurko-pianofest",
@@ -159,7 +223,9 @@
       "location": "Reitoria da Universidade do Porto, Salão Nobre, Porto",
       "price": "Price not published",
       "description": "Recital by Canadian pianist Jaeden Izik-Dzurko, the most recent winner of the Leeds International Piano Competition, as part of Porto Pianofest's Salão Nobre concert series.",
-      "url": "https://www.portopianofest.com/pt/home"
+      "url": "https://www.portopianofest.com/pt/home",
+      "interest_rate": 70,
+      "interest_rate_reason": "Solo piano recital by an award-winning performer in an intimate hall — strong match to positive story 5."
     },
     {
       "id": "evt_2026_0802_candlelight-joe-hisaishi",
@@ -169,7 +235,9 @@
       "location": "Pestana Palácio do Freixo, Estrada Nacional 108, Porto",
       "price": "From €23.50",
       "description": "Candlelight-format tribute concert to composer Joe Hisaishi's film scores, performed by candlelight at Pestana Palácio do Freixo. 60-minute set; doors open 30 minutes before.",
-      "url": "https://feverup.com/m/195673/en"
+      "url": "https://feverup.com/m/195673/en",
+      "interest_rate": 62,
+      "interest_rate_reason": "Short candlelight tribute concert — enjoyable passive live-music format matching positive story 5, though brief and touristy."
     },
     {
       "id": "evt_2026_0802_gnr-gualterianas",
@@ -179,7 +247,9 @@
       "location": "Largo do Toural, Guimarães (~50km from Porto)",
       "price": "Free entry",
       "description": "Closing headline concert by legendary Portuguese rock band GNR on the Largo do Toural main stage, wrapping up Guimarães' Festas da Cidade e Gualterianas 2026 (July 24 – August 3).",
-      "url": "https://em.guimaraes.pt/cultura/geo_evento-86/festas-da-cidade-e-gualterianas-2026"
+      "url": "https://em.guimaraes.pt/cultura/geo_evento-86/festas-da-cidade-e-gualterianas-2026",
+      "interest_rate": 50,
+      "interest_rate_reason": "Free outdoor festival-closing concert — same large-crowd caveat (negative story 2) as the other Gualterianas headline shows."
     },
     {
       "id": "evt_2026_0806_castlerock-quiz-night",
@@ -189,7 +259,9 @@
       "location": "CastleRock Pub & Hotel, Rua do Conde de Vizela 114, Porto",
       "price": "€1 per player",
       "description": "Weekly Thursday pub quiz — 50 questions across two rounds for teams of up to 5 (extra members incur a 2-point penalty). The winning team gets up to €50 of free drinks; phones are banned during play. Recurring every Thursday through February 2027.",
-      "url": "https://agendaculturalporto.org/eventos/quiz-night-as-quintas-castlerock-pub-hotel/"
+      "url": "https://agendaculturalporto.org/eventos/quiz-night-as-quintas-castlerock-pub-hotel/",
+      "interest_rate": 58,
+      "interest_rate_reason": "Structured weekly pub quiz with clear rules and prizes — organized, low-key competitive format; no strong story match but low-risk and well-run."
     },
     {
       "id": "evt_2026_0807_porto-internationals-pubcrawl",
@@ -199,7 +271,21 @@
       "location": "Baixa Bar, Porto (starts here; continues to Fabrik Club and Galeria Paris Bar)",
       "price": "Free",
       "description": "Friday-night pub crawl hosted by the Porto Internationals meetup group through the city's bars — Baixa Bar (22:00), Fabrik Club (23:30), Galeria Paris Bar (01:00) — with complimentary shots, beer and party games. RSVP via WhatsApp.",
-      "url": "https://www.meetup.com/porto-internationals/"
+      "url": "https://www.meetup.com/porto-internationals/",
+      "interest_rate": 40,
+      "interest_rate_reason": "Multi-bar pub crawl — unstructured bar-hopping risks resembling negative story 3's 'no structure, just background noise' pattern."
+    },
+    {
+      "id": "evt_2026_0802_vizinhancas-casa-prelada",
+      "name": "Vizinhanças 2026 – Casa da Prelada",
+      "tag": "community",
+      "date": "2026-08-02T10:00:00+01:00",
+      "location": "Casa da Prelada, Rua dos Castelos 485, Porto",
+      "price": "Free",
+      "description": "Free Sunday community day at the Casa da Prelada gardens with music, dance, workshops, storytelling and traditional crafts for all ages, including activities from the Porto-area Association of Ukrainians in Portugal. Runs 10:00-19:00.",
+      "url": "https://agendaculturalporto.org/eventos/vizinhancas-2026-anima-a-casa-da-prelada-com-musica-oficinas-e-atividades-gratuitas/",
+      "interest_rate": 62,
+      "interest_rate_reason": "Free community day with music, hands-on workshops, and Ukrainian-culture activities — matches positive story 4's relaxed, low-pressure creative appeal and the Ukrainian-language priority."
     },
     {
       "id": "evt_2026_0803_jose-ramon-mendez-pianofest",
@@ -209,7 +295,9 @@
       "location": "Reitoria da Universidade do Porto, Salão Nobre, Porto",
       "price": "Price not published",
       "description": "Piano recital by Spanish pianist José Ramón Méndez featuring works by Schubert and Schumann, part of Porto Pianofest's Salão Nobre concert series.",
-      "url": "https://www.portopianofest.com/pt/home"
+      "url": "https://www.portopianofest.com/pt/home",
+      "interest_rate": 70,
+      "interest_rate_reason": "Solo piano recital in an intimate university hall — strong match to positive story 5's small live-gig appeal."
     },
     {
       "id": "evt_2026_0804_nuno-marques-pianofest",
@@ -219,7 +307,9 @@
       "location": "Reitoria da Universidade do Porto, Salão Nobre, Porto",
       "price": "Price not published",
       "description": "Piano recital by Portuguese pianist Nuno Marques, part of Porto Pianofest's Salão Nobre concert series at the University of Porto's Rectory.",
-      "url": "https://www.portopianofest.com/pt/home"
+      "url": "https://www.portopianofest.com/pt/home",
+      "interest_rate": 70,
+      "interest_rate_reason": "Solo piano recital, same intimate-venue series as other Pianofest dates — strong match to positive story 5."
     },
     {
       "id": "evt_2026_0806_trilhos-cruzados-exhibition",
@@ -229,7 +319,9 @@
       "location": "Alameda Shop&Spot, Rua dos Campeões Europeus 28-198, Porto",
       "price": "Free (gallery exhibition opening)",
       "description": "Opening reception for painter António Moreira da Silva's exhibition 'Trilhos Cruzados' — acrylic and modeling-paste works moving between abstraction and recognizable landscapes — accompanied by a live cello performance by Benedita Andrade.",
-      "url": "https://news.cision.com/pt/cbre-portugal/r/neste--querido-mes-de-agosto--ha-arte-para-descobrir-no-alameda-shop-spot,c639208435390000000"
+      "url": "https://news.cision.com/pt/cbre-portugal/r/neste--querido-mes-de-agosto--ha-arte-para-descobrir-no-alameda-shop-spot,c639208435390000000",
+      "interest_rate": 60,
+      "interest_rate_reason": "Gallery exhibition opening with a live cello performance — relaxed art event, partial match to positive story 4's low-pressure creative appeal."
     },
     {
       "id": "evt_2026_0808_100-cities-project-porto-dinner",
@@ -239,7 +331,9 @@
       "location": "Restaurant of the Week (revealed to registrants closer to the date), Porto",
       "price": "Paid registration (fee not published); food & drinks purchased separately",
       "description": "Recurring English-language dinner series that seats small groups of strangers (4-6 people) at a different Porto restaurant each time to build real-world friendships; part of the global 100 Cities Project.",
-      "url": "https://www.eventbrite.com/e/100-cities-project-porto-dinner-with-new-friends-tickets-1946558180919"
+      "url": "https://www.eventbrite.com/e/100-cities-project-porto-dinner-with-new-friends-tickets-1946558180919",
+      "interest_rate": 62,
+      "interest_rate_reason": "Structured small-group dinner designed for real conversation — matches positive story 4's small-group, made-for-connection format."
     },
     {
       "id": "evt_2026_0808_candlelight-coldplay-imagine-dragons",
@@ -249,7 +343,9 @@
       "location": "Hilton Porto Gaia, Rua de Serpa Pinto 124, Vila Nova de Gaia",
       "price": "From €21.50",
       "description": "Candlelight-format tribute concert covering Coldplay and Imagine Dragons hits, performed by string ensemble by candlelight at Hilton Porto Gaia. 60-minute set; ages 8+, under-16s with an adult.",
-      "url": "https://feverup.com/m/175578/en"
+      "url": "https://feverup.com/m/175578/en",
+      "interest_rate": 60,
+      "interest_rate_reason": "Short candlelight tribute concert — same passive live-music appeal as story 5, brief touristy format."
     },
     {
       "id": "evt_2026_0808_candlelight-abba",
@@ -259,7 +355,9 @@
       "location": "Hilton Porto Gaia, Rua de Serpa Pinto 124, Vila Nova de Gaia",
       "price": "From €16.50",
       "description": "Candlelight-format tribute concert covering ABBA's greatest hits, performed by string ensemble by candlelight at Hilton Porto Gaia, following the same evening's Coldplay vs. Imagine Dragons set. 60-minute set; ages 8+.",
-      "url": "https://feverup.com/m/119957/en"
+      "url": "https://feverup.com/m/119957/en",
+      "interest_rate": 58,
+      "interest_rate_reason": "Short candlelight tribute concert — same passive live-music appeal as positive story 5, brief touristy format."
     },
     {
       "id": "evt_2026_0810_piano-garden-serralves",
@@ -269,7 +367,9 @@
       "location": "Serralves Park, Rua Dom João de Castro 210, Porto",
       "price": "€15 park admission (installation included)",
       "description": "Outdoor sound-art installation by composer Annea Lockwood: decommissioned pianos left in the open air to weather and be played by visitors, staged throughout Serralves Park. Self-guided; on view August 10-31, 2026.",
-      "url": "https://www.serralves.pt/en/agenda-serralves/"
+      "url": "https://www.serralves.pt/en/agenda-serralves/",
+      "interest_rate": 55,
+      "interest_rate_reason": "Self-guided sound-art installation in a park — novel, relaxed art experience; moderate match to positive story 4 though not hands-on or workshop-led."
     },
     {
       "id": "evt_2026_0812_blabla-language-exchange",
@@ -279,7 +379,9 @@
       "location": "Ferro Bar, Porto",
       "price": "Free (one drink purchase expected)",
       "description": "Bi-weekly Wednesday-evening mingling event where locals and internationals practice languages together, conversation mainly in English and Portuguese; part of the BlaBla Community series that rotates between Porto venues.",
-      "url": "https://www.blablacommunity.com/porto"
+      "url": "https://www.blablacommunity.com/porto",
+      "interest_rate": 45,
+      "interest_rate_reason": "Casual recurring language-exchange mixer — mild fit with positive story 4's low-pressure social idea, but no hands-on activity."
     },
     {
       "id": "evt_2026_0814_porto-internationals-pubcrawl",
@@ -289,7 +391,9 @@
       "location": "Baixa Bar, R. Cândido dos Reis 52, Porto",
       "price": "Free",
       "description": "Recurring Friday-night pub crawl hosted by Porto Internationals and Locals, led by local guides through the city's bars with free shots, party games, and free entry included; RSVP required via WhatsApp. Part of a weekly series active since 2018.",
-      "url": "https://www.meetup.com/porto-internationals-locals/"
+      "url": "https://www.meetup.com/porto-internationals-locals/",
+      "interest_rate": 40,
+      "interest_rate_reason": "Multi-bar pub crawl — unstructured bar-hopping risks resembling negative story 3's lack-of-structure pattern."
     },
     {
       "id": "evt_2026_0815_sunset-party",
@@ -299,7 +403,9 @@
       "location": "Vilar Oporto Hotel (Terraço), Porto",
       "price": "€10",
       "description": "A daytime-to-evening rooftop terrace party with DJ sets, part of Porto's summer sunset-party circuit. Ages 16+, runs roughly 7 hours from midday into the evening.",
-      "url": "https://www.bol.pt/Comprar/Bilhetes/177612-sunset_party-vilar_oporto_hotel/"
+      "url": "https://www.bol.pt/Comprar/Bilhetes/177612-sunset_party-vilar_oporto_hotel/",
+      "interest_rate": 42,
+      "interest_rate_reason": "Rooftop terrace DJ party — casual nightlife energy but no structured activity; unclear match to any positive story."
     },
     {
       "id": "evt_2026_0819_business-networking-social-hub",
@@ -309,7 +415,9 @@
       "location": "The Social Hub Restaurant & Bar Porto, Praça de Dom João I 80, Porto",
       "price": "Paid (price not published; tickets via Eventbrite)",
       "description": "Multi-industry evening networking mixer bringing together consultants, engineers, entrepreneurs and professionals from finance, tech, real estate and healthcare for open business networking.",
-      "url": "https://www.eventbrite.com/e/general-business-networking-elevating-your-potential-porto-tickets-1991144718453"
+      "url": "https://www.eventbrite.com/e/general-business-networking-elevating-your-potential-porto-tickets-1991144718453",
+      "interest_rate": 40,
+      "interest_rate_reason": "Generic multi-industry networking mixer — risks resembling negative story 3's unstructured 'background music at a bar' pattern rather than story 1's expertise-building focus."
     },
     {
       "id": "evt_2026_0904_blast-premier-open-porto",
@@ -319,7 +427,9 @@
       "location": "Super Bock Arena – Pavilhão Rosa Mota, Porto",
       "price": "€15–€175",
       "description": "Playoff stage (Sept 4-6) of BLAST Premier Open Porto 2026, bringing 16 of the world's top Counter-Strike 2 teams to Porto to compete for a share of a $1.1M prize pool — BLAST's first Portuguese event held outside Lisbon. Doors 13:45. Rated M/16.",
-      "url": "https://www.superbockarena.pt/evento/blast-premier/"
+      "url": "https://www.superbockarena.pt/evento/blast-premier/",
+      "interest_rate": 55,
+      "interest_rate_reason": "Large spectator esports tournament — passive entertainment resembling positive story 2's no-decisions resting format, though not personally participatory."
     },
     {
       "id": "evt_2026_0910_nomad-world-porto",
@@ -329,7 +439,9 @@
       "location": "Associação Nacional de Jovens Empresários (ANJE), Rua de Paulo da Gama, Porto",
       "price": "Paid (price not published; see Eventbrite)",
       "description": "Four-day flagship gathering for founders, creators and remote workers themed \"Building Freedom,\" featuring talks, workshops and masterminds on AI, entrepreneurship and creativity. Runs Sept 10-13 and serves as the anchor event opening Porto AI Week.",
-      "url": "https://www.eventbrite.com/e/the-nomad-world-porto-tickets-1992509534655"
+      "url": "https://www.eventbrite.com/e/the-nomad-world-porto-tickets-1992509534655",
+      "interest_rate": 78,
+      "interest_rate_reason": "Multi-day founder/AI-focused gathering with talks and workshops — strong match to positive story 1's business/AI expertise-building focus."
     },
     {
       "id": "evt_2026_0912_karting-memo-champion-series",
@@ -339,7 +451,9 @@
       "location": "Kartódromo Cabo do Mundo, R. de Almeiriga Norte 2242, Perafita, Matosinhos",
       "price": "Price not published (contact organizer)",
       "description": "Amateur/semi-professional rental-kart sprint race at Kartódromo Cabo do Mundo, part of the 2026 MEMO Champion Series. Open to drivers of mixed skill levels using the venue's rental karts; exact race-day start time was still marked 'to be defined' by organizers at time of research.",
-      "url": "https://calendariokarting.pt/events/memo-champion-series-2026-event-1"
+      "url": "https://calendariokarting.pt/events/memo-champion-series-2026-event-1",
+      "interest_rate": 82,
+      "interest_rate_reason": "Rental-kart amateur race — direct match to positive story 3's proactive-adrenaline karting activity."
     },
     {
       "id": "evt_2026_0912_porto-pride-festival",
@@ -349,7 +463,9 @@
       "location": "Largo Amor de Perdição (Cordoaria), Porto",
       "price": "Free entry",
       "description": "Free open-air festival day of Porto Pride 2026, running from 15:00 to 01:00 with live music, DJ sets and drag performances from over 20 confirmed artists; couples and mixed groups welcome, open to all.",
-      "url": "https://portopride.com/"
+      "url": "https://portopride.com/",
+      "interest_rate": 60,
+      "interest_rate_reason": "Free open-air festival with live music and performances — decent live-entertainment resonance (positive story 5), tempered by large open-crowd format."
     },
     {
       "id": "evt_2026_0913_douro-harvest-festival",
@@ -359,7 +475,9 @@
       "location": "Peso da Régua, Douro Valley (approx. 1.5–2hr drive from Porto)",
       "price": "Free festival entry; grape-treading and tastings priced separately per quinta",
       "description": "Annual Douro Valley grape-harvest festival in Peso da Régua running Sept 13-15, 2026, with traditional grape-treading (pisa da uva) in granite lagares, Port and Douro wine tastings, river cruises, folk parades, and live music. Day-trip distance from Porto.",
-      "url": "https://winetravelguides.com/festivals/douro-harvest-festival"
+      "url": "https://winetravelguides.com/festivals/douro-harvest-festival",
+      "interest_rate": 78,
+      "interest_rate_reason": "Day-trip-distance wine-region harvest festival with tastings and cruises — strong match to positive story 2's guided/resting wine-region-tour ideal."
     },
     {
       "id": "evt_2026_0913_sigur-ros",
@@ -369,7 +487,9 @@
       "location": "Coliseu Porto Ageas, Porto",
       "price": "€40–€140 (sold out)",
       "description": "Icelandic post-rock band Sigur Rós perform a seated orchestral show with Orquestra Sinfonietta de Lisboa and Coro Ricercare, covering ÁTTA and career highlights including Takk.... Officially sold out but a confirmed upcoming event.",
-      "url": "https://www.coliseu.pt/evento/20260913-sigur-ros-the-orchestral-tour"
+      "url": "https://www.coliseu.pt/evento/20260913-sigur-ros-the-orchestral-tour",
+      "interest_rate": 68,
+      "interest_rate_reason": "Seated orchestral live show by an acclaimed act — strong passive live-music match to positive story 5, arena-scale rather than intimate."
     },
     {
       "id": "evt_2026_0914_porto-ai-week",
@@ -379,7 +499,9 @@
       "location": "Multiple venues city-wide, Porto",
       "price": "Mixed free & paid (per-event pricing; see website)",
       "description": "A decentralized, five-day city-wide AI festival (Sept 14-18) spanning 80+ independent events across 40+ venues — warehouses, galleries, studios and coworking spaces — organized around five tracks: Build, Growth, Create, Indie Hacking, and Human. Led by NomadX founder Gonçalo Hall in partnership with Porto City Hall and ANJE; anyone can host a session or offer venue space.",
-      "url": "https://portoaiweek.org/"
+      "url": "https://portoaiweek.org/",
+      "interest_rate": 85,
+      "interest_rate_reason": "Multi-day city-wide AI festival with workshops and expertise-building tracks — very strong match to positive story 1's AI-workshop and business focus."
     },
     {
       "id": "evt_2026_0915_iam-tech-day-europa",
@@ -389,7 +511,9 @@
       "location": "Sheraton Porto Hotel & Spa, Rua do Tenente Valadim 146, Porto",
       "price": "Paid (price not published; via Eventbrite)",
       "description": "International digital identity and cybersecurity conference organized by OWLK Cyber Hub, running 8:00-19:00 and bringing together IAM and cybersecurity professionals for its Europa edition.",
-      "url": "https://www.eventbrite.pt/e/iam-tech-day-europa-2026-tickets-1992957439350"
+      "url": "https://www.eventbrite.pt/e/iam-tech-day-europa-2026-tickets-1992957439350",
+      "interest_rate": 60,
+      "interest_rate_reason": "Professional cybersecurity/IAM conference — solid but narrower match to positive story 1's business/tech expertise-building focus."
     },
     {
       "id": "evt_2026_0918_maker-faire-porto",
@@ -399,7 +523,9 @@
       "location": "Alfândega do Porto, Rua Nova da Alfândega, Porto",
       "price": "€18 (1-day adult) / €23 (2-day adult)",
       "description": "Portugal's edition of the global Maker Faire movement — a three-day festival of technology, robotics, electronics, digital fabrication and DIY innovation with hands-on exhibits, workshops and live demos.",
-      "url": "https://makerfaireporto.com/"
+      "url": "https://makerfaireporto.com/",
+      "interest_rate": 72,
+      "interest_rate_reason": "Hands-on maker/robotics workshops and exhibits — blends positive story 1's tech interest with story 4's hands-on craft appeal."
     },
     {
       "id": "evt_2026_0919_terra-ser-exhibition",
@@ -409,7 +535,9 @@
       "location": "Gallery Hostel Porto, Rua Miguel Bombarda 222, Porto",
       "price": "Free (gallery exhibition opening)",
       "description": "Opening reception for painter Rita Paupério's solo show 'Terra Ser', built around abstraction, memory, and inner landscapes rendered in earthy, ochre tones, at Gallery Hostel Porto.",
-      "url": "https://www.gallery-hostel.com/en/events-en"
+      "url": "https://www.gallery-hostel.com/en/events-en",
+      "interest_rate": 55,
+      "interest_rate_reason": "Gallery exhibition opening — relaxed art-viewing event, mild match to positive story 4's low-pressure creative appeal without hands-on making."
     },
     {
       "id": "evt_2026_0920_marisa-monte",
@@ -419,7 +547,9 @@
       "location": "Super Bock Arena – Pavilhão Rosa Mota, Porto",
       "price": "€45–€80",
       "description": "Brazilian icon Marisa Monte performs a seated symphonic concert with a 55-piece orchestra conducted by André Bachur, blending MPB with orchestral arrangements of her solo and Tribalistas repertoire. Doors 19:00.",
-      "url": "https://lebillet.eu/event/1855/marisa-monte-orquestra-20-setembro-Porto-POR"
+      "url": "https://lebillet.eu/event/1855/marisa-monte-orquestra-20-setembro-Porto-POR",
+      "interest_rate": 65,
+      "interest_rate_reason": "Seated symphonic concert by a major artist — solid live-music match to positive story 5, arena-scale rather than intimate."
     },
     {
       "id": "evt_2026_0923_guimaraes-padel-open",
@@ -429,7 +559,9 @@
       "location": "Top-Padel Guimarães, Guimarães",
       "price": "Price not published (FPP amateur category)",
       "description": "Three-day amateur padel tournament (23-25 September) in the Portuguese Padel Federation's FPP 2.000 ranking category, hosted at Top-Padel Guimarães. Open to federation-registered players of amateur/entry level.",
-      "url": "https://www.top-padel.pt/eventos/"
+      "url": "https://www.top-padel.pt/eventos/",
+      "interest_rate": 55,
+      "interest_rate_reason": "Amateur-tier padel tournament — physical/competitive resonance similar to positive story 3's adrenaline activities, though structured competition rather than pure thrill."
     },
     {
       "id": "evt_2026_0923_owasp-appsec-days-portugal",
@@ -439,7 +571,9 @@
       "location": "Fundação António Cupertino de Miranda, Avenida da Boavista 4245, Porto",
       "price": "Paid (price not published; early bird via Eventbrite)",
       "description": "Two-day application security conference gathering 400+ security professionals, developers and architects for keynotes, hands-on workshops and a Capture the Flag competition.",
-      "url": "https://appsecdays.pt/"
+      "url": "https://appsecdays.pt/",
+      "interest_rate": 62,
+      "interest_rate_reason": "Security conference with a hands-on CTF competition — decent match to positive story 1's tech/expertise-building focus."
     },
     {
       "id": "evt_2026_0926_product-circle-builders-porto",
@@ -449,7 +583,9 @@
       "location": "MC Digital, Porto",
       "price": "€179 (+VAT)",
       "description": "Application-based, full-day gathering of around 25 curated product managers for peer-led, practitioner-run sessions on how AI is changing product discovery, prioritization and decision-making.",
-      "url": "https://www.productcircle.co/events/porto-september-2026"
+      "url": "https://www.productcircle.co/events/porto-september-2026",
+      "interest_rate": 70,
+      "interest_rate_reason": "Curated, application-based product/AI discussion day for practitioners — strong match to positive story 1's expertise-building/pitching-solutions focus."
     },
     {
       "id": "evt_2026_0926_wise-pirates-karting-prova7",
@@ -459,7 +595,9 @@
       "location": "Kartódromo Cabo do Mundo, R. de Almeiriga Norte 2242, Perafita, Matosinhos",
       "price": "Price not published (contact organizer)",
       "description": "Round 7 of the amateur Wise Pirates Karting Series, a rental-kart sprint championship open to mixed-skill drivers at the 980m outdoor Cabo do Mundo circuit. Exact start time was still marked \"to be defined\" by organizers at time of research.",
-      "url": "https://calendariokarting.pt/events/wise-pirates-karting-series-2025-26-event-7"
+      "url": "https://calendariokarting.pt/events/wise-pirates-karting-series-2025-26-event-7",
+      "interest_rate": 82,
+      "interest_rate_reason": "Amateur rental-kart sprint round — direct match to positive story 3's proactive-adrenaline karting activity."
     },
     {
       "id": "evt_2026_0928_placebo",
@@ -469,7 +607,9 @@
       "location": "Super Bock Arena – Pavilhão Rosa Mota, Porto",
       "price": "€42–€55",
       "description": "Alternative rock legends Placebo mark their 30th anniversary with a reimagined performance of their self-titled 1996 debut and Without You I'm Nothing. Mixed standing/seated arena show, doors 18:30.",
-      "url": "https://www.ticketline.pt/en/evento/placebo-30th-anniversary-tour-103005/sessao/124652_2335_1790622000"
+      "url": "https://www.ticketline.pt/en/evento/placebo-30th-anniversary-tour-103005/sessao/124652_2335_1790622000",
+      "interest_rate": 62,
+      "interest_rate_reason": "Big-name arena rock concert — solid live-music match to positive story 5, large-venue scale."
     },
     {
       "id": "evt_2026_0929_batalha-quiz-night",
@@ -479,7 +619,9 @@
       "location": "Batalha Centro de Cinema, Praça da Batalha 47, Porto",
       "price": "Free entry, no registration required",
       "description": "Free monthly cinema-themed pub quiz held on the last Tuesday of the month at Batalha Centro de Cinema's café-bar, split into two 25-question rounds; open to anyone, just show up.",
-      "url": "https://www.batalhacentrodecinema.pt/en/programmes/cinema-ao-redor-batalha-quiz/"
+      "url": "https://www.batalhacentrodecinema.pt/en/programmes/cinema-ao-redor-batalha-quiz/",
+      "interest_rate": 60,
+      "interest_rate_reason": "Free, well-structured recurring pub quiz — organized low-key social/competitive format, low-risk and welcoming to newcomers."
     },
     {
       "id": "evt_2026_1001_transvision-vamp",
@@ -489,7 +631,9 @@
       "location": "Hard Club, Porto",
       "price": "€32.50 + €2.41 fee",
       "description": "British band Transvision Vamp, fronted by Wendy James, bring their reunion tour to Hard Club as part of a two-night Portugal stop alongside a Lisbon show. Doors 20:00; ages 6+.",
-      "url": "https://www.masqueticket.com/en/entradas/transvision-vamp-lisboa-porto-portugal-tour-bilhetes-2026"
+      "url": "https://www.masqueticket.com/en/entradas/transvision-vamp-lisboa-porto-portugal-tour-bilhetes-2026",
+      "interest_rate": 65,
+      "interest_rate_reason": "Standing club concert by a touring act — good match to positive story 5's live-gig format."
     },
     {
       "id": "evt_2026_1003_simone-mendes",
@@ -499,7 +643,9 @@
       "location": "Super Bock Arena – Pavilhão Rosa Mota, Porto",
       "price": "€35–€60",
       "description": "Brazilian sertanejo singer Simone Mendes returns to Portugal for a 90-minute arena show of her major hits. Doors 20:00. Rated M/6.",
-      "url": "https://www.superbockarena.pt/evento/simone-mendes-tour-portugal-2026/"
+      "url": "https://www.superbockarena.pt/evento/simone-mendes-tour-portugal-2026/",
+      "interest_rate": 58,
+      "interest_rate_reason": "Arena concert by a touring artist — passive live-music resonance, large-venue scale."
     },
     {
       "id": "evt_2026_1003_sword-ai-summit",
@@ -509,7 +655,9 @@
       "location": "Alfândega do Porto Congress Centre, Porto",
       "price": "€100 early bird / €150 general admission (free for AI/tech university students)",
       "description": "One-day AI conference for machine learning engineers, AI researchers and data scientists, with keynotes on GenAI, agentic frameworks and model-serving, plus an Open Stage for community builders.",
-      "url": "https://aisummit.swordhealth.com/"
+      "url": "https://aisummit.swordhealth.com/",
+      "interest_rate": 82,
+      "interest_rate_reason": "Dedicated one-day AI conference for practitioners — strong match to positive story 1's AI-workshop/expertise-building focus."
     },
     {
       "id": "evt_2026_1003_ira",
@@ -519,7 +667,9 @@
       "location": "Hard Club, Porto",
       "price": "From €35 (1st batch, standing)",
       "description": "Legendary Brazilian rock/punk/new-wave band IRA! play their first-ever Portugal show, celebrating 45 years of the band with classics like Núcleo Base and Dias de Luta. Standing club show, doors 20:00, rated M/16.",
-      "url": "https://www.hardclubporto.com/EN/evento/ira-2026/"
+      "url": "https://www.hardclubporto.com/EN/evento/ira-2026/",
+      "interest_rate": 68,
+      "interest_rate_reason": "Standing club show by a notable touring act — solid live-gig match to positive story 5."
     },
     {
       "id": "evt_2026_1012_atc-padel-cup",
@@ -529,7 +679,9 @@
       "location": "Padelarium – Padel Athletic Club (PAC), Porto",
       "price": "€260 entry (without accommodation); hotel packages €560–€890",
       "description": "Second edition of the ATC Padel Cup in Porto, a week-long (Oct 12-17) amateur-friendly padel tournament at Padelarium's 12 indoor courts, with teams split into Main/Plate/Vase divisions after a first-day group stage. Open to all skill levels, beginners included.",
-      "url": "https://www.atcpadelcup.com/"
+      "url": "https://www.atcpadelcup.com/",
+      "interest_rate": 55,
+      "interest_rate_reason": "Beginner-friendly amateur padel tournament — physical/competitive activity similar to positive story 3, moderate premium price tempers the score slightly."
     },
     {
       "id": "evt_2026_1016_collabdays-portugal-porto",
@@ -539,7 +691,9 @@
       "location": "ANJE, Porto",
       "price": "Free",
       "description": "Free, one-day non-profit community conference on Microsoft 365, Azure, Copilot, AI and Power Platform, featuring sessions from industry leaders and Microsoft MVPs.",
-      "url": "https://www.collabdays.org/2026-portugal/"
+      "url": "https://www.collabdays.org/2026-portugal/",
+      "interest_rate": 65,
+      "interest_rate_reason": "Free, structured tech community conference with AI/Power Platform sessions — decent match to positive story 1, more enterprise-IT-focused than pure AI strategy."
     },
     {
       "id": "evt_2026_1017_wise-pirates-karting-prova8",
@@ -549,7 +703,9 @@
       "location": "Kartódromo de Baltar, Av. de São Silvestre 760, Baltar (~25km from Porto)",
       "price": "Price not published (contact organizer)",
       "description": "Round 8 of the amateur Wise Pirates Karting Series, a rental-kart sprint championship open to mixed-skill drivers, held at the 1020m outdoor Baltar circuit. Exact start time was still marked \"to be defined\" by organizers at time of research.",
-      "url": "https://calendariokarting.pt/events/wise-pirates-karting-series-2025-26-event-8"
+      "url": "https://calendariokarting.pt/events/wise-pirates-karting-series-2025-26-event-8",
+      "interest_rate": 82,
+      "interest_rate_reason": "Amateur rental-kart sprint round — direct match to positive story 3's proactive-adrenaline karting activity."
     },
     {
       "id": "evt_2026_1020_lemon-twigs",
@@ -559,7 +715,9 @@
       "location": "Hard Club, Porto",
       "price": "General admission via Fever (exact price not published)",
       "description": "The D'Addario brothers bring their glam/power-pop sound to Porto presenting their sixth album, Look For Your Mind. Standing club show, doors 20:30, under-16s admitted with a guardian.",
-      "url": "https://feverup.com/m/620330/en"
+      "url": "https://feverup.com/m/620330/en",
+      "interest_rate": 65,
+      "interest_rate_reason": "Standing club concert by a touring band — solid live-gig match to positive story 5."
     },
     {
       "id": "evt_2026_1025_miguel-araujo",
@@ -569,7 +727,9 @@
       "location": "Coliseu Porto Ageas, Porto",
       "price": "€8–€14 general seating (camarotes €72)",
       "description": "Portuguese singer-songwriter Miguel Araújo curates a seated morning concert with the Orquestra Clássica de Espinho, mixing his own songs with his favourite classical pieces. Part of the Coliseu's family-friendly Promenade 2026 series.",
-      "url": "https://www.coliseu.pt/evento/20261025-promenade-2026-carta-branca-a-miguel-araujo"
+      "url": "https://www.coliseu.pt/evento/20261025-promenade-2026-carta-branca-a-miguel-araujo",
+      "interest_rate": 58,
+      "interest_rate_reason": "Seated orchestral-collaboration concert — calm passive live-music match to positive story 5/2, family-oriented morning format."
     },
     {
       "id": "evt_2026_1027_adriana-calcanhotto",
@@ -579,7 +739,9 @@
       "location": "Casa da Música (Sala Suggia), Av. da Boavista 604-610, Porto",
       "price": "€28–€45",
       "description": "Intimate solo voice-and-guitar performance by Brazilian singer-songwriter Adriana Calcanhotto, revisiting career highlights alongside newer songs connected to Portuguese-language poetry.",
-      "url": "https://agendaculturalporto.org/eventos/adriana-calcanhotto-leva-voz-e-violao-a-casa-da-musica/"
+      "url": "https://agendaculturalporto.org/eventos/adriana-calcanhotto-leva-voz-e-violao-a-casa-da-musica/",
+      "interest_rate": 72,
+      "interest_rate_reason": "Intimate solo voice-and-guitar performance at a proper concert hall — strong match to positive story 5's small-venue, good-sound live-gig ideal."
     },
     {
       "id": "evt_2026_1031_moonspell",
@@ -589,7 +751,9 @@
       "location": "Hard Club (Sala 1), Porto",
       "price": "From €32.10",
       "description": "Portuguese gothic metal band Moonspell headline a Halloween-night standing show, premiering new album Far From God and marking 30 years of Irreligious, with support act Nu:N. Doors 20:00.",
-      "url": "https://www.hardclubporto.com/EN/evento/moonspell-invicta-halloween-2026/"
+      "url": "https://www.hardclubporto.com/EN/evento/moonspell-invicta-halloween-2026/",
+      "interest_rate": 65,
+      "interest_rate_reason": "Standing club metal show by a well-known act premiering new material — solid live-gig match to positive story 5."
     },
     {
       "id": "evt_2026_1031_halloween-boat",
@@ -599,7 +763,9 @@
       "location": "Cais de Gaia, Vila Nova de Gaia",
       "price": "€29",
       "description": "A 2-hour Halloween-themed DJ party cruise along the Douro passing the city's six bridges, with onboard bar, costume decor, and one included drink. Minimum age 10, boarding 15 minutes before departure.",
-      "url": "https://livingcruise.com/en/party-boat-halloween-porto/"
+      "url": "https://livingcruise.com/en/party-boat-halloween-porto/",
+      "interest_rate": 58,
+      "interest_rate_reason": "Short guided-format themed party cruise with a fixed departure — some resonance with positive story 2's set-itinerary, no-decisions structure."
     },
     {
       "id": "evt_2026_1106_max-cooper",
@@ -609,7 +775,9 @@
       "location": "Hard Club, Porto",
       "price": "€28 + fees",
       "description": "Electronic producer Max Cooper presents an immersive audiovisual live set for his new album Feeling Is Structure, merging generative visuals with computational sound. Standing club show, doors 20:30.",
-      "url": "https://feverup.com/m/648919"
+      "url": "https://feverup.com/m/648919",
+      "interest_rate": 68,
+      "interest_rate_reason": "Immersive audiovisual electronic live set at a club — strong match to positive story 5's live-gig, engaging-sound appeal."
     },
     {
       "id": "evt_2026_1110_porto-tech-hub-conference",
@@ -619,7 +787,9 @@
       "location": "Alfândega Congress Center, Rua Nova da Alfândega, Porto",
       "price": "Paid (price not published; see Eventbrite)",
       "description": "11th edition of Porto Tech Hub's flagship conference, bringing together tech professionals for talks on AI, machine learning, cloud, security, Web3 and modern programming frameworks.",
-      "url": "https://www.eventbrite.com/e/porto-tech-hub-conference-2026-tickets-1989160749348"
+      "url": "https://www.eventbrite.com/e/porto-tech-hub-conference-2026-tickets-1989160749348",
+      "interest_rate": 68,
+      "interest_rate_reason": "Established flagship tech conference with AI/cloud talks — good match to positive story 1's business/tech expertise-building focus."
     },
     {
       "id": "evt_2026_1114_a-partir-de-dentro-exhibition",
@@ -629,7 +799,9 @@
       "location": "Gallery Hostel Porto, Rua Miguel Bombarda 222, Porto",
       "price": "Free (gallery exhibition opening)",
       "description": "Opening reception for Gustavo Sanches de Castro's exhibition 'A Partir de Dentro', gestural expressionist paintings made through direct physical engagement with the canvas, at Gallery Hostel Porto.",
-      "url": "https://www.gallery-hostel.com/en/events-en"
+      "url": "https://www.gallery-hostel.com/en/events-en",
+      "interest_rate": 55,
+      "interest_rate_reason": "Gallery exhibition opening — relaxed art-viewing event, mild match to positive story 4's low-pressure creative appeal."
     },
     {
       "id": "evt_2026_1114_jack-and-jack",
@@ -639,7 +811,9 @@
       "location": "Hotel Mouco, R. de Frei Heitor Pinto 65, Porto",
       "price": "Price not published",
       "description": "American pop-rap duo Jack & Jack (Jack Gilinsky and Jack Johnson) bring their SYN/ANTI Tour to Porto's Hotel Mouco.",
-      "url": "https://www.songkick.com/concerts/43269546-jack-and-jack-at-mouco-hotel"
+      "url": "https://www.songkick.com/concerts/43269546-jack-and-jack-at-mouco-hotel",
+      "interest_rate": 58,
+      "interest_rate_reason": "Pop-rap duo live show at a boutique hotel venue — decent live-gig resonance with positive story 5."
     },
     {
       "id": "evt_2026_1114_twilight-sad",
@@ -649,7 +823,9 @@
       "location": "Hard Club, Porto",
       "price": "€30",
       "description": "Scottish post-punk/shoegaze band The Twilight Sad play a standing club show presenting their new album It's the Long Goodbye, in Room 1 of Hard Club.",
-      "url": "https://www.bol.pt/Comprar/Bilhetes/175392-the_twilight_sad-hard_club_li/"
+      "url": "https://www.bol.pt/Comprar/Bilhetes/175392-the_twilight_sad-hard_club_li/",
+      "interest_rate": 65,
+      "interest_rate_reason": "Standing club show by an established post-punk act — solid live-gig match to positive story 5."
     },
     {
       "id": "evt_2026_1117_ndc-porto",
@@ -659,7 +835,9 @@
       "location": "Kopke Porto Gaia Hotel, Vila Nova de Gaia",
       "price": "Paid (early bird pricing; see website)",
       "description": "Four-day software development conference with two days of talks and two days of workshops, featuring international speakers on modern development practices and emerging technologies.",
-      "url": "https://ndcporto.com/"
+      "url": "https://ndcporto.com/",
+      "interest_rate": 65,
+      "interest_rate_reason": "Multi-day software development conference with hands-on workshop days — decent match to positive story 1's expertise-building focus."
     },
     {
       "id": "evt_2026_1119_kcd-porto-devopsdays",
@@ -669,7 +847,9 @@
       "location": "Super Bock Arena – Pavilhão Rosa Mota, Porto",
       "price": "Paid (entrance fee; discount code available)",
       "description": "Joint Kubernetes Community Days and devopsdays Portugal conference uniting the DevOps and cloud-native communities for keynotes, technical talks and networking, expecting 500+ attendees.",
-      "url": "https://devopsdays.org/events/2026-portugal/welcome/"
+      "url": "https://devopsdays.org/events/2026-portugal/welcome/",
+      "interest_rate": 60,
+      "interest_rate_reason": "Large DevOps/cloud-native conference — solid tech expertise-building match to positive story 1, infra-focused rather than business/AI-strategy."
     },
     {
       "id": "evt_2026_1121_lebanon-hanover",
@@ -679,7 +859,9 @@
       "location": "Hard Club, Porto",
       "price": "€27 + €2 fee",
       "description": "UK minimal-wave/post-punk duo Lebanon Hanover perform material from their album Asylum Lullabies, following sold-out 2023 Lisbon and Porto shows. Doors 20:00.",
-      "url": "https://www.hardclubporto.com/EN/evento/lebanon-hanover-2026/"
+      "url": "https://www.hardclubporto.com/EN/evento/lebanon-hanover-2026/",
+      "interest_rate": 62,
+      "interest_rate_reason": "Standing club concert by a niche touring act — decent live-gig match to positive story 5."
     },
     {
       "id": "evt_2026_1128_wise-pirates-karting-prova9",
@@ -689,7 +871,9 @@
       "location": "Kartódromo Cabo do Mundo, R. de Almeiriga Norte 2242, Perafita, Matosinhos",
       "price": "Price not published (contact organizer)",
       "description": "Round 9 of the amateur Wise Pirates Karting Series, a rental-kart sprint championship open to mixed-skill drivers at the 980m outdoor Cabo do Mundo circuit. Exact start time was still marked \"to be defined\" by organizers at time of research.",
-      "url": "https://calendariokarting.pt/events/wise-pirates-karting-series-2025-26-event-9"
+      "url": "https://calendariokarting.pt/events/wise-pirates-karting-series-2025-26-event-9",
+      "interest_rate": 82,
+      "interest_rate_reason": "Amateur rental-kart sprint round — direct match to positive story 3's proactive-adrenaline karting activity."
     },
     {
       "id": "evt_2026_1222_tempo-de-natal",
@@ -699,7 +883,9 @@
       "location": "Casa da Música (Sala Suggia), Porto",
       "price": "€17–€34",
       "description": "A seated Christmas-season classical concert with the Casa da Música Baroque Orchestra and Choir performing Bach's cantata Louvado sejas, Jesus Cristo, Handel's Music for the Royal Fireworks, and works by Charpentier.",
-      "url": "https://casadamusica.com/event/tempo-de-natal-20261222/"
+      "url": "https://casadamusica.com/event/tempo-de-natal-20261222/",
+      "interest_rate": 65,
+      "interest_rate_reason": "Seated classical Christmas concert with orchestra and choir — calm passive live-music match to positive story 5/2."
     },
     {
       "id": "evt_2027_0123_resistencia-concerto-ano-novo",
@@ -709,7 +895,9 @@
       "location": "Coliseu Porto Ageas, Porto",
       "price": "Price not published (2026 edition ranged €20–€60)",
       "description": "A Resistência returns to Coliseu Porto Ageas for their annual New Year concert, a long-running fixture of the Portuguese music calendar; the band's January 2026 Porto date sold out completely. Exact start time not yet published at time of research.",
-      "url": "https://www.coliseu.pt/agenda"
+      "url": "https://www.coliseu.pt/agenda",
+      "interest_rate": 65,
+      "interest_rate_reason": "Popular long-running annual concert with a track record of selling out — solid live-music draw matching positive story 5."
     },
     {
       "id": "evt_2027_0129_udo",
@@ -719,7 +907,9 @@
       "location": "Hard Club, Porto",
       "price": "€45",
       "description": "German heavy metal band U.D.O., fronted by Udo Dirkschneider (former voice of Accept), bring their anniversary tour to Hard Club.",
-      "url": "https://agendaculturalporto.org/agenda-hard-club-porto/"
+      "url": "https://agendaculturalporto.org/agenda-hard-club-porto/",
+      "interest_rate": 62,
+      "interest_rate_reason": "Standing club metal show by a legendary touring act — solid live-gig match to positive story 5."
     }
   ]
 }
