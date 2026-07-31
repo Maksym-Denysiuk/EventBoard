@@ -910,6 +910,30 @@
       "url": "https://agendaculturalporto.org/agenda-hard-club-porto/",
       "interest_rate": 62,
       "interest_rate_reason": "Standing club metal show by a legendary touring act — solid live-gig match to positive story 5."
+    },
+    {
+      "id": "evt_2027_0129_ricardo-ribeiro",
+      "name": "Ricardo Ribeiro – A Alma Só Está Bem Onde Não Cabe",
+      "tag": "music",
+      "date": "2027-01-29T21:00:00+00:00",
+      "location": "Coliseu do Porto Ageas, R. de Passos Manuel 137, Porto",
+      "price": "Price not published",
+      "description": "Fado singer Ricardo Ribeiro presents his new album \"A Alma Só Está Bem Onde Não Cabe\" in a seated concert at Coliseu do Porto Ageas. Exact start time and ticket price were not published by organizers at time of research; evening slot assumed based on venue's typical scheduling.",
+      "url": "https://www.coliseu.pt/evento/20270129-ricardo-ribeiro",
+      "interest_rate": 63,
+      "interest_rate_reason": "Seated fado concert by an established artist presenting new material at a proper venue — matches positive story 5's live-gig appeal, mid-size venue keeps it short of the intimate small-venue ideal."
+    },
+    {
+      "id": "evt_2027_0130_tiago-nacarato",
+      "name": "Tiago Nacarato – 10th Anniversary Tour",
+      "tag": "music",
+      "date": "2027-01-30T21:30:00+00:00",
+      "location": "Coliseu do Porto Ageas, R. de Passos Manuel 137, Porto",
+      "price": "€15–€40",
+      "description": "Portuguese singer-songwriter Tiago Nacarato marks 10 years of his career with a 70-minute set blending fan-favorite songs with material from his new album \"Não Sabia o Desamor,\" at Coliseu do Porto Ageas. Ages 6+.",
+      "url": "https://palkotickets.pt/1294870889-tiago-nacarato/",
+      "interest_rate": 65,
+      "interest_rate_reason": "Seated anniversary concert with a confirmed moderate ticket price (€15–€40) and full career-spanning setlist — solid match to positive story 5's live-gig appeal."
     }
   ]
 }
