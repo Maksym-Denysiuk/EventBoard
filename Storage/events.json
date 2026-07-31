@@ -12,56 +12,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_0730_porto-future-tech-networking",
-      "name": "Porto Future Tech – Casual Networking",
-      "tag": "tech",
-      "date": "2026-07-30T19:00:00+01:00",
-      "location": "A Fábrica da Picaria, Rua da Picaria 72, Porto",
-      "price": "Free",
-      "description": "Bi-weekly casual networking gathering where Porto tech workers meet to build connections, make friends, and discuss emerging technology trends.",
-      "url": "https://www.meetup.com/porto-tech-connect/"
-    },
-    {
-      "id": "evt_2026_0730_castlerock-quiz-night",
-      "name": "Quiz Night at CastleRock Pub & Hotel",
-      "tag": "tournament",
-      "date": "2026-07-30T21:30:00+01:00",
-      "location": "CastleRock Pub & Hotel, Rua do Conde de Vizela 114, Porto",
-      "price": "€1 per player",
-      "description": "Weekly Thursday pub quiz — 50 questions across two rounds for teams of up to 5 (extra members incur a 2-point penalty). The winning team gets up to €50 of free drinks; phones are banned during play. Recurring every Thursday.",
-      "url": "https://agendaculturalporto.org/eventos/quiz-night-as-quintas-castlerock-pub-hotel/"
-    },
-    {
-      "id": "evt_2026_0730_quiz-casa-da-madeira",
-      "name": "Quiz Night at Casa da Madeira do Norte",
-      "tag": "tournament",
-      "date": "2026-07-30T22:30:00+01:00",
-      "location": "Casa da Madeira do Norte, Rua da Torrinha 55, Porto",
-      "price": "€1 per player",
-      "description": "Weekly Thursday pub quiz at the Casa da Madeira do Norte cultural association — a casual walk-in team trivia night (50 questions across two rounds); winning team receives free drinks. Distinct recurring series from the CastleRock and LOOK.Sharp quiz nights.",
-      "url": "https://www.facebook.com/quizcasadamadeira/"
-    },
-    {
-      "id": "evt_2026_0730_maratona-piano-bolhao",
-      "name": "Maratona de Piano – Porto Pianofest",
-      "tag": "music",
-      "date": "2026-07-30T10:00:00+01:00",
-      "location": "Mercado do Bolhão, Rua Formosa, Porto",
-      "price": "Free entry",
-      "description": "Opening event of Porto Pianofest's 11th edition — eight consecutive hours (10:00–19:00) of free piano performances on a piano installed at the market's Rua Formosa entrance.",
-      "url": "https://www.agenda-porto.pt/en/evento/pianofest-maratona-de-piano/"
-    },
-    {
-      "id": "evt_2026_0730_theo-dons-fragmentos-gualterianas",
-      "name": "Theo & The Dons / Fragmentos – Festas Gualterianas",
-      "tag": "music",
-      "date": "2026-07-30T21:30:00+01:00",
-      "location": "Largo do Toural, Guimarães (~50km from Porto)",
-      "price": "Free entry",
-      "description": "Double-bill concert opening the Largo do Toural main-stage lineup of Guimarães' Festas da Cidade e Gualterianas 2026 — Theo & The Dons at 21:30, followed by Fragmentos at 22:40.",
-      "url": "https://em.guimaraes.pt/cultura/geo_evento-86/festas-da-cidade-e-gualterianas-2026"
-    },
-    {
       "id": "evt_2026_0731_porto-social-language-exchange",
       "name": "Porto Social and Language Exchange",
       "tag": "community",
@@ -110,6 +60,16 @@
       "price": "Price not published",
       "description": "Late-night party themed around Slavic music and culture, running from 23:59 on July 31 until 06:00 on August 1 at Pinkclub in downtown Porto.",
       "url": "https://www.eventbrite.com/e/bilhetes-slavic-wave-porto-1993194682952"
+    },
+    {
+      "id": "evt_2026_0801_viagem-medieval-santa-maria",
+      "name": "Viagem Medieval em Terra de Santa Maria 2026",
+      "tag": "trips",
+      "date": "2026-08-01T12:00:00+01:00",
+      "location": "Centro Histórico de Santa Maria da Feira (~35km from Porto)",
+      "price": "€4/day (Mon-Thu) or €5/day (Fri-Sun); €10 all-days wristband",
+      "description": "30th-anniversary edition of Europe's largest medieval historical recreation event, transforming Santa Maria da Feira's historic centre with roughly 2,000 performers, themed around the Condado Portucalense. Runs July 29 – August 9, 2026; weekend access 12:00-00:30.",
+      "url": "https://www.viagemmedieval.com/en/"
     },
     {
       "id": "evt_2026_0801_no-noise-11",
@@ -202,6 +162,16 @@
       "url": "https://www.portopianofest.com/pt/home"
     },
     {
+      "id": "evt_2026_0802_candlelight-joe-hisaishi",
+      "name": "Candlelight: The Best of Joe Hisaishi",
+      "tag": "music",
+      "date": "2026-08-02T20:30:00+01:00",
+      "location": "Pestana Palácio do Freixo, Estrada Nacional 108, Porto",
+      "price": "From €23.50",
+      "description": "Candlelight-format tribute concert to composer Joe Hisaishi's film scores, performed by candlelight at Pestana Palácio do Freixo. 60-minute set; doors open 30 minutes before.",
+      "url": "https://feverup.com/m/195673/en"
+    },
+    {
       "id": "evt_2026_0802_gnr-gualterianas",
       "name": "GNR – Festas Gualterianas",
       "tag": "music",
@@ -210,6 +180,26 @@
       "price": "Free entry",
       "description": "Closing headline concert by legendary Portuguese rock band GNR on the Largo do Toural main stage, wrapping up Guimarães' Festas da Cidade e Gualterianas 2026 (July 24 – August 3).",
       "url": "https://em.guimaraes.pt/cultura/geo_evento-86/festas-da-cidade-e-gualterianas-2026"
+    },
+    {
+      "id": "evt_2026_0806_castlerock-quiz-night",
+      "name": "Quiz Night at CastleRock Pub & Hotel",
+      "tag": "tournament",
+      "date": "2026-08-06T21:30:00+01:00",
+      "location": "CastleRock Pub & Hotel, Rua do Conde de Vizela 114, Porto",
+      "price": "€1 per player",
+      "description": "Weekly Thursday pub quiz — 50 questions across two rounds for teams of up to 5 (extra members incur a 2-point penalty). The winning team gets up to €50 of free drinks; phones are banned during play. Recurring every Thursday through February 2027.",
+      "url": "https://agendaculturalporto.org/eventos/quiz-night-as-quintas-castlerock-pub-hotel/"
+    },
+    {
+      "id": "evt_2026_0807_porto-internationals-pubcrawl",
+      "name": "Free Porto Internationals PubCrawl",
+      "tag": "community",
+      "date": "2026-08-07T22:00:00+01:00",
+      "location": "Baixa Bar, Porto (starts here; continues to Fabrik Club and Galeria Paris Bar)",
+      "price": "Free",
+      "description": "Friday-night pub crawl hosted by the Porto Internationals meetup group through the city's bars — Baixa Bar (22:00), Fabrik Club (23:30), Galeria Paris Bar (01:00) — with complimentary shots, beer and party games. RSVP via WhatsApp.",
+      "url": "https://www.meetup.com/porto-internationals/"
     },
     {
       "id": "evt_2026_0803_jose-ramon-mendez-pianofest",
@@ -250,6 +240,26 @@
       "price": "Paid registration (fee not published); food & drinks purchased separately",
       "description": "Recurring English-language dinner series that seats small groups of strangers (4-6 people) at a different Porto restaurant each time to build real-world friendships; part of the global 100 Cities Project.",
       "url": "https://www.eventbrite.com/e/100-cities-project-porto-dinner-with-new-friends-tickets-1946558180919"
+    },
+    {
+      "id": "evt_2026_0808_candlelight-coldplay-imagine-dragons",
+      "name": "Candlelight: Coldplay vs. Imagine Dragons",
+      "tag": "music",
+      "date": "2026-08-08T19:30:00+01:00",
+      "location": "Hilton Porto Gaia, Rua de Serpa Pinto 124, Vila Nova de Gaia",
+      "price": "From €21.50",
+      "description": "Candlelight-format tribute concert covering Coldplay and Imagine Dragons hits, performed by string ensemble by candlelight at Hilton Porto Gaia. 60-minute set; ages 8+, under-16s with an adult.",
+      "url": "https://feverup.com/m/175578/en"
+    },
+    {
+      "id": "evt_2026_0808_candlelight-abba",
+      "name": "Candlelight: The Best of ABBA",
+      "tag": "music",
+      "date": "2026-08-08T21:30:00+01:00",
+      "location": "Hilton Porto Gaia, Rua de Serpa Pinto 124, Vila Nova de Gaia",
+      "price": "From €16.50",
+      "description": "Candlelight-format tribute concert covering ABBA's greatest hits, performed by string ensemble by candlelight at Hilton Porto Gaia, following the same evening's Coldplay vs. Imagine Dragons set. 60-minute set; ages 8+.",
+      "url": "https://feverup.com/m/119957/en"
     },
     {
       "id": "evt_2026_0810_piano-garden-serralves",
