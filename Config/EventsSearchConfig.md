@@ -38,74 +38,43 @@ Using the tag keys already defined in `Requirements/events-schema-example.md`:
 
 Do not introduce new tag keys without updating this map and the schema's `tags` object together. New keys added across recent revisions: `tournament`, `nightlife`, `trips` (and `music` promoted from conditional to standalone; `art` expanded to cover master-classes, tastings, and crafting).
 
-## INCLUDE_CRITERIA (per tag)
+## TAG_MATCH_THRESHOLD
+50
+— minimum confidence (%) a candidate event must match an existing TAG_MAP entry to reuse that tag. Below this, the routine auto-creates a new tag. Tags are pure mood/browsing labels — they no longer gate inclusion; INTEREST_STORIES/INTEREST_THRESHOLD own that decision entirely.
 
-**`tech` / `business` — Professional**
-- In-person only, any cadence (one-off or recurring)
-- Topics: AI, technology, business development, startup demo days / pitch events, product/program management networking
-- New-business openings: grand openings and launch events for cafés, restaurants, bars, co-working spaces, venues, and product/platform launches — include when open to the public (opening night, tasting/preview, ribbon-cutting)
-- Prefer events with visible RSVP/attendee signals (Meetup/Eventbrite)
+## TAG_CREATION_GUARDRAILS
+When no existing TAG_MAP entry matches at >= TAG_MATCH_THRESHOLD:
+- **Naming:** short, lowercase-hyphenated, matching existing style (e.g. `warehouse-rave`, not a sentence).
+- **Description:** exactly one sentence — what kind of event this is, not whether it's wanted (interest-rate owns that).
+- **Dedup check before creating:** compare against (a) every key in this TAG_MAP table and (b) every key in the live `tags` object in Storage/events.json (may contain tags added in prior runs not yet copied here). Reuse a near-duplicate instead of creating another (e.g. don't create "underground-party" if "warehouse-rave" already means the same thing).
+- **No staged approval** — create and use immediately in the same run.
+- **Update both places together:** add to this TAG_MAP table AND to the `tags` object written into Storage/events.json (and/or events-shadow.json) in the same run.
+- Periodic pruning/merging of near-duplicates is done manually by the user later — no automated merge in scope.
 
-**`sports` / `art` — Entertainment**
-- Novelty, adrenaline, or clear-goal activities: karting, racing/motorsport track days, escape rooms, wine tasting, strikeball/airsoft, paintball, VR/experience venues, axe throwing, bouldering, cooking classes
-- Master-classes & workshops, tastings (wine/food/coffee/cheese), and crafting sessions (pottery, candle/soap/jewelry making, painting/sip-and-paint) all qualify under `art`
-- Open to hidden-gem or last-minute options if they fit the criteria
-- Moderate/standard leisure pricing — no need to filter for budget/luxury tiers
-- No dietary/health restriction filtering needed (comfortable with light alcohol, no allergies)
+## INTEREST_STORIES
+Global, cross-cutting story corpus scoring every candidate's fit — replaces per-tag INCLUDE/EXCLUDE. Judge each candidate holistically against all ten stories, not just the closest one.
 
-**`trips` — Entertainment / Travel**
-- Guided or organized day trips, excursions, and weekend tours/getaways with a set date and meeting point (wine-region tours, sightseeing, coastal/nature outings with a clear itinerary)
-- Include destinations within the wider `RADIUS_KM` reach (Braga, Guimarães, Aveiro, Douro Valley) and organized outings that depart from Porto
-- Prefer bookable/RSVP-able group trips; couples-friendly and mixed-group both qualify
-- Note duration (half-day / full-day / overnight) and whether transport is included
+**Positive (resonance raises interest_rate):**
+1. "I'm looking for business events that build my understanding of how to run a business and sell my own expertise — chatting with people focused on management or pitching solutions, AI workshops, trending-topic sessions, and stock market events (not crypto)."
+2. "Full-day wine-region tour — set meeting point, bus included, small mixed group, everything planned, I just show up. Same principle applies broadly: events where I'm not the one making decisions — I'm resting."
+3. "Proactive rest where I generate adrenaline and feel alive — karting, strikeball, paintball, rafting, and similar thrill activities."
+4. "Evening pottery/craft workshop/music concert/quest, small group, made something with my hands, relaxed pace, no pressure to perform — new physical experience."
+5. "Live gig at a small venue — good sound, energy in the room, didn't have to talk to anyone if I didn't want to, just enjoyed the music."
 
-**`tournament` — Entertainment**
-- Competitive/bracketed formats: esports & video-game tournaments, board-game/chess/poker nights, pub quizzes & trivia leagues, amateur sports tournaments (5-a-side, padel, etc.)
-- Both spectator and participant events qualify; prefer ones open to newcomers or casual sign-ups
-- Note skill tier / entry requirements when visible
+**Negative (resonance lowers interest_rate):**
+1. "8-hour coastal hike, no stops, no group interaction, no destination that mattered — bored, tired, time is wasted."
+2. "Tried to go to a place (cafe/restaurant/party) that turned out to be an overcrowded event with poor kitchen, Portuguese kitchen only, or too short (30m)."
+3. "Sat through a 'networking event' that was just background music at a bar, no structure, no speakers, no reason people were there — left after 20 minutes."
+4. "Showed up to a party that turned out to be a private members-only club — wasn't on the list, couldn't get in, wasn't made clear it was closed to the public."
+5. "Paid a premium price for something that turned out generic — could've had the same experience for a fraction of the cost, felt ripped off."
 
-**`music` — Entertainment**
-- Standalone live music now qualifies: concerts, gigs, festivals, DJ sets, open-mic and jam nights
-- Prefer ticketed or listed events with a clear date/venue; smaller intimate venues are welcome
-- Note genre and whether it's seated vs. standing/club-style when known
+Score as interest_rate (integer 0-100) plus a one-line interest_rate_reason naming which story dimension(s) drove it (e.g. "Guided full-day tour, no decisions required — matches positive story 2"). A bare number with no reasoning is not acceptable output.
 
-**`nightlife` — Social / Entertainment**
-- Parties, club nights, themed/seasonal parties, launch/opening parties, social celebrations
-- Couples-friendly and mixed-group settings both qualify; flag age/dress-code or members-only gating when visible
-
-**`community` — Social**
-- Recurring or one-off meetups: expat communities, English/Russian/Ukrainian-speaking social groups, couples-friendly clubs, hobby groups
-- Explicitly distinguish activities *for* couples (e.g. couples cooking class) vs. mixed groups simply *welcoming* to couples
-
-## EXCLUDE_CRITERIA (per tag)
-
-**`tech` / `business`**
-- UI/UX-specific design events or news
-- Non-business / non-tech topics
-
-**`sports` / `art`**
-- Hiking
-- Routine/purposeless walks
-- Purposeless cycling (leisure/scenic cycling with no clear goal)
-
-**`trips`**
-- Pure hiking/trekking trips or purposeless scenic walks (consistent with the `sports`/`art` exclusions)
-- Self-guided routes with no organized event, date, or booking
-- Multi-day trips extending beyond the `WINDOW_DAYS` look-ahead
-
-**`tournament`**
-- Online-only / remote tournaments (in-person only, consistent with the rest of the config)
-- Youth/under-18 or licensed-professional-only competitions
-
-**`music`**
-- Purely religious/liturgical services
-- Background/ambient music at unrelated venues (not a billed music event)
-
-**`nightlife`**
-- 18+ venues the couple can't both attend, or strict members-only clubs with no public entry
-- Corporate/private invite-only parties not open to the public
+## INTEREST_THRESHOLD
+25
+— candidates scoring >= 25 go to Storage/events.json; below 25 go to Storage/events-shadow.json instead. Intentionally permissive as a starting point, tightened over time via manual review of events-shadow.json. Do not change without an explicit config edit here.
 
 ---
 
 ## Change control
-Any change to `LOCATION`, `RADIUS_KM`, or `TAG_MAP` should be made here, not in the routine file itself — the routine (`routine-daily-event-research.md`) stays generic and reads these values as inputs.
+Any change to `LOCATION`, `RADIUS_KM`, `TAG_MAP`, `TAG_MATCH_THRESHOLD`, `TAG_CREATION_GUARDRAILS`, `INTEREST_STORIES`, or `INTEREST_THRESHOLD` should be made here, not in the routine file itself — the routine (`routine-daily-event-research.md`) stays generic and reads these values as inputs.
