@@ -1030,6 +1030,42 @@
       "url": "https://www.superbockarena.pt/evento/lisbon-film-orchestra-our-stories/",
       "interest_rate": 65,
       "interest_rate_reason": "Large-scale orchestral spectacle with 120 performers — passive, immersive live-music experience matching positive story 5, arena scale caps the intimacy."
+    },
+    {
+      "id": "evt_2026_0808_debussy-garden-saskia-giorgini",
+      "name": "Debussy in the Garden – Saskia Giorgini (Porto Pianofest)",
+      "tag": "music",
+      "date": "2026-08-08T19:00:00+01:00",
+      "location": "Pátio do Romântico, R. de Entre-Quintas 220, Porto",
+      "price": "Free admission",
+      "description": "Outdoor sunset piano recital by Italian-Dutch pianist Saskia Giorgini, making her Porto Pianofest debut with a program of Chopin and Debussy overlooking the Douro River. Early arrival advised for seating; blankets/lawn chairs welcome.",
+      "url": "https://www.portopianofest.com/mg-8-8",
+      "interest_rate": 72,
+      "interest_rate_reason": "Free outdoor solo piano recital at sunset in an intimate garden setting — strong match to positive story 5's small-venue, low-pressure live-gig ideal."
+    },
+    {
+      "id": "evt_2026_0809_family-concert-pianofest",
+      "name": "Family Concert – Porto Pianofest",
+      "tag": "music",
+      "date": "2026-08-09T10:30:00+01:00",
+      "location": "Casa Comum, Reitoria da Universidade do Porto, Praça de Gomes Teixeira, Porto",
+      "price": "€10 (up to 3 people: 1 child + 2 adults)",
+      "description": "Annual Porto Pianofest family concert featuring Young Talents performers, showcasing piano virtuosity, lyricism and fun through pieces chosen for all ages; two showings at 10:30 and 12:00. Minimum age 4.",
+      "url": "https://www.portopianofest.com/pt/fc-9-8",
+      "interest_rate": 42,
+      "interest_rate_reason": "Daytime family-oriented piano concert — passive live-music format echoes positive story 5, but its children's-audience framing and short format only loosely fit the story corpus."
+    },
+    {
+      "id": "evt_2026_0811_tamara-stefanovich-pianofest",
+      "name": "Tamara Stefanovich \"Dialogues\" – Porto Pianofest",
+      "tag": "music",
+      "date": "2026-08-11T20:00:00+01:00",
+      "location": "Serralves Contemporary Art Museum – Auditorium, R. Dom João de Castro 210, Porto",
+      "price": "€20",
+      "description": "Closing recital of Porto Pianofest's 2026 edition: pianist Tamara Stefanovich performs \"Dialogues,\" a program spanning five centuries from Bach to Kurtág, Debussy, Liszt, Scriabin, Ligeti, Bacewicz, Nicolaou and Abrahamsen.",
+      "url": "https://www.portopianofest.com/ts-11-8",
+      "interest_rate": 72,
+      "interest_rate_reason": "Ticketed solo piano recital by an acclaimed performer at a proper concert-hall auditorium — strong match to positive story 5's small live-gig, good-sound appeal."
     }
   ]
 }
