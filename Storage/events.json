@@ -12,78 +12,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_0731_porto-social-language-exchange",
-      "name": "Porto Social and Language Exchange",
-      "tag": "community",
-      "date": "2026-07-31T18:00:00+01:00",
-      "location": "Bonaparte Downtown, P. de Guilherme Gomes Fernandes 40, Porto",
-      "price": "€3 (online only)",
-      "description": "A weekly Friday mixer welcoming expats, international students, travelers, and locals to meet new people and practice languages over drinks and food.",
-      "url": "https://www.eventbrite.com/e/porto-social-and-language-exchange-make-new-friends-tickets-1992611520698?aff=ebdssbcitybrowse",
-      "interest_rate": 45,
-      "interest_rate_reason": "Casual recurring social mixer — mild fit with positive story 4's low-pressure small-group idea, but no hands-on activity or guided structure."
-    },
-    {
-      "id": "evt_2026_0731_creative-mornings-porto",
-      "name": "CreativeMornings Porto – COMPETENCIA",
-      "tag": "business",
-      "date": "2026-07-31T10:30:00+01:00",
-      "location": "The Amphitheatre, Praça de Dom João I, The Social Hub Porto",
-      "price": "Free (registration required)",
-      "description": "Monthly CreativeMornings breakfast gathering with free coffee and a talk themed \"COMPETENCIA,\" exploring how competing against the best can raise everyone's craft rather than being a zero-sum race.",
-      "url": "https://www.eventbrite.co.uk/e/creative-mornings-tickets-1992837285968",
-      "interest_rate": 55,
-      "interest_rate_reason": "Structured business talk with a defined speaker/topic — partial match to positive story 1 (business/expertise-building), though not AI/pitch/stock-specific."
-    },
-    {
-      "id": "evt_2026_0731_scorpions-tribute-symphonic",
-      "name": "Scorpions Tribute Symphonic Experience",
-      "tag": "music",
-      "date": "2026-07-31T21:30:00+01:00",
-      "location": "Casa da Música (Sala Suggia), Av. da Boavista 604-610, Porto",
-      "price": "From €25 (Plateia; ~€26.84 with fees)",
-      "description": "Symphonic tribute concert pairing the Orquestra Nacional de Jovens with the Mercury Falls Band and guest vocalists, fusing Scorpions' rock catalogue with a full orchestral arrangement under artistic direction of Cristiano Silva.",
-      "url": "https://www.ticketline.pt/en/evento/scorpions-tribute-symphonic-experience-104719/sessao/126292_80_1785529800",
-      "interest_rate": 70,
-      "interest_rate_reason": "Ticketed seated concert at a proper venue with guaranteed good sound — strong match to positive story 5's live-gig, no-social-pressure fit."
-    },
-    {
-      "id": "evt_2026_0731_barbara-bandeira-gualterianas",
-      "name": "Bárbara Bandeira – Festas Gualterianas",
-      "tag": "music",
-      "date": "2026-07-31T22:00:00+01:00",
-      "location": "Largo do Toural, Guimarães (~50km from Porto)",
-      "price": "Free entry",
-      "description": "Headline concert by Portuguese pop star Bárbara Bandeira on the Largo do Toural main stage, part of Guimarães' Festas da Cidade e Gualterianas 2026 (July 24 – August 3).",
-      "url": "https://em.guimaraes.pt/cultura/geo_evento-86/festas-da-cidade-e-gualterianas-2026",
-      "interest_rate": 50,
-      "interest_rate_reason": "Free outdoor headline concert — live-music resonance (positive story 5) tempered by likely large uncontrolled festival crowd (negative story 2)."
-    },
-    {
-      "id": "evt_2026_0731_slavic-wave-porto",
-      "name": "Slavic Wave Porto",
-      "tag": "nightlife",
-      "date": "2026-07-31T23:59:00+01:00",
-      "location": "Pinkclub, Rua do Conde de Vizela 80, Porto",
-      "price": "Price not published",
-      "description": "Late-night party themed around Slavic music and culture, running from 23:59 on July 31 until 06:00 on August 1 at Pinkclub in downtown Porto.",
-      "url": "https://www.eventbrite.com/e/bilhetes-slavic-wave-porto-1993194682952",
-      "interest_rate": 35,
-      "interest_rate_reason": "Late-night themed club party — no clear match to positive stories; nightlife/DJ format doesn't fit the small-venue live-gig or craft-workshop stories."
-    },
-    {
-      "id": "evt_2026_0731_leca-chess-open",
-      "name": "Leça Chess Open – Portugal 2026",
-      "tag": "tournament",
-      "date": "2026-07-31T09:00:00+01:00",
-      "location": "Pavilhão Municipal de Leça da Palmeira, Leça da Palmeira, Matosinhos",
-      "price": "Price not published",
-      "description": "FIDE-rated open chess tournament (July 31 – August 6, 2026) at the Municipal Pavilion of Leça da Palmeira, drawing 150+ rated players including GM/IM/FM titleholders, part of the Portugal Chess Tour. Exact round 1 start time not published by organizers at time of research.",
-      "url": "https://portugalchesstour.fpx.pt/2026/06/23/lco-25/",
-      "interest_rate": 42,
-      "interest_rate_reason": "Large spectator FIDE chess tournament — passive attendance loosely echoes positive story 2's no-decisions resting format, though not personally participatory or social."
-    },
-    {
       "id": "evt_2026_0801_passing-vessel-ceramic-candle-workshop",
       "name": "The Passing Vessel – Ceramic & Candle Making Workshop",
       "tag": "art",
@@ -934,6 +862,78 @@
       "url": "https://palkotickets.pt/1294870889-tiago-nacarato/",
       "interest_rate": 65,
       "interest_rate_reason": "Seated anniversary concert with a confirmed moderate ticket price (€15–€40) and full career-spanning setlist — solid match to positive story 5's live-gig appeal."
+    },
+    {
+      "id": "evt_2026_0801_alt-summer-fest",
+      "name": "Alt Summer Fest – 2nd Edition",
+      "tag": "music",
+      "date": "2026-08-01T15:30:00+01:00",
+      "location": "Espaço AL859, R. da Alegria 859, Porto",
+      "price": "€10 (online, includes a drink; also available at the door)",
+      "description": "Second edition of this independent alternative-music festival across two stages (outdoor and indoor) at Espaço AL859, featuring six bands: Gato do Mato, Beach Wreck, Treewax, Jardim de Cinzas, Rainspotting, and Carrots After Lunch.",
+      "url": "https://www.agenda-porto.pt/en/evento/alt-summer-fest/",
+      "interest_rate": 65,
+      "interest_rate_reason": "Small independent alt-music festival across two stages at an art space — matches positive story 5's small-venue live-gig appeal with a full afternoon lineup."
+    },
+    {
+      "id": "evt_2026_0801_mr-beans-jam-session",
+      "name": "Mr. Bean's Jam Session + DJ Set",
+      "tag": "music",
+      "date": "2026-08-01T18:00:00+01:00",
+      "location": "Mr. Bean's Music Club, Rua da Restauração 481, Porto",
+      "price": "Price not published",
+      "description": "Weekly Saturday open jam session in an intimate room packed close to the musicians, followed by a DJ set; part of the venue's recurring weekend jam session series.",
+      "url": "https://www.agenda-porto.pt/en/local/mr-beanand39s-music-club/",
+      "interest_rate": 68,
+      "interest_rate_reason": "Small, intimate open jam session with a crowd packed close to the musicians — strong match to positive story 5's small-venue live-gig ideal."
+    },
+    {
+      "id": "evt_2026_0801_territorios-assincronos-exhibition",
+      "name": "Territórios Assíncronos — Cláudia Salgueiro & Maria João Jerónimo Exhibition Opening",
+      "tag": "art",
+      "date": "2026-08-01T15:00:00+01:00",
+      "location": "Galeria Cor Própria, R. do Rosário 129, Porto",
+      "price": "Free",
+      "description": "Opening reception for a dual exhibition by Cláudia Salgueiro and Maria João Jerónimo exploring distance and home through 303 kilometers of cartography filled with corporeal and affective places; on view through September 2, 2026.",
+      "url": "https://www.agenda-porto.pt/en/evento/territorios-assincronos/",
+      "interest_rate": 55,
+      "interest_rate_reason": "Free gallery exhibition opening — relaxed art-viewing event, mild match to positive story 4's low-pressure creative appeal, similar to other exhibition openings already captured."
+    },
+    {
+      "id": "evt_2026_0801_more-than-cinema-instituto",
+      "name": "More-Than Cinema — ETH Zurich Chair of Architecture and Urban Design Exhibition Opening",
+      "tag": "art",
+      "date": "2026-08-01T17:15:00+01:00",
+      "location": "INSTITUTO, R. dos Clérigos 44, Porto",
+      "price": "Free",
+      "description": "Opening of a site-specific installation exploring experimental cinema, sensory ethnography, and urban ecosystems, curated by Hubert Klumpner and Klearjos Eduardo Papanicolaou (ETH Zurich Chair of Architecture and Urban Design); on view Wednesdays-Fridays through September 30, 2026.",
+      "url": "https://www.agenda-porto.pt/en/evento/more-than-cinema/",
+      "interest_rate": 42,
+      "interest_rate_reason": "Niche academic architecture/cinema installation opening — weak, passive match to positive story 4's hands-on creative-experience ideal; narrow subject matter limits broader appeal."
+    },
+    {
+      "id": "evt_2026_0801_caetano-summer-open-padel",
+      "name": "BMW MINI Caetano Summer Open (Padel)",
+      "tag": "tournament",
+      "date": "2026-08-01T19:00:00+01:00",
+      "location": "The Lob - Padel & Pickleball, Rua de Picoutos 108, São Mamede de Infesta, Matosinhos",
+      "price": "€25 (single category, incl. welcome kit) / €40 (two categories)",
+      "description": "Second stage of the Caetano Circuit padel teams competition, spanning M2-M5 and +11 categories on The Lob's indoor courts, running July 30 – August 2, 2026 with match play continuing into August 1 (19:00-00:30) and August 2 (09:00-00:30).",
+      "url": "https://padelteams.pt/info/default/competition?k=Y2lkPTczMTQ%3D",
+      "interest_rate": 55,
+      "interest_rate_reason": "Amateur padel team competition — physical/competitive resonance with positive story 3, similar to other padel tournaments already captured."
+    },
+    {
+      "id": "evt_2026_0807_porto-tech-mixer-social",
+      "name": "Porto Tech Mixer and Social (Tech / AI / Data / IT)",
+      "tag": "tech",
+      "date": "2026-08-07T18:00:00+01:00",
+      "location": "Bonaparte Downtown, P. de Guilherme Gomes Fernandes 40, Porto",
+      "price": "€3 (online only)",
+      "description": "Weekly Friday evening networking mixer for tech, AI, data and IT professionals to meet, share job opportunities, and discuss industry trends at Bonaparte Downtown.",
+      "url": "https://www.eventbrite.com/e/porto-tech-mixer-and-social-tech-ai-data-it-tickets-1992610455512",
+      "interest_rate": 35,
+      "interest_rate_reason": "Unstructured weekly tech networking mixer at a bar with no speakers or agenda — resembles negative story 3's no-structure pattern despite the tech-focused audience."
     }
   ]
 }
