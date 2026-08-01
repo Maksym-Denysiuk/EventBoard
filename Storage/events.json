@@ -934,6 +934,102 @@
       "url": "https://www.eventbrite.com/e/porto-tech-mixer-and-social-tech-ai-data-it-tickets-1992610455512",
       "interest_rate": 35,
       "interest_rate_reason": "Unstructured weekly tech networking mixer at a bar with no speakers or agenda — resembles negative story 3's no-structure pattern despite the tech-focused audience."
+    },
+    {
+      "id": "evt_2026_0912_johnny-hooker",
+      "name": "Johnny Hooker – Hard Club",
+      "tag": "music",
+      "date": "2026-09-12T20:00:00+01:00",
+      "location": "Hard Club (Room 2), Praça do Infante D. Henrique, Porto",
+      "price": "Price not published",
+      "description": "Brazilian singer-songwriter Johnny Hooker brings his blend of samba, brega, frevo, guitarrada and axé with tropicália-inspired grooves to Hard Club's Room 2.",
+      "url": "https://www.hardclubporto.com/EN/evento/johnny-hooker-2026/",
+      "interest_rate": 62,
+      "interest_rate_reason": "Standing club concert by a touring Brazilian artist — solid live-gig match to positive story 5, mid-size room."
+    },
+    {
+      "id": "evt_2026_0913_2zdinizz-patrono-tour",
+      "name": "2zdinizz – Patrono Tour",
+      "tag": "music",
+      "date": "2026-09-13T21:00:00+01:00",
+      "location": "Hard Club (Room 1), Praça do Infante D. Henrique, Porto",
+      "price": "Price not published",
+      "description": "Brazilian rapper 2zdinizz brings his \"Patrono Tour\" to Hard Club, delivering an intense, direct-connection live rap set marked by raw energy.",
+      "url": "https://www.hardclubporto.com/EN/evento/2zdinizz-patrono-tour-2026/",
+      "interest_rate": 58,
+      "interest_rate_reason": "Standing club rap show by a touring act — decent live-gig match to positive story 5, though less intimate than a small-venue ideal."
+    },
+    {
+      "id": "evt_2026_0925_techstars-startup-weekend-porto",
+      "name": "Techstars Startup Weekend Porto",
+      "tag": "business",
+      "date": "2026-09-25T18:00:00+01:00",
+      "location": "LACS Porto, Rua de Azevedo Coutinho 39, Porto",
+      "price": "Paid (price not published; see Eventbrite)",
+      "description": "Intensive 54-hour startup-building weekend (Sept 25-27) — pitch ideas Friday evening, form teams, and build a functional prototype with mentors and investors ahead of Sunday's final pitches. Organized by the 351 Portuguese Startup Association.",
+      "url": "https://www.eventbrite.pt/e/techstars-startup-weekend-porto-tickets-1994141199007",
+      "interest_rate": 75,
+      "interest_rate_reason": "Hands-on weekend of pitching solutions and building a business with mentor guidance — strong match to positive story 1's expertise-building/pitching focus."
+    },
+    {
+      "id": "evt_2026_0926_beto-guedes",
+      "name": "Beto Guedes – Hard Club",
+      "tag": "music",
+      "date": "2026-09-26T20:00:00+01:00",
+      "location": "Hard Club (Room 1), Praça do Infante D. Henrique, Porto",
+      "price": "Price not published",
+      "description": "Brazilian MPB legend Beto Guedes makes his first-ever Portugal appearance, marking 50 years of his career with a set spanning his Clube da Esquina-era work alongside Milton Nascimento and solo hits like \"Amor de Índio\" and \"Sol de Primavera\".",
+      "url": "https://www.hardclubporto.com/EN/evento/beto-guedes-2026/",
+      "interest_rate": 70,
+      "interest_rate_reason": "Historic first-ever Portugal show by a 50-year MPB legend at a mid-size club — strong match to positive story 5's live-gig appeal."
+    },
+    {
+      "id": "evt_2026_1129_al-di-meola-misty-fest",
+      "name": "Al Di Meola – Misty Fest",
+      "tag": "music",
+      "date": "2026-11-29T21:00:00+00:00",
+      "location": "Casa da Música (Sala Suggia), Av. da Boavista 604-610, Porto",
+      "price": "€40–€70",
+      "description": "Legendary jazz guitarist Al Di Meola performs a 75-minute set of iconic and new compositions blending flamenco, tango and jazz influences from his four-decade career, as part of Misty Fest's Contemporary Jazz Nights.",
+      "url": "https://agendaculturalporto.org/eventos/al-di-meola-misty-fest/",
+      "interest_rate": 75,
+      "interest_rate_reason": "Intimate concert-hall performance by a virtuoso jazz guitarist — strong match to positive story 5's small-venue, good-sound live-gig ideal."
+    },
+    {
+      "id": "evt_2026_1207_sara-correia-super-bock-arena",
+      "name": "Sara Correia – Super Bock Arena",
+      "tag": "music",
+      "date": "2026-12-07T21:30:00+00:00",
+      "location": "Super Bock Arena – Pavilhão Rosa Mota, Porto",
+      "price": "€20–€90",
+      "description": "Rising fado star Sara Correia — currently the 3rd most-streamed female artist in Portugal on Spotify — performs a seated arena show driven by her hit single \"Avisem Que Eu Cheguei\" and anticipation for her new album.",
+      "url": "https://www.superbockarena.pt/evento/sara-correia/",
+      "interest_rate": 55,
+      "interest_rate_reason": "Large seated arena fado show — decent passive live-music resonance with positive story 5/2, tempered by arena scale."
+    },
+    {
+      "id": "evt_2026_1208_sara-correia-super-bock-arena-2",
+      "name": "Sara Correia – Super Bock Arena (2nd Show)",
+      "tag": "music",
+      "date": "2026-12-08T18:00:00+00:00",
+      "location": "Super Bock Arena – Pavilhão Rosa Mota, Porto",
+      "price": "€20–€90",
+      "description": "A second added date for fado star Sara Correia's Super Bock Arena run, following high demand for her December 7 show, with an earlier evening start time.",
+      "url": "https://www.superbockarena.pt/evento/sara-correia/",
+      "interest_rate": 55,
+      "interest_rate_reason": "Large seated arena fado show — same profile as the December 7 date, decent match to positive story 5/2, arena scale."
+    },
+    {
+      "id": "evt_2027_0116_lisbon-film-orchestra-our-stories",
+      "name": "Lisbon Film Orchestra – Our Stories",
+      "tag": "music",
+      "date": "2027-01-16T21:30:00+00:00",
+      "location": "Super Bock Arena – Pavilhão Rosa Mota, Porto",
+      "price": "€28–€60",
+      "description": "Over 120 musicians, singers, choir members and dancers perform iconic film and TV score themes under conductor Nuno de Sá, opening the orchestra's 20th-anniversary season with an immersive audiovisual spectacle.",
+      "url": "https://www.superbockarena.pt/evento/lisbon-film-orchestra-our-stories/",
+      "interest_rate": 65,
+      "interest_rate_reason": "Large-scale orchestral spectacle with 120 performers — passive, immersive live-music experience matching positive story 5, arena scale caps the intimacy."
     }
   ]
 }
