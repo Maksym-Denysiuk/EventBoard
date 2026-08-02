@@ -12,126 +12,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_0801_passing-vessel-ceramic-candle-workshop",
-      "name": "The Passing Vessel – Ceramic & Candle Making Workshop",
-      "tag": "art",
-      "date": "2026-08-01T16:00:00+01:00",
-      "location": "SNEFERU Atelier, Rua de Ferreira Cardoso 49, Porto",
-      "price": "€45",
-      "description": "Hands-on ceramic and candle-making workshop at SNEFERU Atelier, including materials, a scented candle to take home, and snacks and drinks; small groups of 5-18 people. Recurring every Saturday 16:00-19:00.",
-      "url": "https://www.snfru.com/en-am/pages/ceramic-workshop-porto",
-      "interest_rate": 85,
-      "interest_rate_reason": "Small-group hands-on ceramic and candle-making workshop with relaxed pace — strong match to positive story 4's craft-workshop ideal."
-    },
-    {
-      "id": "evt_2026_0801_sao-joao-uma-rua-viva",
-      "name": "São João – Uma Rua Viva",
-      "tag": "art",
-      "date": "2026-08-01T15:00:00+01:00",
-      "location": "Rua de São João, Porto",
-      "price": "Free entry (snacks/drinks €7.50 per venue)",
-      "description": "Second edition of a community-driven street festival closing Rua de São João to traffic from 15:00-19:30, with fado and DJ performances, live crafts, gastronomy from twelve local merchants, and a guided tour of the historic English Factory.",
-      "url": "https://agendaculturalporto.org/eventos/sao-joao-uma-rua-viva-regressa-e-fecha-a-rua-de-sao-joao-ao-transito/",
-      "interest_rate": 52,
-      "interest_rate_reason": "Free street festival with live crafts and a guided historical tour — modest match to positive story 4, tempered by overcrowding/Portuguese-only-kitchen risk per negative story 2."
-    },
-    {
-      "id": "evt_2026_0801_viagem-medieval-santa-maria",
-      "name": "Viagem Medieval em Terra de Santa Maria 2026",
-      "tag": "trips",
-      "date": "2026-08-01T12:00:00+01:00",
-      "location": "Centro Histórico de Santa Maria da Feira (~35km from Porto)",
-      "price": "€4/day (Mon-Thu) or €5/day (Fri-Sun); €10 all-days wristband",
-      "description": "30th-anniversary edition of Europe's largest medieval historical recreation event, transforming Santa Maria da Feira's historic centre with roughly 2,000 performers, themed around the Condado Portucalense. Runs July 29 – August 9, 2026; weekend access 12:00-00:30.",
-      "url": "https://www.viagemmedieval.com/en/",
-      "interest_rate": 40,
-      "interest_rate_reason": "Large self-guided historical festival — no fixed guided itinerary or meeting point, only a loose match to positive story 2's guided-tour resonance."
-    },
-    {
-      "id": "evt_2026_0801_no-noise-11",
-      "name": "No Noise #11 – Experimental Music & DIY Festival",
-      "tag": "music",
-      "date": "2026-08-01T15:00:00+01:00",
-      "location": "Sonoscopia Associação, R. de Silva Porto 217, Porto",
-      "price": "€12 (includes dinner)",
-      "description": "11th edition of Sonoscopia's annual small-scale experimental music and DIY culture festival, running 15:00-23:00 across the venue's concert hall, garden, and bar with nine performances. Not wheelchair accessible.",
-      "url": "https://www.agenda-porto.pt/evento/no-noise-11/",
-      "interest_rate": 65,
-      "interest_rate_reason": "Small-venue experimental music festival with a real programme — matches positive story 5's live-gig, low-social-pressure appeal."
-    },
-    {
-      "id": "evt_2026_0801_cyanotype-experience-maria-constanza",
-      "name": "A Cyanotype Experience with Artist Maria Constanza",
-      "tag": "art",
-      "date": "2026-08-01T16:00:00+01:00",
-      "location": "Hotel Tipografia do Conto, Rua de Álvares Cabral 28, Porto",
-      "price": "Price not published",
-      "description": "Cyanotype photography workshop led by Venezuelan-Portuguese-American artist Maria Constanza Ferreira, held at Hotel Tipografia do Conto in Porto.",
-      "url": "https://www.eventbrite.com/e/a-cyanotype-experience-with-artist-maria-constanza-tickets-1994745608813",
-      "interest_rate": 75,
-      "interest_rate_reason": "Small hands-on craft workshop led by an artist — strong match to positive story 4 (made something with my hands, relaxed pace)."
-    },
-    {
-      "id": "evt_2026_0801_techno-room-beach-fest",
-      "name": "Techno Room Beach Fest 2026",
-      "tag": "music",
-      "date": "2026-08-01T17:00:00+01:00",
-      "location": "Praia da Baía, R. 2 2, 4500-259 Espinho (~18km from Porto)",
-      "price": "Price not published (2025 edition: €25 at the door / €10 after-party)",
-      "description": "Beach techno festival running 17:00–06:00 with a DJ lineup including GADDAM, MYU:SA, PER PLEKS, POLTERGST, STAN CHRIST and STËH, followed by an official after-party at 4EVERCLUB from 00:30.",
-      "url": "https://shotgun.live/pt-pt/festivals/porto-techno-room-beach-fest-2026",
-      "interest_rate": 45,
-      "interest_rate_reason": "Large overnight beach techno festival — live-music/DJ resonance present but big uncontrolled crowd leans toward negative story 2's overcrowded-event risk."
-    },
-    {
-      "id": "evt_2026_0801_aaron-parks-trio-pianofest",
-      "name": "Aaron Parks Trio – Porto Pianofest Opening Concert",
-      "tag": "music",
-      "date": "2026-08-01T19:30:00+01:00",
-      "location": "Casa da Música, Porto",
-      "price": "Price not published",
-      "description": "Opening concert of the 11th Porto Pianofest, marking the Portuguese debut of pianist Aaron Parks' trio with Danish bassist Anders Christensen and Portuguese drummer André Sousa Machado.",
-      "url": "https://www.portopianofest.com/pt/home",
-      "interest_rate": 72,
-      "interest_rate_reason": "Ticketed jazz trio concert at a proper concert hall — strong match to positive story 5's small live-gig, good-sound, low-pressure appeal."
-    },
-    {
-      "id": "evt_2026_0801_morrissey",
-      "name": "Morrissey – Live in Porto",
-      "tag": "music",
-      "date": "2026-08-01T21:00:00+01:00",
-      "location": "Super Bock Arena – Pavilhão Rosa Mota, Porto",
-      "price": "€60–€85",
-      "description": "Morrissey returns to Portugal for the first time in over a decade with a seated arena show spanning his solo catalogue, The Smiths classics, and material from his new record. Doors 19:30, show 21:00.",
-      "url": "https://www.superbockarena.pt/evento/morrissey/",
-      "interest_rate": 60,
-      "interest_rate_reason": "Big-name seated arena concert — passive, no-decisions live-music experience resembling positive story 2/5, tempered by large-venue scale."
-    },
-    {
-      "id": "evt_2026_0801_dillaz-gualterianas",
-      "name": "Dillaz – Festas Gualterianas",
-      "tag": "music",
-      "date": "2026-08-01T22:00:00+01:00",
-      "location": "Largo do Toural, Guimarães (~50km from Porto)",
-      "price": "Free entry",
-      "description": "Headline concert by Portuguese rapper Dillaz on the Largo do Toural main stage, part of Guimarães' Festas da Cidade e Gualterianas 2026 (July 24 – August 3).",
-      "url": "https://em.guimaraes.pt/cultura/geo_evento-86/festas-da-cidade-e-gualterianas-2026",
-      "interest_rate": 50,
-      "interest_rate_reason": "Free outdoor headline concert — live-music resonance offset by large uncontrolled festival crowd (negative story 2)."
-    },
-    {
-      "id": "evt_2026_0801_the-journey-black-edition",
-      "name": "The Journey \"Black Edition\"",
-      "tag": "nightlife",
-      "date": "2026-08-01T23:55:00+01:00",
-      "location": "BLANCO CLUB, R. Manuel Pinto de Azevedo 21, Porto",
-      "price": "€7.50 pre-sale / €15 at the door",
-      "description": "Techno night organized by No Time For Sleep (NTS) headlined by Nuno Clam alongside Azeh, DJ Frankie Guess and Skitter, running 23:55 Aug 1 to 06:00 Aug 2 with a black casual-chic dress code. Ages 18+, no-refund policy.",
-      "url": "https://www.eventbrite.pt/e/the-journey-black-edition-tickets-1993626850577",
-      "interest_rate": 35,
-      "interest_rate_reason": "Late-night ticketed techno club night — no clear tie to positive stories; not guided, craft, business, or adrenaline-activity in nature."
-    },
-    {
       "id": "evt_2026_0802_conjuncoes-ibericas-organ-recital",
       "name": "Conjunções Ibéricas III – Batalhas e suas Tréguas",
       "tag": "music",
@@ -864,66 +744,6 @@
       "interest_rate_reason": "Seated anniversary concert with a confirmed moderate ticket price (€15–€40) and full career-spanning setlist — solid match to positive story 5's live-gig appeal."
     },
     {
-      "id": "evt_2026_0801_alt-summer-fest",
-      "name": "Alt Summer Fest – 2nd Edition",
-      "tag": "music",
-      "date": "2026-08-01T15:30:00+01:00",
-      "location": "Espaço AL859, R. da Alegria 859, Porto",
-      "price": "€10 (online, includes a drink; also available at the door)",
-      "description": "Second edition of this independent alternative-music festival across two stages (outdoor and indoor) at Espaço AL859, featuring six bands: Gato do Mato, Beach Wreck, Treewax, Jardim de Cinzas, Rainspotting, and Carrots After Lunch.",
-      "url": "https://www.agenda-porto.pt/en/evento/alt-summer-fest/",
-      "interest_rate": 65,
-      "interest_rate_reason": "Small independent alt-music festival across two stages at an art space — matches positive story 5's small-venue live-gig appeal with a full afternoon lineup."
-    },
-    {
-      "id": "evt_2026_0801_mr-beans-jam-session",
-      "name": "Mr. Bean's Jam Session + DJ Set",
-      "tag": "music",
-      "date": "2026-08-01T18:00:00+01:00",
-      "location": "Mr. Bean's Music Club, Rua da Restauração 481, Porto",
-      "price": "Price not published",
-      "description": "Weekly Saturday open jam session in an intimate room packed close to the musicians, followed by a DJ set; part of the venue's recurring weekend jam session series.",
-      "url": "https://www.agenda-porto.pt/en/local/mr-beanand39s-music-club/",
-      "interest_rate": 68,
-      "interest_rate_reason": "Small, intimate open jam session with a crowd packed close to the musicians — strong match to positive story 5's small-venue live-gig ideal."
-    },
-    {
-      "id": "evt_2026_0801_territorios-assincronos-exhibition",
-      "name": "Territórios Assíncronos — Cláudia Salgueiro & Maria João Jerónimo Exhibition Opening",
-      "tag": "art",
-      "date": "2026-08-01T15:00:00+01:00",
-      "location": "Galeria Cor Própria, R. do Rosário 129, Porto",
-      "price": "Free",
-      "description": "Opening reception for a dual exhibition by Cláudia Salgueiro and Maria João Jerónimo exploring distance and home through 303 kilometers of cartography filled with corporeal and affective places; on view through September 2, 2026.",
-      "url": "https://www.agenda-porto.pt/en/evento/territorios-assincronos/",
-      "interest_rate": 55,
-      "interest_rate_reason": "Free gallery exhibition opening — relaxed art-viewing event, mild match to positive story 4's low-pressure creative appeal, similar to other exhibition openings already captured."
-    },
-    {
-      "id": "evt_2026_0801_more-than-cinema-instituto",
-      "name": "More-Than Cinema — ETH Zurich Chair of Architecture and Urban Design Exhibition Opening",
-      "tag": "art",
-      "date": "2026-08-01T17:15:00+01:00",
-      "location": "INSTITUTO, R. dos Clérigos 44, Porto",
-      "price": "Free",
-      "description": "Opening of a site-specific installation exploring experimental cinema, sensory ethnography, and urban ecosystems, curated by Hubert Klumpner and Klearjos Eduardo Papanicolaou (ETH Zurich Chair of Architecture and Urban Design); on view Wednesdays-Fridays through September 30, 2026.",
-      "url": "https://www.agenda-porto.pt/en/evento/more-than-cinema/",
-      "interest_rate": 42,
-      "interest_rate_reason": "Niche academic architecture/cinema installation opening — weak, passive match to positive story 4's hands-on creative-experience ideal; narrow subject matter limits broader appeal."
-    },
-    {
-      "id": "evt_2026_0801_caetano-summer-open-padel",
-      "name": "BMW MINI Caetano Summer Open (Padel)",
-      "tag": "tournament",
-      "date": "2026-08-01T19:00:00+01:00",
-      "location": "The Lob - Padel & Pickleball, Rua de Picoutos 108, São Mamede de Infesta, Matosinhos",
-      "price": "€25 (single category, incl. welcome kit) / €40 (two categories)",
-      "description": "Second stage of the Caetano Circuit padel teams competition, spanning M2-M5 and +11 categories on The Lob's indoor courts, running July 30 – August 2, 2026 with match play continuing into August 1 (19:00-00:30) and August 2 (09:00-00:30).",
-      "url": "https://padelteams.pt/info/default/competition?k=Y2lkPTczMTQ%3D",
-      "interest_rate": 55,
-      "interest_rate_reason": "Amateur padel team competition — physical/competitive resonance with positive story 3, similar to other padel tournaments already captured."
-    },
-    {
       "id": "evt_2026_0807_porto-tech-mixer-social",
       "name": "Porto Tech Mixer and Social (Tech / AI / Data / IT)",
       "tag": "tech",
@@ -1066,6 +886,54 @@
       "url": "https://www.portopianofest.com/ts-11-8",
       "interest_rate": 72,
       "interest_rate_reason": "Ticketed solo piano recital by an acclaimed performer at a proper concert-hall auditorium — strong match to positive story 5's small live-gig, good-sound appeal."
+    },
+    {
+      "id": "evt_2026_0802_feira-artesanato-guimaraes",
+      "name": "XXVIII Feira de Artesanato de Guimarães",
+      "tag": "art",
+      "date": "2026-08-02T17:00:00+01:00",
+      "location": "Jardins da Alameda de São Dâmaso, Guimarães (~50km from Porto)",
+      "price": "Free entry",
+      "description": "28th edition of Guimarães' annual crafts fair, running July 24 – August 3, 2026 in the Alameda de São Dâmaso gardens as part of Festas da Cidade e Gualterianas 2026, with regional artisan stalls selling handmade goods.",
+      "url": "https://em.guimaraes.pt/cultura/geo_evento-86/festas-da-cidade-e-gualterianas-2026",
+      "interest_rate": 48,
+      "interest_rate_reason": "Free artisan craft-fair market — mild match to positive story 4's craft appeal though browsing rather than hands-on, and city-festival scale risks overcrowding per negative story 2."
+    },
+    {
+      "id": "evt_2026_0807_festival-esteoeste",
+      "name": "Festival ESTEOESTE 2026",
+      "tag": "music",
+      "date": "2026-08-07T18:15:00+01:00",
+      "location": "Parque da Ponte, Braga (~50km from Porto)",
+      "price": "Free entry",
+      "description": "Free two-day, two-stage independent music festival (Aug 7-8) celebrating music, artistic creation and independent culture, headlined by Ana Frango Elétrico among 13 other acts, with a creators' market and food vendors. Drew over 10,000 attendees in its previous edition.",
+      "url": "https://glam-magazine.pt/festival-esteoeste-regressa-a-braga-nos-dias-7-e-8-de-agosto/",
+      "interest_rate": 60,
+      "interest_rate_reason": "Free two-stage outdoor indie/independent music festival — solid live-music match to positive story 5, large free-festival scale tempers intimacy."
+    },
+    {
+      "id": "evt_2026_0808_banhos-de-canoa",
+      "name": "Banhos de Canoa – Introductory Canoeing",
+      "tag": "sports",
+      "date": "2026-08-08T15:00:00+01:00",
+      "location": "Praia Seca, Rio Ave, Caldas das Taipas, Guimarães (~50km from Porto)",
+      "price": "Free",
+      "description": "Free guided introductory canoeing session on the Rio Ave, in partnership with Clube Náutico das Taipas, covering safety instruction and basic rowing technique; part of the 15th-edition Banhos Velhos free cultural season (May-September 2026).",
+      "url": "https://www.fpguimaraes.pt/events/banhos-de-canoa/",
+      "interest_rate": 75,
+      "interest_rate_reason": "Free guided introductory canoeing lesson on a river — direct match to positive story 3's proactive-adrenaline, rafting-adjacent water activity."
+    },
+    {
+      "id": "evt_2026_0808_noite-de-fados-taipas",
+      "name": "Noite de Fados – Grupo de Fados da Vila",
+      "tag": "music",
+      "date": "2026-08-08T21:30:00+01:00",
+      "location": "Banhos Velhos, Caldas das Taipas, Guimarães (~50km from Porto)",
+      "price": "Free admission",
+      "description": "Free fado night by local group Grupo de Fados da Vila at the historic Banhos Velhos spa venue, part of the 15th-edition Banhos Velhos free cultural season (May-September 2026).",
+      "url": "https://www.fpguimaraes.pt/events/noite-de-fados-4/",
+      "interest_rate": 62,
+      "interest_rate_reason": "Free small-town fado night by a local group at an intimate historic spa venue — good match to positive story 5's small-venue, low-pressure live-music appeal."
     }
   ]
 }
