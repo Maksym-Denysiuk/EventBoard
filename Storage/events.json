@@ -12,54 +12,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_0802_conjuncoes-ibericas-organ-recital",
-      "name": "Conjunções Ibéricas III – Batalhas e suas Tréguas",
-      "tag": "music",
-      "date": "2026-08-02T18:00:00+01:00",
-      "location": "Mosteiro de São Bento da Vitória, R. de São Bento da Vitória 45, Porto",
-      "price": "Free admission (capacity limited)",
-      "description": "Organ recital exploring 17th- and 18th-century Iberian battle-genre organ music, using the instrument to evoke trumpets, echoes and processions, performed at TNSJ's Mosteiro de São Bento da Vitória.",
-      "url": "https://www.agenda-porto.pt/evento/conjuncoes-ibericas-iii-batalhas-e-suas-treguas/",
-      "interest_rate": 68,
-      "interest_rate_reason": "Free organ recital in an atmospheric small venue — resonates with positive story 5's calm live-music, no-social-pressure appeal."
-    },
-    {
-      "id": "evt_2026_0802_jaeden-izik-dzurko-pianofest",
-      "name": "Jaeden Izik-Dzurko – Porto Pianofest",
-      "tag": "music",
-      "date": "2026-08-02T19:30:00+01:00",
-      "location": "Reitoria da Universidade do Porto, Salão Nobre, Porto",
-      "price": "Price not published",
-      "description": "Recital by Canadian pianist Jaeden Izik-Dzurko, the most recent winner of the Leeds International Piano Competition, as part of Porto Pianofest's Salão Nobre concert series.",
-      "url": "https://www.portopianofest.com/pt/home",
-      "interest_rate": 70,
-      "interest_rate_reason": "Solo piano recital by an award-winning performer in an intimate hall — strong match to positive story 5."
-    },
-    {
-      "id": "evt_2026_0802_candlelight-joe-hisaishi",
-      "name": "Candlelight: The Best of Joe Hisaishi",
-      "tag": "music",
-      "date": "2026-08-02T20:30:00+01:00",
-      "location": "Pestana Palácio do Freixo, Estrada Nacional 108, Porto",
-      "price": "From €23.50",
-      "description": "Candlelight-format tribute concert to composer Joe Hisaishi's film scores, performed by candlelight at Pestana Palácio do Freixo. 60-minute set; doors open 30 minutes before.",
-      "url": "https://feverup.com/m/195673/en",
-      "interest_rate": 62,
-      "interest_rate_reason": "Short candlelight tribute concert — enjoyable passive live-music format matching positive story 5, though brief and touristy."
-    },
-    {
-      "id": "evt_2026_0802_gnr-gualterianas",
-      "name": "GNR – Festas Gualterianas",
-      "tag": "music",
-      "date": "2026-08-02T22:00:00+01:00",
-      "location": "Largo do Toural, Guimarães (~50km from Porto)",
-      "price": "Free entry",
-      "description": "Closing headline concert by legendary Portuguese rock band GNR on the Largo do Toural main stage, wrapping up Guimarães' Festas da Cidade e Gualterianas 2026 (July 24 – August 3).",
-      "url": "https://em.guimaraes.pt/cultura/geo_evento-86/festas-da-cidade-e-gualterianas-2026",
-      "interest_rate": 50,
-      "interest_rate_reason": "Free outdoor festival-closing concert — same large-crowd caveat (negative story 2) as the other Gualterianas headline shows."
-    },
-    {
       "id": "evt_2026_0806_castlerock-quiz-night",
       "name": "Quiz Night at CastleRock Pub & Hotel",
       "tag": "tournament",
@@ -82,18 +34,6 @@
       "url": "https://www.meetup.com/porto-internationals/",
       "interest_rate": 40,
       "interest_rate_reason": "Multi-bar pub crawl — unstructured bar-hopping risks resembling negative story 3's 'no structure, just background noise' pattern."
-    },
-    {
-      "id": "evt_2026_0802_vizinhancas-casa-prelada",
-      "name": "Vizinhanças 2026 – Casa da Prelada",
-      "tag": "community",
-      "date": "2026-08-02T10:00:00+01:00",
-      "location": "Casa da Prelada, Rua dos Castelos 485, Porto",
-      "price": "Free",
-      "description": "Free Sunday community day at the Casa da Prelada gardens with music, dance, workshops, storytelling and traditional crafts for all ages, including activities from the Porto-area Association of Ukrainians in Portugal. Runs 10:00-19:00.",
-      "url": "https://agendaculturalporto.org/eventos/vizinhancas-2026-anima-a-casa-da-prelada-com-musica-oficinas-e-atividades-gratuitas/",
-      "interest_rate": 62,
-      "interest_rate_reason": "Free community day with music, hands-on workshops, and Ukrainian-culture activities — matches positive story 4's relaxed, low-pressure creative appeal and the Ukrainian-language priority."
     },
     {
       "id": "evt_2026_0803_jose-ramon-mendez-pianofest",
@@ -888,18 +828,6 @@
       "interest_rate_reason": "Ticketed solo piano recital by an acclaimed performer at a proper concert-hall auditorium — strong match to positive story 5's small live-gig, good-sound appeal."
     },
     {
-      "id": "evt_2026_0802_feira-artesanato-guimaraes",
-      "name": "XXVIII Feira de Artesanato de Guimarães",
-      "tag": "art",
-      "date": "2026-08-02T17:00:00+01:00",
-      "location": "Jardins da Alameda de São Dâmaso, Guimarães (~50km from Porto)",
-      "price": "Free entry",
-      "description": "28th edition of Guimarães' annual crafts fair, running July 24 – August 3, 2026 in the Alameda de São Dâmaso gardens as part of Festas da Cidade e Gualterianas 2026, with regional artisan stalls selling handmade goods.",
-      "url": "https://em.guimaraes.pt/cultura/geo_evento-86/festas-da-cidade-e-gualterianas-2026",
-      "interest_rate": 48,
-      "interest_rate_reason": "Free artisan craft-fair market — mild match to positive story 4's craft appeal though browsing rather than hands-on, and city-festival scale risks overcrowding per negative story 2."
-    },
-    {
       "id": "evt_2026_0807_festival-esteoeste",
       "name": "Festival ESTEOESTE 2026",
       "tag": "music",
@@ -934,6 +862,78 @@
       "url": "https://www.fpguimaraes.pt/events/noite-de-fados-4/",
       "interest_rate": 62,
       "interest_rate_reason": "Free small-town fado night by a local group at an intimate historic spa venue — good match to positive story 5's small-venue, low-pressure live-music appeal."
+    },
+    {
+      "id": "evt_2026_0806_bach-violino-sao-nicolau",
+      "name": "Sonatas e Partitas para Violino Solo (Bach) – Gaspar Santos",
+      "tag": "music",
+      "date": "2026-08-06T18:00:00+01:00",
+      "location": "Igreja de São Nicolau, Porto",
+      "price": "Price not published",
+      "description": "Approx. 50-minute solo violin recital of Bach's Sonatas and Partitas (BWV 1001 and 1002) performed by violinist Gaspar Santos inside Igreja de São Nicolau. Recurring weekly Thursdays at 18:00 and Sundays at 11:30; tickets online or at the venue from 2 hours before.",
+      "url": "https://www.gasparsantos.eu/en/tickets/",
+      "interest_rate": 68,
+      "interest_rate_reason": "Solo Bach violin recital in an intimate historic church — strong match to positive story 5's small-venue, good-sound live-gig ideal."
+    },
+    {
+      "id": "evt_2026_0806_looksharp-boardgames-night",
+      "name": "Boardgames Night – LOOK.Sharp Café",
+      "tag": "tournament",
+      "date": "2026-08-06T18:00:00+01:00",
+      "location": "LOOK.Sharp Café, Rua Cimo de Vila 41, Porto",
+      "price": "€3 entry",
+      "description": "Recurring Thursday/Sunday board game social night at LOOK.Sharp Café, running 18:00-22:30 — a relaxed, welcoming game night for casual players and serious strategists alike.",
+      "url": "https://www.look-sharp.net/events",
+      "interest_rate": 58,
+      "interest_rate_reason": "Casual low-cost recurring board game night — organized, low-pressure social/competitive format similar to existing quiz-night entries, no strong story match but low-risk."
+    },
+    {
+      "id": "evt_2026_0808_looklive-dinner-music",
+      "name": "LOOK.Live: Dinner & Live Music",
+      "tag": "music",
+      "date": "2026-08-08T20:00:00+01:00",
+      "location": "LOOK.Sharp Café, Rua Cimo de Vila 41, Porto",
+      "price": "From €25 per person (2-person minimum)",
+      "description": "Intimate acoustic live performance paired with dinner service at LOOK.Sharp Café, running 20:00-22:00.",
+      "url": "https://www.look-sharp.net/events",
+      "interest_rate": 70,
+      "interest_rate_reason": "Intimate acoustic dinner-and-music evening at a small café — strong match to positive story 5's small-venue live-music appeal."
+    },
+    {
+      "id": "evt_2026_0809_horcrux-painting-workshop",
+      "name": "Horcrux Painting Workshop",
+      "tag": "art",
+      "date": "2026-08-09T16:00:00+01:00",
+      "location": "Portal ✧ Board Game Cafe & Bar, R. de Álvares Cabral 420, Porto",
+      "price": "€30 (donation-based, recommended contribution)",
+      "description": "Beginner-friendly Harry Potter-inspired workshop where participants paint horcruxes using professional gouache; all materials provided, no prior painting experience required, wizarding attire welcome. Hosted by Art Dao (organizer Margarita).",
+      "url": "https://www.meetup.com/artdao/",
+      "interest_rate": 78,
+      "interest_rate_reason": "Small-group hands-on painting workshop with all materials provided and a playful theme — strong match to positive story 4's craft-workshop, no-pressure appeal."
+    },
+    {
+      "id": "evt_2026_0809_viagem-medieval-santa-maria",
+      "name": "Viagem Medieval em Terra de Santa Maria 2026",
+      "tag": "trips",
+      "date": "2026-08-09T12:00:00+01:00",
+      "location": "Centro Histórico de Santa Maria da Feira (~35km from Porto)",
+      "price": "€5 (Fri-Sun daily ticket; €10 all-days access wristband)",
+      "description": "Europe's largest medieval recreation event, with roughly 2,000 performers recreating medieval life across 33 hectares of the historic centre — tournaments, shows and markets. Runs July 29 – August 9, 2026 (this is the closing day); open 12:00-00:30 on weekends.",
+      "url": "https://agendaculturalporto.org/viagem-medieval-2026-programa-bilhetes-precos-e-horarios/",
+      "interest_rate": 62,
+      "interest_rate_reason": "Large medieval-recreation day-trip destination close to Porto with tournaments and shows — matches positive story 2's day-trip appeal, tempered by large-crowd risk (negative story 2)."
+    },
+    {
+      "id": "evt_2026_0812_festival-bacalhau-ilhavo",
+      "name": "Festival do Bacalhau 2026 (Opening Day – Quim Barreiros)",
+      "tag": "trips",
+      "date": "2026-08-12T18:00:00+01:00",
+      "location": "Jardim Oudinot, Avenida do Porto Comercial, Gafanha da Nazaré, Ílhavo (~70km from Porto)",
+      "price": "Free entry",
+      "description": "Opening day of Ílhavo's five-day gastronomic and cultural festival (Aug 12-16) celebrating bacalhau (salted cod), with artisan stalls, exhibitions, showcookings, and evening concerts; opening night headlined by Quim Barreiros.",
+      "url": "https://www.visitilhavo.pt/o-que-te-faz-feliz/arte-e-patrimonio/turismo-industrial/evento/festival-do-bacalhau-2026",
+      "interest_rate": 58,
+      "interest_rate_reason": "Free day-trip-distance gastronomic festival — some resonance with positive story 2's destination-day-trip idea, tempered by large-crowd risk (negative story 2)."
     }
   ]
 }
