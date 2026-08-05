@@ -35,8 +35,9 @@ Using the tag keys already defined in `Requirements/events-schema-example.md`:
 | `music` | Entertainment | **Live music — concerts, gigs, festivals, DJ sets, open-mic (standalone; no longer requires a couples-social tie-in)** |
 | `nightlife` | Social / Entertainment | **Parties, club nights, themed/seasonal parties, launch parties, social celebrations** |
 | `community` | Social | Expat groups, language-based communities, recurring social meetups |
+| `neighborhood-day` | Social / Entertainment | Free municipal neighborhood cultural days combining music, theater, workshops, games and family activities in Porto's parks and squares (e.g. the city's "Vizinhanças" program) |
 
-Do not introduce new tag keys without updating this map and the schema's `tags` object together. New keys added across recent revisions: `tournament`, `nightlife`, `trips` (and `music` promoted from conditional to standalone; `art` expanded to cover master-classes, tastings, and crafting).
+Do not introduce new tag keys without updating this map and the schema's `tags` object together. New keys added across recent revisions: `tournament`, `nightlife`, `trips`, `neighborhood-day` (and `music` promoted from conditional to standalone; `art` expanded to cover master-classes, tastings, and crafting).
 
 ## TAG_MATCH_THRESHOLD
 50

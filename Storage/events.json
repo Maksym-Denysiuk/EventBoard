@@ -8,7 +8,8 @@
     "community": "Community",
     "trips": "Trips",
     "tournament": "Tournament",
-    "nightlife": "Nightlife"
+    "nightlife": "Nightlife",
+    "neighborhood-day": "Neighborhood Day"
   },
   "events": [
     {
@@ -970,6 +971,54 @@
       "url": "https://www.visitilhavo.pt/o-que-te-faz-feliz/arte-e-patrimonio/turismo-industrial/evento/festival-do-bacalhau-2026",
       "interest_rate": 58,
       "interest_rate_reason": "Free day-trip-distance gastronomic festival — some resonance with positive story 2's destination-day-trip idea, tempered by large-crowd risk (negative story 2)."
+    },
+    {
+      "id": "evt_2026_0809_vizinhancas-praca-liege",
+      "name": "Vizinhanças — Praça de Liège",
+      "tag": "neighborhood-day",
+      "date": "2026-08-09T10:00:00+01:00",
+      "location": "Praça de Liège, Aldoar/Foz do Douro/Nevogilde, Porto",
+      "price": "Free",
+      "description": "Municipal neighborhood cultural day at Praça de Liège, part of the Vizinhanças 2026 program run by Porto's Ágora — over 100 free activities across the city this season including music, theater, puppetry, circus, dance, storytelling, craft workshops, guided visits, traditional games and sports, tailored to the host parish. Runs 10:00-19:00.",
+      "url": "https://agendaculturalporto.org/eventos/vizinhancas-2026-leva-musica-teatro-e-oficinas-a-quatro-bairros-do-porto-em-agosto/",
+      "interest_rate": 45,
+      "interest_rate_reason": "Free, all-day municipal cultural fair with craft workshops and music mixed among many diffuse activities — partial match to positive stories 4/5, but lacks a focused intimate hands-on or live-music experience."
+    },
+    {
+      "id": "evt_2026_0816_vizinhancas-praca-marques",
+      "name": "Vizinhanças — Praça do Marquês",
+      "tag": "neighborhood-day",
+      "date": "2026-08-16T10:00:00+01:00",
+      "location": "Praça do Marquês, Centro Histórico, Porto",
+      "price": "Free",
+      "description": "Municipal neighborhood cultural day at Praça do Marquês, part of the Vizinhanças 2026 program run by Porto's Ágora — over 100 free activities across the city this season including music, theater, puppetry, circus, dance, storytelling, craft workshops, guided visits, traditional games and sports, tailored to the host parish. Runs 10:00-19:00.",
+      "url": "https://agendaculturalporto.org/eventos/vizinhancas-2026-leva-musica-teatro-e-oficinas-a-quatro-bairros-do-porto-em-agosto/",
+      "interest_rate": 45,
+      "interest_rate_reason": "Free, all-day municipal cultural fair with craft workshops and music mixed among many diffuse activities — partial match to positive stories 4/5, but lacks a focused intimate hands-on or live-music experience."
+    },
+    {
+      "id": "evt_2026_0808_papangu-ferro-bar",
+      "name": "Papangu — UK/EU Celestial Release Tour",
+      "tag": "music",
+      "date": "2026-08-08T21:00:00+01:00",
+      "location": "Ferro Bar, Rua da Madeira 84, Porto",
+      "price": "€10",
+      "description": "First-ever Porto show for live band Papangu, part of their UK/EU Celestial Release Tour — sophisticated jazzy folk songs shift into groovy fusion metal with crazed solos, improvisation and frenzied jamming, including Portuguese sing-alongs with the crowd. Exact doors time not published by the venue; evening start assumed based on Ferro Bar's typical schedule.",
+      "url": "https://www.songkick.com/concerts/43269778-papangu-at-ferro-bar",
+      "interest_rate": 72,
+      "interest_rate_reason": "First-Porto-show by a genre-blending, high-musicianship live band at an intimate bar venue — strong match to positive story 5's small-venue, high-energy live-gig ideal."
+    },
+    {
+      "id": "evt_2026_0815_ultra-retro-revival",
+      "name": "Ultra Retro Revival — Blanco Club",
+      "tag": "nightlife",
+      "date": "2026-08-15T23:55:00+01:00",
+      "location": "Blanco Club, Rua Manuel Pinto de Azevedo nr 21, Porto",
+      "price": "€10 pre-sale / €15 at the door",
+      "description": "Nostalgia-themed club night at Blanco Club celebrating the 80s, 90s and 00s — DJ FabioG on pop/rock/commercial and DJ 2H'sB13 on house hits, plus a retro-outfit contest with a €50 prize for the most authentic look. Runs 23:55-06:00. Ages 16+.",
+      "url": "https://www.eventbrite.pt/e/ultra-retro-revival-tickets-1994881065969",
+      "interest_rate": 48,
+      "interest_rate_reason": "Structured themed club night with named DJs and a costume contest — decent nightlife energy with a clear program, but no strong match to top positive stories and runs deep into early morning."
     }
   ]
 }
