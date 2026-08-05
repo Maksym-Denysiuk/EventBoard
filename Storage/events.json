@@ -36,30 +36,6 @@
       "interest_rate_reason": "Multi-bar pub crawl — unstructured bar-hopping risks resembling negative story 3's 'no structure, just background noise' pattern."
     },
     {
-      "id": "evt_2026_0804_festa-broa-avintes",
-      "name": "37ª Festa da Broa de Avintes",
-      "tag": "trips",
-      "date": "2026-08-04T19:00:00+01:00",
-      "location": "Largo do Palheirinho, Avintes, Vila Nova de Gaia (~8km from Porto)",
-      "price": "Free entry (gastronomy stalls priced separately)",
-      "description": "37th edition of Avintes' traditional bread festival, themed \"Regresso às Origens,\" running Aug 4-9, 2026 at Largo do Palheirinho with entertainment, gastronomy stalls celebrating the signature Broa de Avintes bread, and cultural performances for all ages. Exact daily opening times not published by organizers at time of research; evening start assumed based on prior editions.",
-      "url": "https://www.cm-gaia.pt/pt/eventos/37-festa-da-broa-de-avintes/",
-      "interest_rate": 52,
-      "interest_rate_reason": "Free local bread-and-gastronomy festival close to Porto — mild day-trip destination resonance (positive story 2), tempered by negative story 2's overcrowded/Portuguese-only-kitchen risk."
-    },
-    {
-      "id": "evt_2026_0804_nuno-marques-pianofest",
-      "name": "Nuno Marques – Porto Pianofest",
-      "tag": "music",
-      "date": "2026-08-04T19:30:00+01:00",
-      "location": "Reitoria da Universidade do Porto, Salão Nobre, Porto",
-      "price": "Price not published",
-      "description": "Piano recital by Portuguese pianist Nuno Marques, part of Porto Pianofest's Salão Nobre concert series at the University of Porto's Rectory.",
-      "url": "https://www.portopianofest.com/pt/home",
-      "interest_rate": 70,
-      "interest_rate_reason": "Solo piano recital, same intimate-venue series as other Pianofest dates — strong match to positive story 5."
-    },
-    {
       "id": "evt_2026_0806_trilhos-cruzados-exhibition",
       "name": "Trilhos Cruzados — António Moreira da Silva Exhibition Opening",
       "tag": "art",
@@ -778,6 +754,66 @@
       "url": "https://www.superbockarena.pt/evento/sara-correia/",
       "interest_rate": 55,
       "interest_rate_reason": "Large seated arena fado show — same profile as the December 7 date, decent match to positive story 5/2, arena scale."
+    },
+    {
+      "id": "evt_2026_0806_kristin-hutter-pianofest",
+      "name": "Kristin Hütter – Música à Hora de Almoço (Porto Pianofest)",
+      "tag": "music",
+      "date": "2026-08-06T13:00:00+01:00",
+      "location": "Museu Romântico, R. de Entre-Quintas 220, Porto",
+      "price": "Free",
+      "description": "Free lunch-hour piano recital by Austrian pianist Kristin Sophie Hütter, part of Porto Pianofest's Artist Residency Series showcasing young rising pianists at the intimate Museu Romântico.",
+      "url": "https://www.agenda-porto.pt/evento/pianofest-kristin-hutter/",
+      "interest_rate": 70,
+      "interest_rate_reason": "Free intimate lunch-hour piano recital at a small historic venue — strong match to positive story 5's small-venue, good-sound live-gig ideal."
+    },
+    {
+      "id": "evt_2026_0807_chloe-weston-pianofest",
+      "name": "Chloe Weston – Música à Hora de Almoço (Porto Pianofest)",
+      "tag": "music",
+      "date": "2026-08-07T13:00:00+01:00",
+      "location": "Museu Romântico, R. de Entre-Quintas 220, Porto",
+      "price": "Free",
+      "description": "Free lunch-hour piano recital by Canadian pianist Chloe Weston, part of Porto Pianofest's Artist Residency Series showcasing young rising pianists at the intimate Museu Romântico.",
+      "url": "https://www.agenda-porto.pt/evento/pianofest-chloe-weston/",
+      "interest_rate": 70,
+      "interest_rate_reason": "Free intimate lunch-hour piano recital at a small historic venue — strong match to positive story 5's small-venue, good-sound live-gig ideal."
+    },
+    {
+      "id": "evt_2026_0808_street-basketball-championship",
+      "name": "Campeonato Nacional de Street Basket e MiniBasket",
+      "tag": "tournament",
+      "date": "2026-08-08T10:00:00+01:00",
+      "location": "Praia Internacional do Porto (Estádio de Praia), Via do Castelo do Queijo 395, Porto",
+      "price": "Free",
+      "description": "Two-day (Aug 8-9) National Street Basketball and MiniBasket Championship at Porto's beach stadium, with 82 teams competing across sub-13 to senior categories, plus parallel board-game, workshop and demo activities for all ages.",
+      "url": "https://agendaculturalporto.org/eventos/campeonato-nacional-de-street-basket-e-minibasket-chega-a-praia-internacional-do-porto/",
+      "interest_rate": 52,
+      "interest_rate_reason": "Free outdoor national basketball championship with side activities — passive spectator entertainment resembling positive story 2's no-decisions resting format, similar to other spectator-tournament entries."
+    },
+    {
+      "id": "evt_2026_0808_donut-workshop-one-star",
+      "name": "3-Hour Intensive Yeast Donut Workshop",
+      "tag": "art",
+      "date": "2026-08-08T10:00:00+01:00",
+      "location": "One Star Donuts, R. de Barão de Forrester 917, Porto",
+      "price": "€50",
+      "description": "Hands-on American-style yeast donut-making class covering dough, fermentation, frying and frosting, capped at 6 students; attendees take home a box of their own freshly made donuts. Ages 15+.",
+      "url": "https://www.agenda-porto.pt/en/evento/oficina-intensiva-de-donuts/",
+      "interest_rate": 78,
+      "interest_rate_reason": "Small-group (max 6) hands-on donut-making workshop where you take home what you made — strong match to positive story 4's craft-workshop, hands-on appeal."
+    },
+    {
+      "id": "evt_2026_0815_fura-festival-david-fonseca",
+      "name": "Fura Festival – David Fonseca",
+      "tag": "music",
+      "date": "2026-08-15T22:00:00+01:00",
+      "location": "Praia do Furadouro, Ovar (~40km from Porto)",
+      "price": "Free",
+      "description": "Portuguese singer-songwriter David Fonseca headlines the second night of Fura Festival, a free three-day beach-town festival (Aug 14-16) in Furadouro with daytime water sports, an urban market, and street performances alongside evening concerts.",
+      "url": "https://avozdeesmoriz.pt/fura-festival-regressa-ao-furadouro-de-14-a-16-de-agosto-com-musica-cultura-e-experiencias/",
+      "interest_rate": 62,
+      "interest_rate_reason": "Free evening beach-town concert by a well-known artist within a day-trip-distance festival with daytime activities — matches positive story 5's live-music appeal and story 2's day-trip resonance."
     },
     {
       "id": "evt_2027_0116_lisbon-film-orchestra-our-stories",
