@@ -9,7 +9,8 @@
     "trips": "Trips",
     "tournament": "Tournament",
     "nightlife": "Nightlife",
-    "neighborhood-day": "Neighborhood Day"
+    "neighborhood-day": "Neighborhood Day",
+    "performance": "Performance"
   },
   "events": [
     {
@@ -1115,6 +1116,90 @@
       "url": "https://www.eventbrite.es/e/hop-on-the-top-porto-hip-hop-rb-funk-soul-tickets-1994150064524",
       "interest_rate": 40,
       "interest_rate_reason": "First-edition open-air riverside party — decent music/nightlife energy but unproven track record and no small-venue intimacy; weak match to positive story 5, mild premium-price risk per negative story 5."
+    },
+    {
+      "id": "evt_2026_0918_ai-portfolio-career-masterclass",
+      "name": "Masterclass: Build your Portfolio Career Before AI and Freelance Disruption",
+      "tag": "business",
+      "date": "2026-09-18T09:00:00+01:00",
+      "location": "5* Ecoresort Portobali, Rua 25 de Abril 1871, Porto",
+      "price": "Price not published (see Eventbrite)",
+      "description": "Nine-hour in-person masterclass for corporate leaders, founders and executives navigating AI-driven workplace transformation, facilitated by Marianne van Groeningen — covering portfolio-career strategy, niche positioning, LinkedIn visibility, networking, and scaling with agentic AI systems. Runs 09:00-18:00; includes a copy of the facilitator's AI-era leadership playbook (valued at €499).",
+      "url": "https://www.eventbrite.com/e/masterclass-build-your-portfolio-career-before-ai-and-freelance-disruption-tickets-1987562510974",
+      "interest_rate": 68,
+      "interest_rate_reason": "Full-day AI-era business/career masterclass with practical LinkedIn, networking and scaling tactics — strong match to positive story 1's business-expertise-building focus; unpublished price is a mild positive-story-5 risk."
+    },
+    {
+      "id": "evt_2026_0926_sap-inside-track-porto",
+      "name": "SAP Inside Track Porto 2026",
+      "tag": "tech",
+      "date": "2026-09-26T09:00:00+01:00",
+      "location": "Forte de Gaia, Autograph Collection, Vila Nova de Gaia",
+      "price": "Price not published (non-profit community event; tickets via Billetto)",
+      "description": "Community-run, non-profit SAP Inside Track conference bringing together SAP professionals, developers and technology enthusiasts for a full day of talks, knowledge-sharing and networking around the SAP ecosystem; surplus funds are donated to social causes. Exact start time not published by organizers at time of research; estimated based on the event's typical full-day format.",
+      "url": "https://sitporto.com/",
+      "interest_rate": 56,
+      "interest_rate_reason": "Community-run enterprise-tech (SAP) conference with full-day networking and knowledge-sharing — solid but narrower match to positive story 1's business/tech expertise focus than a general AI-strategy session."
+    },
+    {
+      "id": "evt_2026_0927_malga-tigela-ceramica",
+      "name": "Malga para Ele, Tigela para Ela – Workshop de Cerâmica",
+      "tag": "art",
+      "date": "2026-09-27T15:00:00+01:00",
+      "location": "Oficina Josefina, Av. Camilo 224, Porto",
+      "price": "Price not published (see oficinajosefina.com)",
+      "description": "Hands-on ceramics workshop at Oficina Josefina where participants shape their own bowl to keep or gift — a relaxed, no-experience-needed session working directly with clay.",
+      "url": "https://www.oficinajosefina.com/",
+      "interest_rate": 72,
+      "interest_rate_reason": "Hands-on ceramics workshop making a piece with your own hands — strong match to positive story 4's craft-workshop, made-with-my-hands appeal."
+    },
+    {
+      "id": "evt_2026_0927_cianotipia-familia",
+      "name": "Em Busca da Cianotipia com a Fotografia (Cianotipia em Família)",
+      "tag": "art",
+      "date": "2026-09-27T11:30:00+01:00",
+      "location": "Oficina Josefina, Av. Camilo 224, Porto",
+      "price": "Price not published (see oficinajosefina.com)",
+      "description": "Family-oriented cyanotype photography workshop at Oficina Josefina, introducing the sun-and-blue-pigment printing technique through a hands-on session open to parents and children together.",
+      "url": "https://www.oficinajosefina.com/",
+      "interest_rate": 30,
+      "interest_rate_reason": "Hands-on craft-photography technique offers some resonance with positive story 4, but the family/child-inclusive framing dilutes the personal adult-experience fit."
+    },
+    {
+      "id": "evt_2026_1117_bryan-adams",
+      "name": "Bryan Adams – Roll With The Punches Tour",
+      "tag": "music",
+      "date": "2026-11-17T21:00:00+00:00",
+      "location": "Super Bock Arena – Pavilhão Rosa Mota, Porto",
+      "price": "€50–€70",
+      "description": "Canadian rock icon Bryan Adams brings his Roll With The Punches tour to Porto, playing classics like 'Summer of '69', 'Heaven' and '(Everything I Do) I Do It For You' alongside new material from his JUNO-nominated 2025 album. A second Porto date was added on Nov 18 after the first sold out.",
+      "url": "https://www.superbockarena.pt/evento/bryan-adams/",
+      "interest_rate": 68,
+      "interest_rate_reason": "Global rock icon at a large arena — strong passive live-music draw matching positive story 5, tempered by arena scale over the intimate small-venue ideal."
+    },
+    {
+      "id": "evt_2027_0106_cirque-du-soleil-ovo",
+      "name": "Cirque du Soleil – OVO (Porto Premiere)",
+      "tag": "performance",
+      "date": "2027-01-06T20:30:00+00:00",
+      "location": "Super Bock Arena – Pavilhão Rosa Mota, Porto",
+      "price": "€45–€155",
+      "description": "Cirque du Soleil brings OVO to Porto for the first time (Jan 6-10, 2027) — a vibrant celebration of biodiversity where a universe of insects comes alive through acrobatics, comedy and striking visuals, performed by an international cast of roughly 100 artists from 25 countries.",
+      "url": "https://www.superbockarena.pt/evento/cirque-du-soleil-ovo-2/",
+      "interest_rate": 75,
+      "interest_rate_reason": "Fully guided, acclaimed circus spectacle where the audience simply shows up and watches — strong match to positive story 2's no-decisions resting ideal; premium price is justified by unique production quality rather than generic (avoiding negative story 5)."
+    },
+    {
+      "id": "evt_2027_0130_optimista-ceptico",
+      "name": "Optimista Céptico – Diogo Batáguas",
+      "tag": "performance",
+      "date": "2027-01-30T21:30:00+00:00",
+      "location": "Super Bock Arena – Pavilhão Rosa Mota, Porto",
+      "price": "€15–€25",
+      "description": "Portuguese comedian Diogo Batáguas premieres his fourth stand-up solo show, 'Optimista Céptico,' in Porto — a set on staying optimistic for the next generation despite the era's challenges. Performed in Portuguese.",
+      "url": "https://www.ticketline.pt/evento/optimista-ceptico-diogo-bataguas-105165",
+      "interest_rate": 35,
+      "interest_rate_reason": "Passive no-decisions stand-up show loosely echoes positive story 2, but Portuguese-only language (flagged per LANGUAGE_PRIORITY) and the lack of live-music/craft substance keep the match weak."
     }
   ]
 }
