@@ -1019,6 +1019,30 @@
       "url": "https://www.eventbrite.pt/e/ultra-retro-revival-tickets-1994881065969",
       "interest_rate": 48,
       "interest_rate_reason": "Structured themed club night with named DJs and a costume contest — decent nightlife energy with a clear program, but no strong match to top positive stories and runs deep into early morning."
+    },
+    {
+      "id": "evt_2026_0814_gare-porto-techno",
+      "name": "Techno Night: Jin Synth, Catarina Silva & Amulador — Gare Porto",
+      "tag": "nightlife",
+      "date": "2026-08-14T23:00:00+01:00",
+      "location": "Gare Porto, R. da Madeira 182, 4000-330 Porto",
+      "price": "Price not published (tickets via Shotgun.live)",
+      "description": "All-night techno club session at Gare Porto featuring DJs Jin Synth, Catarina Silva and Amulador spinning hypnotic, dub, deep, Detroit and acid techno. Runs 23:00 to 06:00 at the underground venue on Rua da Madeira.",
+      "url": "https://agendaculturalporto.org/eventos/jin-synth-catarina-silva-e-amulador-levam-techno-a-gare-porto/",
+      "interest_rate": 46,
+      "interest_rate_reason": "All-night underground techno DJ lineup — partial resonance with positive story 5's live-music energy, tempered by the unstructured 23:00–06:00 club format and unpublished price."
+    },
+    {
+      "id": "evt_2026_0815_gare-porto-techno",
+      "name": "Techno Night: Yuta, Valentin Ginies & Nuno Di Rosso — Gare Porto",
+      "tag": "nightlife",
+      "date": "2026-08-15T23:00:00+01:00",
+      "location": "Gare Porto, R. da Madeira 182, 4000-330 Porto",
+      "price": "Price not published (tickets via Shotgun.live)",
+      "description": "All-night techno club session at Gare Porto featuring DJs Yuta, Valentin Ginies and Nuno Di Rosso spinning acid, dub, hypnotic, deep and minimal techno. Runs 23:00 to 06:00 at the underground venue on Rua da Madeira.",
+      "url": "https://agendaculturalporto.org/eventos/yuta-valentin-ginies-e-nuno-di-rosso-atuam-na-gare-porto/",
+      "interest_rate": 46,
+      "interest_rate_reason": "All-night underground techno DJ lineup — partial resonance with positive story 5's live-music energy, tempered by the unstructured 23:00–06:00 club format and unpublished price."
     }
   ]
 }
