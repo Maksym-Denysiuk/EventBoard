@@ -10,5 +10,18 @@
     "tournament": "Tournament",
     "nightlife": "Nightlife"
   },
-  "events": []
+  "events": [
+    {
+      "id": "evt_2026_0927_experimentar-pinturas-bebes",
+      "name": "Experimentar Pinturas – Oficina Sensorial para Bebés",
+      "tag": "art",
+      "date": "2026-09-27T10:00:00+01:00",
+      "location": "Oficina Josefina, Av. Camilo 224, Porto",
+      "price": "Price not published (see oficinajosefina.com)",
+      "description": "Sensory painting session at Oficina Josefina designed for infants and their caregivers to explore texture, color and touch together.",
+      "url": "https://www.oficinajosefina.com/",
+      "interest_rate": 12,
+      "interest_rate_reason": "Sensory workshop designed for infant participation, not the requester's own hands-on experience — no meaningful match to any positive story dimension."
+    }
+  ]
 }

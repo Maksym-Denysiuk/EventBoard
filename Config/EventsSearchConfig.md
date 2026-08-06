@@ -12,8 +12,8 @@ Porto, Portugal (base point for radius calculation)
 — covers Porto city, Vila Nova de Gaia, Matosinhos, Maia, and extends out to Braga, Guimarães, Aveiro, and the near Douro Valley — supporting day-trip / weekend-tour (`trips`) results.
 
 ## WINDOW_DAYS
-10
-— rolling look-ahead from the routine's run date.
+~180 (6 months)
+— rolling look-ahead from the routine's run date. This deployment runs the 6-month-horizon variant of the research routine ("6m Event Research"); the window is fixed at approximately six months regardless of run cadence.
 
 ## LANGUAGE_PRIORITY
 1. English
@@ -36,8 +36,9 @@ Using the tag keys already defined in `Requirements/events-schema-example.md`:
 | `nightlife` | Social / Entertainment | **Parties, club nights, themed/seasonal parties, launch parties, social celebrations** |
 | `community` | Social | Expat groups, language-based communities, recurring social meetups |
 | `neighborhood-day` | Social / Entertainment | Free municipal neighborhood cultural days combining music, theater, workshops, games and family activities in Porto's parks and squares (e.g. the city's "Vizinhanças" program) |
+| `performance` | Entertainment | Non-music live performance spectacles — circus, stand-up comedy, theatre, dance and other staged shows that aren't primarily music- or workshop-driven |
 
-Do not introduce new tag keys without updating this map and the schema's `tags` object together. New keys added across recent revisions: `tournament`, `nightlife`, `trips`, `neighborhood-day` (and `music` promoted from conditional to standalone; `art` expanded to cover master-classes, tastings, and crafting).
+Do not introduce new tag keys without updating this map and the schema's `tags` object together. New keys added across recent revisions: `tournament`, `nightlife`, `trips`, `neighborhood-day`, `performance` (and `music` promoted from conditional to standalone; `art` expanded to cover master-classes, tastings, and crafting).
 
 ## TAG_MATCH_THRESHOLD
 50
