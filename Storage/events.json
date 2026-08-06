@@ -1019,6 +1019,54 @@
       "url": "https://www.eventbrite.pt/e/ultra-retro-revival-tickets-1994881065969",
       "interest_rate": 48,
       "interest_rate_reason": "Structured themed club night with named DJs and a costume contest — decent nightlife energy with a clear program, but no strong match to top positive stories and runs deep into early morning."
+    },
+    {
+      "id": "evt_2026_0808_founders-running-club",
+      "name": "Founders Running Club Porto",
+      "tag": "business",
+      "date": "2026-08-08T10:00:00+01:00",
+      "location": "Jardim do Morro, Vila Nova de Gaia (meets at Jardim do Morro Metro Station)",
+      "price": "Free",
+      "description": "Weekly Saturday-morning run for founders, investors, tech and creative people, choose-your-own-pace route finishing in coffee and conversation; part of the global Founders Running Club network (35+ cities, 28,000+ members). Recurring every Saturday at 10:00.",
+      "url": "https://www.meetup.com/founders-running-club-porto/",
+      "interest_rate": 48,
+      "interest_rate_reason": "Structured weekly founder/investor networking run with built-in coffee conversation — partial match to positive story 1's business-networking interest, but casual run format lacks story 1's workshop/pitch substance."
+    },
+    {
+      "id": "evt_2026_0823_vizinhancas-quinta-bonjoia",
+      "name": "Vizinhanças — Quinta da Bonjóia",
+      "tag": "neighborhood-day",
+      "date": "2026-08-23T10:00:00+01:00",
+      "location": "Quinta da Bonjóia, Campanhã, Porto",
+      "price": "Free",
+      "description": "Municipal neighborhood cultural day at Quinta da Bonjóia, part of the Vizinhanças 2026 program run by Porto's Ágora — over 100 free activities across the city this season including music, theater, puppetry, circus, dance, storytelling, craft workshops, guided visits, traditional games and sports, tailored to the host parish. Runs 10:00-19:00.",
+      "url": "https://agendaculturalporto.org/eventos/vizinhancas-2026-leva-musica-teatro-e-oficinas-a-quatro-bairros-do-porto-em-agosto/",
+      "interest_rate": 45,
+      "interest_rate_reason": "Free, all-day municipal cultural fair with craft workshops and music mixed among many diffuse activities — partial match to positive stories 4/5, but lacks a focused intimate hands-on or live-music experience."
+    },
+    {
+      "id": "evt_2026_0830_vizinhancas-parque-pasteleira",
+      "name": "Vizinhanças — Parque da Pasteleira",
+      "tag": "neighborhood-day",
+      "date": "2026-08-30T10:00:00+01:00",
+      "location": "Parque da Pasteleira, Lordelo do Ouro e Massarelos, Porto",
+      "price": "Free",
+      "description": "Municipal neighborhood cultural day at Parque da Pasteleira, part of the Vizinhanças 2026 program run by Porto's Ágora — over 100 free activities across the city this season including music, theater, puppetry, circus, dance, storytelling, craft workshops, guided visits, traditional games and sports, tailored to the host parish. Runs 10:00-19:00.",
+      "url": "https://agendaculturalporto.org/eventos/vizinhancas-2026-leva-musica-teatro-e-oficinas-a-quatro-bairros-do-porto-em-agosto/",
+      "interest_rate": 45,
+      "interest_rate_reason": "Free, all-day municipal cultural fair with craft workshops and music mixed among many diffuse activities — partial match to positive stories 4/5, but lacks a focused intimate hands-on or live-music experience."
+    },
+    {
+      "id": "evt_2026_1226_kas-sprint-cup-ronda11",
+      "name": "KAS Sprint Cup 2026 – Ronda 11",
+      "tag": "sports",
+      "date": "2026-12-26T10:00:00+00:00",
+      "location": "Kartódromo Cabo do Mundo, R. de Almeiriga Norte 2242, Perafita, Matosinhos",
+      "price": "Price not published (contact organizer)",
+      "description": "Season-closing round (Ronda 11) of the 2026 KAS Sprint Cup, a rental-kart sprint championship open to mixed-skill drivers at the 980m outdoor Cabo do Mundo circuit. Exact race-day start time was still marked 'to be defined' by organizers at time of research.",
+      "url": "https://calendariokarting.pt/events/kas-sprint-cup-2026-event-11",
+      "interest_rate": 82,
+      "interest_rate_reason": "Rental-kart amateur sprint round — direct match to positive story 3's proactive-adrenaline karting activity."
     }
   ]
 }
