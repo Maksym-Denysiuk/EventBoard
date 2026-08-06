@@ -1200,6 +1200,18 @@
       "url": "https://www.ticketline.pt/evento/optimista-ceptico-diogo-bataguas-105165",
       "interest_rate": 35,
       "interest_rate_reason": "Passive no-decisions stand-up show loosely echoes positive story 2, but Portuguese-only language (flagged per LANGUAGE_PRIORITY) and the lack of live-music/craft substance keep the match weak."
+    },
+    {
+      "id": "evt_2026_0808_sneferu-ceramics-candle-workshop",
+      "name": "The Passing Vessel: Ceramics & Candle Workshop",
+      "tag": "art",
+      "date": "2026-08-08T16:00:00+01:00",
+      "location": "Sneferu Atelier, Rua de Ferreira Cardoso 49, Porto",
+      "price": "€45",
+      "description": "Hands-on Saturday workshop combining ceramics and candle-making: choose a pre-glazed porcelain vessel, blend a personal fragrance, and craft a scented candle to take home, with snacks and drinks included in a garden setting. Small group (5-18 participants), no experience required; recurring every Saturday 16:00-19:00.",
+      "url": "https://www.snfru.com/en-am/pages/ceramic-workshop-porto",
+      "interest_rate": 76,
+      "interest_rate_reason": "Small-group hands-on candle/ceramics workshop with relaxed garden setting and a take-home creation — strong match to positive story 4's craft-workshop, no-pressure appeal."
     }
   ]
 }
