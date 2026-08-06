@@ -1067,6 +1067,54 @@
       "url": "https://calendariokarting.pt/events/kas-sprint-cup-2026-event-11",
       "interest_rate": 82,
       "interest_rate_reason": "Rental-kart amateur sprint round — direct match to positive story 3's proactive-adrenaline karting activity."
+    },
+    {
+      "id": "evt_2026_0811_portotorto-boardgames-beer",
+      "name": "Boardgames and Beer – Porto Torto",
+      "tag": "tournament",
+      "date": "2026-08-11T18:30:00+01:00",
+      "location": "Letraria Porto Downtown, Rua dos Mártires da Liberdade 108, Porto",
+      "price": "Free entry (drink/food purchase required)",
+      "description": "Casual weekly board game night hosted by the Porto Torto community — rounds of tabletop games over drinks and snacks at Letraria's downtown taproom, open to all skill levels.",
+      "url": "https://www.meetup.com/porto-torto/",
+      "interest_rate": 55,
+      "interest_rate_reason": "Casual recurring board game night — organized low-pressure social/competitive format similar to existing quiz/boardgame entries, no strong story match but low-risk."
+    },
+    {
+      "id": "evt_2026_0812_portotorto-quiz-beer",
+      "name": "Quiz & Beer Night – Porto Torto",
+      "tag": "tournament",
+      "date": "2026-08-12T20:00:00+01:00",
+      "location": "Letraria Porto Downtown, Rua dos Mártires da Liberdade 108, Porto",
+      "price": "Free entry (drink/food purchase required)",
+      "description": "Weekly pub trivia night at Letraria's downtown taproom — teams of up to six compete for a round of pints, with a consolation prize for last place; hosted by the Porto Torto community.",
+      "url": "https://www.meetup.com/porto-torto/",
+      "interest_rate": 57,
+      "interest_rate_reason": "Structured weekly pub quiz with clear team format and prizes — organized low-key competitive format, no strong story match but low-risk and well-run."
+    },
+    {
+      "id": "evt_2026_0815_booze-brains-brunch-hot",
+      "name": "Booze 'n Brains Brunch – Too Hot to Handle",
+      "tag": "tournament",
+      "date": "2026-08-15T12:00:00+01:00",
+      "location": "LOOK.Sharp Café, Rua Cimo de Vila 41, Porto",
+      "price": "From €22 per person",
+      "description": "August edition of LOOK.Sharp's adult trivia brunch — cheeky 'Too Hot to Handle' themed questions paired with a full brunch plate and bottomless mimosas.",
+      "url": "https://www.look-sharp.net/events",
+      "interest_rate": 55,
+      "interest_rate_reason": "Structured adult trivia paired with full brunch and bottomless mimosas — organized daytime social/competitive format akin to other quiz-night entries; no strong story match but solid value."
+    },
+    {
+      "id": "evt_2026_0815_hop-on-the-top",
+      "name": "Hop on The Top – PORTO",
+      "tag": "nightlife",
+      "date": "2026-08-15T17:00:00+01:00",
+      "location": "Cais das Pedras, Porto",
+      "price": "From €19.80",
+      "description": "First Porto edition of the Barcelona-born open-air party series — hip hop, R&B, funk and soul on a riverside terrace overlooking the city.",
+      "url": "https://www.eventbrite.es/e/hop-on-the-top-porto-hip-hop-rb-funk-soul-tickets-1994150064524",
+      "interest_rate": 40,
+      "interest_rate_reason": "First-edition open-air riverside party — decent music/nightlife energy but unproven track record and no small-venue intimacy; weak match to positive story 5, mild premium-price risk per negative story 5."
     }
   ]
 }
