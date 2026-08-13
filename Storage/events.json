@@ -14,78 +14,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_0810_piano-garden-serralves",
-      "name": "Piano Garden — Annea Lockwood Sound Installation",
-      "tag": "art",
-      "date": "2026-08-10T10:00:00+01:00",
-      "location": "Serralves Park, Rua Dom João de Castro 210, Porto",
-      "price": "€15 park admission (installation included)",
-      "description": "Outdoor sound-art installation by composer Annea Lockwood: decommissioned pianos left in the open air to weather and be played by visitors, staged throughout Serralves Park. Self-guided; on view August 10-31, 2026.",
-      "url": "https://www.serralves.pt/en/agenda-serralves/",
-      "interest_rate": 55,
-      "interest_rate_reason": "Self-guided sound-art installation in a park — novel, relaxed art experience; moderate match to positive story 4 though not hands-on or workshop-led."
-    },
-    {
-      "id": "evt_2026_0811_portotorto-boardgames-beer",
-      "name": "Boardgames and Beer – Porto Torto",
-      "tag": "tournament",
-      "date": "2026-08-11T18:30:00+01:00",
-      "location": "Letraria Porto Downtown, Rua dos Mártires da Liberdade 108, Porto",
-      "price": "Free entry (drink/food purchase required)",
-      "description": "Casual weekly board game night hosted by the Porto Torto community — rounds of tabletop games over drinks and snacks at Letraria's downtown taproom, open to all skill levels.",
-      "url": "https://www.meetup.com/porto-torto/",
-      "interest_rate": 55,
-      "interest_rate_reason": "Casual recurring board game night — organized low-pressure social/competitive format similar to existing quiz/boardgame entries, no strong story match but low-risk."
-    },
-    {
-      "id": "evt_2026_0811_tamara-stefanovich-pianofest",
-      "name": "Tamara Stefanovich \"Dialogues\" – Porto Pianofest",
-      "tag": "music",
-      "date": "2026-08-11T20:00:00+01:00",
-      "location": "Serralves Contemporary Art Museum – Auditorium, R. Dom João de Castro 210, Porto",
-      "price": "€20",
-      "description": "Closing recital of Porto Pianofest's 2026 edition: pianist Tamara Stefanovich performs \"Dialogues,\" a program spanning five centuries from Bach to Kurtág, Debussy, Liszt, Scriabin, Ligeti, Bacewicz, Nicolaou and Abrahamsen.",
-      "url": "https://www.portopianofest.com/ts-11-8",
-      "interest_rate": 72,
-      "interest_rate_reason": "Ticketed solo piano recital by an acclaimed performer at a proper concert-hall auditorium — strong match to positive story 5's small live-gig, good-sound appeal."
-    },
-    {
-      "id": "evt_2026_0812_festival-bacalhau-ilhavo",
-      "name": "Festival do Bacalhau 2026 (Opening Day – Quim Barreiros)",
-      "tag": "trips",
-      "date": "2026-08-12T18:00:00+01:00",
-      "location": "Jardim Oudinot, Avenida do Porto Comercial, Gafanha da Nazaré, Ílhavo (~70km from Porto)",
-      "price": "Free entry",
-      "description": "Opening day of Ílhavo's five-day gastronomic and cultural festival (Aug 12-16) celebrating bacalhau (salted cod), with artisan stalls, exhibitions, showcookings, and evening concerts; opening night headlined by Quim Barreiros.",
-      "url": "https://www.visitilhavo.pt/o-que-te-faz-feliz/arte-e-patrimonio/turismo-industrial/evento/festival-do-bacalhau-2026",
-      "interest_rate": 58,
-      "interest_rate_reason": "Free day-trip-distance gastronomic festival — some resonance with positive story 2's destination-day-trip idea, tempered by large-crowd risk (negative story 2)."
-    },
-    {
-      "id": "evt_2026_0812_blabla-language-exchange",
-      "name": "Porto BlaBla Language Exchange",
-      "tag": "community",
-      "date": "2026-08-12T20:00:00+01:00",
-      "location": "Ferro Bar, Porto",
-      "price": "Free (one drink purchase expected)",
-      "description": "Bi-weekly Wednesday-evening mingling event where locals and internationals practice languages together, conversation mainly in English and Portuguese; part of the BlaBla Community series that rotates between Porto venues.",
-      "url": "https://www.blablacommunity.com/porto",
-      "interest_rate": 45,
-      "interest_rate_reason": "Casual recurring language-exchange mixer — mild fit with positive story 4's low-pressure social idea, but no hands-on activity."
-    },
-    {
-      "id": "evt_2026_0812_portotorto-quiz-beer",
-      "name": "Quiz & Beer Night – Porto Torto",
-      "tag": "tournament",
-      "date": "2026-08-12T20:00:00+01:00",
-      "location": "Letraria Porto Downtown, Rua dos Mártires da Liberdade 108, Porto",
-      "price": "Free entry (drink/food purchase required)",
-      "description": "Weekly pub trivia night at Letraria's downtown taproom — teams of up to six compete for a round of pints, with a consolation prize for last place; hosted by the Porto Torto community.",
-      "url": "https://www.meetup.com/porto-torto/",
-      "interest_rate": 57,
-      "interest_rate_reason": "Structured weekly pub quiz with clear team format and prizes — organized low-key competitive format, no strong story match but low-risk and well-run."
-    },
-    {
       "id": "evt_2026_0814_porto-internationals-pubcrawl",
       "name": "Free International Pub Crawl w/ Local Guides",
       "tag": "community",
@@ -1044,6 +972,29 @@
       "url": "https://www.ticketline.pt/evento/optimista-ceptico-diogo-bataguas-105165",
       "interest_rate": 35,
       "interest_rate_reason": "Passive no-decisions stand-up show loosely echoes positive story 2, but Portuguese-only language (flagged per LANGUAGE_PRIORITY) and the lack of live-music/craft substance keep the match weak."
+    },
+    {
+      "id": "evt_2026_0820_castlerock-quiz-night",
+      "name": "Quiz Night at CastleRock Pub & Hotel",
+      "tag": "tournament",
+      "date": "2026-08-20T21:30:00+01:00",
+      "location": "CastleRock Pub & Hotel, R. do Conde de Vizela 114, Porto",
+      "price": "€1 per player",
+      "description": "Weekly Thursday-night pub quiz at CastleRock Pub & Hotel — teams of up to five compete across 50 questions on varied topics; reserve a spot via direct message. Part of a recurring series running through February 2027.",
+      "url": "https://agendaculturalporto.org/eventos/quiz-night-as-quintas-castlerock-pub-hotel/",
+      "interest_rate": 55,
+      "interest_rate_reason": "Structured weekly pub quiz, small entry fee, clear team format — no strong positive-story match but avoids negative story 3's lack of structure, similar to other tracked Porto pub quizzes."
+    },
+    {
+      "id": "evt_2026_0930_business-networking-social-hub-sep",
+      "name": "General Business Networking – Porto (Elevating Your Potential)",
+      "tag": "business",
+      "date": "2026-09-30T18:00:00+01:00",
+      "location": "The Social Hub Restaurant & Bar Porto, Praça de Dom João I 80, Porto",
+      "price": "Paid (price not published; tickets via Eventbrite)",
+      "description": "Multi-industry evening networking mixer bringing together consultants, engineers, entrepreneurs and professionals from finance, tech, real estate and healthcare for open business networking; monthly Strive Networking series, September edition.",
+      "interest_rate": 40,
+      "interest_rate_reason": "Generic multi-industry networking mixer — risks resembling negative story 3's unstructured 'background music at a bar' pattern rather than story 1's expertise-building focus."
     }
   ]
 }
