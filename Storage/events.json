@@ -14,90 +14,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_0814_porto-internationals-pubcrawl",
-      "name": "Free International Pub Crawl w/ Local Guides",
-      "tag": "community",
-      "date": "2026-08-14T22:00:00+01:00",
-      "location": "Baixa Bar, R. Cândido dos Reis 52, Porto",
-      "price": "Free",
-      "description": "Recurring Friday-night pub crawl hosted by Porto Internationals and Locals, led by local guides through the city's bars with free shots, party games, and free entry included; RSVP required via WhatsApp. Part of a weekly series active since 2018.",
-      "url": "https://www.meetup.com/porto-internationals-locals/",
-      "interest_rate": 40,
-      "interest_rate_reason": "Multi-bar pub crawl — unstructured bar-hopping risks resembling negative story 3's lack-of-structure pattern."
-    },
-    {
-      "id": "evt_2026_0815_booze-brains-brunch-hot",
-      "name": "Booze 'n Brains Brunch – Too Hot to Handle",
-      "tag": "tournament",
-      "date": "2026-08-15T12:00:00+01:00",
-      "location": "LOOK.Sharp Café, Rua Cimo de Vila 41, Porto",
-      "price": "From €22 per person",
-      "description": "August edition of LOOK.Sharp's adult trivia brunch — cheeky 'Too Hot to Handle' themed questions paired with a full brunch plate and bottomless mimosas.",
-      "url": "https://www.look-sharp.net/events",
-      "interest_rate": 55,
-      "interest_rate_reason": "Structured adult trivia paired with full brunch and bottomless mimosas — organized daytime social/competitive format akin to other quiz-night entries; no strong story match but solid value."
-    },
-    {
-      "id": "evt_2026_0815_sunset-party",
-      "name": "Sunset Party – Vilar Oporto Hotel",
-      "tag": "nightlife",
-      "date": "2026-08-15T14:00:00+01:00",
-      "location": "Vilar Oporto Hotel (Terraço), Porto",
-      "price": "€10",
-      "description": "A daytime-to-evening rooftop terrace party with DJ sets, part of Porto's summer sunset-party circuit. Ages 16+, runs roughly 7 hours from midday into the evening.",
-      "url": "https://www.bol.pt/Comprar/Bilhetes/177612-sunset_party-vilar_oporto_hotel/",
-      "interest_rate": 42,
-      "interest_rate_reason": "Rooftop terrace DJ party — casual nightlife energy but no structured activity; unclear match to any positive story."
-    },
-    {
-      "id": "evt_2026_0815_hop-on-the-top",
-      "name": "Hop on The Top – PORTO",
-      "tag": "nightlife",
-      "date": "2026-08-15T17:00:00+01:00",
-      "location": "Cais das Pedras, Porto",
-      "price": "From €19.80",
-      "description": "First Porto edition of the Barcelona-born open-air party series — hip hop, R&B, funk and soul on a riverside terrace overlooking the city.",
-      "url": "https://www.eventbrite.es/e/hop-on-the-top-porto-hip-hop-rb-funk-soul-tickets-1994150064524",
-      "interest_rate": 40,
-      "interest_rate_reason": "First-edition open-air riverside party — decent music/nightlife energy but unproven track record and no small-venue intimacy; weak match to positive story 5, mild premium-price risk per negative story 5."
-    },
-    {
-      "id": "evt_2026_0815_fura-festival-david-fonseca",
-      "name": "Fura Festival – David Fonseca",
-      "tag": "music",
-      "date": "2026-08-15T22:00:00+01:00",
-      "location": "Praia do Furadouro, Ovar (~40km from Porto)",
-      "price": "Free",
-      "description": "Portuguese singer-songwriter David Fonseca headlines the second night of Fura Festival, a free three-day beach-town festival (Aug 14-16) in Furadouro with daytime water sports, an urban market, and street performances alongside evening concerts.",
-      "url": "https://avozdeesmoriz.pt/fura-festival-regressa-ao-furadouro-de-14-a-16-de-agosto-com-musica-cultura-e-experiencias/",
-      "interest_rate": 62,
-      "interest_rate_reason": "Free evening beach-town concert by a well-known artist within a day-trip-distance festival with daytime activities — matches positive story 5's live-music appeal and story 2's day-trip resonance."
-    },
-    {
-      "id": "evt_2026_0815_ultra-retro-revival",
-      "name": "Ultra Retro Revival — Blanco Club",
-      "tag": "nightlife",
-      "date": "2026-08-15T23:55:00+01:00",
-      "location": "Blanco Club, Rua Manuel Pinto de Azevedo nr 21, Porto",
-      "price": "€10 pre-sale / €15 at the door",
-      "description": "Nostalgia-themed club night at Blanco Club celebrating the 80s, 90s and 00s — DJ FabioG on pop/rock/commercial and DJ 2H'sB13 on house hits, plus a retro-outfit contest with a €50 prize for the most authentic look. Runs 23:55-06:00. Ages 16+.",
-      "url": "https://www.eventbrite.pt/e/ultra-retro-revival-tickets-1994881065969",
-      "interest_rate": 48,
-      "interest_rate_reason": "Structured themed club night with named DJs and a costume contest — decent nightlife energy with a clear program, but no strong match to top positive stories and runs deep into early morning."
-    },
-    {
-      "id": "evt_2026_0816_vizinhancas-praca-marques",
-      "name": "Vizinhanças — Praça do Marquês",
-      "tag": "neighborhood-day",
-      "date": "2026-08-16T10:00:00+01:00",
-      "location": "Praça do Marquês, Centro Histórico, Porto",
-      "price": "Free",
-      "description": "Municipal neighborhood cultural day at Praça do Marquês, part of the Vizinhanças 2026 program run by Porto's Ágora — over 100 free activities across the city this season including music, theater, puppetry, circus, dance, storytelling, craft workshops, guided visits, traditional games and sports, tailored to the host parish. Runs 10:00-19:00.",
-      "url": "https://agendaculturalporto.org/eventos/vizinhancas-2026-leva-musica-teatro-e-oficinas-a-quatro-bairros-do-porto-em-agosto/",
-      "interest_rate": 45,
-      "interest_rate_reason": "Free, all-day municipal cultural fair with craft workshops and music mixed among many diffuse activities — partial match to positive stories 4/5, but lacks a focused intimate hands-on or live-music experience."
-    },
-    {
       "id": "evt_2026_0819_business-networking-social-hub",
       "name": "General Business Networking – Porto (Elevating Your Potential)",
       "tag": "business",
@@ -108,6 +24,30 @@
       "url": "https://www.eventbrite.com/e/general-business-networking-elevating-your-potential-porto-tickets-1991144718453",
       "interest_rate": 40,
       "interest_rate_reason": "Generic multi-industry networking mixer — risks resembling negative story 3's unstructured 'background music at a bar' pattern rather than story 1's expertise-building focus."
+    },
+    {
+      "id": "evt_2026_0820_castlerock-quiz-night",
+      "name": "Quiz Night at CastleRock Pub & Hotel",
+      "tag": "tournament",
+      "date": "2026-08-20T21:30:00+01:00",
+      "location": "CastleRock Pub & Hotel, R. do Conde de Vizela 114, Porto",
+      "price": "€1 per player",
+      "description": "Weekly Thursday-night pub quiz at CastleRock Pub & Hotel — teams of up to five compete across 50 questions on varied topics; reserve a spot via direct message. Part of a recurring series running through February 2027.",
+      "url": "https://agendaculturalporto.org/eventos/quiz-night-as-quintas-castlerock-pub-hotel/",
+      "interest_rate": 55,
+      "interest_rate_reason": "Structured weekly pub quiz, small entry fee, clear team format — no strong positive-story match but avoids negative story 3's lack of structure, similar to other tracked Porto pub quizzes."
+    },
+    {
+      "id": "evt_2026_0821_porto-internationals-pubcrawl",
+      "name": "Free International Pub Crawl w/ Local Guides",
+      "tag": "community",
+      "date": "2026-08-21T22:30:00+01:00",
+      "location": "The Box Porto, R. do Conde de Vizela 122, Porto",
+      "price": "Free",
+      "description": "Recurring Friday-night pub crawl hosted by Porto Internationals and Locals, led by local guides through the city's bars with complimentary shots, beer, party gadgets and club entry included; itinerary moves from The Box Porto to Fabrik Club to Galeria Paris Bar.",
+      "url": "https://www.meetup.com/porto-internationals-locals/",
+      "interest_rate": 40,
+      "interest_rate_reason": "Multi-bar pub crawl — unstructured bar-hopping risks resembling negative story 3's lack-of-structure pattern."
     },
     {
       "id": "evt_2026_0823_vizinhancas-quinta-bonjoia",
@@ -254,18 +194,6 @@
       "interest_rate_reason": "Professional cybersecurity/IAM conference — solid but narrower match to positive story 1's business/tech expertise-building focus."
     },
     {
-      "id": "evt_2026_0918_bloom-festival",
-      "name": "Bloom Festival 2026",
-      "tag": "music",
-      "date": "2026-09-18T20:00:00+01:00",
-      "location": "Aeródromo da Maia, Maia (~15km from Porto)",
-      "price": "From €30",
-      "description": "Two-day (Sept 18-19) electronic music festival at Maia Aerodrome running sunset to sunrise, with a curated multi-artist lineup and on-site \"Bloom Village\" accommodation near Porto's airport.",
-      "url": "https://www.bloomfestival.pt/",
-      "interest_rate": 52,
-      "interest_rate_reason": "Multi-artist electronic music festival with a sunset-to-sunrise format — some live-music resonance with positive story 5, tempered by large festival scale and long overnight duration echoing negative story 2's overcrowding risk."
-    },
-    {
       "id": "evt_2026_0918_ai-portfolio-career-masterclass",
       "name": "Masterclass: Build your Portfolio Career Before AI and Freelance Disruption",
       "tag": "business",
@@ -290,6 +218,18 @@
       "interest_rate_reason": "Hands-on maker/robotics workshops and exhibits — blends positive story 1's tech interest with story 4's hands-on craft appeal."
     },
     {
+      "id": "evt_2026_0918_bloom-festival",
+      "name": "Bloom Festival 2026",
+      "tag": "music",
+      "date": "2026-09-18T20:00:00+01:00",
+      "location": "Aeródromo da Maia, Maia (~15km from Porto)",
+      "price": "From €30",
+      "description": "Two-day (Sept 18-19) electronic music festival at Maia Aerodrome running sunset to sunrise, with a curated multi-artist lineup and on-site \"Bloom Village\" accommodation near Porto's airport.",
+      "url": "https://www.bloomfestival.pt/",
+      "interest_rate": 52,
+      "interest_rate_reason": "Multi-artist electronic music festival with a sunset-to-sunrise format — some live-music resonance with positive story 5, tempered by large festival scale and long overnight duration echoing negative story 2's overcrowding risk."
+    },
+    {
       "id": "evt_2026_0919_terra-ser-exhibition",
       "name": "Terra Ser — Rita Paupério Exhibition Opening",
       "tag": "art",
@@ -300,6 +240,42 @@
       "url": "https://www.gallery-hostel.com/en/events-en",
       "interest_rate": 55,
       "interest_rate_reason": "Gallery exhibition opening — relaxed art-viewing event, mild match to positive story 4's low-pressure creative appeal without hands-on making."
+    },
+    {
+      "id": "evt_2026_0920_experimentar-ceramicas",
+      "name": "Experimentar Cerâmicas",
+      "tag": "art",
+      "date": "2026-09-20T10:00:00+01:00",
+      "location": "Oficina Josefina, Av. Camilo 224, Porto",
+      "price": "Price not published (see oficinajosefina.com)",
+      "description": "Introductory hands-on ceramics workshop at Oficina Josefina — 'desperta para o mundo da cerâmica' (awaken to the world of ceramics), a beginner-friendly session working directly with clay.",
+      "url": "https://www.oficinajosefina.com/en/workshops",
+      "interest_rate": 68,
+      "interest_rate_reason": "Hands-on introductory ceramics workshop — matches positive story 4's craft-workshop, made-with-my-hands appeal."
+    },
+    {
+      "id": "evt_2026_0920_caes-gatos-animais-abstratos",
+      "name": "Cães, Gatos e Animais Abstratos",
+      "tag": "art",
+      "date": "2026-09-20T11:30:00+01:00",
+      "location": "Oficina Josefina, Av. Camilo 224, Porto",
+      "price": "Price not published (see oficinajosefina.com)",
+      "description": "Hands-on creative workshop at Oficina Josefina exploring dogs, cats and abstract animal forms through art and craft techniques.",
+      "url": "https://www.oficinajosefina.com/en/workshops",
+      "interest_rate": 62,
+      "interest_rate_reason": "Playful hands-on creative workshop, small-group and low-pressure — matches positive story 4's craft appeal, though less tactile than a clay/ceramics session."
+    },
+    {
+      "id": "evt_2026_0920_chavena-cafe",
+      "name": "Chávena de Café Com ou Sem Pé",
+      "tag": "art",
+      "date": "2026-09-20T15:00:00+01:00",
+      "location": "Oficina Josefina, Av. Camilo 224, Porto",
+      "price": "Price not published (see oficinajosefina.com)",
+      "description": "Hands-on ceramics workshop at Oficina Josefina where participants shape their own coffee cup (with or without a handle/foot) to keep — a relaxed, functional-piece pottery session.",
+      "url": "https://www.oficinajosefina.com/en/workshops",
+      "interest_rate": 70,
+      "interest_rate_reason": "Hands-on ceramics workshop making a functional piece with your own hands — strong match to positive story 4's craft-workshop, made-with-my-hands appeal."
     },
     {
       "id": "evt_2026_0920_marisa-monte",
@@ -470,6 +446,17 @@
       "interest_rate_reason": "Free, well-structured recurring pub quiz — organized low-key social/competitive format, low-risk and welcoming to newcomers."
     },
     {
+      "id": "evt_2026_0930_business-networking-social-hub-sep",
+      "name": "General Business Networking – Porto (Elevating Your Potential)",
+      "tag": "business",
+      "date": "2026-09-30T18:00:00+01:00",
+      "location": "The Social Hub Restaurant & Bar Porto, Praça de Dom João I 80, Porto",
+      "price": "Paid (price not published; tickets via Eventbrite)",
+      "description": "Multi-industry evening networking mixer bringing together consultants, engineers, entrepreneurs and professionals from finance, tech, real estate and healthcare for open business networking; monthly Strive Networking series, September edition.",
+      "interest_rate": 40,
+      "interest_rate_reason": "Generic multi-industry networking mixer — risks resembling negative story 3's unstructured 'background music at a bar' pattern rather than story 1's expertise-building focus."
+    },
+    {
       "id": "evt_2026_0930_mario-biondi",
       "name": "Mario Biondi — 20 Years of \"This Is What You Are\"",
       "tag": "music",
@@ -554,6 +541,18 @@
       "interest_rate_reason": "Small independent-venue gig — matches positive story 5 (intimate room, good sound, no pressure to socialize)."
     },
     {
+      "id": "evt_2026_1011_azulejo-encantado",
+      "name": "À Procura do Azulejo Encantado",
+      "tag": "art",
+      "date": "2026-10-11T10:30:00+01:00",
+      "location": "Oficina Josefina, Av. Camilo 224, Porto",
+      "price": "Price not published (see oficinajosefina.com)",
+      "description": "Hands-on workshop at Oficina Josefina exploring and decorating Portuguese azulejo (tile) traditions — a creative, artisanal painting session.",
+      "url": "https://www.oficinajosefina.com/en/workshops",
+      "interest_rate": 68,
+      "interest_rate_reason": "Hands-on Portuguese-tile decoration workshop, small-group and low-pressure — matches positive story 4's craft-workshop appeal."
+    },
+    {
       "id": "evt_2026_1012_atc-padel-cup",
       "name": "ATC Padel Cup 2026 – Porto",
       "tag": "tournament",
@@ -612,6 +611,18 @@
       "url": "https://feverup.com/m/620330/en",
       "interest_rate": 65,
       "interest_rate_reason": "Standing club concert by a touring band — solid live-gig match to positive story 5."
+    },
+    {
+      "id": "evt_2026_1022_semibreve-festival",
+      "name": "Semibreve Festival 2026",
+      "tag": "music",
+      "date": "2026-10-22T20:00:00+01:00",
+      "location": "Theatro Circo & gnration, Av. da Liberdade 697, Braga",
+      "price": "Day ticket €10-18; festival pass €50-60",
+      "description": "16th edition of Semibreve, a four-day (Oct 22-25) electronic music and digital art festival in Braga, pairing sets from artists including Azu Tiwaline, Fennesz & Oscar Jockel and TYGAPAW with visual-art installations, talks and cinema programming across Theatro Circo and gnration.",
+      "url": "https://theatrocirco.com/en/event/semibreve-festival/",
+      "interest_rate": 62,
+      "interest_rate_reason": "Curated electronic-music/digital-art festival at proper venues (not an arena) — decent live-music match to positive story 5, reinforced by story 4's creative-experience appeal; multi-day, multi-artist scale caps intimacy."
     },
     {
       "id": "evt_2026_1025_miguel-araujo",
@@ -684,6 +695,30 @@
       "url": "https://www.eventbrite.com/e/porto-tech-hub-conference-2026-tickets-1989160749348",
       "interest_rate": 68,
       "interest_rate_reason": "Established flagship tech conference with AI/cloud talks — good match to positive story 1's business/tech expertise-building focus."
+    },
+    {
+      "id": "evt_2026_1110_memo-karting-ronda2",
+      "name": "MEMO Champion Series 2026 – Ronda 2 (Karting)",
+      "tag": "sports",
+      "date": "2026-11-10T10:00:00+00:00",
+      "location": "Venue not yet published by organizer (MEMO Racing Team, Porto area)",
+      "price": "Price not published (contact organizer)",
+      "description": "Amateur/semi-professional rental-kart sprint race, part of the 2026 MEMO Champion Series (Ronda 2). Open to drivers of mixed skill levels; exact venue and race-day start time not yet published by organizers at time of research.",
+      "url": "https://calendariokarting.pt/championships/memo-champion-series-2026",
+      "interest_rate": 80,
+      "interest_rate_reason": "Rental-kart amateur sprint round — direct match to positive story 3's proactive-adrenaline karting activity; unconfirmed venue/time is a minor negative-story-2 uncertainty risk."
+    },
+    {
+      "id": "evt_2026_1114_memo-karting-ronda3",
+      "name": "MEMO Champion Series 2026 – Ronda 3 (Karting)",
+      "tag": "sports",
+      "date": "2026-11-14T10:00:00+00:00",
+      "location": "Kartódromo Cabo do Mundo, R. de Almeiriga Norte 2242, Perafita, Matosinhos",
+      "price": "Price not published (contact organizer)",
+      "description": "Amateur/semi-professional rental-kart sprint race at Kartódromo Cabo do Mundo, part of the 2026 MEMO Champion Series (Ronda 3). Open to drivers of mixed skill levels; exact race-day start time not yet published by organizers at time of research.",
+      "url": "https://calendariokarting.pt/championships/memo-champion-series-2026",
+      "interest_rate": 82,
+      "interest_rate_reason": "Rental-kart amateur sprint round — direct match to positive story 3's proactive-adrenaline karting activity."
     },
     {
       "id": "evt_2026_1114_a-partir-de-dentro-exhibition",
@@ -782,16 +817,16 @@
       "interest_rate_reason": "English-language stand-up in a small auditorium — a relaxed low-pressure evening out, only a mild echo of positive story 4's small-group, no-pressure appeal."
     },
     {
-      "id": "evt_2026_1128_outworld-klangkuenstler",
-      "name": "OUTWORLD – Klangkuenstler All Night Long",
-      "tag": "nightlife",
-      "date": "2026-11-28T22:00:00+00:00",
-      "location": "Super Bock Arena – Pavilhão Rosa Mota, Porto",
+      "id": "evt_2026_1128_braga-games-crossfit",
+      "name": "III Braga Games",
+      "tag": "tournament",
+      "date": "2026-11-28T08:00:00+00:00",
+      "location": "Pavilhão, Forum Braga, Braga",
       "price": "Price not published",
-      "description": "German techno DJ Klangkuenstler closes his OUTWORLD tour in Porto with an extended \"All Night Long\" set spanning old-school to contemporary techno and schranz, staged with large-scale LED/truss production. Doors 21:00, last entry 03:00, no re-entry.",
-      "url": "https://xceed.me/en/porto/event/outworld-klangkuenstler-all-night-long/230507",
-      "interest_rate": 45,
-      "interest_rate_reason": "All-night techno club show at a large arena by a known touring DJ — some nightlife/live-set energy, but big-venue scale and unpublished price weaken the match to positive story 5's intimate small-venue ideal."
+      "description": "Third edition of Braga Games, a two-day (Nov 28-29) functional-fitness/CrossFit competition bringing together athletes of varying skill levels to compete in challenges testing strength, endurance, technique and teamwork, open to spectators.",
+      "url": "https://forumbraga.com/Detail/Index/fb691a19-3fcf-11f1-b655-000d3ad7a4dc",
+      "interest_rate": 48,
+      "interest_rate_reason": "Spectator fitness/CrossFit competition — passive-watching format loosely echoes positive story 2's no-decisions resting, but lacks the direct-participation adrenaline of positive story 3; unpublished price is a mild negative-story-5 risk."
     },
     {
       "id": "evt_2026_1128_wise-pirates-karting-prova9",
@@ -806,6 +841,18 @@
       "interest_rate_reason": "Amateur rental-kart sprint round — direct match to positive story 3's proactive-adrenaline karting activity."
     },
     {
+      "id": "evt_2026_1128_outworld-klangkuenstler",
+      "name": "OUTWORLD – Klangkuenstler All Night Long",
+      "tag": "nightlife",
+      "date": "2026-11-28T22:00:00+00:00",
+      "location": "Super Bock Arena – Pavilhão Rosa Mota, Porto",
+      "price": "Price not published",
+      "description": "German techno DJ Klangkuenstler closes his OUTWORLD tour in Porto with an extended \"All Night Long\" set spanning old-school to contemporary techno and schranz, staged with large-scale LED/truss production. Doors 21:00, last entry 03:00, no re-entry.",
+      "url": "https://xceed.me/en/porto/event/outworld-klangkuenstler-all-night-long/230507",
+      "interest_rate": 45,
+      "interest_rate_reason": "All-night techno club show at a large arena by a known touring DJ — some nightlife/live-set energy, but big-venue scale and unpublished price weaken the match to positive story 5's intimate small-venue ideal."
+    },
+    {
       "id": "evt_2026_1129_al-di-meola-misty-fest",
       "name": "Al Di Meola – Misty Fest",
       "tag": "music",
@@ -816,6 +863,18 @@
       "url": "https://agendaculturalporto.org/eventos/al-di-meola-misty-fest/",
       "interest_rate": 75,
       "interest_rate_reason": "Intimate concert-hall performance by a virtuoso jazz guitarist — strong match to positive story 5's small-venue, good-sound live-gig ideal."
+    },
+    {
+      "id": "evt_2026_1205_memo-karting-ronda4",
+      "name": "MEMO Champion Series 2026 – Ronda 4 (Karting)",
+      "tag": "sports",
+      "date": "2026-12-05T10:00:00+00:00",
+      "location": "Venue not yet published by organizer (MEMO Racing Team, Porto area)",
+      "price": "Price not published (contact organizer)",
+      "description": "Amateur/semi-professional rental-kart sprint race, part of the 2026 MEMO Champion Series (Ronda 4). Open to drivers of mixed skill levels; exact venue and race-day start time not yet published by organizers at time of research.",
+      "url": "https://calendariokarting.pt/championships/memo-champion-series-2026",
+      "interest_rate": 80,
+      "interest_rate_reason": "Rental-kart amateur sprint round — direct match to positive story 3's proactive-adrenaline karting activity; unconfirmed venue/time is a minor negative-story-2 uncertainty risk."
     },
     {
       "id": "evt_2026_1207_sara-correia-super-bock-arena",
@@ -972,29 +1031,6 @@
       "url": "https://www.ticketline.pt/evento/optimista-ceptico-diogo-bataguas-105165",
       "interest_rate": 35,
       "interest_rate_reason": "Passive no-decisions stand-up show loosely echoes positive story 2, but Portuguese-only language (flagged per LANGUAGE_PRIORITY) and the lack of live-music/craft substance keep the match weak."
-    },
-    {
-      "id": "evt_2026_0820_castlerock-quiz-night",
-      "name": "Quiz Night at CastleRock Pub & Hotel",
-      "tag": "tournament",
-      "date": "2026-08-20T21:30:00+01:00",
-      "location": "CastleRock Pub & Hotel, R. do Conde de Vizela 114, Porto",
-      "price": "€1 per player",
-      "description": "Weekly Thursday-night pub quiz at CastleRock Pub & Hotel — teams of up to five compete across 50 questions on varied topics; reserve a spot via direct message. Part of a recurring series running through February 2027.",
-      "url": "https://agendaculturalporto.org/eventos/quiz-night-as-quintas-castlerock-pub-hotel/",
-      "interest_rate": 55,
-      "interest_rate_reason": "Structured weekly pub quiz, small entry fee, clear team format — no strong positive-story match but avoids negative story 3's lack of structure, similar to other tracked Porto pub quizzes."
-    },
-    {
-      "id": "evt_2026_0930_business-networking-social-hub-sep",
-      "name": "General Business Networking – Porto (Elevating Your Potential)",
-      "tag": "business",
-      "date": "2026-09-30T18:00:00+01:00",
-      "location": "The Social Hub Restaurant & Bar Porto, Praça de Dom João I 80, Porto",
-      "price": "Paid (price not published; tickets via Eventbrite)",
-      "description": "Multi-industry evening networking mixer bringing together consultants, engineers, entrepreneurs and professionals from finance, tech, real estate and healthcare for open business networking; monthly Strive Networking series, September edition.",
-      "interest_rate": 40,
-      "interest_rate_reason": "Generic multi-industry networking mixer — risks resembling negative story 3's unstructured 'background music at a bar' pattern rather than story 1's expertise-building focus."
     }
   ]
 }
