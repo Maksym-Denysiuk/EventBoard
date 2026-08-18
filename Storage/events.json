@@ -98,6 +98,18 @@
       "interest_rate_reason": "Multi-day founder/AI-focused gathering with talks and workshops — strong match to positive story 1's business/AI expertise-building focus."
     },
     {
+      "id": "evt_2026_0912_porto-pride-afterparty",
+      "name": "Porto Pride After Party",
+      "tag": "nightlife",
+      "date": "2026-09-12T01:00:00+01:00",
+      "location": "Pink Club, R. do Conde de Vizela 80, Porto",
+      "price": "Free (RSVP) / paid door options",
+      "description": "Official Porto Pride after-party at Pink Club — back-to-back DJ sets from Bruna Magalhães and Peter Castro plus performances by PAM, FSKO, LUNNA FOSTER and PEX; dance, funk and pop through the night.",
+      "url": "https://xceed.me/en/porto/event/porto-pride-after-party/240721",
+      "interest_rate": 30,
+      "interest_rate_reason": "Public dance/DJ after-party with free RSVP option gives mild fit with positive story 5 (music, no obligation to socialize), though club-night uncertainty (negative story 2) caps the score."
+    },
+    {
       "id": "evt_2026_0912_karting-memo-champion-series",
       "name": "MEMO Champion Series 2026 – Ronda 1 (Karting)",
       "tag": "sports",
@@ -180,6 +192,18 @@
       "url": "https://portoaiweek.org/",
       "interest_rate": 85,
       "interest_rate_reason": "Multi-day city-wide AI festival with workshops and expertise-building tracks — very strong match to positive story 1's AI-workshop and business focus."
+    },
+    {
+      "id": "evt_2026_0914_claude-executives-ai",
+      "name": "Claude for Executives: Strategic Decision-Making with AI",
+      "tag": "business",
+      "date": "2026-09-14T09:30:00+01:00",
+      "location": "Rua do Teatro 193, Porto, Portugal (Upgraide AI)",
+      "price": "€450",
+      "description": "One-day hands-on workshop for leadership teams (max 12 participants) on using Claude for strategic business decisions — covers AI briefing techniques, workflow building, critical evaluation of AI output, and policy development. Hosted by Upgraide AI.",
+      "url": "https://allevents.in/porto/claude-for-executives-strategic-decision-making-with-ai/100001996835814675",
+      "interest_rate": 55,
+      "interest_rate_reason": "AI-focused workshop for business leadership on strategic decision-making matches positive story 1 (business/AI workshops); premium €450 price tempers the score per negative story 5."
     },
     {
       "id": "evt_2026_0915_iam-tech-day-europa",
