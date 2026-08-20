@@ -14,18 +14,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_0819_business-networking-social-hub",
-      "name": "General Business Networking – Porto (Elevating Your Potential)",
-      "tag": "business",
-      "date": "2026-08-19T18:00:00+01:00",
-      "location": "The Social Hub Restaurant & Bar Porto, Praça de Dom João I 80, Porto",
-      "price": "Paid (price not published; tickets via Eventbrite)",
-      "description": "Multi-industry evening networking mixer bringing together consultants, engineers, entrepreneurs and professionals from finance, tech, real estate and healthcare for open business networking.",
-      "url": "https://www.eventbrite.com/e/general-business-networking-elevating-your-potential-porto-tickets-1991144718453",
-      "interest_rate": 40,
-      "interest_rate_reason": "Generic multi-industry networking mixer — risks resembling negative story 3's unstructured 'background music at a bar' pattern rather than story 1's expertise-building focus."
-    },
-    {
       "id": "evt_2026_0820_castlerock-quiz-night",
       "name": "Quiz Night at CastleRock Pub & Hotel",
       "tag": "tournament",
@@ -709,6 +697,30 @@
       "interest_rate_reason": "Immersive audiovisual electronic live set at a club — strong match to positive story 5's live-gig, engaging-sound appeal."
     },
     {
+      "id": "evt_2026_1108_mascaras-caretos",
+      "name": "Máscaras, Mascarilhas, Caretos e Caraças",
+      "tag": "art",
+      "date": "2026-11-08T11:30:00+00:00",
+      "location": "Oficina Josefina, Av. Camilo 224, Porto",
+      "price": "Price not published (see oficinajosefina.com)",
+      "description": "Hands-on mask-making workshop at Oficina Josefina exploring Portuguese folk mask traditions — caretos, mascarilhas and caraças — through creative crafting.",
+      "url": "https://www.oficinajosefina.com/",
+      "interest_rate": 62,
+      "interest_rate_reason": "Hands-on traditional Portuguese mask-crafting workshop — matches positive story 4's craft-workshop, made-with-my-hands appeal."
+    },
+    {
+      "id": "evt_2026_1108_macrame-workshop",
+      "name": "Mas Afinal o Macramé Serve para Quê?",
+      "tag": "art",
+      "date": "2026-11-08T15:00:00+00:00",
+      "location": "Oficina Josefina, Av. Camilo 224, Porto",
+      "price": "Price not published (see oficinajosefina.com)",
+      "description": "Hands-on macramé knotting workshop at Oficina Josefina introducing the craft technique and its practical/decorative uses.",
+      "url": "https://www.oficinajosefina.com/",
+      "interest_rate": 60,
+      "interest_rate_reason": "Introductory hands-on macramé craft session — matches positive story 4's relaxed, made-with-my-hands workshop appeal."
+    },
+    {
       "id": "evt_2026_1110_porto-tech-hub-conference",
       "name": "Porto Tech Hub Conference 2026",
       "tag": "tech",
@@ -779,6 +791,30 @@
       "url": "https://www.bol.pt/Comprar/Bilhetes/175392-the_twilight_sad-hard_club_li/",
       "interest_rate": 65,
       "interest_rate_reason": "Standing club show by an established post-punk act — solid live-gig match to positive story 5."
+    },
+    {
+      "id": "evt_2026_1115_tecido-pintado-mao",
+      "name": "Tecido de Algodão Pintado à Mão",
+      "tag": "art",
+      "date": "2026-11-15T11:30:00+00:00",
+      "location": "Oficina Josefina, Av. Camilo 224, Porto",
+      "price": "Price not published (see oficinajosefina.com)",
+      "description": "Hands-on fabric-painting workshop at Oficina Josefina, hand-decorating cotton textile pieces.",
+      "url": "https://www.oficinajosefina.com/",
+      "interest_rate": 60,
+      "interest_rate_reason": "Hands-on textile-painting craft session — matches positive story 4's craft-workshop appeal."
+    },
+    {
+      "id": "evt_2026_1115_caixinha-marquesa",
+      "name": "A Caixinha da Marquesa é uma Riqueza",
+      "tag": "art",
+      "date": "2026-11-15T15:00:00+00:00",
+      "location": "Oficina Josefina, Av. Camilo 224, Porto",
+      "price": "Price not published (see oficinajosefina.com)",
+      "description": "Hands-on decorative box-making workshop at Oficina Josefina, crafting a keepsake box.",
+      "url": "https://www.oficinajosefina.com/",
+      "interest_rate": 58,
+      "interest_rate_reason": "Hands-on decorative-craft box-making session — matches positive story 4's made-with-my-hands appeal, though a less distinctive medium than ceramics/textile."
     },
     {
       "id": "evt_2026_1117_ndc-porto",
