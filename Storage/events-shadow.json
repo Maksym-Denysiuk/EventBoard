@@ -12,18 +12,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_0821_maia-chess-open",
-      "name": "Maia Chess Open 2026 (Maia International Chess Festival)",
-      "tag": "tournament",
-      "date": "2026-08-21T19:00:00+01:00",
-      "location": "TECMAIA, R. Eng. Frederico Ulrich 2650, 4470-605 Maia (~15km from Porto)",
-      "price": "From €60 entry fee (tiered by registration date; GM/IM/WGM/WIM free)",
-      "description": "International Swiss-system chess tournament (9 rounds) with Masters (2000+) and U2000 divisions, part of the wider Maia Chess Festival which also includes a Douro Blitz Cruise and masterclasses.",
-      "url": "https://axm.pt/maia-chess-open-2026/",
-      "interest_rate": 15,
-      "interest_rate_reason": "Competitive chess tournament has no clear match to any positive story (not business-networking, adrenaline, craft, or live-music), so the score stays low despite legitimate organization."
-    },
-    {
       "id": "evt_2026_0927_experimentar-pinturas-bebes",
       "name": "Experimentar Pinturas – Oficina Sensorial para Bebés",
       "tag": "art",

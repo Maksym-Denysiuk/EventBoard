@@ -14,40 +14,16 @@
   },
   "events": [
     {
-      "id": "evt_2026_0820_castlerock-quiz-night",
+      "id": "evt_2026_0827_castlerock-quiz-night",
       "name": "Quiz Night at CastleRock Pub & Hotel",
       "tag": "tournament",
-      "date": "2026-08-20T21:30:00+01:00",
+      "date": "2026-08-27T21:30:00+01:00",
       "location": "CastleRock Pub & Hotel, R. do Conde de Vizela 114, Porto",
       "price": "€1 per player",
       "description": "Weekly Thursday-night pub quiz at CastleRock Pub & Hotel — teams of up to five compete across 50 questions on varied topics; reserve a spot via direct message. Part of a recurring series running through February 2027.",
       "url": "https://agendaculturalporto.org/eventos/quiz-night-as-quintas-castlerock-pub-hotel/",
       "interest_rate": 55,
-      "interest_rate_reason": "Structured weekly pub quiz, small entry fee, clear team format — no strong positive-story match but avoids negative story 3's lack of structure, similar to other tracked Porto pub quizzes."
-    },
-    {
-      "id": "evt_2026_0821_porto-internationals-pubcrawl",
-      "name": "Free International Pub Crawl w/ Local Guides",
-      "tag": "community",
-      "date": "2026-08-21T22:30:00+01:00",
-      "location": "The Box Porto, R. do Conde de Vizela 122, Porto",
-      "price": "Free",
-      "description": "Recurring Friday-night pub crawl hosted by Porto Internationals and Locals, led by local guides through the city's bars with complimentary shots, beer, party gadgets and club entry included; itinerary moves from The Box Porto to Fabrik Club to Galeria Paris Bar.",
-      "url": "https://www.meetup.com/porto-internationals-locals/",
-      "interest_rate": 40,
-      "interest_rate_reason": "Multi-bar pub crawl — unstructured bar-hopping risks resembling negative story 3's lack-of-structure pattern."
-    },
-    {
-      "id": "evt_2026_0823_vizinhancas-quinta-bonjoia",
-      "name": "Vizinhanças — Quinta da Bonjóia",
-      "tag": "neighborhood-day",
-      "date": "2026-08-23T10:00:00+01:00",
-      "location": "Quinta da Bonjóia, Campanhã, Porto",
-      "price": "Free",
-      "description": "Municipal neighborhood cultural day at Quinta da Bonjóia, part of the Vizinhanças 2026 program run by Porto's Ágora — over 100 free activities across the city this season including music, theater, puppetry, circus, dance, storytelling, craft workshops, guided visits, traditional games and sports, tailored to the host parish. Runs 10:00-19:00.",
-      "url": "https://agendaculturalporto.org/eventos/vizinhancas-2026-leva-musica-teatro-e-oficinas-a-quatro-bairros-do-porto-em-agosto/",
-      "interest_rate": 45,
-      "interest_rate_reason": "Free, all-day municipal cultural fair with craft workshops and music mixed among many diffuse activities — partial match to positive stories 4/5, but lacks a focused intimate hands-on or live-music experience."
+      "interest_rate_reason": "Structured weekly pub quiz, small entry fee, clear team format — no strong positive-story match but avoids negative story 3's lack of structure."
     },
     {
       "id": "evt_2026_0830_vizinhancas-parque-pasteleira",
@@ -937,6 +913,42 @@
       "interest_rate_reason": "Rental-kart amateur sprint round — direct match to positive story 3's proactive-adrenaline karting activity; unconfirmed venue/time is a minor negative-story-2 uncertainty risk."
     },
     {
+      "id": "evt_2026_1206_oficina-josefina-experimentar-luzes",
+      "name": "Experimentar Luzes",
+      "tag": "art",
+      "date": "2026-12-06T10:00:00+00:00",
+      "location": "Oficina Josefina, Av. Camilo 224, Porto",
+      "price": "Price not published (see oficinajosefina.com)",
+      "description": "Hands-on light-based creative workshop at Oficina Josefina exploring artistic techniques with light — a relaxed, exploratory craft session.",
+      "url": "https://www.oficinajosefina.com/",
+      "interest_rate": 60,
+      "interest_rate_reason": "Hands-on exploratory craft workshop, small-group and low-pressure — matches positive story 4's craft-workshop appeal."
+    },
+    {
+      "id": "evt_2026_1206_oficina-josefina-globos-de-neve",
+      "name": "A Magia dos Globos de Neve",
+      "tag": "art",
+      "date": "2026-12-06T11:30:00+00:00",
+      "location": "Oficina Josefina, Av. Camilo 224, Porto",
+      "price": "Price not published (see oficinajosefina.com)",
+      "description": "Hands-on decorative-craft workshop at Oficina Josefina making a keepsake snow globe.",
+      "url": "https://www.oficinajosefina.com/",
+      "interest_rate": 58,
+      "interest_rate_reason": "Hands-on decorative-craft keepsake session — matches positive story 4's made-with-my-hands appeal, similar to other keepsake-style workshops."
+    },
+    {
+      "id": "evt_2026_1206_oficina-josefina-pintar-azulejo",
+      "name": "O Que Eu Desejo é Pintar um Azulejo",
+      "tag": "art",
+      "date": "2026-12-06T15:00:00+00:00",
+      "location": "Oficina Josefina, Av. Camilo 224, Porto",
+      "price": "Price not published (see oficinajosefina.com)",
+      "description": "Hands-on Portuguese azulejo tile-painting workshop at Oficina Josefina — a creative, artisanal painting session.",
+      "url": "https://www.oficinajosefina.com/",
+      "interest_rate": 66,
+      "interest_rate_reason": "Hands-on tile-painting craft workshop, small-group and low-pressure — matches positive story 4's craft-workshop appeal, consistent with other azulejo-painting sessions."
+    },
+    {
       "id": "evt_2026_1207_sara-correia-super-bock-arena",
       "name": "Sara Correia – Super Bock Arena",
       "tag": "music",
@@ -971,6 +983,18 @@
       "url": "https://www.eventbrite.co.uk/e/1-irishman-in-porto-a-stand-up-comedy-show-in-english-9pm-tickets-1980098330409",
       "interest_rate": 30,
       "interest_rate_reason": "English-language stand-up in a small auditorium — a relaxed low-pressure evening out, only a mild echo of positive story 4's small-group, no-pressure appeal."
+    },
+    {
+      "id": "evt_2026_1213_oficina-josefina-feitico-dos-saboes",
+      "name": "O Feitiço dos Sabões",
+      "tag": "art",
+      "date": "2026-12-13T11:30:00+00:00",
+      "location": "Oficina Josefina, Av. Camilo 224, Porto",
+      "price": "Price not published (see oficinajosefina.com)",
+      "description": "Hands-on soap-making craft workshop at Oficina Josefina — a relaxed, no-experience-needed session working with natural materials.",
+      "url": "https://www.oficinajosefina.com/",
+      "interest_rate": 60,
+      "interest_rate_reason": "Introductory hands-on soap-making craft session — matches positive story 4's relaxed, made-with-my-hands workshop appeal."
     },
     {
       "id": "evt_2026_1222_tempo-de-natal",
@@ -1091,6 +1115,18 @@
       "url": "https://www.ticketline.pt/evento/optimista-ceptico-diogo-bataguas-105165",
       "interest_rate": 35,
       "interest_rate_reason": "Passive no-decisions stand-up show loosely echoes positive story 2, but Portuguese-only language (flagged per LANGUAGE_PRIORITY) and the lack of live-music/craft substance keep the match weak."
+    },
+    {
+      "id": "evt_2027_0213_as-tres-guitarras",
+      "name": "AS TRÊS GUITARRAS",
+      "tag": "music",
+      "date": "2027-02-13T21:30:00+00:00",
+      "location": "Casa da Música – Sala Suggia, Porto",
+      "price": "€25–€35 (+ service fee)",
+      "description": "Classical guitar recital at Casa da Música's Sala Suggia featuring three generations of Portuguese guitarists — Ângelo Freire, José Manuel Neto and Luís Guerreiro — in an intimate dialogue exploring the Portuguese guitar tradition. 70 minutes, no intermission.",
+      "url": "https://www.ticketline.pt/evento/as-tres-guitarras-106815",
+      "interest_rate": 65,
+      "interest_rate_reason": "Intimate acoustic guitar trio recital at a proper concert hall — good match to positive story 5 (quality sound, no need to socialize), though the seated/formal format is less club-gig energy."
     }
   ]
 }
