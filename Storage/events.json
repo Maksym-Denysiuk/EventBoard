@@ -38,6 +38,18 @@
       "interest_rate_reason": "Free, all-day municipal cultural fair with craft workshops and music mixed among many diffuse activities — partial match to positive stories 4/5, but lacks a focused intimate hands-on or live-music experience."
     },
     {
+      "id": "evt_2026_0904_vindouro-festa-pombalina",
+      "name": "Vindouro – Wine & History – Festa Pombalina 2026",
+      "tag": "trips",
+      "date": "2026-09-04T11:00:00+01:00",
+      "location": "Praça do Marquês, São João da Pesqueira, Douro Valley (approx. 2hr drive from Porto)",
+      "price": "Free general entry (some activities, e.g. the Pombaline Dinner, priced separately)",
+      "description": "Three-day (Sept 4-6) wine-and-history fair in São João da Pesqueira, named Portugal's National Wine Event of the Year 2026 — over 100 Douro producers for tastings, the 'Douro em Prova' competition and showcookings, alongside Pombaline-era reenactments (period market, torchlit procession, Pombaline Dinner) and live music. Exact opening hour not published; estimated based on similar day-fair openings.",
+      "url": "https://www.sjpesqueira.pt/turismo/eventos-municipais/vindouro-wine-and-history-festa-pombalina/programa",
+      "interest_rate": 65,
+      "interest_rate_reason": "Multi-day Douro wine-region fair with tastings, live music and history reenactment at day-trip distance — solid match to positive story 2's wine-region/resting ideal and story 5's live music, tempered by large public-fair scale rather than a small guided group."
+    },
+    {
       "id": "evt_2026_0904_blast-premier-open-porto",
       "name": "BLAST Premier Open Porto 2026 – Playoffs",
       "tag": "tournament",
@@ -84,6 +96,18 @@
       "url": "https://calendariokarting.pt/events/memo-champion-series-2026-event-1",
       "interest_rate": 82,
       "interest_rate_reason": "Rental-kart amateur race — direct match to positive story 3's proactive-adrenaline karting activity."
+    },
+    {
+      "id": "evt_2026_0912_booze-n-brains-brunch",
+      "name": "Booze 'n Brains Brunch – Back to School Edition",
+      "tag": "tournament",
+      "date": "2026-09-12T12:00:00+01:00",
+      "location": "LOOK.Sharp, Porto",
+      "price": "From €22.00",
+      "description": "One-off nostalgic trivia brunch at LOOK.Sharp café — a structured quiz format paired with brunch food and bottomless mimosas, running 12:00-15:00.",
+      "url": "https://www.look-sharp.net/events",
+      "interest_rate": 48,
+      "interest_rate_reason": "Structured trivia format with food/drinks resembles the organized-quiz-night pattern already captured, though the pricier daytime brunch framing keeps it below a full match to any single positive story."
     },
     {
       "id": "evt_2026_0912_porto-pride-festival",
@@ -230,6 +254,30 @@
       "interest_rate_reason": "Gallery exhibition opening — relaxed art-viewing event, mild match to positive story 4's low-pressure creative appeal without hands-on making."
     },
     {
+      "id": "evt_2026_0919_bonds-festival",
+      "name": "Bonds Festival 2026 (3rd Edition)",
+      "tag": "music",
+      "date": "2026-09-19T18:00:00+01:00",
+      "location": "Casa da Música (Sala 2 & Sala Laranja), Av. da Boavista 604-610, Porto",
+      "price": "€25 (early-bird rate through Aug 31; may rise after)",
+      "description": "Third edition of Bonds Festival, making its debut at Casa da Música across Sala 2 and Sala Laranja — an all-Portuguese indie pop, indie rock and contemporary jazz lineup (Filipe Karlsson, Luís Severo, Manila e Cris, more TBA) with a dedicated 'Bonding Lounge' built for artists and audience to meet and interact between sets.",
+      "url": "https://quinto-canal.com/musica/bonds-festival-esta-de-volta-para-a-terceira-edicao",
+      "interest_rate": 68,
+      "interest_rate_reason": "Curated indie/jazz showcase across intimate concert-hall rooms with built-in artist-audience interaction — strong match to positive story 5's small-venue live-music ideal."
+    },
+    {
+      "id": "evt_2026_0919_dimitri-from-paris",
+      "name": "Dimitri from Paris – Porto",
+      "tag": "music",
+      "date": "2026-09-19T22:00:00+01:00",
+      "location": "Switch, Porto",
+      "price": "Price not published",
+      "description": "French house DJ and producer Dimitri from Paris brings a club set to Switch as part of an Iberian tour date. Exact set time not published at time of research; late-night club slot assumed based on the venue's typical scheduling.",
+      "url": "https://www.songkick.com/artists/410600-dimitri-from-paris",
+      "interest_rate": 58,
+      "interest_rate_reason": "DJ club set at an intimate venue — matches positive story 5's live-music, no-obligation-to-socialize appeal, tempered by unconfirmed set time and price."
+    },
+    {
       "id": "evt_2026_0920_experimentar-ceramicas",
       "name": "Experimentar Cerâmicas",
       "tag": "art",
@@ -312,6 +360,18 @@
       "url": "https://appsecdays.pt/",
       "interest_rate": 62,
       "interest_rate_reason": "Security conference with a hands-on CTF competition — decent match to positive story 1's tech/expertise-building focus."
+    },
+    {
+      "id": "evt_2026_0923_meaningful-meal-melissa",
+      "name": "Meaningful Meal with Melissa",
+      "tag": "community",
+      "date": "2026-09-23T19:30:00+01:00",
+      "location": "LOOK.Sharp, Porto",
+      "price": "€22.50",
+      "description": "Guided conversation-and-dinner experience at LOOK.Sharp café, facilitated by a transformational coach, including a full meal and drink, running 19:30-22:00.",
+      "url": "https://www.look-sharp.net/events",
+      "interest_rate": 45,
+      "interest_rate_reason": "Guided small-group conversation dinner led by a facilitator — mild match to positive story 2's no-decisions-needed structure, though not a craft/physical activity."
     },
     {
       "id": "evt_2026_0925_techstars-startup-weekend-porto",
@@ -481,6 +541,18 @@
       "interest_rate_reason": "Standing club concert by a touring act — good match to positive story 5's live-gig format."
     },
     {
+      "id": "evt_2026_1002_dan-pulzello-comedy",
+      "name": "Dan Pulzello: Comedy in English",
+      "tag": "performance",
+      "date": "2026-10-02T18:30:00+01:00",
+      "location": "Nope Pelmeni and Dumplings Bar, Rua de Miguel Bombarda 316, Porto",
+      "price": "Price not published (see Eventbrite)",
+      "description": "Rising New York stand-up comic Dan Pulzello, known for his viral 'EU VS USA' comedy series and an Amazon Prime 'Game Breakers' appearance, performs an English-language stand-up set at Nope Pelmeni and Dumplings Bar. Doors 18:30, show 19:00-20:00.",
+      "url": "https://www.eventbrite.com/e/dan-pulzello-comedy-in-english-tickets-1989266286011",
+      "interest_rate": 32,
+      "interest_rate_reason": "Small-venue English-language stand-up set — mild echo of positive story 4's small-group, no-pressure appeal, similar profile to other stand-up entries already captured."
+    },
+    {
       "id": "evt_2026_1003_sword-ai-summit",
       "name": "Sword AI Summit 2026",
       "tag": "tech",
@@ -635,6 +707,18 @@
       "url": "https://agendaculturalporto.org/eventos/adriana-calcanhotto-leva-voz-e-violao-a-casa-da-musica/",
       "interest_rate": 72,
       "interest_rate_reason": "Intimate solo voice-and-guitar performance at a proper concert hall — strong match to positive story 5's small-venue, good-sound live-gig ideal."
+    },
+    {
+      "id": "evt_2026_1029_mucho-flow-festival",
+      "name": "Mucho Flow Festival 2026",
+      "tag": "music",
+      "date": "2026-10-29T18:00:00+00:00",
+      "location": "Various venues, Guimarães (~50km from Porto)",
+      "price": "€60 (festival pass, via DICE)",
+      "description": "Three-day (Oct 29-31) electronic music and experimental culture festival across Guimarães venues, running since 2013, with acts including Lee Ranaldo & Leah Singer, Lorenzo Senni, Mandy Indiana, Kavari, gyrofield and Jana Horn. Exact opening-day start time not published; estimated evening slot based on typical festival scheduling.",
+      "url": "https://muchoflow.net/festival/",
+      "interest_rate": 58,
+      "interest_rate_reason": "Multi-day experimental/electronic music festival across intimate city venues — decent live-music match to positive story 5, tempered by multi-day festival scale similar to other captured festivals."
     },
     {
       "id": "evt_2026_1031_moonspell",
