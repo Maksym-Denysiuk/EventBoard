@@ -14,30 +14,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_0827_castlerock-quiz-night",
-      "name": "Quiz Night at CastleRock Pub & Hotel",
-      "tag": "tournament",
-      "date": "2026-08-27T21:30:00+01:00",
-      "location": "CastleRock Pub & Hotel, R. do Conde de Vizela 114, Porto",
-      "price": "€1 per player",
-      "description": "Weekly Thursday-night pub quiz at CastleRock Pub & Hotel — teams of up to five compete across 50 questions on varied topics; reserve a spot via direct message. Part of a recurring series running through February 2027.",
-      "url": "https://agendaculturalporto.org/eventos/quiz-night-as-quintas-castlerock-pub-hotel/",
-      "interest_rate": 55,
-      "interest_rate_reason": "Structured weekly pub quiz, small entry fee, clear team format — no strong positive-story match but avoids negative story 3's lack of structure."
-    },
-    {
-      "id": "evt_2026_0830_vizinhancas-parque-pasteleira",
-      "name": "Vizinhanças — Parque da Pasteleira",
-      "tag": "neighborhood-day",
-      "date": "2026-08-30T10:00:00+01:00",
-      "location": "Parque da Pasteleira, Lordelo do Ouro e Massarelos, Porto",
-      "price": "Free",
-      "description": "Municipal neighborhood cultural day at Parque da Pasteleira, part of the Vizinhanças 2026 program run by Porto's Ágora — over 100 free activities across the city this season including music, theater, puppetry, circus, dance, storytelling, craft workshops, guided visits, traditional games and sports, tailored to the host parish. Runs 10:00-19:00.",
-      "url": "https://agendaculturalporto.org/eventos/vizinhancas-2026-leva-musica-teatro-e-oficinas-a-quatro-bairros-do-porto-em-agosto/",
-      "interest_rate": 45,
-      "interest_rate_reason": "Free, all-day municipal cultural fair with craft workshops and music mixed among many diffuse activities — partial match to positive stories 4/5, but lacks a focused intimate hands-on or live-music experience."
-    },
-    {
       "id": "evt_2026_0904_vindouro-festa-pombalina",
       "name": "Vindouro – Wine & History – Festa Pombalina 2026",
       "tag": "trips",
@@ -72,6 +48,18 @@
       "url": "https://www.eventbrite.com/e/the-nomad-world-porto-tickets-1992509534655",
       "interest_rate": 78,
       "interest_rate_reason": "Multi-day founder/AI-focused gathering with talks and workshops — strong match to positive story 1's business/AI expertise-building focus."
+    },
+    {
+      "id": "evt_2026_0911_lamego-harvest-festival",
+      "name": "Lamego Harvest Festival 2026 (Festas das Vindimas)",
+      "tag": "trips",
+      "date": "2026-09-11T18:00:00+01:00",
+      "location": "Largo da Sé, Lamego, Douro Valley (approx. 2hr drive from Porto)",
+      "price": "Free",
+      "description": "Three-day (Sept 11-13) grape-harvest festival in Lamego's Largo da Sé, running 18:00-22:00 nightly, with parades of harvest workers in traditional attire, folk music, a gastronomic fair of cured meats and Port/Douro wines, and the chance to join nearby quintas' hand-picking harvest.",
+      "url": "https://dourovinhateiro.com/en/evento/lamego-harvest-festival-2026",
+      "interest_rate": 62,
+      "interest_rate_reason": "Free evening harvest festival with folk music, parades and tastings in the Douro Valley — decent match to positive story 2's wine-region ideal and story 5's live music, tempered by self-directed rather than guided-tour format."
     },
     {
       "id": "evt_2026_0912_porto-pride-afterparty",
@@ -204,6 +192,18 @@
       "url": "https://www.eventbrite.pt/e/iam-tech-day-europa-2026-tickets-1992957439350",
       "interest_rate": 60,
       "interest_rate_reason": "Professional cybersecurity/IAM conference — solid but narrower match to positive story 1's business/tech expertise-building focus."
+    },
+    {
+      "id": "evt_2026_0917_porto-expats-standup-open-mic",
+      "name": "English Stand Up Comedy Open Mic @ Porto",
+      "tag": "performance",
+      "date": "2026-09-17T21:00:00+01:00",
+      "location": "Maria Pistolas, Praça D. Filipa de Lencastre 175, Porto",
+      "price": "Free (tip/drink for performers; no ticket price listed)",
+      "description": "Monthly English-language stand-up comedy open mic hosted by Porto Expats Meetup at Maria Pistolas — a casual bar setting for local comedians and audience. Recurring every third Thursday of the month through at least December 2026.",
+      "url": "https://www.meetup.com/porto-expat-meetup/",
+      "interest_rate": 30,
+      "interest_rate_reason": "Casual English-language open-mic comedy night at a bar — mild resonance with positive story 4's small-group low-pressure appeal, tempered by negative story 3's risk of an unstructured amateur-night format."
     },
     {
       "id": "evt_2026_0918_ai-portfolio-career-masterclass",
@@ -695,6 +695,18 @@
       "url": "https://www.coliseu.pt/evento/20261025-promenade-2026-carta-branca-a-miguel-araujo",
       "interest_rate": 58,
       "interest_rate_reason": "Seated orchestral-collaboration concert — calm passive live-music match to positive story 5/2, family-oriented morning format."
+    },
+    {
+      "id": "evt_2026_1027_open-mckart-round6",
+      "name": "Open McKart 2026 – 6ª Ronda",
+      "tag": "sports",
+      "date": "2026-10-27T10:00:00+00:00",
+      "location": "Kartódromo de Baltar, Av. de São Silvestre 760, Baltar (~25km from Porto)",
+      "price": "Price not published (contact organizer)",
+      "description": "Round 6 of the amateur Open McKart 2026 karting series, a rental-kart sprint round open to mixed-skill drivers at the 1020m outdoor Baltar circuit. Exact start time not published by organizers at time of research.",
+      "url": "https://calendariokarting.pt/events/open-mckart-2026-event-6",
+      "interest_rate": 80,
+      "interest_rate_reason": "Amateur rental-kart sprint round — direct match to positive story 3's proactive-adrenaline karting activity."
     },
     {
       "id": "evt_2026_1027_adriana-calcanhotto",
@@ -1199,6 +1211,18 @@
       "url": "https://www.ticketline.pt/evento/optimista-ceptico-diogo-bataguas-105165",
       "interest_rate": 35,
       "interest_rate_reason": "Passive no-decisions stand-up show loosely echoes positive story 2, but Portuguese-only language (flagged per LANGUAGE_PRIORITY) and the lack of live-music/craft substance keep the match weak."
+    },
+    {
+      "id": "evt_2027_0206_kadebostany",
+      "name": "Kadebostany – The Outsider Tour",
+      "tag": "music",
+      "date": "2027-02-06T21:00:00+00:00",
+      "location": "Casa da Música, Av. da Boavista 604-610, Porto",
+      "price": "Price not published",
+      "description": "Swiss electro-pop act Kadebostany bring their three-act 'The Outsider' tour to Casa da Música — a theatrical show with two new lead vocalists, guitar, violin, full brass section and modular synths blending organic and electronic sound. Exact start time not published at time of research.",
+      "url": "https://glam-magazine.pt/kadebostany-de-regresso-a-portugal-em-fevereiro-de-2027/",
+      "interest_rate": 62,
+      "interest_rate_reason": "Theatrical live concert by a touring act at a proper concert hall — solid match to positive story 5's live-music appeal, tempered by unconfirmed set time and price."
     },
     {
       "id": "evt_2027_0213_as-tres-guitarras",
