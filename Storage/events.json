@@ -38,6 +38,18 @@
       "interest_rate_reason": "Large spectator esports tournament — passive entertainment resembling positive story 2's no-decisions resting format, though not personally participatory."
     },
     {
+      "id": "evt_2026_0909_lemonade-standup",
+      "name": "A Lemonade Stand-up Comedy",
+      "tag": "performance",
+      "date": "2026-09-09T21:00:00+01:00",
+      "location": "LOOK.Sharp Cafe, Porto",
+      "price": "Free (registration) / €3 prepaid donation for 10% off food",
+      "description": "English-language stand-up comedy night at LOOK.Sharp Cafe featuring 3-4 unfiltered comedians covering everything from awkward confessions to weird obsessions. Runs 21:00-22:30, 100% English.",
+      "url": "https://www.look-sharp.net/events/p/lemonade-standup",
+      "interest_rate": 32,
+      "interest_rate_reason": "Casual English-language stand-up night at a café — mild resonance with positive story 4's small-group, low-pressure appeal, similar profile to other stand-up entries already captured."
+    },
+    {
       "id": "evt_2026_0910_nomad-world-porto",
       "name": "The Nomad World Porto",
       "tag": "business",
@@ -709,6 +721,18 @@
       "interest_rate_reason": "Amateur rental-kart sprint round — direct match to positive story 3's proactive-adrenaline karting activity."
     },
     {
+      "id": "evt_2026_1027_batalha-quiz-oct",
+      "name": "Batalha Quiz",
+      "tag": "tournament",
+      "date": "2026-10-27T21:00:00+00:00",
+      "location": "Batalha Centro de Cinema, Praça da Batalha 47, Porto",
+      "price": "Free entry, no registration required",
+      "description": "Free monthly cinema-themed pub quiz held on the last Tuesday of the month at Batalha Centro de Cinema's café-bar, split into two 25-question rounds; open to anyone, just show up.",
+      "url": "https://www.batalhacentrodecinema.pt/en/programmes/cinema-ao-redor-batalha-quiz/",
+      "interest_rate": 60,
+      "interest_rate_reason": "Free, well-structured recurring pub quiz — organized low-key social/competitive format, low-risk and welcoming to newcomers."
+    },
+    {
       "id": "evt_2026_1027_adriana-calcanhotto",
       "name": "Adriana Calcanhotto – Voz e Violão",
       "tag": "music",
@@ -937,6 +961,18 @@
       "interest_rate_reason": "Standing club concert by a niche touring act — decent live-gig match to positive story 5."
     },
     {
+      "id": "evt_2026_1124_batalha-quiz-nov",
+      "name": "Batalha Quiz",
+      "tag": "tournament",
+      "date": "2026-11-24T21:00:00+00:00",
+      "location": "Batalha Centro de Cinema, Praça da Batalha 47, Porto",
+      "price": "Free entry, no registration required",
+      "description": "Free monthly cinema-themed pub quiz held on the last Tuesday of the month at Batalha Centro de Cinema's café-bar, split into two 25-question rounds; open to anyone, just show up.",
+      "url": "https://www.batalhacentrodecinema.pt/en/programmes/cinema-ao-redor-batalha-quiz/",
+      "interest_rate": 60,
+      "interest_rate_reason": "Free, well-structured recurring pub quiz — organized low-key social/competitive format, low-risk and welcoming to newcomers."
+    },
+    {
       "id": "evt_2026_1126_victor-patrascan-comedy",
       "name": "Stand up Comedy in Broken English — Victor Pătrăşcan",
       "tag": "performance",
@@ -1129,6 +1165,18 @@
       "interest_rate_reason": "Rental-kart amateur sprint round — direct match to positive story 3's proactive-adrenaline karting activity."
     },
     {
+      "id": "evt_2026_1229_batalha-quiz-dec",
+      "name": "Batalha Quiz",
+      "tag": "tournament",
+      "date": "2026-12-29T21:00:00+00:00",
+      "location": "Batalha Centro de Cinema, Praça da Batalha 47, Porto",
+      "price": "Free entry, no registration required",
+      "description": "Free monthly cinema-themed pub quiz held on the last Tuesday of the month at Batalha Centro de Cinema's café-bar, split into two 25-question rounds; open to anyone, just show up. Confirmed as the final date of the venue's Sept-Dec 2026 quiz programme.",
+      "url": "https://www.batalhacentrodecinema.pt/en/programmes/cinema-ao-redor-batalha-quiz/",
+      "interest_rate": 60,
+      "interest_rate_reason": "Free, well-structured recurring pub quiz — organized low-key social/competitive format, low-risk and welcoming to newcomers."
+    },
+    {
       "id": "evt_2027_0106_cirque-du-soleil-ovo",
       "name": "Cirque du Soleil – OVO (Porto Premiere)",
       "tag": "performance",
@@ -1213,6 +1261,18 @@
       "interest_rate_reason": "Passive no-decisions stand-up show loosely echoes positive story 2, but Portuguese-only language (flagged per LANGUAGE_PRIORITY) and the lack of live-music/craft substance keep the match weak."
     },
     {
+      "id": "evt_2027_0203_slift",
+      "name": "SLIFT – Fantasia Tour",
+      "tag": "music",
+      "date": "2027-02-03T20:00:00+00:00",
+      "location": "Sala M.Ou.Co (Mouco Hotel), R. de Frei Heitor Pinto 65, Porto",
+      "price": "€25",
+      "description": "French psych/space-rock trio SLIFT present their new album Fantasia at Sala M.Ou.Co, with support from The Black Wizards, as part of a two-date Iberian tour alongside a Lisbon show. 180-minute show with intermission, ages 16+.",
+      "url": "https://www.bol.pt/Comprar/Bilhetes/177302-slift_porto-mouco/",
+      "interest_rate": 70,
+      "interest_rate_reason": "Intimate small-venue live gig with a confirmed price and support act — strong match to positive story 5's small-venue, good-sound live-gig ideal."
+    },
+    {
       "id": "evt_2027_0206_kadebostany",
       "name": "Kadebostany – The Outsider Tour",
       "tag": "music",
@@ -1223,6 +1283,18 @@
       "url": "https://glam-magazine.pt/kadebostany-de-regresso-a-portugal-em-fevereiro-de-2027/",
       "interest_rate": 62,
       "interest_rate_reason": "Theatrical live concert by a touring act at a proper concert hall — solid match to positive story 5's live-music appeal, tempered by unconfirmed set time and price."
+    },
+    {
+      "id": "evt_2027_0209_shred-fest-obscura-pestilence",
+      "name": "Shred Fest – Obscura, Pestilence + 3 Bands",
+      "tag": "music",
+      "date": "2027-02-09T20:00:00+00:00",
+      "location": "Sala M.Ou.Co (Mouco Hotel), R. de Frei Heitor Pinto 65, Porto",
+      "price": "Price not published (see Ticketline)",
+      "description": "German technical/progressive death metal band Obscura headline the Portuguese stop of Shred Fest's European debut tour (39 consecutive shows, Jan-Feb 2027), marking their 25th anniversary, with support from Pestilence, Cryptic Shift, Thus and Dvrk. Exact start time not published at time of research; evening slot assumed based on the venue's typical scheduling.",
+      "url": "https://www.ticketline.pt/evento/shred-fest-obscura-pestilence-3-bands-104428",
+      "interest_rate": 62,
+      "interest_rate_reason": "Standing club metal show by touring international acts at an intimate small venue — solid live-gig match to positive story 5, consistent with similar Sala M.Ou.Co gigs already captured."
     },
     {
       "id": "evt_2027_0213_as-tres-guitarras",
