@@ -22,6 +22,30 @@
       "url": "https://www.oficinajosefina.com/",
       "interest_rate": 12,
       "interest_rate_reason": "Sensory workshop designed for infant participation, not the requester's own hands-on experience — no meaningful match to any positive story dimension."
+    },
+    {
+      "id": "evt_2026_1018_flores-jardim",
+      "name": "Flores para o teu Jardim",
+      "tag": "art",
+      "date": "2026-10-18T11:00:00+01:00",
+      "location": "Oficina Josefina, Av. Camilo 224, Porto",
+      "price": "€18 (child + 1 adult) / €25 (child + 2 adults) / €7 extra adult",
+      "description": "Family workshop (child + adult) at Oficina Josefina, part of the studio's Sunday family-workshop series, focused on flower-themed crafting for the garden.",
+      "url": "https://www.oficinajosefina.com/",
+      "interest_rate": 15,
+      "interest_rate_reason": "Family/child-oriented Sunday workshop (child+adult pricing) — like the already-shadowed infant-painting session, not a personal adult hands-on experience, so weak match to positive story 4."
+    },
+    {
+      "id": "evt_2026_1018_mascara-carnaval",
+      "name": "Máscara de Carnaval",
+      "tag": "art",
+      "date": "2026-10-18T15:00:00+01:00",
+      "location": "Oficina Josefina, Av. Camilo 224, Porto",
+      "price": "€18 (child + 1 adult) / €25 (child + 2 adults) / €7 extra adult",
+      "description": "Family workshop (child + adult) at Oficina Josefina, part of the studio's Sunday family-workshop series, making Carnival masks.",
+      "url": "https://www.oficinajosefina.com/",
+      "interest_rate": 15,
+      "interest_rate_reason": "Family/child-oriented Carnival mask-making workshop (child+adult pricing) — mirrors the already-shadowed infant-painting precedent, minimal personal-adult craft fit for positive story 4."
     }
   ]
 }
