@@ -14,6 +14,18 @@
   },
   "events": [
     {
+      "id": "evt_2026_0903_castlerock-quiz-night",
+      "name": "CastleRock Pub & Hotel – Weekly Quiz Night",
+      "tag": "tournament",
+      "date": "2026-09-03T21:30:00+01:00",
+      "location": "CastleRock Pub & Hotel, R. do Conde de Vizela 114, Porto",
+      "price": "€1 per player (winning team gets drinks credit up to €50)",
+      "description": "Weekly Thursday pub quiz at CastleRock Pub & Hotel — 50 questions split into two rounds, running every Thursday from April 2026 through February 25, 2027. Teams of up to 5 players welcome.",
+      "url": "https://agendaculturalporto.org/agenda-castlerock-pub-hotel/",
+      "interest_rate": 55,
+      "interest_rate_reason": "Cheap, well-structured weekly pub quiz with a clear prize incentive, similar to the already-captured Batalha Quiz pattern — mild low-pressure social resonance but no direct match to any single positive story dimension."
+    },
+    {
       "id": "evt_2026_0904_vindouro-festa-pombalina",
       "name": "Vindouro – Wine & History – Festa Pombalina 2026",
       "tag": "trips",
@@ -743,6 +755,18 @@
       "url": "https://agendaculturalporto.org/eventos/adriana-calcanhotto-leva-voz-e-violao-a-casa-da-musica/",
       "interest_rate": 72,
       "interest_rate_reason": "Intimate solo voice-and-guitar performance at a proper concert hall — strong match to positive story 5's small-venue, good-sound live-gig ideal."
+    },
+    {
+      "id": "evt_2026_1029_foundation-models-electric-grid",
+      "name": "6th Conference on Foundation Models of the Electric Grid",
+      "tag": "tech",
+      "date": "2026-10-29T09:00:00+00:00",
+      "location": "Faculty of Engineering – University of Porto, R. Dr. Roberto Frias s/n, Porto",
+      "price": "Small registration fee for catering/facilities (exact amount not published)",
+      "description": "Two-day (Oct 29-30) academic/industry conference hosted by INESC-TEC on AI foundation models for power-grid applications, featuring keynotes, panel discussions, technical sessions, poster presentations and a parallel hackathon. Exact start time not published by organizers at time of research; estimated based on typical full-day conference format.",
+      "url": "https://www.eventbrite.com/e/6th-conference-on-foundation-models-of-the-electric-grid-tickets-1999233771027",
+      "interest_rate": 48,
+      "interest_rate_reason": "Academic AI conference with a hands-on hackathon component touches positive story 1's AI/expertise-building interest, but the narrow power-grid-research focus and unclear business-practitioner relevance keep it below a strong match."
     },
     {
       "id": "evt_2026_1029_mucho-flow-festival",
