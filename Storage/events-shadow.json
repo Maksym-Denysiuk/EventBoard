@@ -12,6 +12,18 @@
   },
   "events": [
     {
+      "id": "evt_2026_0904_porto-intl-pubcrawl",
+      "name": "Free International Pub Crawl – Porto Internationals & Locals",
+      "tag": "community",
+      "date": "2026-09-04T22:00:00+01:00",
+      "location": "Baixa Bar, R. Cândido dos Reis 52, Porto",
+      "price": "Free (RSVP via WhatsApp required)",
+      "description": "Weekly Friday pub crawl hosted by the Porto Internationals and Locals meetup group, hopping between bars/clubs with free shots and club entrance included; recurs most Fridays.",
+      "url": "https://www.meetup.com/porto-internationals-locals/",
+      "interest_rate": 18,
+      "interest_rate_reason": "Unstructured recurring bar-hopping social with no program, speakers, or planned activity — closely echoes negative story 3's unstructured 'background music at a bar' pattern."
+    },
+    {
       "id": "evt_2026_0927_experimentar-pinturas-bebes",
       "name": "Experimentar Pinturas – Oficina Sensorial para Bebés",
       "tag": "art",
