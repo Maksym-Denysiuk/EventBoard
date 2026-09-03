@@ -10,7 +10,8 @@
     "tournament": "Tournament",
     "nightlife": "Nightlife",
     "neighborhood-day": "Neighborhood Day",
-    "performance": "Performance"
+    "performance": "Performance",
+    "science": "Science"
   },
   "events": [
     {
@@ -1331,6 +1332,78 @@
       "url": "https://www.ticketline.pt/evento/as-tres-guitarras-106815",
       "interest_rate": 65,
       "interest_rate_reason": "Intimate acoustic guitar trio recital at a proper concert hall — good match to positive story 5 (quality sound, no need to socialize), though the seated/formal format is less club-gig energy."
+    },
+    {
+      "id": "evt_2026_0916_real-womens-talk",
+      "name": "Real Women's Talk",
+      "tag": "community",
+      "date": "2026-09-16T19:30:00+01:00",
+      "location": "LOOK.Sharp Cafe, Porto",
+      "price": "€22.50",
+      "description": "Intimate facilitated dinner gathering for women at LOOK.Sharp café featuring honest conversation over a shared meal. Runs 19:30-21:30.",
+      "url": "https://www.look-sharp.net/events",
+      "interest_rate": 42,
+      "interest_rate_reason": "Guided small-group facilitated dinner conversation — mild match to positive story 2's no-decisions structure, matching the profile of the already-captured Meaningful Meal event."
+    },
+    {
+      "id": "evt_2026_0918_longevity-cnn-portugal-summit",
+      "name": "Longevity CNN Portugal Summit",
+      "tag": "science",
+      "date": "2026-09-18T08:00:00+01:00",
+      "location": "Alfândega do Porto, R. Nova da Alfândega, Porto",
+      "price": "€48.32–€128.86",
+      "description": "Full-day science and medicine summit organized by Centro de Inovação Médica in partnership with CNN, bringing together physicians, researchers and healthcare leaders to examine longevity, genetics, cancer, inflammation and consciousness studies. Speakers include Prof. António Damásio and Prof. Steve Horvath. Runs 08:00-18:00, rated 16+.",
+      "url": "https://agendaculturalporto.org/eventos/longevity-cnn-portugal-summit-ocupa-a-alfandega-do-porto/",
+      "interest_rate": 45,
+      "interest_rate_reason": "Full-day structured science/medicine summit with no decisions required once attending, echoing positive story 2, but the longevity-science focus (vs. business/AI expertise) and premium price temper the match to story 1."
+    },
+    {
+      "id": "evt_2026_0924_speed-friending-looksharp",
+      "name": "Speed Friending",
+      "tag": "community",
+      "date": "2026-09-24T20:00:00+01:00",
+      "location": "LOOK.Sharp Cafe, Porto",
+      "price": "€6.00",
+      "description": "Structured speed-friending social at LOOK.Sharp café — timed rounds of conversation designed to help attendees meet new people. Runs 20:00-22:30.",
+      "url": "https://www.look-sharp.net/events",
+      "interest_rate": 35,
+      "interest_rate_reason": "Structured timed-round social mixer avoids negative story 3's unstructured-bar-night pattern, but the performative speed-meeting format offers only weak resonance with positive story 4's no-pressure appeal."
+    },
+    {
+      "id": "evt_2026_0925_arteporto",
+      "name": "ARTePorto",
+      "tag": "art",
+      "date": "2026-09-25T14:00:00+01:00",
+      "location": "Alfândega do Porto, Rua Nova da Alfândega, Porto",
+      "price": "€10 per day",
+      "description": "Inaugural contemporary art, antiques, design and collector's-pieces fair at Alfândega do Porto, bringing together galleries, dealers and collectors. Public days Sept 25-26 (14:00-21:00) and Sept 27 (11:00-18:00); trade/press preview Sept 24.",
+      "url": "https://agendaculturalporto.org/eventos/arteporto-estreia-se-na-alfandega-com-arte-contemporanea-antiguidades-e-design/",
+      "interest_rate": 50,
+      "interest_rate_reason": "Relaxed art/antiques fair browsing at low cost — moderate match to positive story 4's low-pressure creative-viewing appeal, similar to the already-captured gallery-opening pattern, though larger trade-fair scale than an intimate opening."
+    },
+    {
+      "id": "evt_2026_0926_paint-create-tote-bag",
+      "name": "Paint & Create - Fall Tote Bag Workshop",
+      "tag": "art",
+      "date": "2026-09-26T16:30:00+01:00",
+      "location": "LOOK.Sharp Cafe, Porto",
+      "price": "€20.00",
+      "description": "Hands-on autumn-themed craft workshop at LOOK.Sharp café — decorate your own tote bag using fabric paints and stamps. Runs 16:30-18:30.",
+      "url": "https://www.look-sharp.net/events",
+      "interest_rate": 68,
+      "interest_rate_reason": "Hands-on evening craft workshop making something with your own hands at a relaxed pace — strong match to positive story 4's craft-workshop appeal."
+    },
+    {
+      "id": "evt_2026_0903_monet-klimt-immersivus",
+      "name": "Impressive Monet & Brilliant Klimt",
+      "tag": "art",
+      "date": "2026-09-03T09:30:00+01:00",
+      "location": "Immersivus Gallery, Alfândega do Porto, Rua Nova da Alfândega, Porto",
+      "price": "€5–€9",
+      "description": "Immersive 360-degree projection and hologram exhibition pairing Monet's Impressionism (Poppies, Water Lilies) with Klimt's Symbolism (The Kiss), at the Immersivus Gallery inside Alfândega do Porto's Furnas. Runs through Dec 13, 2026, Wed-Sun 09:30-18:30.",
+      "url": "https://feverup.com/m/91024",
+      "interest_rate": 38,
+      "interest_rate_reason": "Passive immersive digital-art exhibition — mild match to positive story 4's relaxed creative-viewing appeal, tempered by its mass-market family-tourist-attraction framing rather than a curated small gallery show."
     }
   ]
 }
