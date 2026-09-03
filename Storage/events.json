@@ -1404,6 +1404,30 @@
       "url": "https://feverup.com/m/91024",
       "interest_rate": 38,
       "interest_rate_reason": "Passive immersive digital-art exhibition — mild match to positive story 4's relaxed creative-viewing appeal, tempered by its mass-market family-tourist-attraction framing rather than a curated small gallery show."
+    },
+    {
+      "id": "evt_2026_0905_mandragora-hardclub",
+      "name": "Mandragora (DJ) – Hard Club",
+      "tag": "music",
+      "date": "2026-09-05T23:59:00+01:00",
+      "location": "Hard Club (Sala 1), Praça do Infante D. Henrique, Porto",
+      "price": "Price not published (tickets via Shotgun.live)",
+      "description": "DJ Mandragora brings a late-night progressive psytrance, Futureprog and groove-driven house set to Hard Club's Sala 1 — \"the sound of the sunrise, live.\"",
+      "url": "https://djmandragora.com/gig/2026-09-05-porto",
+      "interest_rate": 48,
+      "interest_rate_reason": "Late-night DJ set at an intimate venue matches positive story 5's live-music appeal, tempered by the niche psytrance genre and very-late 23:59 start."
+    },
+    {
+      "id": "evt_2026_0911_351-festival-urbano",
+      "name": "+351 Festival Urbano",
+      "tag": "music",
+      "date": "2026-09-11T19:00:00+01:00",
+      "location": "Hard Club (Sala 1), Praça do Infante D. Henrique, Porto",
+      "price": "€22–23.62/day (2-day pass also available)",
+      "description": "Inaugural two-day (Sept 11-12) urban culture festival at Hard Club celebrating Portuguese hip-hop — day one lineup includes Alcool Club, Lucas Garcez e Luster, PróprioSantos and DJ RichieP; day two brings Beware Jack, Guima, Roda Universo and DJ DREINDACLUB. M/16.",
+      "url": "https://www.ticketline.pt/evento/351-festival-urbano-106896",
+      "interest_rate": 55,
+      "interest_rate_reason": "Multi-artist live-music festival at a proper mid-size venue matches positive story 5, with moderate pricing avoiding negative story 5's rip-off risk; two-day club-festival scale caps intimacy."
     }
   ]
 }
