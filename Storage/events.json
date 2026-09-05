@@ -15,30 +15,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_0904_vindouro-festa-pombalina",
-      "name": "Vindouro – Wine & History – Festa Pombalina 2026",
-      "tag": "trips",
-      "date": "2026-09-04T11:00:00+01:00",
-      "location": "Praça do Marquês, São João da Pesqueira, Douro Valley (approx. 2hr drive from Porto)",
-      "price": "Free general entry (some activities, e.g. the Pombaline Dinner, priced separately)",
-      "description": "Three-day (Sept 4-6) wine-and-history fair in São João da Pesqueira, named Portugal's National Wine Event of the Year 2026 — over 100 Douro producers for tastings, the 'Douro em Prova' competition and showcookings, alongside Pombaline-era reenactments (period market, torchlit procession, Pombaline Dinner) and live music. Exact opening hour not published; estimated based on similar day-fair openings.",
-      "url": "https://www.sjpesqueira.pt/turismo/eventos-municipais/vindouro-wine-and-history-festa-pombalina/programa",
-      "interest_rate": 65,
-      "interest_rate_reason": "Multi-day Douro wine-region fair with tastings, live music and history reenactment at day-trip distance — solid match to positive story 2's wine-region/resting ideal and story 5's live music, tempered by large public-fair scale rather than a small guided group."
-    },
-    {
-      "id": "evt_2026_0904_blast-premier-open-porto",
-      "name": "BLAST Premier Open Porto 2026 – Playoffs",
-      "tag": "tournament",
-      "date": "2026-09-04T14:30:00+01:00",
-      "location": "Super Bock Arena – Pavilhão Rosa Mota, Porto",
-      "price": "€15–€175",
-      "description": "Playoff stage (Sept 4-6) of BLAST Premier Open Porto 2026, bringing 16 of the world's top Counter-Strike 2 teams to Porto to compete for a share of a $1.1M prize pool — BLAST's first Portuguese event held outside Lisbon. Doors 13:45. Rated M/16.",
-      "url": "https://www.superbockarena.pt/evento/blast-premier/",
-      "interest_rate": 55,
-      "interest_rate_reason": "Large spectator esports tournament — passive entertainment resembling positive story 2's no-decisions resting format, though not personally participatory."
-    },
-    {
       "id": "evt_2026_0905_mandragora-hardclub",
       "name": "Mandragora (DJ) – Hard Club",
       "tag": "music",
