@@ -8,7 +8,9 @@
     "community": "Community",
     "trips": "Trips",
     "tournament": "Tournament",
-    "nightlife": "Nightlife"
+    "nightlife": "Nightlife",
+    "film": "Film",
+    "science": "Science"
   },
   "events": [
     {
@@ -46,6 +48,30 @@
       "url": "https://www.oficinajosefina.com/",
       "interest_rate": 15,
       "interest_rate_reason": "Family/child-oriented Carnival mask-making workshop (child+adult pricing) — mirrors the already-shadowed infant-painting precedent, minimal personal-adult craft fit for positive story 4."
+    },
+    {
+      "id": "evt_2027_0226_fantasporto-film-festival",
+      "name": "Fantasporto 2027 – 47th Porto International Film Festival",
+      "tag": "film",
+      "date": "2027-02-26T21:30:00+00:00",
+      "location": "Batalha Centro de Cinema, Praça da Batalha 47, Porto",
+      "price": "~€5 per session, full festival pass ~€70 (2026 pricing; 2027 prices not yet published)",
+      "description": "47th edition of Porto's international fantasy/horror/experimental film festival, running Feb 26 – Mar 7, 2027 at Batalha Centro de Cinema. Opening-night time follows the prior edition's pattern; full 2027 programme not yet published.",
+      "url": "https://fantasporto.com/en/",
+      "interest_rate": 22,
+      "interest_rate_reason": "Solo cinema-screening festival — doesn't match the guided-tour, business/pitch, adrenaline, craft, or live-music story dimensions; no negative flags either, so a low neutral baseline."
+    },
+    {
+      "id": "evt_2027_0128_apth-isth-workshop",
+      "name": "APTH–ISTH Workshop 2027 (Thrombosis & Haemostasis)",
+      "tag": "science",
+      "date": "2027-01-28T09:00:00+00:00",
+      "location": "Fundação António Cupertino de Miranda, Avenida da Boavista 4245, Porto",
+      "price": "Not yet published (professional/clinical registration)",
+      "description": "Three-day international workshop (Jan 28–30, 2027) from the Portuguese Association of Thrombosis and Haemostasis (APTH) and the International Society on Thrombosis and Haemostasis (ISTH), for clinicians, laboratory specialists and researchers in thrombosis/haemostasis medicine.",
+      "url": "https://apth.pt/apth-isth-workshop/",
+      "interest_rate": 15,
+      "interest_rate_reason": "Specialized clinical/laboratory medical workshop for hematology professionals — no resonance with business-pitch, guided-tour, adrenaline, craft, or live-music story dimensions; narrow professional audience."
     }
   ]
 }
