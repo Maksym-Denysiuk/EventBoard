@@ -11,21 +11,10 @@
     "nightlife": "Nightlife",
     "neighborhood-day": "Neighborhood Day",
     "performance": "Performance",
-    "science": "Science"
+    "science": "Science",
+    "film": "Film"
   },
   "events": [
-    {
-      "id": "evt_2026_0905_mandragora-hardclub",
-      "name": "Mandragora (DJ) – Hard Club",
-      "tag": "music",
-      "date": "2026-09-05T23:59:00+01:00",
-      "location": "Hard Club (Sala 1), Praça do Infante D. Henrique, Porto",
-      "price": "Price not published (tickets via Shotgun.live)",
-      "description": "DJ Mandragora brings a late-night progressive psytrance, Futureprog and groove-driven house set to Hard Club's Sala 1 — \"the sound of the sunrise, live.\"",
-      "url": "https://djmandragora.com/gig/2026-09-05-porto",
-      "interest_rate": 48,
-      "interest_rate_reason": "Late-night DJ set at an intimate venue matches positive story 5's live-music appeal, tempered by the niche psytrance genre and very-late 23:59 start."
-    },
     {
       "id": "evt_2026_0909_lemonade-standup",
       "name": "A Lemonade Stand-up Comedy",
@@ -1428,6 +1417,18 @@
       "url": "https://www.ticketline.pt/evento/as-tres-guitarras-106815",
       "interest_rate": 65,
       "interest_rate_reason": "Intimate acoustic guitar trio recital at a proper concert hall — good match to positive story 5 (quality sound, no need to socialize), though the seated/formal format is less club-gig energy."
+    },
+    {
+      "id": "evt_2027_0211_mono-mouco",
+      "name": "MONO (Japan) – Snowdrop Tour",
+      "tag": "music",
+      "date": "2027-02-11T20:15:00+00:00",
+      "location": "Sala M.Ou.Co (Mouco Hotel), R. de Frei Heitor Pinto 65, Porto",
+      "price": "Sold Out",
+      "description": "Japanese post-rock band MONO returns to Portugal five years after their last sold-out Porto/Lisbon shows, supporting their new album \"Snowdrop\" (recorded with producer Brad Wood at Electrical Audio). Doors 19:45, show 20:15.",
+      "url": "https://amplificasom.com/event/monosnowdrop/",
+      "interest_rate": 75,
+      "interest_rate_reason": "Small intimate venue live gig — strong match to positive story 5 (good sound, energy in the room, no obligation to socialize); tempered slightly since the show is already sold out."
     }
   ]
 }
