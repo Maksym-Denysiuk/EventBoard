@@ -40,6 +40,30 @@
       "interest_rate_reason": "Multi-day founder/AI-focused gathering with talks and workshops — strong match to positive story 1's business/AI expertise-building focus."
     },
     {
+      "id": "evt_2026_0910_meet-portos-startup-ecosystem",
+      "name": "Meet Porto's Startup Ecosystem: In-Person Networking for Founders",
+      "tag": "business",
+      "date": "2026-09-10T18:00:00+01:00",
+      "location": "Sitio Campo Alegre, Rua do Campo Alegre 774, Porto",
+      "price": "Free",
+      "description": "In-person networking session for founders at Sitio Campo Alegre coworking, with speakers Cristiana Cruz (ScaleUp Porto / Porto City Council) and João Afonso (serial entrepreneur, ANJE) covering local startup resources, mentorship connections and early-stage funding options. Exact start time not published (listed as an all-day slot); evening hour assumed based on comparable founder meetups.",
+      "url": "https://scaleupporto.pt/event/meet-portos-startup-ecosystem-in-person-networking-for-founders/",
+      "interest_rate": 55,
+      "interest_rate_reason": "Structured founder networking with named speakers on funding/mentorship — decent match to positive story 1's business-expertise focus, tempered by negative story 3's generic-networking risk since agenda specifics beyond speaker names are thin."
+    },
+    {
+      "id": "evt_2026_0910_castlerock-quiz-night",
+      "name": "Quiz Night at CastleRock Pub",
+      "tag": "tournament",
+      "date": "2026-09-10T21:30:00+01:00",
+      "location": "CastleRock Pub & Hotel, R. do Conde de Vizela 114, Porto",
+      "price": "€1 per player",
+      "description": "Weekly Thursday pub quiz at CastleRock Pub in Porto's historic center — team-based trivia challenge with prizes (up to €50 in free drinks) for the winning team; recurring every Thursday through at least February 2027.",
+      "url": "https://castlerockpub.com/",
+      "interest_rate": 58,
+      "interest_rate_reason": "Low-cost, well-structured weekly pub quiz with team prizes — organized recurring format similar to the already-captured Batalha Quiz, moderate match to positive story 4's low-pressure social appeal."
+    },
+    {
       "id": "evt_2026_0911_lamego-harvest-festival",
       "name": "Lamego Harvest Festival 2026 (Festas das Vindimas)",
       "tag": "trips",
@@ -364,6 +388,18 @@
       "interest_rate_reason": "Intimate small-venue live gig at Sala M.Ou.Co — matches positive story 5 (small venue, good sound, no obligation to socialize)."
     },
     {
+      "id": "evt_2026_0922_1b-solo-founder-ai-agents",
+      "name": "The $1B Solo Founder: Build Your Startup With AI Agents",
+      "tag": "business",
+      "date": "2026-09-22T18:00:00+01:00",
+      "location": "Sitio Campo Alegre, Rua do Campo Alegre 774, Porto",
+      "price": "Free",
+      "description": "Hands-on workshop on building a team of AI agents to automate sales, marketing, research and operations tasks and start generating startup revenue, hosted at Sitio Campo Alegre coworking. Exact start time not published (listed as an all-day slot); evening hour assumed based on comparable founder meetups.",
+      "url": "https://scaleupporto.pt/event/the-1b-solo-founder-build-your-startup-with-ai-agents/",
+      "interest_rate": 68,
+      "interest_rate_reason": "Free hands-on AI-agent business-building workshop — strong match to positive story 1's AI-workshop and expertise-building focus."
+    },
+    {
       "id": "evt_2026_0923_guimaraes-padel-open",
       "name": "Guimarães Padel Open (FPP 2.000)",
       "tag": "tournament",
@@ -398,6 +434,18 @@
       "url": "https://www.look-sharp.net/events",
       "interest_rate": 45,
       "interest_rate_reason": "Guided small-group conversation dinner led by a facilitator — mild match to positive story 2's no-decisions-needed structure, though not a craft/physical activity."
+    },
+    {
+      "id": "evt_2026_0924_porto-tech-connect-trust",
+      "name": "Porto Tech Connect: Patterns of Trust",
+      "tag": "tech",
+      "date": "2026-09-24T18:30:00+01:00",
+      "location": "Devexperts, Praça do Bom Sucesso 127-131, Edifício Península, Porto",
+      "price": "Free–€10",
+      "description": "Evening tech-community gathering at Devexperts bringing together tech professionals and leaders for talks and high-quality networking on the theme of trust patterns in technology.",
+      "url": "https://scaleupporto.pt/event/porto-tech-connect-patterns-of-trust/",
+      "interest_rate": 50,
+      "interest_rate_reason": "Themed tech networking evening with a confirmed topic and low cost — moderate match to positive story 1, tempered by negative story 3's risk of an unstructured networking format given limited agenda detail."
     },
     {
       "id": "evt_2026_0924_speed-friending-looksharp",
@@ -470,6 +518,18 @@
       "url": "https://calendariokarting.pt/events/wise-pirates-karting-series-2025-26-event-7",
       "interest_rate": 82,
       "interest_rate_reason": "Amateur rental-kart sprint round — direct match to positive story 3's proactive-adrenaline karting activity."
+    },
+    {
+      "id": "evt_2026_0926_business-talks-brunch-pbn",
+      "name": "Business Talks & Brunch #56 – Porto Business Network",
+      "tag": "business",
+      "date": "2026-09-26T11:00:00+01:00",
+      "location": "NOLA 2.0, Rua do Bolhão 124, Porto",
+      "price": "Not published (50% discount for registered PBN members; includes one drink)",
+      "description": "56th edition of the recurring Porto Business Network brunch series at NOLA 2.0, combining structured business talks with brunch and networking among Porto's professional community.",
+      "url": "https://scaleupporto.pt/event/business-talks-brunch-56-pbn-porto-business-network/",
+      "interest_rate": 42,
+      "interest_rate_reason": "Recurring business brunch with a structured talks component gives mild positive story 1 resonance, though the generic long-running series format (#56) and unpublished price risk edging toward negative story 3's unstructured-networking pattern."
     },
     {
       "id": "evt_2026_0926_paint-create-tote-bag",
@@ -673,6 +733,18 @@
       "url": "https://www.loversandlollypops.net/agenda/maya-ongaku",
       "interest_rate": 65,
       "interest_rate_reason": "Small independent-venue gig — matches positive story 5 (intimate room, good sound, no pressure to socialize)."
+    },
+    {
+      "id": "evt_2026_1010_wipeout-open-air-10years",
+      "name": "10 Years of Wipeout Open Air",
+      "tag": "nightlife",
+      "date": "2026-10-10T16:00:00+01:00",
+      "location": "Museu do Carro Elétrico, Alameda de Basílio Teles 51, Porto",
+      "price": "Price not published (see ticket page)",
+      "description": "Open-air drum & bass anniversary party marking 10 years of the Wipeout Open Air series at Museu do Carro Elétrico, running 16:00 to midnight with two international Jump Up/Dancefloor headliners (names TBA).",
+      "url": "https://xceed.me/pt/porto/event/10-years-of-wipeout-open-air-museu-do-carro-electrico-porto/242501",
+      "interest_rate": 48,
+      "interest_rate_reason": "Open-air anniversary DJ party with unconfirmed lineup and pricing — some nightlife/live-set energy echoing positive story 5, tempered by negative story 5's uncertainty-pricing risk given unannounced details."
     },
     {
       "id": "evt_2026_1011_azulejo-encantado",
