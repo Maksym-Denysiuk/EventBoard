@@ -62,6 +62,18 @@
       "interest_rate_reason": "Solo cinema-screening festival — doesn't match the guided-tour, business/pitch, adrenaline, craft, or live-music story dimensions; no negative flags either, so a low neutral baseline."
     },
     {
+      "id": "evt_2026_1119_porto-post-doc",
+      "name": "Porto/Post/Doc Film & Media Festival 2026",
+      "tag": "film",
+      "date": "2026-11-19T19:00:00+00:00",
+      "location": "Batalha Centro de Cinema & venues city-wide, Porto",
+      "price": "Price not yet published (see portopostdoc.com)",
+      "description": "13th edition of Porto's international documentary and 'cinema of the real' festival, running Nov 19-28, 2026, with competitive and non-competitive sections, retrospectives and industry activities across multiple venues including Batalha Centro de Cinema. Exact opening-night time not yet published at time of research; evening slot estimated based on typical festival-opening scheduling.",
+      "url": "https://www.portopostdoc.com/home-en",
+      "interest_rate": 22,
+      "interest_rate_reason": "Solo cinema-screening documentary festival — doesn't match guided-tour, business/pitch, adrenaline, craft, or live-music story dimensions; comparable neutral-baseline profile to the already-shadowed Fantasporto entry."
+    },
+    {
       "id": "evt_2027_0128_apth-isth-workshop",
       "name": "APTH–ISTH Workshop 2027 (Thrombosis & Haemostasis)",
       "tag": "science",
