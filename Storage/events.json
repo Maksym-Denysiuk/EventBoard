@@ -16,18 +16,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_0909_lemonade-standup",
-      "name": "A Lemonade Stand-up Comedy",
-      "tag": "performance",
-      "date": "2026-09-09T21:00:00+01:00",
-      "location": "LOOK.Sharp Cafe, Porto",
-      "price": "Free (registration) / €3 prepaid donation for 10% off food",
-      "description": "English-language stand-up comedy night at LOOK.Sharp Cafe featuring 3-4 unfiltered comedians covering everything from awkward confessions to weird obsessions. Runs 21:00-22:30, 100% English.",
-      "url": "https://www.look-sharp.net/events/p/lemonade-standup",
-      "interest_rate": 32,
-      "interest_rate_reason": "Casual English-language stand-up night at a café — mild resonance with positive story 4's small-group, low-pressure appeal, similar profile to other stand-up entries already captured."
-    },
-    {
       "id": "evt_2026_0910_nomad-world-porto",
       "name": "The Nomad World Porto",
       "tag": "business",
@@ -74,6 +62,18 @@
       "url": "https://dourovinhateiro.com/en/evento/lamego-harvest-festival-2026",
       "interest_rate": 62,
       "interest_rate_reason": "Free evening harvest festival with folk music, parades and tastings in the Douro Valley — decent match to positive story 2's wine-region ideal and story 5's live music, tempered by self-directed rather than guided-tour format."
+    },
+    {
+      "id": "evt_2026_0911_noites-jardins-palacio-n1",
+      "name": "Noites dos Jardins do Palácio 2026 – Night 1 (Pedro Abrunhosa)",
+      "tag": "music",
+      "date": "2026-09-11T19:00:00+01:00",
+      "location": "Jardins do Palácio de Cristal, Porto",
+      "price": "€15/day or €25 general pass (both nights)",
+      "description": "Outdoor garden concert night at Jardins do Palácio de Cristal — Rita Rocha opens at 19:00, Tiago Nacarato at 21:00, and veteran Portuguese singer-songwriter Pedro Abrunhosa closes the night at 23:00. First night of the two-night 'Noites dos Jardins do Palácio 2026' festival, organized by PEV Entertainment with Porto City Council.",
+      "url": "https://www.ticketline.pt/evento/noites-dos-jardins-do-palacio-106235",
+      "interest_rate": 58,
+      "interest_rate_reason": "Multi-act outdoor garden concert with a veteran headliner at reasonable pricing — solid live-music match to positive story 5, tempered by open festival-style format rather than a small intimate venue."
     },
     {
       "id": "evt_2026_0911_351-festival-urbano",
@@ -134,6 +134,18 @@
       "url": "https://portopride.com/",
       "interest_rate": 60,
       "interest_rate_reason": "Free open-air festival with live music and performances — decent live-entertainment resonance (positive story 5), tempered by large open-crowd format."
+    },
+    {
+      "id": "evt_2026_0912_noites-jardins-palacio-n2",
+      "name": "Noites dos Jardins do Palácio 2026 – Night 2 (T-Rex / Bárbara Bandeira)",
+      "tag": "music",
+      "date": "2026-09-12T19:00:00+01:00",
+      "location": "Jardins do Palácio de Cristal, Porto",
+      "price": "€15/day or €25 general pass (both nights)",
+      "description": "Second night of 'Noites dos Jardins do Palácio 2026' at Jardins do Palácio de Cristal — Soraia Tavares opens at 19:00, Bárbara Bandeira at 21:00, and T-Rex closes the night at 23:00.",
+      "url": "https://www.ticketline.pt/evento/noites-dos-jardins-do-palacio-106235",
+      "interest_rate": 55,
+      "interest_rate_reason": "Multi-act outdoor garden concert night — decent live-music match to positive story 5, open festival setting caps intimacy similar to the preceding night."
     },
     {
       "id": "evt_2026_0912_johnny-hooker",
@@ -639,6 +651,18 @@
       "interest_rate_reason": "Reputable soul/jazz live act — partial match to positive story 5, though Sala Suggia is a larger concert hall and pricier than the 'small venue' ideal."
     },
     {
+      "id": "evt_2026_1001_biz-buzz-pbn",
+      "name": "Biz & Buzz – PBN | Porto Business Network",
+      "tag": "business",
+      "date": "2026-10-01T18:00:00+01:00",
+      "location": "Letraria Porto Downtown, Rua dos Mártires da Liberdade 108, Porto",
+      "price": "Free",
+      "description": "Free, casual after-work networking meetup hosted by Porto Business Network at Letraria Porto Downtown — deliberately informal, with no presentations or sales pitches, just conversation among local entrepreneurs, founders, freelancers and international residents. Runs 18:00-20:00.",
+      "url": "https://www.meetup.com/porto-business-network/events/315856504/",
+      "interest_rate": 33,
+      "interest_rate_reason": "Explicitly unstructured, presentation-free networking mixer over drinks — closely echoes negative story 3's 'no structure, no speakers' pattern despite a reputable recurring organizer, keeping it well below story 1's structured expertise-building ideal."
+    },
+    {
       "id": "evt_2026_1001_senyawa",
       "name": "Senyawa — Porto",
       "tag": "music",
@@ -949,6 +973,18 @@
       "url": "https://livingcruise.com/en/party-boat-halloween-porto/",
       "interest_rate": 58,
       "interest_rate_reason": "Short guided-format themed party cruise with a fixed departure — some resonance with positive story 2's set-itinerary, no-decisions structure."
+    },
+    {
+      "id": "evt_2026_1031_halloween-pub-crawl",
+      "name": "Porto Halloween Pub Crawl",
+      "tag": "nightlife",
+      "date": "2026-10-31T22:00:00+00:00",
+      "location": "Fonte dos Leões, Praça de Gomes Teixeira 10, Porto",
+      "price": "€25.00 (4 bars + VIP nightclub entry, 6 drinks included)",
+      "description": "Porto Crawl's Halloween-themed pub crawl — four bars plus VIP entry to a nightclub, 6 drinks included, with face painting, spooky games and a haunted house experience. Runs 22:00-06:00; costumes encouraged, 18+ with valid ID.",
+      "url": "https://feverup.com/m/199709/en",
+      "interest_rate": 35,
+      "interest_rate_reason": "Structured, ticketed multi-stop crawl with included drinks avoids pure negative story 3, but the large tourist-group bar-hopping format lacks the small-group, quality-focused appeal of positive stories 2/4/5."
     },
     {
       "id": "evt_2026_1106_max-cooper",
@@ -1501,6 +1537,18 @@
       "url": "https://amplificasom.com/event/monosnowdrop/",
       "interest_rate": 75,
       "interest_rate_reason": "Small intimate venue live gig — strong match to positive story 5 (good sound, energy in the room, no obligation to socialize); tempered slightly since the show is already sold out."
+    },
+    {
+      "id": "evt_2027_0218_essencia-do-vinho",
+      "name": "Essência do Vinho – Porto 2027",
+      "tag": "art",
+      "date": "2027-02-18T15:00:00+00:00",
+      "location": "Palácio da Bolsa, R. de Ferreira Borges, Porto",
+      "price": "Price not yet published for 2027 (2026 edition: €27/day with glass included; €120 Room Experience access)",
+      "description": "Major wine-tasting fair at Palácio da Bolsa running Feb 18-21, 2027, part of the Wine & Travel Week, showcasing wines from hundreds of national and international producers with commented tastings and masterclasses. Opening-day time assumed based on the 2026 edition's pattern (15:00 start); exact 2027 hours and pricing not yet published.",
+      "url": "https://www.essenciadovinho.com/",
+      "interest_rate": 60,
+      "interest_rate_reason": "Large-scale wine-tasting fair with masterclasses — strong resonance with the tastings dimension and positive story 2's wine appeal, tempered by crowded commercial-fair scale compared to an intimate guided regional tour."
     }
   ]
 }
