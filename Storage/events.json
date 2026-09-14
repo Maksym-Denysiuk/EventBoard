@@ -16,186 +16,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_0910_nomad-world-porto",
-      "name": "The Nomad World Porto",
-      "tag": "business",
-      "date": "2026-09-10T10:00:00+01:00",
-      "location": "Associação Nacional de Jovens Empresários (ANJE), Rua de Paulo da Gama, Porto",
-      "price": "Paid (price not published; see Eventbrite)",
-      "description": "Four-day flagship gathering for founders, creators and remote workers themed \"Building Freedom,\" featuring talks, workshops and masterminds on AI, entrepreneurship and creativity. Runs Sept 10-13 and serves as the anchor event opening Porto AI Week.",
-      "url": "https://www.eventbrite.com/e/the-nomad-world-porto-tickets-1992509534655",
-      "interest_rate": 78,
-      "interest_rate_reason": "Multi-day founder/AI-focused gathering with talks and workshops — strong match to positive story 1's business/AI expertise-building focus."
-    },
-    {
-      "id": "evt_2026_0910_meet-portos-startup-ecosystem",
-      "name": "Meet Porto's Startup Ecosystem: In-Person Networking for Founders",
-      "tag": "business",
-      "date": "2026-09-10T18:00:00+01:00",
-      "location": "Sitio Campo Alegre, Rua do Campo Alegre 774, Porto",
-      "price": "Free",
-      "description": "In-person networking session for founders at Sitio Campo Alegre coworking, with speakers Cristiana Cruz (ScaleUp Porto / Porto City Council) and João Afonso (serial entrepreneur, ANJE) covering local startup resources, mentorship connections and early-stage funding options. Exact start time not published (listed as an all-day slot); evening hour assumed based on comparable founder meetups.",
-      "url": "https://scaleupporto.pt/event/meet-portos-startup-ecosystem-in-person-networking-for-founders/",
-      "interest_rate": 55,
-      "interest_rate_reason": "Structured founder networking with named speakers on funding/mentorship — decent match to positive story 1's business-expertise focus, tempered by negative story 3's generic-networking risk since agenda specifics beyond speaker names are thin."
-    },
-    {
-      "id": "evt_2026_0910_castlerock-quiz-night",
-      "name": "Quiz Night at CastleRock Pub",
-      "tag": "tournament",
-      "date": "2026-09-10T21:30:00+01:00",
-      "location": "CastleRock Pub & Hotel, R. do Conde de Vizela 114, Porto",
-      "price": "€1 per player",
-      "description": "Weekly Thursday pub quiz at CastleRock Pub in Porto's historic center — team-based trivia challenge with prizes (up to €50 in free drinks) for the winning team; recurring every Thursday through at least February 2027.",
-      "url": "https://castlerockpub.com/",
-      "interest_rate": 58,
-      "interest_rate_reason": "Low-cost, well-structured weekly pub quiz with team prizes — organized recurring format similar to the already-captured Batalha Quiz, moderate match to positive story 4's low-pressure social appeal."
-    },
-    {
-      "id": "evt_2026_0911_lamego-harvest-festival",
-      "name": "Lamego Harvest Festival 2026 (Festas das Vindimas)",
-      "tag": "trips",
-      "date": "2026-09-11T18:00:00+01:00",
-      "location": "Largo da Sé, Lamego, Douro Valley (approx. 2hr drive from Porto)",
-      "price": "Free",
-      "description": "Three-day (Sept 11-13) grape-harvest festival in Lamego's Largo da Sé, running 18:00-22:00 nightly, with parades of harvest workers in traditional attire, folk music, a gastronomic fair of cured meats and Port/Douro wines, and the chance to join nearby quintas' hand-picking harvest.",
-      "url": "https://dourovinhateiro.com/en/evento/lamego-harvest-festival-2026",
-      "interest_rate": 62,
-      "interest_rate_reason": "Free evening harvest festival with folk music, parades and tastings in the Douro Valley — decent match to positive story 2's wine-region ideal and story 5's live music, tempered by self-directed rather than guided-tour format."
-    },
-    {
-      "id": "evt_2026_0911_noites-jardins-palacio-n1",
-      "name": "Noites dos Jardins do Palácio 2026 – Night 1 (Pedro Abrunhosa)",
-      "tag": "music",
-      "date": "2026-09-11T19:00:00+01:00",
-      "location": "Jardins do Palácio de Cristal, Porto",
-      "price": "€15/day or €25 general pass (both nights)",
-      "description": "Outdoor garden concert night at Jardins do Palácio de Cristal — Rita Rocha opens at 19:00, Tiago Nacarato at 21:00, and veteran Portuguese singer-songwriter Pedro Abrunhosa closes the night at 23:00. First night of the two-night 'Noites dos Jardins do Palácio 2026' festival, organized by PEV Entertainment with Porto City Council.",
-      "url": "https://www.ticketline.pt/evento/noites-dos-jardins-do-palacio-106235",
-      "interest_rate": 58,
-      "interest_rate_reason": "Multi-act outdoor garden concert with a veteran headliner at reasonable pricing — solid live-music match to positive story 5, tempered by open festival-style format rather than a small intimate venue."
-    },
-    {
-      "id": "evt_2026_0911_351-festival-urbano",
-      "name": "+351 Festival Urbano",
-      "tag": "music",
-      "date": "2026-09-11T19:00:00+01:00",
-      "location": "Hard Club (Sala 1), Praça do Infante D. Henrique, Porto",
-      "price": "€22–23.62/day (2-day pass also available)",
-      "description": "Inaugural two-day (Sept 11-12) urban culture festival at Hard Club celebrating Portuguese hip-hop — day one lineup includes Alcool Club, Lucas Garcez e Luster, PróprioSantos and DJ RichieP; day two brings Beware Jack, Guima, Roda Universo and DJ DREINDACLUB. M/16.",
-      "url": "https://www.ticketline.pt/evento/351-festival-urbano-106896",
-      "interest_rate": 55,
-      "interest_rate_reason": "Multi-artist live-music festival at a proper mid-size venue matches positive story 5, with moderate pricing avoiding negative story 5's rip-off risk; two-day club-festival scale caps intimacy."
-    },
-    {
-      "id": "evt_2026_0912_porto-pride-afterparty",
-      "name": "Porto Pride After Party",
-      "tag": "nightlife",
-      "date": "2026-09-12T01:00:00+01:00",
-      "location": "Pink Club, R. do Conde de Vizela 80, Porto",
-      "price": "Free (RSVP) / paid door options",
-      "description": "Official Porto Pride after-party at Pink Club — back-to-back DJ sets from Bruna Magalhães and Peter Castro plus performances by PAM, FSKO, LUNNA FOSTER and PEX; dance, funk and pop through the night.",
-      "url": "https://xceed.me/en/porto/event/porto-pride-after-party/240721",
-      "interest_rate": 30,
-      "interest_rate_reason": "Public dance/DJ after-party with free RSVP option gives mild fit with positive story 5 (music, no obligation to socialize), though club-night uncertainty (negative story 2) caps the score."
-    },
-    {
-      "id": "evt_2026_0912_karting-memo-champion-series",
-      "name": "MEMO Champion Series 2026 – Ronda 1 (Karting)",
-      "tag": "sports",
-      "date": "2026-09-12T10:00:00+01:00",
-      "location": "Kartódromo Cabo do Mundo, R. de Almeiriga Norte 2242, Perafita, Matosinhos",
-      "price": "Price not published (contact organizer)",
-      "description": "Amateur/semi-professional rental-kart sprint race at Kartódromo Cabo do Mundo, part of the 2026 MEMO Champion Series. Open to drivers of mixed skill levels using the venue's rental karts; exact race-day start time was still marked 'to be defined' by organizers at time of research.",
-      "url": "https://calendariokarting.pt/events/memo-champion-series-2026-event-1",
-      "interest_rate": 82,
-      "interest_rate_reason": "Rental-kart amateur race — direct match to positive story 3's proactive-adrenaline karting activity."
-    },
-    {
-      "id": "evt_2026_0912_booze-n-brains-brunch",
-      "name": "Booze 'n Brains Brunch – Back to School Edition",
-      "tag": "tournament",
-      "date": "2026-09-12T12:00:00+01:00",
-      "location": "LOOK.Sharp, Porto",
-      "price": "From €22.00",
-      "description": "One-off nostalgic trivia brunch at LOOK.Sharp café — a structured quiz format paired with brunch food and bottomless mimosas, running 12:00-15:00.",
-      "url": "https://www.look-sharp.net/events",
-      "interest_rate": 48,
-      "interest_rate_reason": "Structured trivia format with food/drinks resembles the organized-quiz-night pattern already captured, though the pricier daytime brunch framing keeps it below a full match to any single positive story."
-    },
-    {
-      "id": "evt_2026_0912_porto-pride-festival",
-      "name": "Porto Pride Festival",
-      "tag": "nightlife",
-      "date": "2026-09-12T15:00:00+01:00",
-      "location": "Largo Amor de Perdição (Cordoaria), Porto",
-      "price": "Free entry",
-      "description": "Free open-air festival day of Porto Pride 2026, running from 15:00 to 01:00 with live music, DJ sets and drag performances from over 20 confirmed artists; couples and mixed groups welcome, open to all.",
-      "url": "https://portopride.com/",
-      "interest_rate": 60,
-      "interest_rate_reason": "Free open-air festival with live music and performances — decent live-entertainment resonance (positive story 5), tempered by large open-crowd format."
-    },
-    {
-      "id": "evt_2026_0912_noites-jardins-palacio-n2",
-      "name": "Noites dos Jardins do Palácio 2026 – Night 2 (T-Rex / Bárbara Bandeira)",
-      "tag": "music",
-      "date": "2026-09-12T19:00:00+01:00",
-      "location": "Jardins do Palácio de Cristal, Porto",
-      "price": "€15/day or €25 general pass (both nights)",
-      "description": "Second night of 'Noites dos Jardins do Palácio 2026' at Jardins do Palácio de Cristal — Soraia Tavares opens at 19:00, Bárbara Bandeira at 21:00, and T-Rex closes the night at 23:00.",
-      "url": "https://www.ticketline.pt/evento/noites-dos-jardins-do-palacio-106235",
-      "interest_rate": 55,
-      "interest_rate_reason": "Multi-act outdoor garden concert night — decent live-music match to positive story 5, open festival setting caps intimacy similar to the preceding night."
-    },
-    {
-      "id": "evt_2026_0912_johnny-hooker",
-      "name": "Johnny Hooker – Hard Club",
-      "tag": "music",
-      "date": "2026-09-12T20:00:00+01:00",
-      "location": "Hard Club (Room 2), Praça do Infante D. Henrique, Porto",
-      "price": "Price not published",
-      "description": "Brazilian singer-songwriter Johnny Hooker brings his blend of samba, brega, frevo, guitarrada and axé with tropicália-inspired grooves to Hard Club's Room 2.",
-      "url": "https://www.hardclubporto.com/EN/evento/johnny-hooker-2026/",
-      "interest_rate": 62,
-      "interest_rate_reason": "Standing club concert by a touring Brazilian artist — solid live-gig match to positive story 5, mid-size room."
-    },
-    {
-      "id": "evt_2026_0913_douro-harvest-festival",
-      "name": "Festa das Vindimas do Douro (Douro Harvest Festival)",
-      "tag": "trips",
-      "date": "2026-09-13T10:00:00+01:00",
-      "location": "Peso da Régua, Douro Valley (approx. 1.5–2hr drive from Porto)",
-      "price": "Free festival entry; grape-treading and tastings priced separately per quinta",
-      "description": "Annual Douro Valley grape-harvest festival in Peso da Régua running Sept 13-15, 2026, with traditional grape-treading (pisa da uva) in granite lagares, Port and Douro wine tastings, river cruises, folk parades, and live music. Day-trip distance from Porto.",
-      "url": "https://winetravelguides.com/festivals/douro-harvest-festival",
-      "interest_rate": 78,
-      "interest_rate_reason": "Day-trip-distance wine-region harvest festival with tastings and cruises — strong match to positive story 2's guided/resting wine-region-tour ideal."
-    },
-    {
-      "id": "evt_2026_0913_sigur-ros",
-      "name": "Sigur Rós – The Orchestral Tour",
-      "tag": "music",
-      "date": "2026-09-13T21:00:00+01:00",
-      "location": "Coliseu Porto Ageas, Porto",
-      "price": "€40–€140 (sold out)",
-      "description": "Icelandic post-rock band Sigur Rós perform a seated orchestral show with Orquestra Sinfonietta de Lisboa and Coro Ricercare, covering ÁTTA and career highlights including Takk.... Officially sold out but a confirmed upcoming event.",
-      "url": "https://www.coliseu.pt/evento/20260913-sigur-ros-the-orchestral-tour",
-      "interest_rate": 68,
-      "interest_rate_reason": "Seated orchestral live show by an acclaimed act — strong passive live-music match to positive story 5, arena-scale rather than intimate."
-    },
-    {
-      "id": "evt_2026_0913_2zdinizz-patrono-tour",
-      "name": "2zdinizz – Patrono Tour",
-      "tag": "music",
-      "date": "2026-09-13T21:00:00+01:00",
-      "location": "Hard Club (Room 1), Praça do Infante D. Henrique, Porto",
-      "price": "Price not published",
-      "description": "Brazilian rapper 2zdinizz brings his \"Patrono Tour\" to Hard Club, delivering an intense, direct-connection live rap set marked by raw energy.",
-      "url": "https://www.hardclubporto.com/EN/evento/2zdinizz-patrono-tour-2026/",
-      "interest_rate": 58,
-      "interest_rate_reason": "Standing club rap show by a touring act — decent live-gig match to positive story 5, though less intimate than a small-venue ideal."
-    },
-    {
       "id": "evt_2026_0914_porto-ai-week",
       "name": "Porto AI Week 2026",
       "tag": "tech",
@@ -242,6 +62,18 @@
       "url": "https://www.look-sharp.net/events",
       "interest_rate": 42,
       "interest_rate_reason": "Guided small-group facilitated dinner conversation — mild match to positive story 2's no-decisions structure, matching the profile of the already-captured Meaningful Meal event."
+    },
+    {
+      "id": "evt_2026_0917_board-games-night-looksharp",
+      "name": "Board Games Night at LOOK.Sharp",
+      "tag": "tournament",
+      "date": "2026-09-17T18:00:00+01:00",
+      "location": "LOOK.Sharp Cafe, Porto",
+      "price": "€3.00",
+      "description": "Weekly board games night at LOOK.Sharp café in Porto, open to walk-ins for casual tabletop gaming; recurs every Thursday and Sunday.",
+      "url": "https://www.look-sharp.net/events",
+      "interest_rate": 55,
+      "interest_rate_reason": "Low-cost recurring board-games night, small-group and low-pressure — matches positive story 4's relaxed social-activity appeal, similar profile to already-captured quiz nights."
     },
     {
       "id": "evt_2026_0917_porto-expats-standup-open-mic",
@@ -302,6 +134,18 @@
       "url": "https://www.bloomfestival.pt/",
       "interest_rate": 52,
       "interest_rate_reason": "Multi-artist electronic music festival with a sunset-to-sunrise format — some live-music resonance with positive story 5, tempered by large festival scale and long overnight duration echoing negative story 2's overcrowding risk."
+    },
+    {
+      "id": "evt_2026_0918_porto-internationals-pubcrawl",
+      "name": "Porto Internationals Pub Crawl",
+      "tag": "nightlife",
+      "date": "2026-09-18T22:30:00+01:00",
+      "location": "The Box Porto, R. do Conde de Vizela 122, Porto",
+      "price": "Free",
+      "description": "Free three-stop pub crawl for expats and internationals hosted by Porto Internationals — starts at The Box Porto (22:30), continues to Fabrik Club (23:30) and Galeria Paris Bar (01:00), with free shots included at each stop. Registration via WhatsApp group.",
+      "url": "https://www.meetup.com/porto-internationals/",
+      "interest_rate": 35,
+      "interest_rate_reason": "Free, structured multi-stop pub crawl for expats — mild echo of positive story 4's low-pressure social appeal, tempered by negative story 3's unstructured-bar-night risk given informal WhatsApp-only registration."
     },
     {
       "id": "evt_2026_0919_terra-ser-exhibition",
@@ -376,6 +220,30 @@
       "interest_rate_reason": "Hands-on ceramics workshop making a functional piece with your own hands — strong match to positive story 4's craft-workshop, made-with-my-hands appeal."
     },
     {
+      "id": "evt_2026_0920_candlelight-abba-sep",
+      "name": "Candlelight: The Best of ABBA (September date)",
+      "tag": "music",
+      "date": "2026-09-20T18:30:00+01:00",
+      "location": "Hilton Porto Gaia, Rua de Serpa Pinto 124, Vila Nova de Gaia",
+      "price": "From €21.50",
+      "description": "Tribute string-ensemble performance of ABBA's greatest hits by candlelight in the Hilton Porto Gaia ballroom, part of the global Candlelight concert series. An earlier-in-the-run date than the already-captured October 11 performance of the same touring show.",
+      "url": "https://feverup.com/en/porto/candlelight",
+      "interest_rate": 35,
+      "interest_rate_reason": "Seated tribute concert, low social pressure, echoes positive story 5's live-show ease, but the global franchise/tribute format risks negative story 5's 'generic, could get anywhere' feel — consistent with the already-captured October ABBA date."
+    },
+    {
+      "id": "evt_2026_0920_candlelight-mj",
+      "name": "Candlelight: Tribute to Michael Jackson",
+      "tag": "music",
+      "date": "2026-09-20T20:30:00+01:00",
+      "location": "Hilton Porto Gaia, Rua de Serpa Pinto 124, Vila Nova de Gaia",
+      "price": "From €17.00",
+      "description": "Tribute string-ensemble performance of Michael Jackson's greatest hits by candlelight in the Hilton Porto Gaia ballroom, part of the global Candlelight concert series.",
+      "url": "https://feverup.com/en/porto/candlelight",
+      "interest_rate": 35,
+      "interest_rate_reason": "Seated tribute concert, low social pressure, echoes positive story 5's live-show ease, but the global franchise/tribute format risks negative story 5's 'generic, could get anywhere' feel."
+    },
+    {
       "id": "evt_2026_0920_marisa-monte",
       "name": "Marisa Monte & Orquestra – Phonica Tour",
       "tag": "music",
@@ -388,18 +256,6 @@
       "interest_rate_reason": "Seated symphonic concert by a major artist — solid live-music match to positive story 5, arena-scale rather than intimate."
     },
     {
-      "id": "evt_2026_0922_einar-solberg",
-      "name": "Einar Solberg — Solo Tour",
-      "tag": "music",
-      "date": "2026-09-22T19:30:00+01:00",
-      "location": "Sala M.Ou.Co (Mouco Hotel), R. de Frei Heitor Pinto 65, Porto",
-      "price": "€28.00–€29.96",
-      "description": "Leprous vocalist Einar Solberg brings his second solo album to an intimate show at Sala M.Ou.Co, part of a two-date Iberian mini-run.",
-      "url": "https://www.ticketline.pt/en/evento/einar-solberg-99297",
-      "interest_rate": 72,
-      "interest_rate_reason": "Intimate small-venue live gig at Sala M.Ou.Co — matches positive story 5 (small venue, good sound, no obligation to socialize)."
-    },
-    {
       "id": "evt_2026_0922_1b-solo-founder-ai-agents",
       "name": "The $1B Solo Founder: Build Your Startup With AI Agents",
       "tag": "business",
@@ -410,6 +266,18 @@
       "url": "https://scaleupporto.pt/event/the-1b-solo-founder-build-your-startup-with-ai-agents/",
       "interest_rate": 68,
       "interest_rate_reason": "Free hands-on AI-agent business-building workshop — strong match to positive story 1's AI-workshop and expertise-building focus."
+    },
+    {
+      "id": "evt_2026_0922_einar-solberg",
+      "name": "Einar Solberg — Solo Tour",
+      "tag": "music",
+      "date": "2026-09-22T19:30:00+01:00",
+      "location": "Sala M.Ou.Co (Mouco Hotel), R. de Frei Heitor Pinto 65, Porto",
+      "price": "€28.00–€29.96",
+      "description": "Leprous vocalist Einar Solberg brings his second solo album to an intimate show at Sala M.Ou.Co, part of a two-date Iberian mini-run.",
+      "url": "https://www.ticketline.pt/en/evento/einar-solberg-99297",
+      "interest_rate": 72,
+      "interest_rate_reason": "Intimate small-venue live gig at Sala M.Ou.Co — matches positive story 5 (small venue, good sound, no obligation to socialize)."
     },
     {
       "id": "evt_2026_0923_guimaraes-padel-open",
@@ -458,6 +326,18 @@
       "url": "https://scaleupporto.pt/event/porto-tech-connect-patterns-of-trust/",
       "interest_rate": 50,
       "interest_rate_reason": "Themed tech networking evening with a confirmed topic and low cost — moderate match to positive story 1, tempered by negative story 3's risk of an unstructured networking format given limited agenda detail."
+    },
+    {
+      "id": "evt_2026_0924_porto-future-tech-networking",
+      "name": "Porto Future Tech – Casual Networking",
+      "tag": "tech",
+      "date": "2026-09-24T19:00:00+01:00",
+      "location": "A Fábrica da Picaria, Rua da Picaria 72, Porto",
+      "price": "Free",
+      "description": "Bi-weekly casual networking meetup for tech workers in Porto to build their network, meet peers and discuss emerging tech trends, hosted by the Porto Future Tech meetup group.",
+      "url": "https://www.meetup.com/es-es/porto-future-tech/",
+      "interest_rate": 35,
+      "interest_rate_reason": "Casual, unstructured tech-worker networking meetup with no announced speakers or agenda — mild positive story 1 resonance capped by negative story 3's unstructured-networking risk."
     },
     {
       "id": "evt_2026_0924_speed-friending-looksharp",
@@ -1515,18 +1395,6 @@
       "interest_rate_reason": "Standing club metal show by touring international acts at an intimate small venue — solid live-gig match to positive story 5, consistent with similar Sala M.Ou.Co gigs already captured."
     },
     {
-      "id": "evt_2027_0213_as-tres-guitarras",
-      "name": "AS TRÊS GUITARRAS",
-      "tag": "music",
-      "date": "2027-02-13T21:30:00+00:00",
-      "location": "Casa da Música – Sala Suggia, Porto",
-      "price": "€25–€35 (+ service fee)",
-      "description": "Classical guitar recital at Casa da Música's Sala Suggia featuring three generations of Portuguese guitarists — Ângelo Freire, José Manuel Neto and Luís Guerreiro — in an intimate dialogue exploring the Portuguese guitar tradition. 70 minutes, no intermission.",
-      "url": "https://www.ticketline.pt/evento/as-tres-guitarras-106815",
-      "interest_rate": 65,
-      "interest_rate_reason": "Intimate acoustic guitar trio recital at a proper concert hall — good match to positive story 5 (quality sound, no need to socialize), though the seated/formal format is less club-gig energy."
-    },
-    {
       "id": "evt_2027_0211_mono-mouco",
       "name": "MONO (Japan) – Snowdrop Tour",
       "tag": "music",
@@ -1537,6 +1405,18 @@
       "url": "https://amplificasom.com/event/monosnowdrop/",
       "interest_rate": 75,
       "interest_rate_reason": "Small intimate venue live gig — strong match to positive story 5 (good sound, energy in the room, no obligation to socialize); tempered slightly since the show is already sold out."
+    },
+    {
+      "id": "evt_2027_0213_as-tres-guitarras",
+      "name": "AS TRÊS GUITARRAS",
+      "tag": "music",
+      "date": "2027-02-13T21:30:00+00:00",
+      "location": "Casa da Música – Sala Suggia, Porto",
+      "price": "€25–€35 (+ service fee)",
+      "description": "Classical guitar recital at Casa da Música's Sala Suggia featuring three generations of Portuguese guitarists — Ângelo Freire, José Manuel Neto and Luís Guerreiro — in an intimate dialogue exploring the Portuguese guitar tradition. 70 minutes, no intermission.",
+      "url": "https://www.ticketline.pt/evento/as-tres-guitarras-106815",
+      "interest_rate": 65,
+      "interest_rate_reason": "Intimate acoustic guitar trio recital at a proper concert hall — good match to positive story 5 (quality sound, no need to socialize), though the seated/formal format is less club-gig energy."
     },
     {
       "id": "evt_2027_0218_essencia-do-vinho",

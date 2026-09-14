@@ -14,6 +14,18 @@
   },
   "events": [
     {
+      "id": "evt_2026_0916_sis-e-congress",
+      "name": "SIS-E 2026 – Surgical Infection Society Europe Congress",
+      "tag": "science",
+      "date": "2026-09-16T09:00:00+01:00",
+      "location": "Knowledge Management Service, Matosinhos Local Health Unit, Matosinhos (Porto area)",
+      "price": "Price not published (professional registration; see sis-e.org)",
+      "description": "Three-day (Sept 16-18) European surgical infection society congress for surgeons and researchers, covering wound management, antibiotic prophylaxis and surgical-infection guideline updates, including a pre-congress 'SIS-E Olympics' session on day one. Exact daily start time not published by organizers at time of research.",
+      "url": "https://sis-e.org/2026/",
+      "interest_rate": 15,
+      "interest_rate_reason": "Highly specialized surgical/medical professional congress — no resonance with business-pitch, guided-tour, adrenaline, craft, or live-music story dimensions; narrow clinical audience similar to the already-shadowed APTH-ISTH workshop."
+    },
+    {
       "id": "evt_2026_0927_experimentar-pinturas-bebes",
       "name": "Experimentar Pinturas – Oficina Sensorial para Bebés",
       "tag": "art",
@@ -74,18 +86,6 @@
       "interest_rate_reason": "Family/child-oriented Christmas-ornament workshop (child+adult pricing) — mirrors already-shadowed family workshop pattern, weak match to positive story 4's personal adult craft experience."
     },
     {
-      "id": "evt_2027_0226_fantasporto-film-festival",
-      "name": "Fantasporto 2027 – 47th Porto International Film Festival",
-      "tag": "film",
-      "date": "2027-02-26T21:30:00+00:00",
-      "location": "Batalha Centro de Cinema, Praça da Batalha 47, Porto",
-      "price": "~€5 per session, full festival pass ~€70 (2026 pricing; 2027 prices not yet published)",
-      "description": "47th edition of Porto's international fantasy/horror/experimental film festival, running Feb 26 – Mar 7, 2027 at Batalha Centro de Cinema. Opening-night time follows the prior edition's pattern; full 2027 programme not yet published.",
-      "url": "https://fantasporto.com/en/",
-      "interest_rate": 22,
-      "interest_rate_reason": "Solo cinema-screening festival — doesn't match the guided-tour, business/pitch, adrenaline, craft, or live-music story dimensions; no negative flags either, so a low neutral baseline."
-    },
-    {
       "id": "evt_2027_0128_apth-isth-workshop",
       "name": "APTH–ISTH Workshop 2027 (Thrombosis & Haemostasis)",
       "tag": "science",
@@ -96,6 +96,18 @@
       "url": "https://apth.pt/apth-isth-workshop/",
       "interest_rate": 15,
       "interest_rate_reason": "Specialized clinical/laboratory medical workshop for hematology professionals — no resonance with business-pitch, guided-tour, adrenaline, craft, or live-music story dimensions; narrow professional audience."
+    },
+    {
+      "id": "evt_2027_0226_fantasporto-film-festival",
+      "name": "Fantasporto 2027 – 47th Porto International Film Festival",
+      "tag": "film",
+      "date": "2027-02-26T21:30:00+00:00",
+      "location": "Batalha Centro de Cinema, Praça da Batalha 47, Porto",
+      "price": "~€5 per session, full festival pass ~€70 (2026 pricing; 2027 prices not yet published)",
+      "description": "47th edition of Porto's international fantasy/horror/experimental film festival, running Feb 26 – Mar 7, 2027 at Batalha Centro de Cinema. Opening-night time follows the prior edition's pattern; full 2027 programme not yet published.",
+      "url": "https://fantasporto.com/en/",
+      "interest_rate": 22,
+      "interest_rate_reason": "Solo cinema-screening festival — doesn't match the guided-tour, business/pitch, adrenaline, craft, or live-music story dimensions; no negative flags either, so a low neutral baseline."
     }
   ]
 }
