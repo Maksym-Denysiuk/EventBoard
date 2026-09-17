@@ -14,18 +14,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_0916_sis-e-congress",
-      "name": "SIS-E 2026 – Surgical Infection Society Europe Congress",
-      "tag": "science",
-      "date": "2026-09-16T09:00:00+01:00",
-      "location": "Knowledge Management Service, Matosinhos Local Health Unit, Matosinhos (Porto area)",
-      "price": "Price not published (professional registration; see sis-e.org)",
-      "description": "Three-day (Sept 16-18) European surgical infection society congress for surgeons and researchers, covering wound management, antibiotic prophylaxis and surgical-infection guideline updates, including a pre-congress 'SIS-E Olympics' session on day one. Exact daily start time not published by organizers at time of research.",
-      "url": "https://sis-e.org/2026/",
-      "interest_rate": 15,
-      "interest_rate_reason": "Highly specialized surgical/medical professional congress — no resonance with business-pitch, guided-tour, adrenaline, craft, or live-music story dimensions; narrow clinical audience similar to the already-shadowed APTH-ISTH workshop."
-    },
-    {
       "id": "evt_2026_0927_experimentar-pinturas-bebes",
       "name": "Experimentar Pinturas – Oficina Sensorial para Bebés",
       "tag": "art",
