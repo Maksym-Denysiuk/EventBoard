@@ -16,54 +16,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_0914_porto-ai-week",
-      "name": "Porto AI Week 2026",
-      "tag": "tech",
-      "date": "2026-09-14T09:00:00+01:00",
-      "location": "Multiple venues city-wide, Porto",
-      "price": "Mixed free & paid (per-event pricing; see website)",
-      "description": "A decentralized, five-day city-wide AI festival (Sept 14-18) spanning 80+ independent events across 40+ venues — warehouses, galleries, studios and coworking spaces — organized around five tracks: Build, Growth, Create, Indie Hacking, and Human. Led by NomadX founder Gonçalo Hall in partnership with Porto City Hall and ANJE; anyone can host a session or offer venue space.",
-      "url": "https://portoaiweek.org/",
-      "interest_rate": 85,
-      "interest_rate_reason": "Multi-day city-wide AI festival with workshops and expertise-building tracks — very strong match to positive story 1's AI-workshop and business focus."
-    },
-    {
-      "id": "evt_2026_0914_claude-executives-ai",
-      "name": "Claude for Executives: Strategic Decision-Making with AI",
-      "tag": "business",
-      "date": "2026-09-14T09:30:00+01:00",
-      "location": "Rua do Teatro 193, Porto, Portugal (Upgraide AI)",
-      "price": "€450",
-      "description": "One-day hands-on workshop for leadership teams (max 12 participants) on using Claude for strategic business decisions — covers AI briefing techniques, workflow building, critical evaluation of AI output, and policy development. Hosted by Upgraide AI.",
-      "url": "https://allevents.in/porto/claude-for-executives-strategic-decision-making-with-ai/100001996835814675",
-      "interest_rate": 55,
-      "interest_rate_reason": "AI-focused workshop for business leadership on strategic decision-making matches positive story 1 (business/AI workshops); premium €450 price tempers the score per negative story 5."
-    },
-    {
-      "id": "evt_2026_0915_iam-tech-day-europa",
-      "name": "IAM Tech Day Europa 2026",
-      "tag": "tech",
-      "date": "2026-09-15T08:00:00+01:00",
-      "location": "Sheraton Porto Hotel & Spa, Rua do Tenente Valadim 146, Porto",
-      "price": "Paid (price not published; via Eventbrite)",
-      "description": "International digital identity and cybersecurity conference organized by OWLK Cyber Hub, running 8:00-19:00 and bringing together IAM and cybersecurity professionals for its Europa edition.",
-      "url": "https://www.eventbrite.pt/e/iam-tech-day-europa-2026-tickets-1992957439350",
-      "interest_rate": 60,
-      "interest_rate_reason": "Professional cybersecurity/IAM conference — solid but narrower match to positive story 1's business/tech expertise-building focus."
-    },
-    {
-      "id": "evt_2026_0916_real-womens-talk",
-      "name": "Real Women's Talk",
-      "tag": "community",
-      "date": "2026-09-16T19:30:00+01:00",
-      "location": "LOOK.Sharp Cafe, Porto",
-      "price": "€22.50",
-      "description": "Intimate facilitated dinner gathering for women at LOOK.Sharp café featuring honest conversation over a shared meal. Runs 19:30-21:30.",
-      "url": "https://www.look-sharp.net/events",
-      "interest_rate": 42,
-      "interest_rate_reason": "Guided small-group facilitated dinner conversation — mild match to positive story 2's no-decisions structure, matching the profile of the already-captured Meaningful Meal event."
-    },
-    {
       "id": "evt_2026_0917_board-games-night-looksharp",
       "name": "Board Games Night at LOOK.Sharp",
       "tag": "tournament",
@@ -124,6 +76,18 @@
       "interest_rate_reason": "Hands-on maker/robotics workshops and exhibits — blends positive story 1's tech interest with story 4's hands-on craft appeal."
     },
     {
+      "id": "evt_2026_0918_porto-social-language-exchange",
+      "name": "Porto Social and Language Exchange (Make New Friends)",
+      "tag": "community",
+      "date": "2026-09-18T18:00:00+01:00",
+      "location": "Bonaparte Downtown, P. de Guilherme Gomes Fernandes 40, Porto",
+      "price": "€3 (online only, no tickets at door)",
+      "description": "Weekly Friday-evening social and language-exchange mixer at Bonaparte Downtown, bringing together locals and internationals for multilingual conversation practice and casual socializing.",
+      "url": "https://www.eventbrite.com/e/porto-social-and-language-exchange-make-new-friends-tickets-1992611520698",
+      "interest_rate": 35,
+      "interest_rate_reason": "Low-cost weekly structured language-exchange social mixer — echoes the profile of similar already-captured structured social meetups (e.g. Speed Friending), avoiding pure negative story 3 unstructured-bar risk but with only mild resonance with the core story dimensions."
+    },
+    {
       "id": "evt_2026_0918_bloom-festival",
       "name": "Bloom Festival 2026",
       "tag": "music",
@@ -146,6 +110,18 @@
       "url": "https://www.meetup.com/porto-internationals/",
       "interest_rate": 35,
       "interest_rate_reason": "Free, structured multi-stop pub crawl for expats — mild echo of positive story 4's low-pressure social appeal, tempered by negative story 3's unstructured-bar-night risk given informal WhatsApp-only registration."
+    },
+    {
+      "id": "evt_2026_0919_founders-running-club",
+      "name": "Founders Running Club :: Porto",
+      "tag": "community",
+      "date": "2026-09-19T10:00:00+01:00",
+      "location": "Jardim do Morro Metro Station – Cais de Gaia, Vila Nova de Gaia",
+      "price": "Free",
+      "description": "Weekly Saturday-morning run-and-network meetup for founders, investors and startup enthusiasts in Porto, with a choice of pace groups; pets and friends welcome.",
+      "url": "https://www.meetup.com/founders-running-club-porto/",
+      "interest_rate": 32,
+      "interest_rate_reason": "Free, casual weekly run-and-network meetup for founders with no formal agenda — mild echo of the proactive-activity appeal in positive story 3, but the unstructured social format keeps it close to negative story 3's unstructured-networking pattern."
     },
     {
       "id": "evt_2026_0919_terra-ser-exhibition",
@@ -376,6 +352,18 @@
       "interest_rate_reason": "Hands-on weekend of pitching solutions and building a business with mentor guidance — strong match to positive story 1's expertise-building/pitching focus."
     },
     {
+      "id": "evt_2026_0926_galicia-day-trip",
+      "name": "Porto Day Trip to Galicia",
+      "tag": "trips",
+      "date": "2026-09-26T08:00:00+01:00",
+      "location": "Meeting point: Metro Casa da Música, Avenida de França, Porto",
+      "price": "€25–€33.50 (tiered pricing by booking date)",
+      "description": "Full-day guided group excursion to three Galician coastal towns — Combarro, Sanxenxo and Portonovo — organized by Porto Guibook Community, with a fixed morning departure from Porto. Reservation via WhatsApp.",
+      "url": "https://www.meetup.com/guibook-porto-community/",
+      "interest_rate": 72,
+      "interest_rate_reason": "Full-day guided group day trip to three Galician coastal towns with a fixed meeting point and set itinerary — strong match to positive story 2's guided, no-decisions-required structure."
+    },
+    {
       "id": "evt_2026_0926_sap-inside-track-porto",
       "name": "SAP Inside Track Porto 2026",
       "tag": "tech",
@@ -506,6 +494,18 @@
       "url": "https://www.batalhacentrodecinema.pt/en/programmes/cinema-ao-redor-batalha-quiz/",
       "interest_rate": 60,
       "interest_rate_reason": "Free, well-structured recurring pub quiz — organized low-key social/competitive format, low-risk and welcoming to newcomers."
+    },
+    {
+      "id": "evt_2026_0930_hangout55-startup-portugal",
+      "name": "Hangout #55 | 10 YEARS of Startup Portugal",
+      "tag": "business",
+      "date": "2026-09-30T17:30:00+01:00",
+      "location": "Edifício Transparente, Via do Castelo do Queijo 395, Porto",
+      "price": "Free",
+      "description": "Monthly Above & Beyond Hangout gathering for the Portuguese entrepreneurship ecosystem, this edition marking ten years of Startup Portugal with a retrospective on the programs, policies, communities and founders that shaped the decade, plus a look at future directions.",
+      "url": "https://scaleupporto.pt/event/hangout-55-tba/",
+      "interest_rate": 48,
+      "interest_rate_reason": "Free structured startup-ecosystem retrospective and networking evening — moderate match to positive story 1's business focus, though a celebratory look-back rather than a hands-on workshop or pitching session."
     },
     {
       "id": "evt_2026_0930_business-networking-social-hub-sep",
@@ -685,6 +685,18 @@
       "url": "https://www.atcpadelcup.com/",
       "interest_rate": 55,
       "interest_rate_reason": "Beginner-friendly amateur padel tournament — physical/competitive activity similar to positive story 3, moderate premium price tempers the score slightly."
+    },
+    {
+      "id": "evt_2026_1014_fabrica-2030-conference",
+      "name": "Conferência Fábrica 2030 – 10.º Aniversário",
+      "tag": "business",
+      "date": "2026-10-14T09:30:00+01:00",
+      "location": "Sede ANJE (Casa do Farol), Rua Paulo da Gama, Porto",
+      "price": "Price not published (see Eventbrite)",
+      "description": "Tenth-anniversary edition of ECO's Fábrica 2030 conference, bringing together companies, policymakers and economists to debate the future competitiveness of the Portuguese economy amid technological acceleration and the energy transition.",
+      "url": "https://www.eventbrite.pt/e/conferencia-fabrica-2030-10o-aniversario-tickets-1994550029831",
+      "interest_rate": 46,
+      "interest_rate_reason": "Half-day macro-economic conference on Portugal's industrial future with structured expert panels — mild-to-moderate match to positive story 1's trending-topic business interest, more policy-focused than hands-on practitioner skill-building."
     },
     {
       "id": "evt_2026_1014_linkedin-social-selling-masterclass",
@@ -925,6 +937,18 @@
       "url": "https://calendariokarting.pt/championships/memo-champion-series-2026",
       "interest_rate": 80,
       "interest_rate_reason": "Rental-kart amateur sprint round — direct match to positive story 3's proactive-adrenaline karting activity; unconfirmed venue/time is a minor negative-story-2 uncertainty risk."
+    },
+    {
+      "id": "evt_2026_1113_montalegre-friday13",
+      "name": "Friday the 13th in Montalegre",
+      "tag": "trips",
+      "date": "2026-11-13T18:30:00+00:00",
+      "location": "Meeting point: Metro Casa da Música, Avenida de França, Porto",
+      "price": "€15–€25 (€15 student rate, all dates)",
+      "description": "Guided evening excursion to the medieval town of Montalegre for its Friday-the-13th folklore celebration — street entertainment, witches, demons, music and performances around the historic centre — organized by Porto Guibook Community, with group transport departing Porto and returning around 3am. Reservation via WhatsApp.",
+      "url": "https://www.meetup.com/guibook-porto-community/",
+      "interest_rate": 62,
+      "interest_rate_reason": "Guided overnight excursion to a themed medieval folklore festival with fixed group transport — matches positive story 2's guided-trip structure and story 4's new-experience appeal, tempered by late-night logistics."
     },
     {
       "id": "evt_2026_1114_memo-karting-ronda3",
