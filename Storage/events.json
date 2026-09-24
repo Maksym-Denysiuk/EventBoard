@@ -16,66 +16,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_0922_1b-solo-founder-ai-agents",
-      "name": "The $1B Solo Founder: Build Your Startup With AI Agents",
-      "tag": "business",
-      "date": "2026-09-22T18:00:00+01:00",
-      "location": "Sitio Campo Alegre, Rua do Campo Alegre 774, Porto",
-      "price": "Free",
-      "description": "Hands-on workshop on building a team of AI agents to automate sales, marketing, research and operations tasks and start generating startup revenue, hosted at Sitio Campo Alegre coworking. Exact start time not published (listed as an all-day slot); evening hour assumed based on comparable founder meetups.",
-      "url": "https://scaleupporto.pt/event/the-1b-solo-founder-build-your-startup-with-ai-agents/",
-      "interest_rate": 68,
-      "interest_rate_reason": "Free hands-on AI-agent business-building workshop — strong match to positive story 1's AI-workshop and expertise-building focus."
-    },
-    {
-      "id": "evt_2026_0922_einar-solberg",
-      "name": "Einar Solberg — Solo Tour",
-      "tag": "music",
-      "date": "2026-09-22T19:30:00+01:00",
-      "location": "Sala M.Ou.Co (Mouco Hotel), R. de Frei Heitor Pinto 65, Porto",
-      "price": "€28.00–€29.96",
-      "description": "Leprous vocalist Einar Solberg brings his second solo album to an intimate show at Sala M.Ou.Co, part of a two-date Iberian mini-run.",
-      "url": "https://www.ticketline.pt/en/evento/einar-solberg-99297",
-      "interest_rate": 72,
-      "interest_rate_reason": "Intimate small-venue live gig at Sala M.Ou.Co — matches positive story 5 (small venue, good sound, no obligation to socialize)."
-    },
-    {
-      "id": "evt_2026_0923_guimaraes-padel-open",
-      "name": "Guimarães Padel Open (FPP 2.000)",
-      "tag": "tournament",
-      "date": "2026-09-23T09:00:00+01:00",
-      "location": "Top-Padel Guimarães, Guimarães",
-      "price": "Price not published (FPP amateur category)",
-      "description": "Three-day amateur padel tournament (23-25 September) in the Portuguese Padel Federation's FPP 2.000 ranking category, hosted at Top-Padel Guimarães. Open to federation-registered players of amateur/entry level.",
-      "url": "https://www.top-padel.pt/eventos/",
-      "interest_rate": 55,
-      "interest_rate_reason": "Amateur-tier padel tournament — physical/competitive resonance similar to positive story 3's adrenaline activities, though structured competition rather than pure thrill."
-    },
-    {
-      "id": "evt_2026_0923_owasp-appsec-days-portugal",
-      "name": "OWASP AppSec Days Portugal 2026",
-      "tag": "tech",
-      "date": "2026-09-23T14:00:00+01:00",
-      "location": "Fundação António Cupertino de Miranda, Avenida da Boavista 4245, Porto",
-      "price": "Paid (price not published; early bird via Eventbrite)",
-      "description": "Two-day application security conference gathering 400+ security professionals, developers and architects for keynotes, hands-on workshops and a Capture the Flag competition.",
-      "url": "https://appsecdays.pt/",
-      "interest_rate": 62,
-      "interest_rate_reason": "Security conference with a hands-on CTF competition — decent match to positive story 1's tech/expertise-building focus."
-    },
-    {
-      "id": "evt_2026_0923_meaningful-meal-melissa",
-      "name": "Meaningful Meal with Melissa",
-      "tag": "community",
-      "date": "2026-09-23T19:30:00+01:00",
-      "location": "LOOK.Sharp, Porto",
-      "price": "€22.50",
-      "description": "Guided conversation-and-dinner experience at LOOK.Sharp café, facilitated by a transformational coach, including a full meal and drink, running 19:30-22:00.",
-      "url": "https://www.look-sharp.net/events",
-      "interest_rate": 45,
-      "interest_rate_reason": "Guided small-group conversation dinner led by a facilitator — mild match to positive story 2's no-decisions-needed structure, though not a craft/physical activity."
-    },
-    {
       "id": "evt_2026_0924_porto-tech-connect-trust",
       "name": "Porto Tech Connect: Patterns of Trust",
       "tag": "tech",
@@ -1321,6 +1261,126 @@
       "url": "https://www.covest.events/",
       "interest_rate": 45,
       "interest_rate_reason": "Structured business/investment forum with built-in curated networking sessions echoes positive story 1's business focus, but the application-only screening, unpublished pricing and dealmaking-over-skill-building emphasis add uncertainty and temper the match."
+    },
+    {
+      "id": "evt_2026_0925_khaos-summer-closing",
+      "name": "khaos – Summer Closing",
+      "tag": "nightlife",
+      "date": "2026-09-25T23:59:00+01:00",
+      "location": "Hard Club (Room 2), Praça do Infante D. Henrique, Porto",
+      "price": "Price not published on official page (aggregators list ~€10)",
+      "description": "Hard-techno club night marking the 'Summer Closing' of the season at Hard Club's Room 2, part of the venue's late-night electronic-music programming.",
+      "url": "https://www.hardclubporto.com/EN/evento/khaos-summer-closing-2026/",
+      "interest_rate": 33,
+      "interest_rate_reason": "Generic hard-techno club closing party with unconfirmed pricing and minimal distinguishing detail — some live-DJ resonance with positive story 5, tempered by negative story 5's uncertain-value/generic risk given the thin promotion."
+    },
+    {
+      "id": "evt_2026_0926_founders-running-club",
+      "name": "Founders Running Club :: Porto",
+      "tag": "community",
+      "date": "2026-09-26T10:00:00+01:00",
+      "location": "Jardim do Morro (Metro Cais de Gaia), Vila Nova de Gaia",
+      "price": "Free",
+      "description": "Weekly Saturday-morning 5K community run for founders, investors, and tech/creative people, finishing with coffee and casual conversation; any pace welcome, plus friends, family and pets. Part of the international Founders Running Club network.",
+      "url": "https://www.meetup.com/founders-running-club-porto/",
+      "interest_rate": 42,
+      "interest_rate_reason": "Free, structured weekly meetup pairing light group exercise with informal founder networking — mild resonance with positive story 1's expertise-adjacent networking and story 3's proactive-activity appeal, though low-intensity compared to true adrenaline activities."
+    },
+    {
+      "id": "evt_2026_0926_cities-aviv-hardclub",
+      "name": "Cities Aviv — Porto",
+      "tag": "music",
+      "date": "2026-09-26T21:00:00+01:00",
+      "location": "Hard Club (Room 2), Praça do Infante D. Henrique, Porto",
+      "price": "€20.00",
+      "description": "American experimental hip-hop/rap artist Cities Aviv plays a standing club show in Hard Club's Room 2.",
+      "url": "https://www.songkick.com/concerts/43377687-cities-aviv-at-hard-club",
+      "interest_rate": 62,
+      "interest_rate_reason": "Standing club show by a touring experimental hip-hop artist at an intimate club room — solid match to positive story 5's live-gig appeal, similar to comparable Hard Club shows already captured."
+    },
+    {
+      "id": "evt_2026_1006_hustle-entrepreneur-networking",
+      "name": "HUSTLE Porto Entrepreneur Networking Event",
+      "tag": "business",
+      "date": "2026-10-06T17:00:00+01:00",
+      "location": "The Social Hub Restaurant & Bar Porto, Praça de Dom João I 80, Porto",
+      "price": "Free entry; one full-priced drink expected",
+      "description": "High-energy, 'structured mingling' networking evening for founders, entrepreneurs, investors and freelancers at The Social Hub, part of the multi-city HUSTLE Entrepreneur Networking series; smart-casual dress and business cards encouraged. Runs 17:00-20:00.",
+      "url": "https://innovationscene.pt/porto/events/5z1rj/",
+      "interest_rate": 38,
+      "interest_rate_reason": "The 'structured mingling' framing gives mild positive story 1 resonance, but the generic bar-based multi-city networking format and buy-a-drink expectation echo negative story 3's unstructured-networking risk."
+    },
+    {
+      "id": "evt_2026_1008_pm-lean-coffee-english",
+      "name": "PM Lean Coffee 2026 10 08 (English Version)",
+      "tag": "business",
+      "date": "2026-10-08T18:30:00+01:00",
+      "location": "Vestas Technology Centre Porto, R. Lionesa, Edifício B, Leça do Balio",
+      "price": "Free (PMI Portugal community meetup)",
+      "description": "English-language edition of PMI Portugal's recurring Lean Coffee meetup for product/project managers — attendees suggest and vote on discussion topics, then talk through the top-voted ones in a structured, agenda-free format.",
+      "url": "https://innovationscene.pt/porto/events/5z1rs/",
+      "interest_rate": 58,
+      "interest_rate_reason": "Structured, topic-voted discussion format for product/project managers — matches positive story 1's management-focused conversation and expertise-building appeal, avoiding negative story 3's unstructured-networking risk via its clear Lean Coffee format."
+    },
+    {
+      "id": "evt_2026_1009_crime-e-castigo-teca",
+      "name": "Crime e Castigo — Karyatides (FIMP)",
+      "tag": "performance",
+      "date": "2026-10-09T21:00:00+01:00",
+      "location": "Teatro Carlos Alberto, Rua das Oliveiras 43, Porto",
+      "price": "€12",
+      "description": "Belgian company Karyatides brings an object-theatre adaptation of Dostoevsky's Crime and Punishment — rhythm, music and dark humor in a 75-minute show — as part of the FIMP international puppet/object-theatre festival at Teatro Nacional São João's Carlos Alberto stage. Ages 16+.",
+      "url": "https://www.bol.pt/Comprar/Bilhetes/182988-o_fimp_no_tnsj_2026_crime_e_castigo-teatro_carlos_alberto/",
+      "interest_rate": 58,
+      "interest_rate_reason": "Acclaimed international object-theatre performance in an intimate venue — matches positive story 5's small-venue live-show appeal and story 2's no-decisions, just-show-up structure."
+    },
+    {
+      "id": "evt_2026_1010_bitcommit-2026",
+      "name": "BitCommit 2026 — The Developer & Infrastructure Conference",
+      "tag": "tech",
+      "date": "2026-10-10T14:30:00+01:00",
+      "location": "Founders Founders, Rua de Godim 389, Porto",
+      "price": "Price not published (tickets via Eventbrite)",
+      "description": "Developer and infrastructure mini-conference organized by AlumniEI (Association of Alumni of Computer Engineering at FEUP), centering on AI's human impact on employability, mental health and learning through a keynote, round-table discussion, project-showcase networking and a closing dinner.",
+      "url": "https://bitcommit.alumniei.pt",
+      "interest_rate": 65,
+      "interest_rate_reason": "Structured AI-focused mini-conference with keynote, round table and networking dinner — strong match to positive story 1's AI-workshop, trending-topic emphasis."
+    },
+    {
+      "id": "evt_2026_1010_klaipeda-transport-fimp",
+      "name": "Klaipėda Puppet Theatre — Transport: Fasten Your Seat Belts!",
+      "tag": "performance",
+      "date": "2026-10-10T21:00:00+01:00",
+      "location": "Teatro Campo Alegre, Rua das Estrelas, Porto",
+      "price": "€9",
+      "description": "Lithuanian company Klaipėda Puppet Theatre presents a satirical 40-minute puppet show examining space exploration and planetary responsibility from above, performed in English with Portuguese subtitles, as part of Porto's FIMP international puppet festival.",
+      "url": "https://tmp.bol.pt/Comprar/Bilhetes/182377-fimp_2026_klaipeda_puppet_theatre_transport_fasten_your_seat_belts-tmp_campo_alegre/",
+      "interest_rate": 55,
+      "interest_rate_reason": "Short, novel English-language puppet/object-theatre satire at an intimate venue — matches positive story 5's small-venue live-show appeal and story 4's new-experience appeal."
+    },
+    {
+      "id": "evt_2026_1017_pmi-intelligence-conference",
+      "name": "Intelligence — PMI Portugal Annual Conference 2026",
+      "tag": "business",
+      "date": "2026-10-17T09:00:00+01:00",
+      "location": "Porto Business School, Av. Fabril do Norte 425, Senhora da Hora, Matosinhos",
+      "price": "Price not published (see Eventbrite)",
+      "description": "PMI Portugal's two-day annual conference themed 'Intelligence' (Oct 17-18), bringing recognized speakers to explore intelligence across team dynamics, data, product, communication, sustainability and project-management practice.",
+      "url": "https://www.eventbrite.pt/e/intelligence-tickets-1981606254651",
+      "interest_rate": 60,
+      "interest_rate_reason": "Two-day structured professional conference with expert speakers on management, data and leadership dimensions — strong match to positive story 1's business-understanding and expertise-building focus."
+    },
+    {
+      "id": "evt_2026_1031_freak-show-halloween-quinta",
+      "name": "THE FREAK SHOW — Halloween at Quinta Santo António",
+      "tag": "nightlife",
+      "date": "2026-10-31T23:59:00+00:00",
+      "location": "Quinta Santo António, Rua Actor Ferreira da Silva, Porto",
+      "price": "Price not published (tickets limited; see Xceed)",
+      "description": "Immersive Halloween celebration at Quinta Santo António featuring a themed tent, entertainers and characters, music and activities designed as an engaging experience from start to finish.",
+      "url": "https://xceed.me/pt/porto/event/the-freak-show-1/245654",
+      "interest_rate": 42,
+      "interest_rate_reason": "Immersive, one-off themed Halloween experience echoes positive story 4's new-experience appeal, tempered by negative story 5's risk given unpublished pricing and generic 'entertainers and characters' framing."
     }
   ]
 }
