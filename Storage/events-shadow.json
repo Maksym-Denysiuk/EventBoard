@@ -38,6 +38,18 @@
       "interest_rate_reason": "Family/child-oriented Carnival mask-making workshop (child+adult pricing) — mirrors the already-shadowed infant-painting precedent, minimal personal-adult craft fit for positive story 4."
     },
     {
+      "id": "evt_2026_1023_smart-comms-summit",
+      "name": "Smart Comms Summit",
+      "tag": "business",
+      "date": "2026-10-23T14:00:00+01:00",
+      "location": "Porto Innovation Hub, Largo do Dr. Tito Fontes 15, 4000-538 Porto",
+      "price": "Free",
+      "description": "FES Agency afternoon of working conversations for communications/marketing professionals on AI, decision-making and crisis management, ending with networking and cocktails. Conducted in Portuguese; limited spots, access by invitation.",
+      "url": "https://luma.com/0bov0eyx",
+      "interest_rate": 14,
+      "interest_rate_reason": "Portuguese-only and invitation-restricted (negative story 4); marketing-comms focus is only loosely related to positive story 1."
+    },
+    {
       "id": "evt_2026_1119_porto-post-doc-2026",
       "name": "Porto/Post/Doc 2026 – Film & Media Festival (13th edition)",
       "tag": "film",
