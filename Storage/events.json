@@ -16,18 +16,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_1006_hustle-entrepreneur-networking",
-      "name": "HUSTLE Porto Entrepreneur Networking Event",
-      "tag": "business",
-      "date": "2026-10-06T17:00:00+01:00",
-      "location": "The Social Hub Restaurant & Bar Porto, Praça de Dom João I 80, Porto",
-      "price": "Free entry; one full-priced drink expected",
-      "description": "High-energy, 'structured mingling' networking evening for founders, entrepreneurs, investors and freelancers at The Social Hub, part of the multi-city HUSTLE Entrepreneur Networking series; smart-casual dress and business cards encouraged. Runs 17:00-20:00.",
-      "url": "https://innovationscene.pt/porto/events/5z1rj/",
-      "interest_rate": 38,
-      "interest_rate_reason": "The 'structured mingling' framing gives mild positive story 1 resonance, but the generic bar-based multi-city networking format and buy-a-drink expectation echo negative story 3's unstructured-networking risk."
-    },
-    {
       "id": "evt_2026_1008_pm-lean-coffee-english",
       "name": "PM Lean Coffee 2026 10 08 (English Version)",
       "tag": "business",
@@ -158,6 +146,18 @@
       "url": "https://www.eventbrite.co.uk/e/win-clients-on-linkedin-social-selling-masterclass-porto-tickets-1995904555253",
       "interest_rate": 60,
       "interest_rate_reason": "Hands-on workshop on selling your own expertise/pitching via LinkedIn — matches positive story 1's business-skill-building theme."
+    },
+    {
+      "id": "evt_2026_1015_the-collider-ai-models",
+      "name": "The Collider: Open Source, Closed Source, Open Weights And System One Models",
+      "tag": "tech",
+      "date": "2026-10-15T18:30:00+01:00",
+      "location": "Vertical Coworking Dom Henrique, R. do Bolhão 221 B, 4000-111 Porto",
+      "price": "Free",
+      "description": "Evening roundtable by API Portugal on choosing between open-source, closed-source and open-weight AI models, covering infrastructure, cost, control and reliability. Speakers from LayerX and FanDuel plus a moderated discussion; registration via Luma, ~25 attendees so far. In English per listing.",
+      "url": "https://luma.com/qlvrf8sl",
+      "interest_rate": 58,
+      "interest_rate_reason": "Structured AI-trends session with speakers and builders/founders, free and small — matches positive story 1; avoids negative story 3 (has speakers/agenda)."
     },
     {
       "id": "evt_2026_1015_stand-up-open-mic",
@@ -914,6 +914,18 @@
       "url": "https://www.coliseu.pt/evento/20270129-ricardo-ribeiro",
       "interest_rate": 63,
       "interest_rate_reason": "Seated fado concert by an established artist presenting new material at a proper venue — matches positive story 5's live-gig appeal, mid-size venue keeps it short of the intimate small-venue ideal."
+    },
+    {
+      "id": "evt_2027_0130_comedy-experience-rachman-blake",
+      "name": "Comedy Experience Porto with Rachman Blake",
+      "tag": "performance",
+      "date": "2027-01-30T20:00:00+00:00",
+      "location": "Estúdio Latino (Teatro Sá da Bandeira), R. de Sá da Bandeira 108, 4000-427 Porto",
+      "price": "Not listed on event page — see ticket page",
+      "description": "English-language stand-up show by California comedian Rachman Blake (performed in 65+ countries), 16+, 8–10 PM. Sales are final; vouchers available for future events.",
+      "url": "https://www.tickettailor.com/events/comedyexperience/2256084",
+      "interest_rate": 42,
+      "interest_rate_reason": "English-language seated show, no decisions or talking required — partial match to positive stories 2/5; price unverified so mild caution (negative story 5)."
     },
     {
       "id": "evt_2027_0130_tiago-nacarato",
