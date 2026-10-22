@@ -16,54 +16,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_1016_collabdays-portugal-porto",
-      "name": "CollabDays Portugal 2026 – Porto Edition",
-      "tag": "tech",
-      "date": "2026-10-16T09:00:00+01:00",
-      "location": "ANJE, Porto",
-      "price": "Free",
-      "description": "Free, one-day non-profit community conference on Microsoft 365, Azure, Copilot, AI and Power Platform, featuring sessions from industry leaders and Microsoft MVPs.",
-      "url": "https://www.collabdays.org/2026-portugal/",
-      "interest_rate": 65,
-      "interest_rate_reason": "Free, structured tech community conference with AI/Power Platform sessions — decent match to positive story 1, more enterprise-IT-focused than pure AI strategy."
-    },
-    {
-      "id": "evt_2026_1017_pmi-intelligence-conference",
-      "name": "Intelligence — PMI Portugal Annual Conference 2026",
-      "tag": "business",
-      "date": "2026-10-17T09:00:00+01:00",
-      "location": "Porto Business School, Av. Fabril do Norte 425, Senhora da Hora, Matosinhos",
-      "price": "Price not published (see Eventbrite)",
-      "description": "PMI Portugal's two-day annual conference themed 'Intelligence' (Oct 17-18), bringing recognized speakers to explore intelligence across team dynamics, data, product, communication, sustainability and project-management practice.",
-      "url": "https://www.eventbrite.pt/e/intelligence-tickets-1981606254651",
-      "interest_rate": 60,
-      "interest_rate_reason": "Two-day structured professional conference with expert speakers on management, data and leadership dimensions — strong match to positive story 1's business-understanding and expertise-building focus."
-    },
-    {
-      "id": "evt_2026_1017_wise-pirates-karting-prova8",
-      "name": "Wise Pirates Karting Series 2025/26 – Prova 8",
-      "tag": "sports",
-      "date": "2026-10-17T10:00:00+01:00",
-      "location": "Kartódromo de Baltar, Av. de São Silvestre 760, Baltar (~25km from Porto)",
-      "price": "Price not published (contact organizer)",
-      "description": "Round 8 of the amateur Wise Pirates Karting Series, a rental-kart sprint championship open to mixed-skill drivers, held at the 1020m outdoor Baltar circuit. Exact start time was still marked \"to be defined\" by organizers at time of research.",
-      "url": "https://calendariokarting.pt/events/wise-pirates-karting-series-2025-26-event-8",
-      "interest_rate": 82,
-      "interest_rate_reason": "Amateur rental-kart sprint round — direct match to positive story 3's proactive-adrenaline karting activity."
-    },
-    {
-      "id": "evt_2026_1020_lemon-twigs",
-      "name": "The Lemon Twigs – Look For Your Mind Tour",
-      "tag": "music",
-      "date": "2026-10-20T21:00:00+01:00",
-      "location": "Hard Club, Porto",
-      "price": "General admission via Fever (exact price not published)",
-      "description": "The D'Addario brothers bring their glam/power-pop sound to Porto presenting their sixth album, Look For Your Mind. Standing club show, doors 20:30, under-16s admitted with a guardian.",
-      "url": "https://feverup.com/m/620330/en",
-      "interest_rate": 65,
-      "interest_rate_reason": "Standing club concert by a touring band — solid live-gig match to positive story 5."
-    },
-    {
       "id": "evt_2026_1022_semibreve-festival",
       "name": "Semibreve Festival 2026",
       "tag": "music",
@@ -448,6 +400,18 @@
       "interest_rate_reason": "Low-cost, structured stand-up show in an intimate theatre space with a passive audience role — matches positive story 5's live small-venue enjoyment."
     },
     {
+      "id": "evt_2026_1123_rodrigo-leao-alma-mater",
+      "name": "Rodrigo Leão – Alma Mater (Misty Fest)",
+      "tag": "music",
+      "date": "2026-11-23T21:00:00+00:00",
+      "location": "Casa da Música (Sala Suggia), Av. da Boavista 604-610, Porto",
+      "price": "€25–€40",
+      "description": "Rodrigo Leão revisits his 2000 album Alma Mater for its 26th anniversary, with an ensemble, choir and special guests, in Casa da Música's seated main hall.",
+      "url": "https://www.rodrigoleao.pt/en/rodrigo-leao-revisita-alma-mater-no-misty-fest-2026/",
+      "interest_rate": 58,
+      "interest_rate_reason": "Seated concert, good sound, no social pressure — matches positive story 5, though a large hall rather than small venue."
+    },
+    {
       "id": "evt_2026_1124_batalha-quiz-nov",
       "name": "Batalha Quiz",
       "tag": "tournament",
@@ -458,6 +422,18 @@
       "url": "https://www.batalhacentrodecinema.pt/en/programmes/cinema-ao-redor-batalha-quiz/",
       "interest_rate": 60,
       "interest_rate_reason": "Free, well-structured recurring pub quiz — organized low-key social/competitive format, low-risk and welcoming to newcomers."
+    },
+    {
+      "id": "evt_2026_1124_rodrigo-leao-alma-mater",
+      "name": "Rodrigo Leão – Alma Mater (Misty Fest)",
+      "tag": "music",
+      "date": "2026-11-24T21:00:00+00:00",
+      "location": "Casa da Música (Sala Suggia), Av. da Boavista 604-610, Porto",
+      "price": "€25–€40",
+      "description": "Rodrigo Leão revisits his 2000 album Alma Mater for its 26th anniversary, with an ensemble, choir and special guests, in Casa da Música's seated main hall.",
+      "url": "https://www.rodrigoleao.pt/en/rodrigo-leao-revisita-alma-mater-no-misty-fest-2026/",
+      "interest_rate": 58,
+      "interest_rate_reason": "Seated concert, good sound, no social pressure — matches positive story 5, though a large hall rather than small venue."
     },
     {
       "id": "evt_2026_1126_victor-patrascan-comedy",
