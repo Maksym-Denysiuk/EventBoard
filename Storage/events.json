@@ -16,30 +16,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_1022_semibreve-festival",
-      "name": "Semibreve Festival 2026",
-      "tag": "music",
-      "date": "2026-10-22T20:00:00+01:00",
-      "location": "Theatro Circo & gnration, Av. da Liberdade 697, Braga",
-      "price": "Day ticket €10-18; festival pass €50-60",
-      "description": "16th edition of Semibreve, a four-day (Oct 22-25) electronic music and digital art festival in Braga, pairing sets from artists including Azu Tiwaline, Fennesz & Oscar Jockel and TYGAPAW with visual-art installations, talks and cinema programming across Theatro Circo and gnration.",
-      "url": "https://theatrocirco.com/en/event/semibreve-festival/",
-      "interest_rate": 62,
-      "interest_rate_reason": "Curated electronic-music/digital-art festival at proper venues (not an arena) — decent live-music match to positive story 5, reinforced by story 4's creative-experience appeal; multi-day, multi-artist scale caps intimacy."
-    },
-    {
-      "id": "evt_2026_1025_miguel-araujo",
-      "name": "Carta Branca a Miguel Araújo (Promenade 2026)",
-      "tag": "music",
-      "date": "2026-10-25T11:00:00+00:00",
-      "location": "Coliseu Porto Ageas, Porto",
-      "price": "€8–€14 general seating (camarotes €72)",
-      "description": "Portuguese singer-songwriter Miguel Araújo curates a seated morning concert with the Orquestra Clássica de Espinho, mixing his own songs with his favourite classical pieces. Part of the Coliseu's family-friendly Promenade 2026 series.",
-      "url": "https://www.coliseu.pt/evento/20261025-promenade-2026-carta-branca-a-miguel-araujo",
-      "interest_rate": 58,
-      "interest_rate_reason": "Seated orchestral-collaboration concert — calm passive live-music match to positive story 5/2, family-oriented morning format."
-    },
-    {
       "id": "evt_2026_1027_open-mckart-round6",
       "name": "Open McKart 2026 – 6ª Ronda",
       "tag": "sports",
@@ -244,6 +220,18 @@
       "interest_rate_reason": "Rental-kart amateur sprint round — direct match to positive story 3's proactive-adrenaline karting activity; unconfirmed venue/time is a minor negative-story-2 uncertainty risk."
     },
     {
+      "id": "evt_2026_1112_toninho-horta-guimaraes-jazz",
+      "name": "Toninho Horta Quartet w/ Guimarães Orchestra – Guimarães Jazz 2026 (opening)",
+      "tag": "music",
+      "date": "2026-11-12T21:30:00+00:00",
+      "location": "Grand Auditorium Francisca Abreu, Centro Cultural Vila Flor, Av. D. Afonso Henriques 701, Guimarães (~50km from Porto)",
+      "price": "€20 (€15 discounted)",
+      "description": "Opening concert of the 35th Guimarães Jazz: Brazilian guitarist-composer Toninho Horta leads a quartet joined by the Guimarães Orchestra in a seated concert hall setting. Primary language: instrumental.",
+      "url": "https://www.ccvf.pt/en/detail-eventos/20261112-guimaraes-jazz-2026-toninho-horta-quarteto-c-orquestra-de-guimaraes/",
+      "interest_rate": 64,
+      "interest_rate_reason": "Seated live music at a proper hall at a fair €20, nothing to organise or talk through — matches positive stories 4/5; ~50km out, slight effort penalty."
+    },
+    {
       "id": "evt_2026_1113_montalegre-friday13",
       "name": "Friday the 13th in Montalegre",
       "tag": "trips",
@@ -364,6 +352,18 @@
       "interest_rate_reason": "Large DevOps/cloud-native conference — solid tech expertise-building match to positive story 1, infra-focused rather than business/AI-strategy."
     },
     {
+      "id": "evt_2026_1119_kurt-rosenwinkel-guimaraes-jazz",
+      "name": "Kurt Rosenwinkel Quintet – Guimarães Jazz 2026",
+      "tag": "music",
+      "date": "2026-11-19T21:30:00+00:00",
+      "location": "Grand Auditorium Francisca Abreu, Centro Cultural Vila Flor, Av. D. Afonso Henriques 701, Guimarães (~50km from Porto)",
+      "price": "€20 (€15 discounted)",
+      "description": "Kurt Rosenwinkel's first Guimarães Jazz appearance and first time leading a quintet, revisiting the live album The Remedy (Village Vanguard, 2006) with Aaron Goldberg, Joe Martin, Seamus Blake and Kendrick Scott. Primary language: instrumental.",
+      "url": "https://www.ccvf.pt/en/detail-eventos/20261119-guimaraes-jazz-kurt-rosenwinkel-quinteto/",
+      "interest_rate": 66,
+      "interest_rate_reason": "Top-tier live gig with great sound, no obligation to socialise, fair price — matches positive story 5; day-trip distance trims it."
+    },
+    {
       "id": "evt_2026_1121_park-jiha-gnration",
       "name": "Park Jiha — \"All Living Things\"",
       "tag": "music",
@@ -398,6 +398,18 @@
       "url": "http://www.ticketline.pt/en/evento/porto-comedy-night-89655",
       "interest_rate": 50,
       "interest_rate_reason": "Low-cost, structured stand-up show in an intimate theatre space with a passive audience role — matches positive story 5's live small-venue enjoyment."
+    },
+    {
+      "id": "evt_2026_1121_kurt-elling-guimaraes-jazz",
+      "name": "Macedonian National Jazz Orchestra feat. Kurt Elling – Guimarães Jazz 2026 (closing)",
+      "tag": "music",
+      "date": "2026-11-21T21:30:00+00:00",
+      "location": "Grand Auditorium Francisca Abreu, Centro Cultural Vila Flor, Av. D. Afonso Henriques 701, Guimarães (~50km from Porto)",
+      "price": "€20 (€15 discounted)",
+      "description": "Closing concert of the 35th Guimarães Jazz: Chicago vocalist Kurt Elling with the new National Jazz Orchestra of North Macedonia, conducted by Dzijan Emin, performing jazz standards. Primary language: English vocals.",
+      "url": "https://www.ccvf.pt/en/detail-eventos/20261121-guimaraes-jazz-macedonian-national-jazz-orchestra-feat-kurt-elling/",
+      "interest_rate": 62,
+      "interest_rate_reason": "Seated live music with a big-name vocalist at an honest price, zero pressure to perform — matches positive stories 4/5; ~50km distance lowers slightly."
     },
     {
       "id": "evt_2026_1123_rodrigo-leao-alma-mater",
