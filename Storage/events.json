@@ -16,42 +16,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_1027_open-mckart-round6",
-      "name": "Open McKart 2026 – 6ª Ronda",
-      "tag": "sports",
-      "date": "2026-10-27T10:00:00+00:00",
-      "location": "Kartódromo de Baltar, Av. de São Silvestre 760, Baltar (~25km from Porto)",
-      "price": "Price not published (contact organizer)",
-      "description": "Round 6 of the amateur Open McKart 2026 karting series, a rental-kart sprint round open to mixed-skill drivers at the 1020m outdoor Baltar circuit. Exact start time not published by organizers at time of research.",
-      "url": "https://calendariokarting.pt/events/open-mckart-2026-event-6",
-      "interest_rate": 80,
-      "interest_rate_reason": "Amateur rental-kart sprint round — direct match to positive story 3's proactive-adrenaline karting activity."
-    },
-    {
-      "id": "evt_2026_1027_batalha-quiz-oct",
-      "name": "Batalha Quiz",
-      "tag": "tournament",
-      "date": "2026-10-27T21:00:00+00:00",
-      "location": "Batalha Centro de Cinema, Praça da Batalha 47, Porto",
-      "price": "Free entry, no registration required",
-      "description": "Free monthly cinema-themed pub quiz held on the last Tuesday of the month at Batalha Centro de Cinema's café-bar, split into two 25-question rounds; open to anyone, just show up.",
-      "url": "https://www.batalhacentrodecinema.pt/en/programmes/cinema-ao-redor-batalha-quiz/",
-      "interest_rate": 60,
-      "interest_rate_reason": "Free, well-structured recurring pub quiz — organized low-key social/competitive format, low-risk and welcoming to newcomers."
-    },
-    {
-      "id": "evt_2026_1027_adriana-calcanhotto",
-      "name": "Adriana Calcanhotto – Voz e Violão",
-      "tag": "music",
-      "date": "2026-10-27T21:00:00+00:00",
-      "location": "Casa da Música (Sala Suggia), Av. da Boavista 604-610, Porto",
-      "price": "€28–€45",
-      "description": "Intimate solo voice-and-guitar performance by Brazilian singer-songwriter Adriana Calcanhotto, revisiting career highlights alongside newer songs connected to Portuguese-language poetry.",
-      "url": "https://agendaculturalporto.org/eventos/adriana-calcanhotto-leva-voz-e-violao-a-casa-da-musica/",
-      "interest_rate": 72,
-      "interest_rate_reason": "Intimate solo voice-and-guitar performance at a proper concert hall — strong match to positive story 5's small-venue, good-sound live-gig ideal."
-    },
-    {
       "id": "evt_2026_1029_foundation-models-electric-grid",
       "name": "6th Conference on Foundation Models of the Electric Grid",
       "tag": "tech",
