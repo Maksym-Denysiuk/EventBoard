@@ -60,6 +60,18 @@
       "url": "https://fantasporto.com/en/",
       "interest_rate": 22,
       "interest_rate_reason": "Solo cinema-screening festival — doesn't match the guided-tour, business/pitch, adrenaline, craft, or live-music story dimensions; no negative flags either, so a low neutral baseline."
+    },
+    {
+      "id": "evt_2027_0427_lsfmm-summit-porto",
+      "name": "Linux Storage, Filesystem, MM & BPF Summit 2027",
+      "tag": "tech",
+      "date": "2027-04-27T09:00:00+01:00",
+      "location": "Porto, Portugal (venue not published)",
+      "price": "By invitation only (cost not published)",
+      "description": "Three-day (27-29 April 2027) by-invitation gathering of Linux kernel experts and subsystem maintainers on storage, filesystems, memory management and BPF. Not open to the general public.",
+      "url": "https://events.linuxfoundation.org/lsfmm",
+      "interest_rate": 8,
+      "interest_rate_reason": "Closed invite-only kernel-maintainer gathering, not publicly accessible — matches negative story 4 and has little overlap with business/AI positive story 1."
     }
   ]
 }
