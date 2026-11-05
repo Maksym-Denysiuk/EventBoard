@@ -328,6 +328,18 @@
       "interest_rate_reason": "Seated concert, good sound, no social pressure — matches positive story 5, though a large hall rather than small venue."
     },
     {
+      "id": "evt_2026_1125_christian-loffler-until-we-meet-again",
+      "name": "Christian Löffler – Until We Meet Again (Misty Fest)",
+      "tag": "music",
+      "date": "2026-11-25T21:00:00+00:00",
+      "location": "Casa da Música (Sala Suggia), Av. da Boavista 604-610, Porto",
+      "price": "€30–€50 (25% Amigo discount)",
+      "description": "German ambient/electronic artist Christian Löffler performs his ensemble show with piano and strings, a minimalist and intimate set presented as part of Misty Fest.",
+      "url": "https://casadamusica.com/event/christian-loffler-until-we-meet-again-tour/",
+      "interest_rate": 66,
+      "interest_rate_reason": "Seated, atmospheric concert in a good-sound hall, no need to talk to anyone, fair price — matches positive story 5."
+    },
+    {
       "id": "evt_2026_1126_victor-patrascan-comedy",
       "name": "Stand up Comedy in Broken English — Victor Pătrăşcan",
       "tag": "performance",
@@ -374,6 +386,18 @@
       "url": "https://xceed.me/en/porto/event/outworld-klangkuenstler-all-night-long/230507",
       "interest_rate": 45,
       "interest_rate_reason": "All-night techno club show at a large arena by a known touring DJ — some nightlife/live-set energy, but big-venue scale and unpublished price weaken the match to positive story 5's intimate small-venue ideal."
+    },
+    {
+      "id": "evt_2026_1128_youn-sun-nah-bojan-z",
+      "name": "Youn Sun Nah & Bojan Z (Misty Fest)",
+      "tag": "music",
+      "date": "2026-11-28T22:00:00+00:00",
+      "location": "Casa da Música (Sala 2), Av. da Boavista 604-610, Porto",
+      "price": "€30 (25% Amigo discount)",
+      "description": "Jazz vocalist Youn Sun Nah and pianist Bojan Z perform an intimate yet vibrant duo concert, mixing tributes to Nina Simone and Grace Jones with original songs.",
+      "url": "https://casadamusica.com/event/youn-sun-nah/?selected_session=52511",
+      "interest_rate": 64,
+      "interest_rate_reason": "Small-room live gig with strong sound and no social pressure at a fair price — matches positive story 5."
     },
     {
       "id": "evt_2026_1129_al-di-meola-misty-fest",
