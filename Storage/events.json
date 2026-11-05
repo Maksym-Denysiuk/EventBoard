@@ -400,6 +400,18 @@
       "interest_rate_reason": "Small-venue live gig, instrumental so no need to talk, affordable ticket — matches positive stories 5 and 4."
     },
     {
+      "id": "evt_2026_1203_panda-bear-sonic-boom",
+      "name": "Panda Bear & Sonic Boom: A ? of WHEN",
+      "tag": "music",
+      "date": "2026-12-03T21:30:00+00:00",
+      "location": "Rivoli Grand Auditorium, Teatro Municipal do Porto – Rivoli, Praça D. João I, 4000-295 Porto",
+      "price": "€12",
+      "description": "Panda Bear and Sonic Boom bring their second album together to Rivoli: a ~1 hour set of harp loops, steel drums, pedal steel and mariachi touches, turning online fatigue and unease into joyful communal music. Age rating 6+.",
+      "url": "https://www.teatromunicipaldoporto.pt/en/programa/panda-bear-sonic-boom-a-of-when/",
+      "interest_rate": 78,
+      "interest_rate_reason": "Seated theatre gig with good sound, 1 hour, low price, no need to talk to anyone — matches positive story 5 (and 4); no negative-story signals."
+    },
+    {
       "id": "evt_2026_1205_memo-karting-ronda4",
       "name": "MEMO Champion Series 2026 – Ronda 4 (Karting)",
       "tag": "sports",
