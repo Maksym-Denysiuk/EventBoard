@@ -16,30 +16,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_1106_max-cooper",
-      "name": "Max Cooper – Feeling Is Structure",
-      "tag": "music",
-      "date": "2026-11-06T21:00:00+00:00",
-      "location": "Hard Club, Porto",
-      "price": "€28 + fees",
-      "description": "Electronic producer Max Cooper presents an immersive audiovisual live set for his new album Feeling Is Structure, merging generative visuals with computational sound. Standing club show, doors 20:30.",
-      "url": "https://feverup.com/m/648919",
-      "interest_rate": 68,
-      "interest_rate_reason": "Immersive audiovisual electronic live set at a club — strong match to positive story 5's live-gig, engaging-sound appeal."
-    },
-    {
-      "id": "evt_2026_1106_ana-lua-caiano-gnration",
-      "name": "Ana Lua Caiano — \"Devagar que a Vida é Curta\" Album Release Show",
-      "tag": "music",
-      "date": "2026-11-06T21:30:00+00:00",
-      "location": "Blackbox, gnration, Praça Conde de Agrolongo 123, Braga",
-      "price": "€15.00",
-      "description": "Portuguese composer Ana Lua Caiano opens the tour for her new album \"Devagar que a Vida é Curta\" (Glitterbeat Records) with an intimate Blackbox show at gnration in Braga — her first performance of the new material.",
-      "url": "https://www.gnration.pt/event/2026/ana-lua-caiano/",
-      "interest_rate": 65,
-      "interest_rate_reason": "Album-release show at an intimate small-capacity venue — strong match to positive story 5's small-venue, high-energy live-gig ideal."
-    },
-    {
       "id": "evt_2026_1108_edp-porto-marathon",
       "name": "EDP Porto Marathon 2026",
       "tag": "sports",
