@@ -16,42 +16,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_1108_edp-porto-marathon",
-      "name": "EDP Porto Marathon 2026",
-      "tag": "sports",
-      "date": "2026-11-08T08:00:00+00:00",
-      "location": "Start/Finish: Queimódromo, Porto (course through Porto, Matosinhos and Vila Nova de Gaia)",
-      "price": "€42.50–€100 (marathon, tiered by registration date); €20 (EDP 10K); €13 (Mimosa APO 6K)",
-      "description": "Annual EDP Porto Marathon along a flat seaside-and-riverside course through Porto, Matosinhos and Vila Nova de Gaia, with marathon, 10K and 6K distance options; the prior edition drew over 10,000 runners from 72 countries. Race-day starts at 8:00; bib pickup at Alfândega do Porto's Congress Centre Nov 6–7.",
-      "url": "https://www.maratonadoporto.com/en/information-2026/",
-      "interest_rate": 35,
-      "interest_rate_reason": "Large organized running event requires months of individual training and race-day decision-making rather than positive story 2's no-decisions rest; mild resonance with story 3's proactive-physical-activity appeal, tempered by the endurance-race format and large-crowd scale echoing negative story 2's overcrowding risk."
-    },
-    {
-      "id": "evt_2026_1108_mascaras-caretos",
-      "name": "Máscaras, Mascarilhas, Caretos e Caraças",
-      "tag": "art",
-      "date": "2026-11-08T11:30:00+00:00",
-      "location": "Oficina Josefina, Av. Camilo 224, Porto",
-      "price": "Price not published (see oficinajosefina.com)",
-      "description": "Hands-on mask-making workshop at Oficina Josefina exploring Portuguese folk mask traditions — caretos, mascarilhas and caraças — through creative crafting.",
-      "url": "https://www.oficinajosefina.com/",
-      "interest_rate": 62,
-      "interest_rate_reason": "Hands-on traditional Portuguese mask-crafting workshop — matches positive story 4's craft-workshop, made-with-my-hands appeal."
-    },
-    {
-      "id": "evt_2026_1108_macrame-workshop",
-      "name": "Mas Afinal o Macramé Serve para Quê?",
-      "tag": "art",
-      "date": "2026-11-08T15:00:00+00:00",
-      "location": "Oficina Josefina, Av. Camilo 224, Porto",
-      "price": "Price not published (see oficinajosefina.com)",
-      "description": "Hands-on macramé knotting workshop at Oficina Josefina introducing the craft technique and its practical/decorative uses.",
-      "url": "https://www.oficinajosefina.com/",
-      "interest_rate": 60,
-      "interest_rate_reason": "Introductory hands-on macramé craft session — matches positive story 4's relaxed, made-with-my-hands workshop appeal."
-    },
-    {
       "id": "evt_2026_1110_porto-tech-hub-conference",
       "name": "Porto Tech Hub Conference 2026",
       "tag": "tech",
@@ -266,6 +230,18 @@
       "url": "https://www.ccvf.pt/en/detail-eventos/20261121-guimaraes-jazz-macedonian-national-jazz-orchestra-feat-kurt-elling/",
       "interest_rate": 62,
       "interest_rate_reason": "Seated live music with a big-name vocalist at an honest price, zero pressure to perform — matches positive stories 4/5; ~50km distance lowers slightly."
+    },
+    {
+      "id": "evt_2026_1121_lambchop-theatro-circo",
+      "name": "An Evening with Lambchop – Punching the Clown (Braga)",
+      "tag": "music",
+      "date": "2026-11-21T21:30:00+00:00",
+      "location": "Theatro Circo, Av. da Liberdade 697, Braga",
+      "price": "€20 (€10 with Pentágono Card)",
+      "description": "Nashville band Lambchop, led by Kurt Wagner, presents their 17th album Punching the Clown in the Main Room of Theatro Circo. Soul, jazz and country-tinged songs in a seated historic theatre; ages 6+.",
+      "url": "https://theatrocirco.com/?p=37283",
+      "interest_rate": 66,
+      "interest_rate_reason": "Seated gig in a small historic theatre, good sound, no need to talk to anyone, modest price — matches positive story 5."
     },
     {
       "id": "evt_2026_1123_rodrigo-leao-alma-mater",
@@ -506,6 +482,18 @@
       "url": "https://www.eventbrite.co.uk/e/1-irishman-in-porto-a-stand-up-comedy-show-in-english-9pm-tickets-1980098330409",
       "interest_rate": 30,
       "interest_rate_reason": "English-language stand-up in a small auditorium — a relaxed low-pressure evening out, only a mild echo of positive story 4's small-group, no-pressure appeal."
+    },
+    {
+      "id": "evt_2026_1212_worakls-misty-fest",
+      "name": "Worakls – Misty Fest",
+      "tag": "music",
+      "date": "2026-12-12T21:00:00+00:00",
+      "location": "Casa da Música, Sala 2, Av. da Boavista 604-610, Porto",
+      "price": "€32",
+      "description": "French producer Worakls performs solo, blending classical piano with electronic music in an immersive show between dance floor and orchestral concert.",
+      "url": "https://www.ticketline.pt/evento/worakls-misty-fest-105502",
+      "interest_rate": 68,
+      "interest_rate_reason": "Live gig in Casa da Música's smaller hall, immersive sound, no social pressure — matches positive story 5; fair price avoids negative story 5."
     },
     {
       "id": "evt_2026_1213_oficina-josefina-feitico-dos-saboes",
