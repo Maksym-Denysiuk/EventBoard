@@ -16,30 +16,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_1110_porto-tech-hub-conference",
-      "name": "Porto Tech Hub Conference 2026",
-      "tag": "tech",
-      "date": "2026-11-10T08:30:00+00:00",
-      "location": "Alfândega Congress Center, Rua Nova da Alfândega, Porto",
-      "price": "Paid (price not published; see Eventbrite)",
-      "description": "11th edition of Porto Tech Hub's flagship conference, bringing together tech professionals for talks on AI, machine learning, cloud, security, Web3 and modern programming frameworks.",
-      "url": "https://www.eventbrite.com/e/porto-tech-hub-conference-2026-tickets-1989160749348",
-      "interest_rate": 68,
-      "interest_rate_reason": "Established flagship tech conference with AI/cloud talks — good match to positive story 1's business/tech expertise-building focus."
-    },
-    {
-      "id": "evt_2026_1110_memo-karting-ronda2",
-      "name": "MEMO Champion Series 2026 – Ronda 2 (Karting)",
-      "tag": "sports",
-      "date": "2026-11-10T10:00:00+00:00",
-      "location": "Venue not yet published by organizer (MEMO Racing Team, Porto area)",
-      "price": "Price not published (contact organizer)",
-      "description": "Amateur/semi-professional rental-kart sprint race, part of the 2026 MEMO Champion Series (Ronda 2). Open to drivers of mixed skill levels; exact venue and race-day start time not yet published by organizers at time of research.",
-      "url": "https://calendariokarting.pt/championships/memo-champion-series-2026",
-      "interest_rate": 80,
-      "interest_rate_reason": "Rental-kart amateur sprint round — direct match to positive story 3's proactive-adrenaline karting activity; unconfirmed venue/time is a minor negative-story-2 uncertainty risk."
-    },
-    {
       "id": "evt_2026_1112_toninho-horta-guimaraes-jazz",
       "name": "Toninho Horta Quartet w/ Guimarães Orchestra – Guimarães Jazz 2026 (opening)",
       "tag": "music",
@@ -496,6 +472,18 @@
       "interest_rate_reason": "Live gig in Casa da Música's smaller hall, immersive sound, no social pressure — matches positive story 5; fair price avoids negative story 5."
     },
     {
+      "id": "evt_2026_1212_black-heritage-gospel-choir",
+      "name": "Black Heritage Gospel Choir – The Soul of Gospel",
+      "tag": "music",
+      "date": "2026-12-12T21:00:00+00:00",
+      "location": "Vilar Oporto Hotel (Auditório), R. Arcediago Vanzeller 50, 4050-621 Porto",
+      "price": "€35–€50",
+      "description": "Gospel choir conducted by Jerry Calvin Smith, featuring members of the Mississippi Mass Choir, tracing gospel from its Southern plantation roots to urban and contemporary forms. ~90 minutes, no intermission; doors 20:00. English-language repertoire.",
+      "url": "https://www.bol.pt/Comprar/Bilhetes/176347-black_heritage_gospel_choir_the_soul_of_gospel-vilar_oporto_hotel/",
+      "interest_rate": 50,
+      "interest_rate_reason": "Seated live concert, no interaction needed (positive story 5), but hotel-auditorium setting and €35–50 for a touring choir show risk the generic/premium letdown of negative story 5"
+    },
+    {
       "id": "evt_2026_1213_oficina-josefina-feitico-dos-saboes",
       "name": "O Feitiço dos Sabões",
       "tag": "art",
@@ -506,6 +494,42 @@
       "url": "https://www.oficinajosefina.com/",
       "interest_rate": 60,
       "interest_rate_reason": "Introductory hands-on soap-making craft session — matches positive story 4's relaxed, made-with-my-hands workshop appeal."
+    },
+    {
+      "id": "evt_2026_1213_glenn-miller-orchestra",
+      "name": "Glenn Miller Orchestra – In Christmas Mood",
+      "tag": "music",
+      "date": "2026-12-13T21:30:00+00:00",
+      "location": "Casa da Música (Sala Suggia), Av. da Boavista 604-610, 4149-071 Porto",
+      "price": "€37.50",
+      "description": "The Glenn Miller Orchestra, founded in 1956 and conducted by Ray McVay, returns to Sala Suggia with a Christmas big-band programme of timeless Glenn Miller hits.",
+      "url": "https://casadamusica.com/event/glenn-miller-orchestra/?selected_session=49347",
+      "interest_rate": 55,
+      "interest_rate_reason": "Live big band with strong room sound at Casa da Música, just show up and enjoy (positive story 5); large hall and nostalgia-tour format keep it from scoring higher"
+    },
+    {
+      "id": "evt_2026_1217_miguel-araujo-passemos-aos-saloes",
+      "name": "Miguel Araújo – Passemos aos Salões",
+      "tag": "music",
+      "date": "2026-12-17T21:30:00+00:00",
+      "location": "TeMA – Teatro Municipal de Oliveira de Azeméis, Av. Dr. António José de Almeida, 3720-239 Oliveira de Azeméis",
+      "price": "€15",
+      "description": "Intimate piano-only evening in which Miguel Araújo revisits his songs and tells the stories and anecdotes behind them; ~75 minutes, ages 6+. Language: Portuguese (songs and spoken storytelling).",
+      "url": "https://www.ticketline.pt/pt/evento/MIGUEL-ARAUJO-PASSEMOS-AOS-SALOES-106061",
+      "interest_rate": 48,
+      "interest_rate_reason": "Small-venue intimate gig at a fair €15 price (positive story 5, avoids negative story 5), held back by Portuguese-only spoken storytelling and ~40 km trip"
+    },
+    {
+      "id": "evt_2026_1218_the-nutcracker-osp",
+      "name": "The Nutcracker – Orquestra Sinfónica do Porto (concert version)",
+      "tag": "music",
+      "date": "2026-12-18T21:00:00+00:00",
+      "location": "Casa da Música, Av. da Boavista 604-610, 4149-071 Porto",
+      "price": "€36–€40",
+      "description": "Concert version of Tchaikovsky's ballet by the Orquestra Sinfónica do Porto Casa da Música with the Casa da Música Children's Choir, accompanied live by an illustrator.",
+      "url": "https://casadamusica.com/event/o-quebra-nozes-20261218/?selected_session=44171",
+      "interest_rate": 52,
+      "interest_rate_reason": "Passive live orchestral evening with live illustration, no decisions required (positive stories 2 and 5); family-oriented seasonal format limits the energy-in-the-room appeal"
     },
     {
       "id": "evt_2026_1219_ana-garcia-martins-insuficiente",
