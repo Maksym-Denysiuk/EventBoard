@@ -16,100 +16,16 @@
   },
   "events": [
     {
-      "id": "evt_2026_1112_toninho-horta-guimaraes-jazz",
-      "name": "Toninho Horta Quartet w/ Guimarães Orchestra – Guimarães Jazz 2026 (opening)",
+      "id": "evt_2026_1116_jacob-sacks-trio-porta-jazz",
+      "name": "Jacob Sacks + Demian Cabaud + Marcos Cavaleiro (Porta-Jazz)",
       "tag": "music",
-      "date": "2026-11-12T21:30:00+00:00",
-      "location": "Grand Auditorium Francisca Abreu, Centro Cultural Vila Flor, Av. D. Afonso Henriques 701, Guimarães (~50km from Porto)",
-      "price": "€20 (€15 discounted)",
-      "description": "Opening concert of the 35th Guimarães Jazz: Brazilian guitarist-composer Toninho Horta leads a quartet joined by the Guimarães Orchestra in a seated concert hall setting. Primary language: instrumental.",
-      "url": "https://www.ccvf.pt/en/detail-eventos/20261112-guimaraes-jazz-2026-toninho-horta-quarteto-c-orquestra-de-guimaraes/",
-      "interest_rate": 64,
-      "interest_rate_reason": "Seated live music at a proper hall at a fair €20, nothing to organise or talk through — matches positive stories 4/5; ~50km out, slight effort penalty."
-    },
-    {
-      "id": "evt_2026_1113_montalegre-friday13",
-      "name": "Friday the 13th in Montalegre",
-      "tag": "trips",
-      "date": "2026-11-13T18:30:00+00:00",
-      "location": "Meeting point: Metro Casa da Música, Avenida de França, Porto",
-      "price": "€15–€25 (€15 student rate, all dates)",
-      "description": "Guided evening excursion to the medieval town of Montalegre for its Friday-the-13th folklore celebration — street entertainment, witches, demons, music and performances around the historic centre — organized by Porto Guibook Community, with group transport departing Porto and returning around 3am. Reservation via WhatsApp.",
-      "url": "https://www.meetup.com/guibook-porto-community/",
-      "interest_rate": 62,
-      "interest_rate_reason": "Guided overnight excursion to a themed medieval folklore festival with fixed group transport — matches positive story 2's guided-trip structure and story 4's new-experience appeal, tempered by late-night logistics."
-    },
-    {
-      "id": "evt_2026_1114_memo-karting-ronda3",
-      "name": "MEMO Champion Series 2026 – Ronda 3 (Karting)",
-      "tag": "sports",
-      "date": "2026-11-14T10:00:00+00:00",
-      "location": "Kartódromo Cabo do Mundo, R. de Almeiriga Norte 2242, Perafita, Matosinhos",
-      "price": "Price not published (contact organizer)",
-      "description": "Amateur/semi-professional rental-kart sprint race at Kartódromo Cabo do Mundo, part of the 2026 MEMO Champion Series (Ronda 3). Open to drivers of mixed skill levels; exact race-day start time not yet published by organizers at time of research.",
-      "url": "https://calendariokarting.pt/championships/memo-champion-series-2026",
-      "interest_rate": 82,
-      "interest_rate_reason": "Rental-kart amateur sprint round — direct match to positive story 3's proactive-adrenaline karting activity."
-    },
-    {
-      "id": "evt_2026_1114_a-partir-de-dentro-exhibition",
-      "name": "A Partir de Dentro — Gustavo Sanches de Castro Exhibition Opening",
-      "tag": "art",
-      "date": "2026-11-14T16:00:00+00:00",
-      "location": "Gallery Hostel Porto, Rua Miguel Bombarda 222, Porto",
-      "price": "Free (gallery exhibition opening)",
-      "description": "Opening reception for Gustavo Sanches de Castro's exhibition 'A Partir de Dentro', gestural expressionist paintings made through direct physical engagement with the canvas, at Gallery Hostel Porto.",
-      "url": "https://www.gallery-hostel.com/en/events-en",
-      "interest_rate": 55,
-      "interest_rate_reason": "Gallery exhibition opening — relaxed art-viewing event, mild match to positive story 4's low-pressure creative appeal."
-    },
-    {
-      "id": "evt_2026_1114_jack-and-jack",
-      "name": "Jack & Jack – SYN/ANTI Tour",
-      "tag": "music",
-      "date": "2026-11-14T19:30:00+00:00",
-      "location": "Hotel Mouco, R. de Frei Heitor Pinto 65, Porto",
-      "price": "Price not published",
-      "description": "American pop-rap duo Jack & Jack (Jack Gilinsky and Jack Johnson) bring their SYN/ANTI Tour to Porto's Hotel Mouco.",
-      "url": "https://www.songkick.com/concerts/43269546-jack-and-jack-at-mouco-hotel",
-      "interest_rate": 58,
-      "interest_rate_reason": "Pop-rap duo live show at a boutique hotel venue — decent live-gig resonance with positive story 5."
-    },
-    {
-      "id": "evt_2026_1114_twilight-sad",
-      "name": "The Twilight Sad – It's the Long Goodbye",
-      "tag": "music",
-      "date": "2026-11-14T21:00:00+00:00",
-      "location": "Hard Club, Porto",
-      "price": "€30",
-      "description": "Scottish post-punk/shoegaze band The Twilight Sad play a standing club show presenting their new album It's the Long Goodbye, in Room 1 of Hard Club.",
-      "url": "https://www.bol.pt/Comprar/Bilhetes/175392-the_twilight_sad-hard_club_li/",
-      "interest_rate": 65,
-      "interest_rate_reason": "Standing club show by an established post-punk act — solid live-gig match to positive story 5."
-    },
-    {
-      "id": "evt_2026_1115_tecido-pintado-mao",
-      "name": "Tecido de Algodão Pintado à Mão",
-      "tag": "art",
-      "date": "2026-11-15T11:30:00+00:00",
-      "location": "Oficina Josefina, Av. Camilo 224, Porto",
-      "price": "Price not published (see oficinajosefina.com)",
-      "description": "Hands-on fabric-painting workshop at Oficina Josefina, hand-decorating cotton textile pieces.",
-      "url": "https://www.oficinajosefina.com/",
-      "interest_rate": 60,
-      "interest_rate_reason": "Hands-on textile-painting craft session — matches positive story 4's craft-workshop appeal."
-    },
-    {
-      "id": "evt_2026_1115_caixinha-marquesa",
-      "name": "A Caixinha da Marquesa é uma Riqueza",
-      "tag": "art",
-      "date": "2026-11-15T15:00:00+00:00",
-      "location": "Oficina Josefina, Av. Camilo 224, Porto",
-      "price": "Price not published (see oficinajosefina.com)",
-      "description": "Hands-on decorative box-making workshop at Oficina Josefina, crafting a keepsake box.",
-      "url": "https://www.oficinajosefina.com/",
-      "interest_rate": 58,
-      "interest_rate_reason": "Hands-on decorative-craft box-making session — matches positive story 4's made-with-my-hands appeal, though a less distinctive medium than ceramics/textile."
+      "date": "2026-11-16T21:30:00+00:00",
+      "location": "Espaço Porta-Jazz, Praça da República 156, Porto",
+      "price": "€5 suggested donation (€3 members)",
+      "description": "One-off first-time trio meeting of pianist Jacob Sacks, bassist Demian Cabaud and drummer Marcos Cavaleiro in Porta-Jazz's intimate room — chosen pieces plus improvisation. Instrumental jazz (no language barrier).",
+      "url": "https://www.agenda-porto.pt/en/evento/jacob-sacks-demian-cabaud-marcos-cavaleiro/",
+      "interest_rate": 70,
+      "interest_rate_reason": "Small-room live jazz, just listen, near-free — strong match to positive story 5, no premium-price risk (neg 5)"
     },
     {
       "id": "evt_2026_1117_ndc-porto",
@@ -136,6 +52,18 @@
       "interest_rate_reason": "Global rock icon at a large arena — strong passive live-music draw matching positive story 5, tempered by arena scale over the intimate small-venue ideal."
     },
     {
+      "id": "evt_2026_1118_svaneborg-kardyb-vega-trails",
+      "name": "Svaneborg Kardyb + Vega Trails (Misty Fest)",
+      "tag": "music",
+      "date": "2026-11-18T21:00:00+00:00",
+      "location": "Casa da Música, Av. da Boavista 604-610, Porto",
+      "price": "€20",
+      "description": "Misty Fest double bill: Nordic jazz duo Svaneborg Kardyb present their more electronic, energetic album \"Superkilen\"; Vega Trails (Milo Fitzpatrick) play the cinematic chamber-jazz \"Sierra Tracks\". Instrumental.",
+      "url": "https://casadamusica.com/event/svaneborg-kardyb-vega-trails/",
+      "interest_rate": 62,
+      "interest_rate_reason": "Live instrumental gig with energy, fair price, no social obligation — positive story 5 (larger hall than ideal small venue)"
+    },
+    {
       "id": "evt_2026_1119_kcd-porto-devopsdays",
       "name": "KCD Porto 2026 / devopsdays Portugal",
       "tag": "tech",
@@ -148,6 +76,30 @@
       "interest_rate_reason": "Large DevOps/cloud-native conference — solid tech expertise-building match to positive story 1, infra-focused rather than business/AI-strategy."
     },
     {
+      "id": "evt_2026_1119_pechakucha-night-macs",
+      "name": "PechaKucha Presentation Night",
+      "tag": "community",
+      "date": "2026-11-19T18:30:00+00:00",
+      "location": "MACS – Multidisciplinary Art and Craft Space, R. da Boavista 84, Porto",
+      "price": "Free",
+      "description": "English-language PechaKucha evening (20 slides × 20 seconds, max 8 presenters) — people present their work or projects; open to listeners and to sign-ups to present.",
+      "url": "https://www.agenda-porto.pt/en/evento/pechakucha/",
+      "interest_rate": 45,
+      "interest_rate_reason": "Structured talks with speakers avoid negative story 3; people pitching own work partially echoes positive story 1, but creative not business-focused"
+    },
+    {
+      "id": "evt_2026_1119_lemonade-stand-up-comedy",
+      "name": "A Lemonade Stand-up Comedy (English)",
+      "tag": "performance",
+      "date": "2026-11-19T21:00:00+00:00",
+      "location": "Evento Cafe, R. da Boavista 442, Porto",
+      "price": "Free",
+      "description": "English-language stand-up comedy night at a new café venue with new material; 90 minutes, 12+.",
+      "url": "https://www.agenda-porto.pt/en/evento/a-lemonade-stand-up-comedy-1911/",
+      "interest_rate": 40,
+      "interest_rate_reason": "Free, English, sit-back evening — mild positive-story-2 \"just show up\" fit; amateur-night quality unknown, no story strongly resonates"
+    },
+    {
       "id": "evt_2026_1119_kurt-rosenwinkel-guimaraes-jazz",
       "name": "Kurt Rosenwinkel Quintet – Guimarães Jazz 2026",
       "tag": "music",
@@ -158,6 +110,42 @@
       "url": "https://www.ccvf.pt/en/detail-eventos/20261119-guimaraes-jazz-kurt-rosenwinkel-quinteto/",
       "interest_rate": 66,
       "interest_rate_reason": "Top-tier live gig with great sound, no obligation to socialise, fair price — matches positive story 5; day-trip distance trims it."
+    },
+    {
+      "id": "evt_2026_1120_paisagens-bordadas-natal",
+      "name": "Paisagens Bordadas – Christmas Edition (machine embroidery workshop)",
+      "tag": "art",
+      "date": "2026-11-20T18:00:00+00:00",
+      "location": "BASE atelier, R. de Anselmo Braancamp 550, Porto",
+      "price": "€50 (materials, machine, coffee/wine and cake included)",
+      "description": "3-hour evening workshop: design and freehand-embroider a Christmas landscape on cotton with a portable sewing machine; basic stitches taught, beginners welcome, 16+. Booking via Google Form.",
+      "url": "https://www.agenda-porto.pt/en/evento/paisagens-bordadas-edicao-de-natal/",
+      "interest_rate": 74,
+      "interest_rate_reason": "Evening small-group craft, make something with hands, relaxed beginner pace, all included — near-exact positive story 4"
+    },
+    {
+      "id": "evt_2026_1120_niklas-paschburg-misty-fest",
+      "name": "Niklas Paschburg (Misty Fest)",
+      "tag": "music",
+      "date": "2026-11-20T21:30:00+00:00",
+      "location": "Casa da Música, Av. da Boavista 604-610, Porto",
+      "price": "€25",
+      "description": "German composer-pianist-producer blending neoclassical piano, synths and ambient electronics (Oceanic, Svalbard, Panta Rhei) in an immersive Misty Fest concert.",
+      "url": "https://casadamusica.com/event/niklas-paschburg/",
+      "interest_rate": 64,
+      "interest_rate_reason": "Immersive live concert, just enjoy the music — positive story 5; concert-hall rather than small venue"
+    },
+    {
+      "id": "evt_2026_1121_iniciacao-ao-tufting",
+      "name": "Iniciação ao Tufting (one-day tufting course)",
+      "tag": "art",
+      "date": "2026-11-21T09:00:00+00:00",
+      "location": "Saber Fazer, R. da Aliança 114, Porto",
+      "price": "€170",
+      "description": "Intensive one-day beginner tufting course with Ana Rita de Arruda (09:00–19:00, lunch break): tufting-gun technique with natural wool; you keep your piece and get a DGERT training certificate.",
+      "url": "https://www.shop.saberfazer.org/en/products/tufting-course",
+      "interest_rate": 52,
+      "interest_rate_reason": "Hands-on new physical craft — positive story 4, but full-day intensive and €170 tempers the \"relaxed evening\" fit and raises negative story 5 price risk"
     },
     {
       "id": "evt_2026_1121_park-jiha-gnration",
@@ -280,6 +268,18 @@
       "interest_rate_reason": "English-language stand-up in a small auditorium — a relaxed low-pressure evening out, only a mild echo of positive story 4's small-group, no-pressure appeal."
     },
     {
+      "id": "evt_2026_1127_ganso-hard-club",
+      "name": "Ganso – Hard Club",
+      "tag": "music",
+      "date": "2026-11-27T20:00:00+00:00",
+      "location": "Hard Club, Praça do Infante 95, Porto",
+      "price": "From €20",
+      "description": "Portuguese indie-rock band Ganso live at Hard Club (doors 20:00). Sung in Portuguese. Tickets via bol.pt.",
+      "url": "https://www.songkick.com/concerts/43396904-ganso-at-hard-club",
+      "interest_rate": 52,
+      "interest_rate_reason": "Mid-size club gig with room energy — positive story 5; Portuguese-language lyrics lower appeal somewhat"
+    },
+    {
       "id": "evt_2026_1128_braga-games-crossfit",
       "name": "III Braga Games",
       "tag": "tournament",
@@ -302,6 +302,18 @@
       "url": "https://calendariokarting.pt/events/wise-pirates-karting-series-2025-26-event-9",
       "interest_rate": 82,
       "interest_rate_reason": "Amateur rental-kart sprint round — direct match to positive story 3's proactive-adrenaline karting activity."
+    },
+    {
+      "id": "evt_2026_1128_felicia-atkinson-gnration",
+      "name": "Félicia Atkinson – gnration",
+      "tag": "music",
+      "date": "2026-11-28T18:00:00+00:00",
+      "location": "Blackbox, gnration, Praça Conde de Agrolongo 123, Braga",
+      "price": "€12",
+      "description": "Seated Blackbox concert by Paris-born electroacoustic composer Félicia Atkinson — sound collage, field recordings, distortion and spoken poetry (recent: Sans Visage, 2026). Masterclass the same morning.",
+      "url": "https://www.gnration.pt/en/event/2026/felicia-atkinson/",
+      "interest_rate": 60,
+      "interest_rate_reason": "Small seated venue, cheap, listen-only — positive story 5; experimental/abstract sound and Braga trip slightly reduce"
     },
     {
       "id": "evt_2026_1128_outworld-klangkuenstler",
@@ -482,6 +494,18 @@
       "url": "https://www.bol.pt/Comprar/Bilhetes/176347-black_heritage_gospel_choir_the_soul_of_gospel-vilar_oporto_hotel/",
       "interest_rate": 50,
       "interest_rate_reason": "Seated live concert, no interaction needed (positive story 5), but hotel-auditorium setting and €35–50 for a touring choir show risk the generic/premium letdown of negative story 5"
+    },
+    {
+      "id": "evt_2026_1212_maquina-scuru-fitchadu",
+      "name": "MAQUINA. + Scúru Fitchádu – gnration",
+      "tag": "music",
+      "date": "2026-12-12T21:30:00+00:00",
+      "location": "Blackbox, gnration, Praça Conde de Agrolongo 123, Braga",
+      "price": "€12",
+      "description": "Joint residency show: Lisbon krautrock-techno trio MAQUINA. with Scúru Fitchádu (punk/industrial/funaná) — standing, loud, high-energy Blackbox set co-produced with Porto promoter Machamba.",
+      "url": "https://www.gnration.pt/en/event/2026/maquina-scuru-fitchadu/",
+      "interest_rate": 66,
+      "interest_rate_reason": "High-energy standing gig in a small room, cheap — positive story 5 with some adrenaline (story 3)"
     },
     {
       "id": "evt_2026_1213_oficina-josefina-feitico-dos-saboes",
@@ -805,6 +829,18 @@
       "description": "Brazilian pop star Luísa Sonza plays Porto's Super Bock Arena (Lisbon follows on 17 April at MEO Arena). Tickets release in phases; start time not confirmed by the sources found (21:00 is a placeholder estimate), so check before planning.",
       "interest_rate": 40,
       "interest_rate_reason": "Seated big-arena pop show, no decisions needed (story 5 energy) but not a small venue with good sound, and arena pricing risks negative story 5 'generic premium'."
+    },
+    {
+      "id": "evt_2027_0506_bsides-porto-2027",
+      "name": "BSides Porto 2027",
+      "tag": "tech",
+      "date": "2027-05-06T08:30:00+01:00",
+      "location": "ISEP – Auditório Magno, R. de São Tomé, Porto",
+      "price": "TBA — tickets not yet on sale",
+      "description": "Third edition of Portugal's community cybersecurity conference (6–7 May): two days of talks, hands-on workshops, villages and a CTF; mixed Portuguese/English.",
+      "url": "https://bsidesporto.org/",
+      "interest_rate": 30,
+      "interest_rate_reason": "Structured talks/workshops on a trending topic touch positive story 1, but deep security niche, not business or AI-selling focused"
     }
   ]
 }
