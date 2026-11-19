@@ -16,54 +16,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_1116_jacob-sacks-trio-porta-jazz",
-      "name": "Jacob Sacks + Demian Cabaud + Marcos Cavaleiro (Porta-Jazz)",
-      "tag": "music",
-      "date": "2026-11-16T21:30:00+00:00",
-      "location": "Espaço Porta-Jazz, Praça da República 156, Porto",
-      "price": "€5 suggested donation (€3 members)",
-      "description": "One-off first-time trio meeting of pianist Jacob Sacks, bassist Demian Cabaud and drummer Marcos Cavaleiro in Porta-Jazz's intimate room — chosen pieces plus improvisation. Instrumental jazz (no language barrier).",
-      "url": "https://www.agenda-porto.pt/en/evento/jacob-sacks-demian-cabaud-marcos-cavaleiro/",
-      "interest_rate": 70,
-      "interest_rate_reason": "Small-room live jazz, just listen, near-free — strong match to positive story 5, no premium-price risk (neg 5)"
-    },
-    {
-      "id": "evt_2026_1117_ndc-porto",
-      "name": "NDC Porto 2026",
-      "tag": "tech",
-      "date": "2026-11-17T09:00:00+00:00",
-      "location": "Kopke Porto Gaia Hotel, Vila Nova de Gaia",
-      "price": "Paid (early bird pricing; see website)",
-      "description": "Four-day software development conference with two days of talks and two days of workshops, featuring international speakers on modern development practices and emerging technologies.",
-      "url": "https://ndcporto.com/",
-      "interest_rate": 65,
-      "interest_rate_reason": "Multi-day software development conference with hands-on workshop days — decent match to positive story 1's expertise-building focus."
-    },
-    {
-      "id": "evt_2026_1117_bryan-adams",
-      "name": "Bryan Adams – Roll With The Punches Tour",
-      "tag": "music",
-      "date": "2026-11-17T21:00:00+00:00",
-      "location": "Super Bock Arena – Pavilhão Rosa Mota, Porto",
-      "price": "€50–€70",
-      "description": "Canadian rock icon Bryan Adams brings his Roll With The Punches tour to Porto, playing classics like 'Summer of '69', 'Heaven' and '(Everything I Do) I Do It For You' alongside new material from his JUNO-nominated 2025 album. A second Porto date was added on Nov 18 after the first sold out.",
-      "url": "https://www.superbockarena.pt/evento/bryan-adams/",
-      "interest_rate": 68,
-      "interest_rate_reason": "Global rock icon at a large arena — strong passive live-music draw matching positive story 5, tempered by arena scale over the intimate small-venue ideal."
-    },
-    {
-      "id": "evt_2026_1118_svaneborg-kardyb-vega-trails",
-      "name": "Svaneborg Kardyb + Vega Trails (Misty Fest)",
-      "tag": "music",
-      "date": "2026-11-18T21:00:00+00:00",
-      "location": "Casa da Música, Av. da Boavista 604-610, Porto",
-      "price": "€20",
-      "description": "Misty Fest double bill: Nordic jazz duo Svaneborg Kardyb present their more electronic, energetic album \"Superkilen\"; Vega Trails (Milo Fitzpatrick) play the cinematic chamber-jazz \"Sierra Tracks\". Instrumental.",
-      "url": "https://casadamusica.com/event/svaneborg-kardyb-vega-trails/",
-      "interest_rate": 62,
-      "interest_rate_reason": "Live instrumental gig with energy, fair price, no social obligation — positive story 5 (larger hall than ideal small venue)"
-    },
-    {
       "id": "evt_2026_1119_kcd-porto-devopsdays",
       "name": "KCD Porto 2026 / devopsdays Portugal",
       "tag": "tech",
@@ -124,6 +76,18 @@
       "interest_rate_reason": "Evening small-group craft, make something with hands, relaxed beginner pace, all included — near-exact positive story 4"
     },
     {
+      "id": "evt_2026_1120_drink-and-draw-capela-incomum",
+      "name": "Drink & Draw",
+      "tag": "art",
+      "date": "2026-11-20T19:00:00+00:00",
+      "location": "Capela Incomum (wine bar), Travessa do Carregal 77, 4050-167 Porto",
+      "price": "€20 (materials + 1 glass of wine)",
+      "description": "Relaxed 90-minute drawing session in a wine bar led by facilitator Adalgisa de Castro Lopes — surprise theme revealed at the start, no experience needed, draw without hurry or judgment. Limited spots; registration via form + MB Way. 18+. Language not stated (likely Portuguese).",
+      "url": "https://www.agenda-porto.pt/en/evento/drink-andamp-draw-1794564271900/",
+      "interest_rate": 62,
+      "interest_rate_reason": "Small-group evening hands-on creative session, relaxed, no pressure to perform, fair €20 price — strong match for positive story 4."
+    },
+    {
       "id": "evt_2026_1120_niklas-paschburg-misty-fest",
       "name": "Niklas Paschburg (Misty Fest)",
       "tag": "music",
@@ -146,6 +110,42 @@
       "url": "https://www.shop.saberfazer.org/en/products/tufting-course",
       "interest_rate": 52,
       "interest_rate_reason": "Hands-on new physical craft — positive story 4, but full-day intensive and €170 tempers the \"relaxed evening\" fit and raises negative story 5 price risk"
+    },
+    {
+      "id": "evt_2026_1121_pintura-com-textura",
+      "name": "Iniciação à Pintura com Textura (textured painting workshop)",
+      "tag": "art",
+      "date": "2026-11-21T10:30:00+00:00",
+      "location": "ACASO atelier criativo, R. de Costa Cabral 622, Porto",
+      "price": "€85 (all materials included)",
+      "description": "3-hour beginner workshop with Rita Fernandes covering textured-painting materials and techniques; participants leave with two canvases they painted. No experience needed, 16+. Only ~2 spots left at time of check. Portuguese-language.",
+      "url": "https://www.agenda-porto.pt/en/evento/iniciacao-a-pintura-com-textura/",
+      "interest_rate": 58,
+      "interest_rate_reason": "Hands-on craft, made something to take home, relaxed pace (positive story 4); slightly tempered by €85 for 3h and Portuguese-only (negative story 5 tinge)."
+    },
+    {
+      "id": "evt_2026_1121_desenhar-depois-de-crescer",
+      "name": "Desenhar Depois de Crescer (drawing for adults, in English)",
+      "tag": "art",
+      "date": "2026-11-21T11:00:00+00:00",
+      "location": "doBarro, R. da Alegria 246, Porto",
+      "price": "€25",
+      "description": "Adult drawing workshop 'back to drawing without pressure' for people who drew as kids and stopped — simple exercises to loosen the hand and build confidence, focus on process not result. No experience needed. Listed as English-language.",
+      "url": "https://www.agenda-porto.pt/en/evento/db-desenhar-depois-de-crescer-1791901949609/",
+      "interest_rate": 58,
+      "interest_rate_reason": "Small hands-on creative workshop, explicitly no pressure, English, fair price — matches positive story 4."
+    },
+    {
+      "id": "evt_2026_1121_ai-second-brain-meetup",
+      "name": "AI Second Brain Meetup – Porto",
+      "tag": "tech",
+      "date": "2026-11-21T16:30:00+00:00",
+      "location": "Capela Incomum (upstairs private room), Tv. do Carregal 77-81, 4050-167 Porto",
+      "price": "Free (order a drink at the bar encouraged)",
+      "description": "Forte Labs AI Second Brain meetup series: relaxed in-person conversation on how people use AI and 'Second Brain' note systems for work, organisation and creative projects — introductions, sharing use cases, small-group discussion. No presentations or sales pitches. English. ~7 going at time of check; 18+.",
+      "url": "https://luma.com/c9bzqzy9",
+      "interest_rate": 45,
+      "interest_rate_reason": "AI/productivity topic fits positive story 1 (AI workshops, trending topics), but small, speaker-less bar-room discussion edges toward negative story 3."
     },
     {
       "id": "evt_2026_1121_park-jiha-gnration",
@@ -206,6 +206,18 @@
       "url": "https://theatrocirco.com/?p=37283",
       "interest_rate": 66,
       "interest_rate_reason": "Seated gig in a small historic theatre, good sound, no need to talk to anyone, modest price — matches positive story 5."
+    },
+    {
+      "id": "evt_2026_1121_skinshape-mouco",
+      "name": "Skinshape – Jam Porto",
+      "tag": "music",
+      "date": "2026-11-21T21:30:00+00:00",
+      "location": "M.Ou.Co. – JAM Porto (Mouco), R. de Frei Heitor Pinto 65, Porto",
+      "price": "€25 (+ fees, €26.84 on Ticketline)",
+      "description": "Skinshape (Will Dorey's funk/folk/soul/reggae/psychedelia project) live at the intimate M.Ou.Co. room; ~80 min show, M/06. Promoted by Cloud Man Tree.",
+      "url": "https://www.ticketline.pt/evento/SKINSHAPE-105875",
+      "interest_rate": 70,
+      "interest_rate_reason": "Live gig at a small venue with good sound, just enjoy the music — direct match for positive story 5."
     },
     {
       "id": "evt_2026_1123_rodrigo-leao-alma-mater",
@@ -841,6 +853,18 @@
       "url": "https://bsidesporto.org/",
       "interest_rate": 30,
       "interest_rate_reason": "Structured talks/workshops on a trending topic touch positive story 1, but deep security niche, not business or AI-selling focused"
+    },
+    {
+      "id": "evt_2027_0513_sim-conference-2027",
+      "name": "SIM Conference 2027 (Startup Portugal)",
+      "tag": "business",
+      "date": "2027-05-13T09:00:00+01:00",
+      "location": "Porto (venue TBC; prior editions at Alfândega do Porto Congress Centre)",
+      "price": "From €29 (Super Early Bird until 22 Nov 2026); later tiers higher",
+      "description": "Two-day (13–14 May) Startup Portugal conference bringing founders, investors and corporates together for talks, networking and scheduled 1:1 investment matchmaking. Theme 'Building a Second Nature'. English-language. Start time not yet published (09:00 placeholder for day 1).",
+      "url": "https://simconf.com/",
+      "interest_rate": 62,
+      "interest_rate_reason": "Structured founder/investor event with speakers and pitching/matchmaking — strong fit for positive story 1; cheap early-bird avoids negative story 5."
     }
   ]
 }
