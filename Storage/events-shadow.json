@@ -14,18 +14,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_1119_porto-post-doc-2026",
-      "name": "Porto/Post/Doc 2026 – Film & Media Festival (13th edition)",
-      "tag": "film",
-      "date": "2026-11-19T19:00:00+00:00",
-      "location": "Batalha Centro de Cinema, Praça da Batalha 47, Porto (additional sessions at Passos Manuel from Nov 21)",
-      "price": "€5.00 regular / €2.50 discount (students, 65+, unemployed, Porto Card, families); Voucher 5 (5 sessions) €15.00",
-      "description": "13th edition of Porto/Post/Doc, Portugal's documentary and media-arts film festival, running Nov 19-28, 2026, with competitive and non-competitive sections, retrospectives, curated focus programmes and industry activities. Opening-night time not yet published; evening slot assumed based on the venue's typical festival scheduling.",
-      "url": "https://www.portopostdoc.com/home-en",
-      "interest_rate": 22,
-      "interest_rate_reason": "Solo documentary/cinema festival with no guided-tour, business, adrenaline, craft, or live-music resonance — mirrors the low neutral baseline already given to Fantasporto; accessible low pricing avoids negative story 5's premium-price risk but doesn't raise the score."
-    },
-    {
       "id": "evt_2026_1129_pinheiros-renas",
       "name": "Pinheiros, Renas e outras cenas",
       "tag": "art",

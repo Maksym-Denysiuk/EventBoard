@@ -16,210 +16,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_1119_kcd-porto-devopsdays",
-      "name": "KCD Porto 2026 / devopsdays Portugal",
-      "tag": "tech",
-      "date": "2026-11-19T09:00:00+00:00",
-      "location": "Super Bock Arena – Pavilhão Rosa Mota, Porto",
-      "price": "Paid (entrance fee; discount code available)",
-      "description": "Joint Kubernetes Community Days and devopsdays Portugal conference uniting the DevOps and cloud-native communities for keynotes, technical talks and networking, expecting 500+ attendees.",
-      "url": "https://devopsdays.org/events/2026-portugal/welcome/",
-      "interest_rate": 60,
-      "interest_rate_reason": "Large DevOps/cloud-native conference — solid tech expertise-building match to positive story 1, infra-focused rather than business/AI-strategy."
-    },
-    {
-      "id": "evt_2026_1119_pechakucha-night-macs",
-      "name": "PechaKucha Presentation Night",
-      "tag": "community",
-      "date": "2026-11-19T18:30:00+00:00",
-      "location": "MACS – Multidisciplinary Art and Craft Space, R. da Boavista 84, Porto",
-      "price": "Free",
-      "description": "English-language PechaKucha evening (20 slides × 20 seconds, max 8 presenters) — people present their work or projects; open to listeners and to sign-ups to present.",
-      "url": "https://www.agenda-porto.pt/en/evento/pechakucha/",
-      "interest_rate": 45,
-      "interest_rate_reason": "Structured talks with speakers avoid negative story 3; people pitching own work partially echoes positive story 1, but creative not business-focused"
-    },
-    {
-      "id": "evt_2026_1119_lemonade-stand-up-comedy",
-      "name": "A Lemonade Stand-up Comedy (English)",
-      "tag": "performance",
-      "date": "2026-11-19T21:00:00+00:00",
-      "location": "Evento Cafe, R. da Boavista 442, Porto",
-      "price": "Free",
-      "description": "English-language stand-up comedy night at a new café venue with new material; 90 minutes, 12+.",
-      "url": "https://www.agenda-porto.pt/en/evento/a-lemonade-stand-up-comedy-1911/",
-      "interest_rate": 40,
-      "interest_rate_reason": "Free, English, sit-back evening — mild positive-story-2 \"just show up\" fit; amateur-night quality unknown, no story strongly resonates"
-    },
-    {
-      "id": "evt_2026_1119_kurt-rosenwinkel-guimaraes-jazz",
-      "name": "Kurt Rosenwinkel Quintet – Guimarães Jazz 2026",
-      "tag": "music",
-      "date": "2026-11-19T21:30:00+00:00",
-      "location": "Grand Auditorium Francisca Abreu, Centro Cultural Vila Flor, Av. D. Afonso Henriques 701, Guimarães (~50km from Porto)",
-      "price": "€20 (€15 discounted)",
-      "description": "Kurt Rosenwinkel's first Guimarães Jazz appearance and first time leading a quintet, revisiting the live album The Remedy (Village Vanguard, 2006) with Aaron Goldberg, Joe Martin, Seamus Blake and Kendrick Scott. Primary language: instrumental.",
-      "url": "https://www.ccvf.pt/en/detail-eventos/20261119-guimaraes-jazz-kurt-rosenwinkel-quinteto/",
-      "interest_rate": 66,
-      "interest_rate_reason": "Top-tier live gig with great sound, no obligation to socialise, fair price — matches positive story 5; day-trip distance trims it."
-    },
-    {
-      "id": "evt_2026_1120_paisagens-bordadas-natal",
-      "name": "Paisagens Bordadas – Christmas Edition (machine embroidery workshop)",
-      "tag": "art",
-      "date": "2026-11-20T18:00:00+00:00",
-      "location": "BASE atelier, R. de Anselmo Braancamp 550, Porto",
-      "price": "€50 (materials, machine, coffee/wine and cake included)",
-      "description": "3-hour evening workshop: design and freehand-embroider a Christmas landscape on cotton with a portable sewing machine; basic stitches taught, beginners welcome, 16+. Booking via Google Form.",
-      "url": "https://www.agenda-porto.pt/en/evento/paisagens-bordadas-edicao-de-natal/",
-      "interest_rate": 74,
-      "interest_rate_reason": "Evening small-group craft, make something with hands, relaxed beginner pace, all included — near-exact positive story 4"
-    },
-    {
-      "id": "evt_2026_1120_drink-and-draw-capela-incomum",
-      "name": "Drink & Draw",
-      "tag": "art",
-      "date": "2026-11-20T19:00:00+00:00",
-      "location": "Capela Incomum (wine bar), Travessa do Carregal 77, 4050-167 Porto",
-      "price": "€20 (materials + 1 glass of wine)",
-      "description": "Relaxed 90-minute drawing session in a wine bar led by facilitator Adalgisa de Castro Lopes — surprise theme revealed at the start, no experience needed, draw without hurry or judgment. Limited spots; registration via form + MB Way. 18+. Language not stated (likely Portuguese).",
-      "url": "https://www.agenda-porto.pt/en/evento/drink-andamp-draw-1794564271900/",
-      "interest_rate": 62,
-      "interest_rate_reason": "Small-group evening hands-on creative session, relaxed, no pressure to perform, fair €20 price — strong match for positive story 4."
-    },
-    {
-      "id": "evt_2026_1120_niklas-paschburg-misty-fest",
-      "name": "Niklas Paschburg (Misty Fest)",
-      "tag": "music",
-      "date": "2026-11-20T21:30:00+00:00",
-      "location": "Casa da Música, Av. da Boavista 604-610, Porto",
-      "price": "€25",
-      "description": "German composer-pianist-producer blending neoclassical piano, synths and ambient electronics (Oceanic, Svalbard, Panta Rhei) in an immersive Misty Fest concert.",
-      "url": "https://casadamusica.com/event/niklas-paschburg/",
-      "interest_rate": 64,
-      "interest_rate_reason": "Immersive live concert, just enjoy the music — positive story 5; concert-hall rather than small venue"
-    },
-    {
-      "id": "evt_2026_1121_iniciacao-ao-tufting",
-      "name": "Iniciação ao Tufting (one-day tufting course)",
-      "tag": "art",
-      "date": "2026-11-21T09:00:00+00:00",
-      "location": "Saber Fazer, R. da Aliança 114, Porto",
-      "price": "€170",
-      "description": "Intensive one-day beginner tufting course with Ana Rita de Arruda (09:00–19:00, lunch break): tufting-gun technique with natural wool; you keep your piece and get a DGERT training certificate.",
-      "url": "https://www.shop.saberfazer.org/en/products/tufting-course",
-      "interest_rate": 52,
-      "interest_rate_reason": "Hands-on new physical craft — positive story 4, but full-day intensive and €170 tempers the \"relaxed evening\" fit and raises negative story 5 price risk"
-    },
-    {
-      "id": "evt_2026_1121_pintura-com-textura",
-      "name": "Iniciação à Pintura com Textura (textured painting workshop)",
-      "tag": "art",
-      "date": "2026-11-21T10:30:00+00:00",
-      "location": "ACASO atelier criativo, R. de Costa Cabral 622, Porto",
-      "price": "€85 (all materials included)",
-      "description": "3-hour beginner workshop with Rita Fernandes covering textured-painting materials and techniques; participants leave with two canvases they painted. No experience needed, 16+. Only ~2 spots left at time of check. Portuguese-language.",
-      "url": "https://www.agenda-porto.pt/en/evento/iniciacao-a-pintura-com-textura/",
-      "interest_rate": 58,
-      "interest_rate_reason": "Hands-on craft, made something to take home, relaxed pace (positive story 4); slightly tempered by €85 for 3h and Portuguese-only (negative story 5 tinge)."
-    },
-    {
-      "id": "evt_2026_1121_desenhar-depois-de-crescer",
-      "name": "Desenhar Depois de Crescer (drawing for adults, in English)",
-      "tag": "art",
-      "date": "2026-11-21T11:00:00+00:00",
-      "location": "doBarro, R. da Alegria 246, Porto",
-      "price": "€25",
-      "description": "Adult drawing workshop 'back to drawing without pressure' for people who drew as kids and stopped — simple exercises to loosen the hand and build confidence, focus on process not result. No experience needed. Listed as English-language.",
-      "url": "https://www.agenda-porto.pt/en/evento/db-desenhar-depois-de-crescer-1791901949609/",
-      "interest_rate": 58,
-      "interest_rate_reason": "Small hands-on creative workshop, explicitly no pressure, English, fair price — matches positive story 4."
-    },
-    {
-      "id": "evt_2026_1121_ai-second-brain-meetup",
-      "name": "AI Second Brain Meetup – Porto",
-      "tag": "tech",
-      "date": "2026-11-21T16:30:00+00:00",
-      "location": "Capela Incomum (upstairs private room), Tv. do Carregal 77-81, 4050-167 Porto",
-      "price": "Free (order a drink at the bar encouraged)",
-      "description": "Forte Labs AI Second Brain meetup series: relaxed in-person conversation on how people use AI and 'Second Brain' note systems for work, organisation and creative projects — introductions, sharing use cases, small-group discussion. No presentations or sales pitches. English. ~7 going at time of check; 18+.",
-      "url": "https://luma.com/c9bzqzy9",
-      "interest_rate": 45,
-      "interest_rate_reason": "AI/productivity topic fits positive story 1 (AI workshops, trending topics), but small, speaker-less bar-room discussion edges toward negative story 3."
-    },
-    {
-      "id": "evt_2026_1121_park-jiha-gnration",
-      "name": "Park Jiha — \"All Living Things\"",
-      "tag": "music",
-      "date": "2026-11-21T18:00:00+00:00",
-      "location": "Blackbox, gnration, Praça Conde de Agrolongo 123, Braga",
-      "price": "€12.00",
-      "description": "South Korean composer Park Jiha presents her fourth album \"All Living Things\" in a seated Blackbox show at gnration, playing ancestral Korean instruments (piri, saenghwang, yanggeum) that blend tradition and improvisation. Recommended age 6+.",
-      "url": "https://www.gnration.pt/event/2026/park-jiha/",
-      "interest_rate": 72,
-      "interest_rate_reason": "Intimate seated small-venue show with distinctive traditional-meets-improvised instrumentation — strong match to positive story 5's small-venue, good-sound live-gig ideal, reinforced by story 4's new-experience appeal."
-    },
-    {
-      "id": "evt_2026_1121_lebanon-hanover",
-      "name": "Lebanon Hanover – Asylum Lullabies Tour",
-      "tag": "music",
-      "date": "2026-11-21T21:00:00+00:00",
-      "location": "Hard Club, Porto",
-      "price": "€27 + €2 fee",
-      "description": "UK minimal-wave/post-punk duo Lebanon Hanover perform material from their album Asylum Lullabies, following sold-out 2023 Lisbon and Porto shows. Doors 20:00.",
-      "url": "https://www.hardclubporto.com/EN/evento/lebanon-hanover-2026/",
-      "interest_rate": 62,
-      "interest_rate_reason": "Standing club concert by a niche touring act — decent live-gig match to positive story 5."
-    },
-    {
-      "id": "evt_2026_1121_porto-comedy-night",
-      "name": "Porto Comedy Night",
-      "tag": "performance",
-      "date": "2026-11-21T21:30:00+00:00",
-      "location": "Teatro Sá da Bandeira, Sala Estúdio Latino, Porto",
-      "price": "€10.74 (€10.00 face value + booking fee)",
-      "description": "An evening of Portuguese stand-up comedy featuring emerging national talent, hosted by Henry Ferreira at Teatro Sá da Bandeira's Sala Estúdio Latino.",
-      "url": "http://www.ticketline.pt/en/evento/porto-comedy-night-89655",
-      "interest_rate": 50,
-      "interest_rate_reason": "Low-cost, structured stand-up show in an intimate theatre space with a passive audience role — matches positive story 5's live small-venue enjoyment."
-    },
-    {
-      "id": "evt_2026_1121_kurt-elling-guimaraes-jazz",
-      "name": "Macedonian National Jazz Orchestra feat. Kurt Elling – Guimarães Jazz 2026 (closing)",
-      "tag": "music",
-      "date": "2026-11-21T21:30:00+00:00",
-      "location": "Grand Auditorium Francisca Abreu, Centro Cultural Vila Flor, Av. D. Afonso Henriques 701, Guimarães (~50km from Porto)",
-      "price": "€20 (€15 discounted)",
-      "description": "Closing concert of the 35th Guimarães Jazz: Chicago vocalist Kurt Elling with the new National Jazz Orchestra of North Macedonia, conducted by Dzijan Emin, performing jazz standards. Primary language: English vocals.",
-      "url": "https://www.ccvf.pt/en/detail-eventos/20261121-guimaraes-jazz-macedonian-national-jazz-orchestra-feat-kurt-elling/",
-      "interest_rate": 62,
-      "interest_rate_reason": "Seated live music with a big-name vocalist at an honest price, zero pressure to perform — matches positive stories 4/5; ~50km distance lowers slightly."
-    },
-    {
-      "id": "evt_2026_1121_lambchop-theatro-circo",
-      "name": "An Evening with Lambchop – Punching the Clown (Braga)",
-      "tag": "music",
-      "date": "2026-11-21T21:30:00+00:00",
-      "location": "Theatro Circo, Av. da Liberdade 697, Braga",
-      "price": "€20 (€10 with Pentágono Card)",
-      "description": "Nashville band Lambchop, led by Kurt Wagner, presents their 17th album Punching the Clown in the Main Room of Theatro Circo. Soul, jazz and country-tinged songs in a seated historic theatre; ages 6+.",
-      "url": "https://theatrocirco.com/?p=37283",
-      "interest_rate": 66,
-      "interest_rate_reason": "Seated gig in a small historic theatre, good sound, no need to talk to anyone, modest price — matches positive story 5."
-    },
-    {
-      "id": "evt_2026_1121_skinshape-mouco",
-      "name": "Skinshape – Jam Porto",
-      "tag": "music",
-      "date": "2026-11-21T21:30:00+00:00",
-      "location": "M.Ou.Co. – JAM Porto (Mouco), R. de Frei Heitor Pinto 65, Porto",
-      "price": "€25 (+ fees, €26.84 on Ticketline)",
-      "description": "Skinshape (Will Dorey's funk/folk/soul/reggae/psychedelia project) live at the intimate M.Ou.Co. room; ~80 min show, M/06. Promoted by Cloud Man Tree.",
-      "url": "https://www.ticketline.pt/evento/SKINSHAPE-105875",
-      "interest_rate": 70,
-      "interest_rate_reason": "Live gig at a small venue with good sound, just enjoy the music — direct match for positive story 5."
-    },
-    {
       "id": "evt_2026_1123_rodrigo-leao-alma-mater",
       "name": "Rodrigo Leão – Alma Mater (Misty Fest)",
       "tag": "music",
@@ -280,6 +76,18 @@
       "interest_rate_reason": "English-language stand-up in a small auditorium — a relaxed low-pressure evening out, only a mild echo of positive story 4's small-group, no-pressure appeal."
     },
     {
+      "id": "evt_2026_1126_maria-bc-rca",
+      "name": "Maria BC – RCA / Espaço Agra",
+      "tag": "music",
+      "date": "2026-11-26T22:00:00+00:00",
+      "location": "RCA – Radioclube Agramonte / Espaço Agra, R. João Martins Branco 180, Porto",
+      "price": "€10",
+      "description": "Concert by US ambient/slowcore singer-songwriter Maria BC in the small RCA club room at Espaço Agra. Intimate venue, low-key listening gig.",
+      "url": "https://www.espacoagra.pt/pt/events/1a0ee425-b439-4930-a065-4288144a610e/",
+      "interest_rate": 64,
+      "interest_rate_reason": "Small-venue live gig at a cheap price, no social pressure — strong match for positive story 5; low price avoids negative story 5."
+    },
+    {
       "id": "evt_2026_1127_ganso-hard-club",
       "name": "Ganso – Hard Club",
       "tag": "music",
@@ -290,6 +98,18 @@
       "url": "https://www.songkick.com/concerts/43396904-ganso-at-hard-club",
       "interest_rate": 52,
       "interest_rate_reason": "Mid-size club gig with room energy — positive story 5; Portuguese-language lyrics lower appeal somewhat"
+    },
+    {
+      "id": "evt_2026_1127_post-punk-strikes-back-again",
+      "name": "Post Punk Strikes Back Again – 7th edition",
+      "tag": "music",
+      "date": "2026-11-27T20:00:00+00:00",
+      "location": "Auditório CCOP, R. do Duque de Loulé 202, Porto",
+      "price": "€63 (3-day general pass)",
+      "description": "Three-night post-punk/coldwave festival (27–29 Nov), moved from Hard Club to the more intimate CCOP Auditorium. Lineup: 27 Nov David J, Die Selektion, Desinteresse, Kosmetika; 28 Nov Test Dept., Bloody/Bath, Test Plan, Mouth Ulcers, Ecos Tardios; 29 Nov The Wolfgang Press, Ductape, Yard, Egyptian Blue, Slyrydes.",
+      "url": "https://www.agenda-porto.pt/en/evento/post-punk-strikes-back-again/",
+      "interest_rate": 66,
+      "interest_rate_reason": "Intimate-venue live gigs with a strong curated lineup — matches positive story 5; pass price is fair for 3 nights (no negative story 5)."
     },
     {
       "id": "evt_2026_1128_braga-games-crossfit",
@@ -304,6 +124,18 @@
       "interest_rate_reason": "Spectator fitness/CrossFit competition — passive-watching format loosely echoes positive story 2's no-decisions resting, but lacks the direct-participation adrenaline of positive story 3; unpublished price is a mild negative-story-5 risk."
     },
     {
+      "id": "evt_2026_1128_tecelagem-saber-fazer",
+      "name": "Tecelagem – intensive weaving course (Guida Fonseca)",
+      "tag": "art",
+      "date": "2026-11-28T09:00:00+00:00",
+      "location": "Saber Fazer, R. da Aliança 114, Porto",
+      "price": "€190 (materials, loom use and handbook included)",
+      "description": "16-hour shaft-loom weaving course over two days (28–29 Nov, 09:00–13:00 and 15:00–19:00), covering weaving principles and cloth construction on several looms. DGERT-certified training with certificate; listing in English, teaching language not stated.",
+      "url": "https://www.shop.saberfazer.org/products/curso-tecelagem/",
+      "interest_rate": 42,
+      "interest_rate_reason": "Hands-on craft fits positive story 4, but two full 8-hour days at €190 is a professional-training commitment rather than a relaxed evening, edging toward negative story 5."
+    },
+    {
       "id": "evt_2026_1128_wise-pirates-karting-prova9",
       "name": "Wise Pirates Karting Series 2025/26 – Prova 9",
       "tag": "sports",
@@ -314,6 +146,30 @@
       "url": "https://calendariokarting.pt/events/wise-pirates-karting-series-2025-26-event-9",
       "interest_rate": 82,
       "interest_rate_reason": "Amateur rental-kart sprint round — direct match to positive story 3's proactive-adrenaline karting activity."
+    },
+    {
+      "id": "evt_2026_1128_postais-em-linogravura-natal",
+      "name": "Postais em Linogravura – Especial Natal (linocut Christmas cards workshop)",
+      "tag": "art",
+      "date": "2026-11-28T10:00:00+00:00",
+      "location": "BASE atelier Cowork, Rua de Anselmo Braamcamp 550, Porto",
+      "price": "€45 (materials, coffee/tea, wine and snacks included)",
+      "description": "Beginner-friendly 3-hour linocut printmaking workshop (10:00–13:00), taught in English: carve a design into linoleum and print your own Christmas cards with water-based inks. Patterns provided or bring your own image. Ages 16+.",
+      "url": "https://www.agenda-porto.pt/en/evento/postais-em-linogravura-especial-natal/",
+      "interest_rate": 74,
+      "interest_rate_reason": "Small, relaxed hands-on craft session in English where you leave with something you made — strong match for positive story 4; all-inclusive price avoids negative story 5."
+    },
+    {
+      "id": "evt_2026_1128_monotipia-em-serigrafia",
+      "name": "Monotipia em Serigrafia (screen-printing monotype workshop)",
+      "tag": "art",
+      "date": "2026-11-28T10:00:00+00:00",
+      "location": "Oficina Mescla, Pátio do Bolhão 90, Porto",
+      "price": "€45",
+      "description": "3-hour experimental screen-printing workshop (10:00–13:00): draw directly on the screen, layer colours and try different ink techniques so every pull is a unique print. Booking by email (oficinamescla@gmail.com); teaching language not stated.",
+      "url": "https://oficinamescla.com/pt/monotipia-em-serigrafia-nov-2026/",
+      "interest_rate": 62,
+      "interest_rate_reason": "Hands-on small-group print workshop, new physical experience — matches positive story 4; slightly lower as language is unconfirmed and booking is email-only."
     },
     {
       "id": "evt_2026_1128_felicia-atkinson-gnration",
@@ -808,6 +664,18 @@
       "interest_rate_reason": "Large-scale wine-tasting fair with masterclasses — strong resonance with the tastings dimension and positive story 2's wine appeal, tempered by crowded commercial-fair scale compared to an intimate guided regional tour."
     },
     {
+      "id": "evt_2027_0315_leo-middea-hard-club",
+      "name": "Leo Middea – Hard Club",
+      "tag": "music",
+      "date": "2027-03-15T19:30:00+00:00",
+      "location": "Hard Club, Praça do Infante 95, Porto",
+      "price": "Price not published (tickets on Shotgun)",
+      "description": "Concert by Brazilian singer-songwriter Leo Middea (MPB/indie, Portuguese-language). Time shown is doors opening; show start time not yet published.",
+      "url": "https://www.songkick.com/concerts/43422094-leo-middea-at-hard-club",
+      "interest_rate": 52,
+      "interest_rate_reason": "Mid-size club gig, low-pressure listening — partial match for positive story 5; Portuguese-language singer-songwriter is a less certain draw."
+    },
+    {
       "id": "evt_2027_0325_jimmy-carr-coliseu-porto",
       "name": "Jimmy Carr – New Tour (Porto)",
       "tag": "performance",
@@ -841,6 +709,18 @@
       "description": "Brazilian pop star Luísa Sonza plays Porto's Super Bock Arena (Lisbon follows on 17 April at MEO Arena). Tickets release in phases; start time not confirmed by the sources found (21:00 is a placeholder estimate), so check before planning.",
       "interest_rate": 40,
       "interest_rate_reason": "Seated big-arena pop show, no decisions needed (story 5 energy) but not a small venue with good sound, and arena pricing risks negative story 5 'generic premium'."
+    },
+    {
+      "id": "evt_2027_0423_warhaus-hard-club",
+      "name": "Warhaus – The Donkey Tour",
+      "tag": "music",
+      "date": "2027-04-23T21:00:00+01:00",
+      "location": "Hard Club, Praça do Infante 95, Porto",
+      "price": "Price not published",
+      "description": "Warhaus, the solo project of Balthazar's Maarten Devoldere, presents fifth studio album 'The Donkey'. Day confirmed; 21:00 is a placeholder as door/start time is not yet published. Tickets announced via SeeTickets.",
+      "url": "https://www.songkick.com/concerts/43408602-warhaus-at-hard-club",
+      "interest_rate": 66,
+      "interest_rate_reason": "Atmospheric indie live gig at a club venue — strong match for positive story 5."
     },
     {
       "id": "evt_2027_0506_bsides-porto-2027",
