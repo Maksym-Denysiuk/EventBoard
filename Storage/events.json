@@ -16,54 +16,6 @@
   },
   "events": [
     {
-      "id": "evt_2026_1123_rodrigo-leao-alma-mater",
-      "name": "Rodrigo Leão – Alma Mater (Misty Fest)",
-      "tag": "music",
-      "date": "2026-11-23T21:00:00+00:00",
-      "location": "Casa da Música (Sala Suggia), Av. da Boavista 604-610, Porto",
-      "price": "€25–€40",
-      "description": "Rodrigo Leão revisits his 2000 album Alma Mater for its 26th anniversary, with an ensemble, choir and special guests, in Casa da Música's seated main hall.",
-      "url": "https://www.rodrigoleao.pt/en/rodrigo-leao-revisita-alma-mater-no-misty-fest-2026/",
-      "interest_rate": 58,
-      "interest_rate_reason": "Seated concert, good sound, no social pressure — matches positive story 5, though a large hall rather than small venue."
-    },
-    {
-      "id": "evt_2026_1124_batalha-quiz-nov",
-      "name": "Batalha Quiz",
-      "tag": "tournament",
-      "date": "2026-11-24T21:00:00+00:00",
-      "location": "Batalha Centro de Cinema, Praça da Batalha 47, Porto",
-      "price": "Free entry, no registration required",
-      "description": "Free monthly cinema-themed pub quiz held on the last Tuesday of the month at Batalha Centro de Cinema's café-bar, split into two 25-question rounds; open to anyone, just show up.",
-      "url": "https://www.batalhacentrodecinema.pt/en/programmes/cinema-ao-redor-batalha-quiz/",
-      "interest_rate": 60,
-      "interest_rate_reason": "Free, well-structured recurring pub quiz — organized low-key social/competitive format, low-risk and welcoming to newcomers."
-    },
-    {
-      "id": "evt_2026_1124_rodrigo-leao-alma-mater",
-      "name": "Rodrigo Leão – Alma Mater (Misty Fest)",
-      "tag": "music",
-      "date": "2026-11-24T21:00:00+00:00",
-      "location": "Casa da Música (Sala Suggia), Av. da Boavista 604-610, Porto",
-      "price": "€25–€40",
-      "description": "Rodrigo Leão revisits his 2000 album Alma Mater for its 26th anniversary, with an ensemble, choir and special guests, in Casa da Música's seated main hall.",
-      "url": "https://www.rodrigoleao.pt/en/rodrigo-leao-revisita-alma-mater-no-misty-fest-2026/",
-      "interest_rate": 58,
-      "interest_rate_reason": "Seated concert, good sound, no social pressure — matches positive story 5, though a large hall rather than small venue."
-    },
-    {
-      "id": "evt_2026_1125_christian-loffler-until-we-meet-again",
-      "name": "Christian Löffler – Until We Meet Again (Misty Fest)",
-      "tag": "music",
-      "date": "2026-11-25T21:00:00+00:00",
-      "location": "Casa da Música (Sala Suggia), Av. da Boavista 604-610, Porto",
-      "price": "€30–€50 (25% Amigo discount)",
-      "description": "German ambient/electronic artist Christian Löffler performs his ensemble show with piano and strings, a minimalist and intimate set presented as part of Misty Fest.",
-      "url": "https://casadamusica.com/event/christian-loffler-until-we-meet-again-tour/",
-      "interest_rate": 66,
-      "interest_rate_reason": "Seated, atmospheric concert in a good-sound hall, no need to talk to anyone, fair price — matches positive story 5."
-    },
-    {
       "id": "evt_2026_1126_victor-patrascan-comedy",
       "name": "Stand up Comedy in Broken English — Victor Pătrăşcan",
       "tag": "performance",
